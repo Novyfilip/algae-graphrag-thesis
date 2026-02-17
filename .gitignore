@@ -1,0 +1,6 @@
+thesis_env/
+.env
+data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

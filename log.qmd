@@ -1,0 +1,15 @@
+# 4. 2. 2026 - started working on a simple pipeline
+
+from langchain documentation:
+
+| **Architecture** | **Description** | **Control** | **Flexibility** | **Latency** | **Example Use Case** |
+|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------|
+| **2-Step RAG** | Retrieval always happens before generation. Simple and predictable | ✅ High | ❌ Low | ⚡ Fast | FAQs, documentation bots |
+| **Agentic RAG** | An LLM-powered agent decides *when* and *how* to retrieve during reasoning | ❌ Low | ✅ High | ⏳ Variable | Research assistants with access to multiple tools |
+| **Hybrid** | Combines characteristics of both approaches with validation steps | ⚖️ Medium | ⚖️ Medium | ⏳ Variable | Domain-specific Q&A with quality validation |
+
+# 16. 2. - trying to get OCR to work
+
+downloaded popper and tesseract in order to be able to read unorganized pdf. I was succesful. Now I have a simple pipeline for reading a pdf, chunking and a I tried my first query: ; ´´ What is Zostera marina? ´´ and the answer was ´Retrieved Context: Zostera marina Linnaeus, Figs 53-59 Figs 53-59. Zostera marina. 53. Apex with seven veins (Ve). 54. Surface of leaf. 55. Surface of seed coat. 56. Longitudinal section of seed coat. 57. Transverse sec ...´. This is a bit disappointing because it is the description of a picture. So I tried to adjust the chunking strategy from elements to single but it changed nothing.
+
+next steps: **Retrieval Augmentation by Re-ranking**. Instead of just looking at the top result, inspect the inferior matches

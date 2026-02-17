@@ -1,0 +1,15 @@
+# Orchestration
+langchain==0.1.0
+langchain-openai==0.0.2
+langchain-community==0.0.10
+
+# Vector Database (Local & Lightweight)
+chromadb==0.4.22
+
+# Document Processing
+pypdf==4.0.1
+tiktoken==0.5.2
+
+# Environment & Utilities
+python-dotenv==1.0.0
+openai==1.10.0
