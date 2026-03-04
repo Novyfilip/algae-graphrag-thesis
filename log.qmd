@@ -10,6 +10,26 @@ from langchain documentation:
 
 # 16. 2. - trying to get OCR to work
 
-downloaded popper and tesseract in order to be able to read unorganized pdf. I was succesful. Now I have a simple pipeline for reading a pdf, chunking and a I tried my first query: ; ´´ What is Zostera marina? ´´ and the answer was ´Retrieved Context: Zostera marina Linnaeus, Figs 53-59 Figs 53-59. Zostera marina. 53. Apex with seven veins (Ve). 54. Surface of leaf. 55. Surface of seed coat. 56. Longitudinal section of seed coat. 57. Transverse sec ...´. This is a bit disappointing because it is the description of a picture. So I tried to adjust the chunking strategy from elements to single but it changed nothing.
+downloaded popper and tesseract in order to be able to read unorganized pdf. I was succesful. Now I have a simple pipeline for reading a pdf, chunking and a I tried my first query: ; ´´ *What is Zostera marina?* ´´ and the answer was ´*Retrieved Context: Zostera marina Linnaeus, Figs 53-59 Figs 53-59. Zostera marina. 53. Apex with seven veins (Ve). 54. Surface of leaf. 55. Surface of seed coat. 56. Longitudinal section of seed coat. 57. Transverse sec ...*´. This is a bit disappointing because it is the description of a picture. So I tried to adjust the chunking strategy from elements to single but it changed nothing.
 
 next steps: **Retrieval Augmentation by Re-ranking**. Instead of just looking at the top result, inspect the inferior matches
+
+# 17. 2. - Integrating OpenAI api
+
+I signed up for the OpenAI platform and through that, I called gpt5-nano.
+
+I got: Zostera marina is a seagrass species (marine eelgrass) and is the type species of the genus Zostera. as the output for above context and the prompt *Answer the question based on the context below*.
+
+# 19. 2. Meeting
+
+main aim - working pipeline from import to generating answer
+
+we want to optimize different components - chunking, reranking
+
+implement: you are a marine scientist, practitioner in this field, what would aoyu answer given this context…
+
+lets spend this week on optimizing the prompt before moving onto the next stage (adding knowledge graph). Optimize prompt -\> record results. It should be done in a systematic, scientific way. 
+
+prompt -\> reranker -\> knowledge graph. Keep chunking, add multiquery -\> optimize prompt
+
+1 question -\> top 3 retriever -\> smart retriever -\> enhancing with multiQuery
