@@ -32,4 +32,71 @@ lets spend this week on optimizing the prompt before moving onto the next stage 
 
 prompt -\> reranker -\> knowledge graph. Keep chunking, add multiquery -\> optimize prompt
 
-1 question -\> top 3 retriever -\> smart retriever -\> enhancing with multiQuery
+1 question -\> top 3 retriever -\> smart retriever -\> enhancing with multiQuery 
+
+# 24. 2. News
+
+chunking changes retrieved different & better context:
+
+"Retrieved Context: Note: This species often occurs in exposed area. Phyllospadix japonica Makino
+
+Plants 40 cm high. Leaves obtuse in tip, three in vein, 0.15 cm broad, di- and tridentate with spine cells in mar- gin, w ..."
+
+-   did literature review of a lot of papers. I read ***A comprehensive taxonomy of prompt engineering techniques forlarge language models*** in detail and implemented its insights for a better prompt:
+
+-   [**First attempt**]{.underline}
+
+    *Role: You are an experienced marine biologist and algae cultivation specialist. Task: Given the following retrieved context from scientific literature, answer the user's question. Base your answer strictly on the provided context. If the context is insufficient, say so. Domain constraint: Focus on the user's specific industry context. Output format: Brief paragraph with a traceable callback to the used chunk.*
+
+    *Answer the question based on the context below.*
+
+-   [**Output:**]{.underline} *Zostera marina Linnaeus is the type species of the genus Zostera, a submerged seagrass (marine angiosperm) commonly found on muddy substrates in the sublittoral zone, with reproduction concentrated in summer. In the provided material, Z. marina is described as plants about 34 cm tall, submerged, with leaves obtuse and three veins, around 0.2 cm broad; seeds are about 2.5–0.7 cm long and 0.2 cm broad, with a rough seed testa. (Zostera marina section in the Cho & Boo marine flora text)*
+
+-   [**Refined Prompt:**]{.underline}
+
+    """
+
+    Role: You are an experienced marine biologist and algae cultivation specialist with deep expertise in seagrass ecology, microalgae biotechnology, and industrial algae applications. You prioritize scientific precision, cite specific data when available, and clearly distinguish between established findings and uncertainties. Task: Given retrieved passages from scientific literature on algae and marine biology, answer the user's question following these steps:
+
+    1.  First, assess which of the provided passages are relevant to the question and briefly note why.
+    2.  Synthesize information from the relevant passages into a coherent answer.
+    3.  If passages contain conflicting information, acknowledge the conflict and explain both positions.
+    4.  If the provided context is insufficient to fully answer the question, state what is missing. Domain constraint: Focus on the user's specific industry context. Output format: Brief paragraph with a traceable callback to the used chunk.
+
+    Keep your answer grounded strictly in the provided context. Do not introduce external knowledge beyond what is given. Match your answer's depth to the question's complexity: give concise answers to simple questions, detailed analysis to complex ones.
+
+    Context: {retrieved_context}
+
+    Question: {query} Answer:
+
+-   """
+
+-   [**Refined Output:**]{.underline} Relevant passages identify Zostera marina as the type species of the genus Zostera and provide a detailed species description. Zostera marina is described as a submerged, coastal seagrass and the genus type (Zostera marina Linnaeus). In the source, Z. marina is a plant about 34 cm tall, submerged, with leaves obtuse at the tip, three veins per leaf, and about 0.2 cm wide; seeds are described as 2.5–0.7 cm long and 0.2 cm broad, with a rough seed testa. It grows on muddy substrates in the sublittoral zone and reproduces in summer. (Traceable to: Cho & Boo, Marine Green Flora of Oeyondo Islands, Zostera marina entry).
+
+-   Comments: Now the prompt cites the concrete name of the paper, so it has better source attribution. the factual correctness is good in both. I could also check for hallucinations and completeness, but right now I am not sure how I am going to evaluate it in detail.
+
+    # 4. 3. Progress
+
+    **extraction.ipynb** - handles converting the whole corpus of documents to json with either regular loader or OCR for scans.
+
+-   The process of converting PDFs is taking a long time, over 2 hours now. I discovered that by reversing the order of processed documents from newest to oldest, I can extract the vast majority in a fraction of the time, since pre 2007 documents are usually scanned. They take long to process, especially if they are in Korean.
+
+    **Chunking.ipynb** - This notebook is dedicated to testing one of chunking strategies - text splitting and semantic chunking. Based on my literature review ad consultations with my supervisor, I believe semantic to be the best. I also read that overlap in text splitting is redundant and costs performance. I am also considering using recursive semantic and agentic chunking, inspired by a paper i read.
+
+    ## Notes for RS Chunking
+
+    *Segmentation of Textual Data from Files: The data store consists of files fi containing textual data stored as strings Ti. Since LLMs have token limits, eachTiundergoes a length check.If it exceeds the threshold T_max, the file is split into smaller segments{t1,t2,...,tn}, ensuring that \|tj\| ≤ T_max. The splitting occurs at the nearest sentence boundary (e.g., full stop, question mark) to preserve linguistic coherence.*
+
+    *Excessive chunking can inflate the re-trieval space, leading to fragmented context*
+
+-    *\>\>Direct quotes from The Chunking Paradigm: Recursive Semantic for RAG Optimization*
+
+-   apaprently computationally expensive so the authors dont even recommend it
+
+##  Agentic chunking
+
+Too expensive apparently, might try later
+
+# 5. 3. Progress
+
+All PDF parsing finished. Today I am trying 3 types of chunking on one test document to familiarize myself with different approaches, then I plan to apply it to the whole corpus
