@@ -64,7 +64,7 @@ project/
 - **User interface:** Streamlit / Flask
 
 ## Evaluation Metrics
-
+- HOPE
 - **Retrieval quality:** Precision@K, Recall@K, MRR
 - **Answer quality:** Faithfulness, relevance, groundedness
 - **Response latency**
@@ -81,7 +81,7 @@ project/
 
 ## Status
 
-🚧 **Early development** - Setting up basic RAG pipeline
+Currently evaluating the best chunking strategy and gauging pdf summary and information retrieval quality. 
 
 ## Author
 
