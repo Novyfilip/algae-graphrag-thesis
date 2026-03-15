@@ -13,5 +13,420 @@
       }
     ],
     "elapsed_s": 513.9
+  },
+  "semantic_p95/algae-1986-1-1-241.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 1340.2
+  },
+  "rsc/algae-1986-1-1-241.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 650.2
+  },
+  "recursive_1000/algae-1992-7-1-147.json": {
+    "score": 1.0,
+    "n_segments": 1,
+    "elapsed_s": 225.6
+  },
+  "semantic_p95/algae-1992-7-1-147.json": {
+    "score": 1.0,
+    "n_segments": 1,
+    "elapsed_s": 979.8
+  },
+  "rsc/algae-1992-7-1-147.json": {
+    "score": 1.0,
+    "n_segments": 1,
+    "elapsed_s": 195.9
+  },
+  "recursive_1000/algae-1997-12-4-269.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 647.1
+  },
+  "semantic_p95/algae-1997-12-4-269.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 1794.9
+  },
+  "rsc/algae-1997-12-4-269.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 611.5
+  },
+  "recursive_1000/algae-1998-13-1-157.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 414.1
+  },
+  "semantic_p95/algae-1998-13-1-157.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 1339.4
+  },
+  "rsc/algae-1998-13-1-157.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 504.9
+  },
+  "recursive_1000/algae-1998-13-2-213.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 589.1
+  },
+  "semantic_p95/algae-1998-13-2-213.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 1327.6
+  },
+  "rsc/algae-1998-13-2-213.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 761.3
+  },
+  "recursive_1000/algae-2002-17-2-075.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 408.5
+  },
+  "semantic_p95/algae-2002-17-2-075.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 596.1
+  },
+  "rsc/algae-2002-17-2-075.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 234.9
+  },
+  "recursive_1000/algae-2002-17-2-105.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 696.8
+  },
+  "semantic_p95/algae-2002-17-2-105.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 2448.5
+  },
+  "rsc/algae-2002-17-2-105.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 1718.9
+  },
+  "recursive_1000/algae-2003-18-4-349.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 445.6
+  },
+  "semantic_p95/algae-2003-18-4-349.json": {
+    "score": 0.0,
+    "n_segments": 2,
+    "elapsed_s": 3189.1
+  },
+  "rsc/algae-2003-18-4-349.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 1121.2
+  },
+  "recursive_1000/algae-2004-19-1-015.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 283.1
+  },
+  "semantic_p95/algae-2004-19-1-015.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 1100.8
+  },
+  "rsc/algae-2004-19-1-015.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 336.4
+  },
+  "recursive_1000/algae-2005-20-1-069.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 470.0
+  },
+  "semantic_p95/algae-2005-20-1-069.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 1935.0
+  },
+  "rsc/algae-2005-20-1-069.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 502.6
+  },
+  "recursive_1000/algae-2005-20-3-197.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 923.1
+  },
+  "semantic_p95/algae-2005-20-3-197.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 3080.1
+  },
+  "rsc/algae-2005-20-3-197.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 1119.1
+  },
+  "recursive_1000/algae-2006-21-4-393.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 1296.0
+  },
+  "semantic_p95/algae-2006-21-4-393.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 759.4
+  },
+  "rsc/algae-2006-21-4-393.json": {
+    "score": 0.0,
+    "n_segments": 2,
+    "elapsed_s": 884.8
+  },
+  "recursive_1000/algae-2006-21-4-433.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 621.5
+  },
+  "semantic_p95/algae-2006-21-4-433.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 2722.9
+  },
+  "rsc/algae-2006-21-4-433.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 704.4
+  },
+  "recursive_1000/algae-2006-21-4-471.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 387.6
+  },
+  "semantic_p95/algae-2006-21-4-471.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 1519.0
+  },
+  "rsc/algae-2006-21-4-471.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 580.3
+  },
+  "recursive_1000/algae-2007-22-2-117.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 726.0
+  },
+  "semantic_p95/algae-2007-22-2-117.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 2722.2
+  },
+  "rsc/algae-2007-22-2-117.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 1039.8
+  },
+  "recursive_1000/algae-2007-22-4-305.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 394.5
+  },
+  "semantic_p95/algae-2007-22-4-305.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 2850.2
+  },
+  "rsc/algae-2007-22-4-305.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 537.1
+  },
+  "recursive_1000/algae-2009-24-2-057.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 476.7
+  },
+  "semantic_p95/algae-2009-24-2-057.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 1907.4
+  },
+  "rsc/algae-2009-24-2-057.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 882.0
+  },
+  "recursive_1000/algae-2010-25-1-037.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 496.9
+  },
+  "semantic_p95/algae-2010-25-1-037.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 1433.8
+  },
+  "rsc/algae-2010-25-1-037.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 249.2
+  },
+  "recursive_1000/algae-2010-25-3-133.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 188.5
+  },
+  "semantic_p95/algae-2010-25-3-133.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 1474.9
+  },
+  "rsc/algae-2010-25-3-133.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 222.5
+  },
+  "recursive_1000/algae-2013-28-1-093.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 329.0
+  },
+  "semantic_p95/algae-2013-28-1-093.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 580.5
+  },
+  "rsc/algae-2013-28-1-093.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 415.6
+  },
+  "recursive_1000/algae-2014-29-4-333.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 234.9
+  },
+  "semantic_p95/algae-2014-29-4-333.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 1171.6
+  },
+  "rsc/algae-2014-29-4-333.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 370.0
+  },
+  "recursive_1000/algae-2018-33-5-8.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 203.2
+  },
+  "semantic_p95/algae-2018-33-5-8.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 802.7
+  },
+  "rsc/algae-2018-33-5-8.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 285.7
+  },
+  "recursive_1000/algae-2020-35-11-23.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 191.8
+  },
+  "semantic_p95/algae-2020-35-11-23.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 621.9
+  },
+  "rsc/algae-2020-35-11-23.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 240.4
+  },
+  "recursive_1000/algae-2021-36-11-20.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 267.6
+  },
+  "semantic_p95/algae-2021-36-11-20.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 636.3
+  },
+  "rsc/algae-2021-36-11-20.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 227.5
+  },
+  "recursive_1000/algae-2021-36-12-2.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 234.2
+  },
+  "semantic_p95/algae-2021-36-12-2.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 1021.9
+  },
+  "rsc/algae-2021-36-12-2.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 262.8
+  },
+  "recursive_1000/algae-2022-37-9-12.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 193.3
+  },
+  "semantic_p95/algae-2022-37-9-12.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 690.5
+  },
+  "rsc/algae-2022-37-9-12.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 323.5
+  },
+  "recursive_1000/algae-2022-37-9-2.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 288.2
+  },
+  "semantic_p95/algae-2022-37-9-2.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 514.7
+  },
+  "rsc/algae-2022-37-9-2.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 401.4
+  },
+  "recursive_1000/algae-31-1-73.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 191.4
+  },
+  "semantic_p95/algae-31-1-73.json": {
+    "score": 0.5,
+    "n_segments": 2,
+    "elapsed_s": 1027.4
+  },
+  "rsc/algae-31-1-73.json": {
+    "score": 1.0,
+    "n_segments": 2,
+    "elapsed_s": 307.0
   }
 }

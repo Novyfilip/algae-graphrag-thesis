@@ -1,0 +1,1210 @@
+{
+  "recursive_1000/algae-1986-1-1-241.json": {
+    "avg": 0.7943171395817392,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "score": 0.8985467594033941
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.7022206162557937
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.7598771802847263
+      },
+      {
+        "chunk_id": 12,
+        "score": 0.8687258595634667
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.7422152824013154
+      }
+    ],
+    "elapsed_s": 791.9
+  },
+  "semantic_p95/algae-1986-1-1-241.json": {
+    "avg": 0.6838164296608754,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 1,
+        "score": 0.6576133142007813
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.6000719559330953
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.6856724696523068
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.7919079788573185
+      }
+    ],
+    "elapsed_s": 1057.6
+  },
+  "rsc/algae-1986-1-1-241.json": {
+    "avg": 0.8099543510911916,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "score": 0.799485130832663
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.9101169116958888
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.8256251076852213
+      },
+      {
+        "chunk_id": 6,
+        "score": 0.6258183571678855
+      },
+      {
+        "chunk_id": 16,
+        "score": 0.888726248074299
+      }
+    ],
+    "elapsed_s": 875.9
+  },
+  "recursive_1000/algae-1992-7-1-147.json": {
+    "avg": 0.8502206532053798,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 3,
+        "score": 0.6485004842994174
+      },
+      {
+        "chunk_id": 28,
+        "score": 0.9148846903525022
+      },
+      {
+        "chunk_id": 29,
+        "score": 0.948500024539812
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.8719705465916308
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.8672475202435361
+      }
+    ],
+    "elapsed_s": 459.7
+  },
+  "semantic_p95/algae-1992-7-1-147.json": {
+    "avg": 0.7986078892314156,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 2,
+        "score": 0.9477248273184941
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.44011005726055424
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.820909286068658
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.9674586461765826
+      },
+      {
+        "chunk_id": 7,
+        "score": 0.8168366293327892
+      }
+    ],
+    "elapsed_s": 1289.0
+  },
+  "rsc/algae-1992-7-1-147.json": {
+    "avg": 0.8734348355746692,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 15,
+        "score": 0.8339653715237296
+      },
+      {
+        "chunk_id": 21,
+        "score": 0.8723098714969414
+      },
+      {
+        "chunk_id": 7,
+        "score": 0.8721131979878889
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.915350901290117
+      }
+    ],
+    "elapsed_s": 468.2
+  },
+  "recursive_1000/algae-1997-12-4-269.json": {
+    "avg": 0.8414605479105148,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 12,
+        "score": 0.6919972130132775
+      },
+      {
+        "chunk_id": 19,
+        "score": 0.913939463487306
+      },
+      {
+        "chunk_id": 25,
+        "score": 0.821001529728305
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.9268900706218979
+      },
+      {
+        "chunk_id": 16,
+        "score": 0.8534744627017877
+      }
+    ],
+    "elapsed_s": 642.3
+  },
+  "semantic_p95/algae-1997-12-4-269.json": {
+    "avg": 0.7627509749589803,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 1,
+        "score": 0.851276388988242
+      },
+      {
+        "chunk_id": 21,
+        "score": 0.7195653932092473
+      },
+      {
+        "chunk_id": 17,
+        "score": 0.6859976357352552
+      },
+      {
+        "chunk_id": 16,
+        "score": 0.7941644819031767
+      }
+    ],
+    "elapsed_s": 1187.0
+  },
+  "rsc/algae-1997-12-4-269.json": {
+    "avg": 0.7605152155520699,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 6,
+        "score": 0.7218138494796806
+      },
+      {
+        "chunk_id": 18,
+        "score": 0.8201828770023182
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.708717446483277
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.6650980183112453
+      },
+      {
+        "chunk_id": 16,
+        "score": 0.8867638864838282
+      }
+    ],
+    "elapsed_s": 1574.7
+  },
+  "recursive_1000/algae-1998-13-1-157.json": {
+    "avg": 0.8694367311503773,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "score": 0.8981967673071076
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.8186931672973565
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.8285139478570072
+      },
+      {
+        "chunk_id": 13,
+        "score": 0.921093581259317
+      },
+      {
+        "chunk_id": 19,
+        "score": 0.8806861920310985
+      }
+    ],
+    "elapsed_s": 421.6
+  },
+  "semantic_p95/algae-1998-13-1-157.json": {
+    "avg": 0.8165507092399428,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "score": 0.9462730907765197
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.7140168361550261
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.8137514489882681
+      },
+      {
+        "chunk_id": 6,
+        "score": 0.792161461039957
+      }
+    ],
+    "elapsed_s": 920.5
+  },
+  "rsc/algae-1998-13-1-157.json": {
+    "avg": 0.8118072221165733,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 10,
+        "score": 0.5813630388639252
+      },
+      {
+        "chunk_id": 7,
+        "score": 0.9451160284403084
+      },
+      {
+        "chunk_id": 12,
+        "score": 0.8075611002011428
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.9131887209609172
+      }
+    ],
+    "elapsed_s": 575.5
+  },
+  "recursive_1000/algae-1998-13-2-213.json": {
+    "avg": 0.8555235071857513,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 35,
+        "score": 0.880172729299637
+      },
+      {
+        "chunk_id": 27,
+        "score": 0.8247784843069629
+      },
+      {
+        "chunk_id": 30,
+        "score": 0.8167371057152254
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.8696979772756135
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.8862312393313175
+      }
+    ],
+    "elapsed_s": 804.1
+  },
+  "semantic_p95/algae-1998-13-2-213.json": {
+    "avg": 0.828031819527089,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 20,
+        "score": 0.8933736608174162
+      },
+      {
+        "chunk_id": 17,
+        "score": 0.697162598804605
+      },
+      {
+        "chunk_id": 14,
+        "score": 0.8928710195547686
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.8341351858944065
+      },
+      {
+        "chunk_id": 22,
+        "score": 0.822616632564249
+      }
+    ],
+    "elapsed_s": 577.1
+  },
+  "rsc/algae-1998-13-2-213.json": {
+    "avg": 0.8417560081460147,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 29,
+        "score": 0.7443622174580691
+      },
+      {
+        "chunk_id": 13,
+        "score": 0.7224474440888868
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.8968015914378348
+      },
+      {
+        "chunk_id": 31,
+        "score": 0.9251337769472778
+      },
+      {
+        "chunk_id": 23,
+        "score": 0.9200350107980054
+      }
+    ],
+    "elapsed_s": 998.8
+  },
+  "recursive_1000/algae-2002-17-2-075.json": {
+    "avg": 0.8567622479090409,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 16,
+        "score": 0.8780528378014232
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.8609299971684424
+      },
+      {
+        "chunk_id": 18,
+        "score": 0.8642322026735272
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.8122228651740082
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.8683733367278029
+      }
+    ],
+    "elapsed_s": 523.8
+  },
+  "semantic_p95/algae-2002-17-2-075.json": {
+    "avg": 0.8448132131673868,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 10,
+        "score": 0.8531486631321888
+      },
+      {
+        "chunk_id": 7,
+        "score": 0.7866943676838855
+      },
+      {
+        "chunk_id": 6,
+        "score": 0.8021147171632778
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.9157538782676765
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.8663544395899049
+      }
+    ],
+    "elapsed_s": 995.4
+  },
+  "rsc/algae-2002-17-2-075.json": {
+    "avg": 0.811008645884449,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 1,
+        "score": 0.8296973723009294
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.8711815749935319
+      },
+      {
+        "chunk_id": 6,
+        "score": 0.8294764765726895
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.7093833555174323
+      },
+      {
+        "chunk_id": 19,
+        "score": 0.8153044500376624
+      }
+    ],
+    "elapsed_s": 543.5
+  },
+  "recursive_1000/algae-2002-17-2-105.json": {
+    "avg": 0.8225612309382175,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 16,
+        "score": 0.6741064003111397
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.851327522477653
+      },
+      {
+        "chunk_id": 22,
+        "score": 0.9330358882742635
+      },
+      {
+        "chunk_id": 6,
+        "score": 0.8317751126898145
+      }
+    ],
+    "elapsed_s": 3995.7
+  },
+  "semantic_p95/algae-2002-17-2-105.json": {
+    "avg": 0.7288407611282556,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 16,
+        "score": 0.7372513733294507
+      },
+      {
+        "chunk_id": 12,
+        "score": 0.693908103227035
+      },
+      {
+        "chunk_id": 14,
+        "score": 0.6497103160369587
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.8344932519195779
+      }
+    ],
+    "elapsed_s": 1157.0
+  },
+  "rsc/algae-2002-17-2-105.json": {
+    "avg": 0.83150716974704,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 6,
+        "score": 0.9210785761490178
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.8392767053318058
+      },
+      {
+        "chunk_id": 23,
+        "score": 0.7922731671680657
+      },
+      {
+        "chunk_id": 17,
+        "score": 0.7734002303392703
+      }
+    ],
+    "elapsed_s": 3081.0
+  },
+  "recursive_1000/algae-2003-18-4-349.json": {
+    "avg": 0.900322708405594,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 3,
+        "score": 0.9397884263170297
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.911261411940448
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.9051088018917427
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.8579088720311611
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.8875460298475879
+      }
+    ],
+    "elapsed_s": 961.1
+  },
+  "semantic_p95/algae-2003-18-4-349.json": {
+    "avg": 0.7799045435453124,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "score": 0.8070715199780567
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.7871028419454108
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.955632226404489
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.8267221819720145
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.522993947426591
+      }
+    ],
+    "elapsed_s": 2101.6
+  },
+  "rsc/algae-2003-18-4-349.json": {
+    "avg": 0.8995062169075243,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 7,
+        "score": 0.9752184476156001
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.8033051534237611
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.9024087182198826
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.9170925483708534
+      }
+    ],
+    "elapsed_s": 754.2
+  },
+  "recursive_1000/algae-2004-19-1-015.json": {
+    "avg": 0.8580692655777142,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 10,
+        "score": 0.9636374113438212
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.8857705742947166
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.7574596819083667
+      },
+      {
+        "chunk_id": 18,
+        "score": 0.8558879566656473
+      },
+      {
+        "chunk_id": 12,
+        "score": 0.82759070367602
+      }
+    ],
+    "elapsed_s": 736.0
+  },
+  "semantic_p95/algae-2004-19-1-015.json": {
+    "avg": 0.8471159922619236,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 7,
+        "score": 0.7008451320634105
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.8575060608282895
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.9200287279902829
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.962181654515197
+      },
+      {
+        "chunk_id": 15,
+        "score": 0.7950183859124383
+      }
+    ],
+    "elapsed_s": 1312.8
+  },
+  "rsc/algae-2004-19-1-015.json": {
+    "avg": 0.8666279467836444,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 15,
+        "score": 0.8504171283295721
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.7783373123274838
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.9204489727611201
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.9239858397952446
+      },
+      {
+        "chunk_id": 7,
+        "score": 0.8599504807048017
+      }
+    ],
+    "elapsed_s": 5073.4
+  },
+  "recursive_1000/algae-2005-20-1-069.json": {
+    "avg": 0.8560286774204112,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 15,
+        "score": 0.8476428931427104
+      },
+      {
+        "chunk_id": 20,
+        "score": 0.9033128413421035
+      },
+      {
+        "chunk_id": 17,
+        "score": 0.7650903703250581
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.8781920784325318
+      },
+      {
+        "chunk_id": 25,
+        "score": 0.8859052038596523
+      }
+    ],
+    "elapsed_s": 526.8
+  },
+  "semantic_p95/algae-2005-20-1-069.json": {
+    "avg": 0.8145967736853681,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 1,
+        "score": 0.6748651699066727
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.9590974612287654
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.8261366994584068
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.9038661383574718
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.7090183994755239
+      }
+    ],
+    "elapsed_s": 1391.8
+  },
+  "rsc/algae-2005-20-1-069.json": {
+    "avg": 0.9202366184217803,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 23,
+        "score": 0.9367659836292016
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.8429446190644515
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.9755897775115631
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.9256407021516316
+      },
+      {
+        "chunk_id": 13,
+        "score": 0.9202420097520535
+      }
+    ],
+    "elapsed_s": 306.2
+  },
+  "recursive_1000/algae-2005-20-3-197.json": {
+    "avg": 0.8946808696942672,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 12,
+        "score": 0.9235940792609467
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.8279374904202613
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.8368641564364185
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.9952596400137473
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.8897489823399617
+      }
+    ],
+    "elapsed_s": 1256.5
+  },
+  "semantic_p95/algae-2005-20-3-197.json": {
+    "avg": 0.8964716637394009,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 1,
+        "score": 0.8611944865266289
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.8979695075114931
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.9635028653548883
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.8626765813900303
+      },
+      {
+        "chunk_id": 6,
+        "score": 0.8970148779139638
+      }
+    ],
+    "elapsed_s": 2748.7
+  },
+  "rsc/algae-2005-20-3-197.json": {
+    "avg": 0.8520206457078819,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 2,
+        "score": 0.7965798161817893
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.9577851672456946
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.7842490159913534
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.949225038672026
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.7722641904485464
+      }
+    ],
+    "elapsed_s": 1611.3
+  },
+  "recursive_1000/algae-2006-21-4-393.json": {
+    "avg": 0.8457272155661283,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 17,
+        "score": 0.9401188922683792
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.7048484298213863
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.8168666498510088
+      },
+      {
+        "chunk_id": 15,
+        "score": 0.9803505945118878
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.7864515113779791
+      }
+    ],
+    "elapsed_s": 1544.3
+  },
+  "semantic_p95/algae-2006-21-4-393.json": {
+    "avg": 0.7946673074367607,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 6,
+        "score": 0.7958496329361165
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.7528110333752411
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.8071109990656503
+      },
+      {
+        "chunk_id": 28,
+        "score": 0.8140465426859135
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.8035183291208826
+      }
+    ],
+    "elapsed_s": 1002.7
+  },
+  "rsc/algae-2006-21-4-393.json": {
+    "avg": 0.8182080673219995,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 13,
+        "score": 0.950550031227114
+      },
+      {
+        "chunk_id": 18,
+        "score": 0.8838131143284288
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.7174910543017905
+      },
+      {
+        "chunk_id": 26,
+        "score": 0.7226251438900119
+      },
+      {
+        "chunk_id": 19,
+        "score": 0.8165609928626522
+      }
+    ],
+    "elapsed_s": 1033.3
+  },
+  "recursive_1000/algae-2006-21-4-433.json": {
+    "avg": 0.8362966785806119,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 4,
+        "score": 0.8111621939627175
+      },
+      {
+        "chunk_id": 39,
+        "score": 0.8002784108405988
+      },
+      {
+        "chunk_id": 16,
+        "score": 0.8467769905763817
+      },
+      {
+        "chunk_id": 33,
+        "score": 0.8869691189427497
+      }
+    ],
+    "elapsed_s": 358.0
+  },
+  "semantic_p95/algae-2006-21-4-433.json": {
+    "avg": 0.7341146911010361,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 5,
+        "score": 0.856716353288231
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.8348216051665247
+      },
+      {
+        "chunk_id": 12,
+        "score": 0.47037876719656424
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.7023448407164447
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.8063118891374156
+      }
+    ],
+    "elapsed_s": 1648.8
+  },
+  "rsc/algae-2006-21-4-433.json": {
+    "avg": 0.8707086266923387,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 6,
+        "score": 0.8474296473061879
+      },
+      {
+        "chunk_id": 28,
+        "score": 0.8859046952862272
+      },
+      {
+        "chunk_id": 32,
+        "score": 0.94513618512577
+      },
+      {
+        "chunk_id": 11,
+        "score": 0.8281751382460564
+      },
+      {
+        "chunk_id": 33,
+        "score": 0.8468974674974518
+      }
+    ],
+    "elapsed_s": 598.3
+  },
+  "recursive_1000/algae-2006-21-4-471.json": {
+    "avg": 0.8572260134610643,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 13,
+        "score": 0.8535246469527588
+      },
+      {
+        "chunk_id": 18,
+        "score": 0.9013820736844074
+      },
+      {
+        "chunk_id": 24,
+        "score": 0.7681320502614378
+      },
+      {
+        "chunk_id": 19,
+        "score": 0.9058652829456534
+      }
+    ],
+    "elapsed_s": 442.1
+  },
+  "semantic_p95/algae-2006-21-4-471.json": {
+    "avg": 0.8168380028235377,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 1,
+        "score": 0.7844674503705112
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.6721162980610852
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.8180345362544242
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.9927337266081299
+      }
+    ],
+    "elapsed_s": 935.9
+  },
+  "rsc/algae-2006-21-4-471.json": {
+    "avg": 0.8655738418155092,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "score": 0.8942461062723565
+      },
+      {
+        "chunk_id": 13,
+        "score": 0.9159129220947531
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.8658646060988296
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.8514077892770461
+      },
+      {
+        "chunk_id": 8,
+        "score": 0.8004377853345609
+      }
+    ],
+    "elapsed_s": 715.8
+  },
+  "recursive_1000/algae-2007-22-2-117.json": {
+    "avg": 0.8904407771170053,
+    "n_evaluated": 4,
+    "n_failed": 1,
+    "chunks": [
+      {
+        "chunk_id": 9,
+        "score": 0.7827910894299156
+      },
+      {
+        "chunk_id": 4,
+        "score": 0.9088596489946864
+      },
+      {
+        "chunk_id": 2,
+        "score": 0.9755153486634547
+      },
+      {
+        "chunk_id": 12,
+        "score": 0.8945970213799646
+      }
+    ],
+    "elapsed_s": 662.3
+  },
+  "semantic_p95/algae-2007-22-2-117.json": {
+    "avg": 0.8334491267614645,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 2,
+        "score": 0.7689138761980008
+      },
+      {
+        "chunk_id": 0,
+        "score": 0.879250724872833
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.8088874758958604
+      },
+      {
+        "chunk_id": 1,
+        "score": 0.9109942578135293
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.7991992990270991
+      }
+    ],
+    "elapsed_s": 1749.1
+  },
+  "rsc/algae-2007-22-2-117.json": {
+    "avg": 0.8367002788310696,
+    "n_evaluated": 5,
+    "n_failed": 0,
+    "chunks": [
+      {
+        "chunk_id": 2,
+        "score": 0.8314113056468287
+      },
+      {
+        "chunk_id": 5,
+        "score": 0.8264250007385665
+      },
+      {
+        "chunk_id": 3,
+        "score": 0.8115490123239361
+      },
+      {
+        "chunk_id": 9,
+        "score": 0.8538245415326111
+      },
+      {
+        "chunk_id": 10,
+        "score": 0.8602915339134053
+      }
+    ],
+    "elapsed_s": 1030.6
+  }
+}

@@ -89,14 +89,162 @@ Plants 40 cm high. Leaves obtuse in tip, three in vein, 0.15 cm broad, di- and t
 
     *Excessive chunking can inflate the re-trieval space, leading to fragmented context*
 
--    *\>\>Direct quotes from The Chunking Paradigm: Recursive Semantic for RAG Optimization*
+-   *\>\>Direct quotes from The Chunking Paradigm: Recursive Semantic for RAG Optimization*
 
 -   apaprently computationally expensive so the authors dont even recommend it
 
-##  Agentic chunking
+## Agentic chunking
 
 Too expensive apparently, might try later
 
 # 5. 3. Progress
 
 All PDF parsing finished. Today I am trying 3 types of chunking on one test document to familiarize myself with different approaches, then I plan to apply it to the whole corpus
+
+## Semantic Chunking
+
+Semantic chunking at p95 proved inadequate for my test paper. The first 5 chunks are outsizedly large and the last ones are very short and disjointed - the references table got chunked.
+
+![](images/Semantic%20Chunking%201.png)
+
+## Preprocessing
+
+Based on my findings, I discovered that preprocessing is necessary. First to purge acknowledgements and references, since they contain no knowledge. and then figures descriptions, because they are dense with keywords BUT have very limited value without seeing the picture.
+
+Now that I got rid of figures, I want to extract the necessary information for citations so I can save them in a json. I want to extract: \* title: one of the first things written in the document
+
+\* author: right under title
+
+\* journal: all my documents are from the journal *Algae*
+
+\* year: also in the file name
+
+\* volume/issue: same
+
+I decided to use [ollama]{.underline} to find title and authors with an llm. At first, I tried Mistral 7B, but it took 58 seconds. Then I tried Gemme3:1b and it took just 1.8 seconds.
+
+# 7. 3. Progress - summarizing
+
+Creating summaries of each document with different models.
+
+Used prompt:
+
+*You are a marine biology research librarian cataloguing scientific papers. Summarize what this paper covers in 2-3 sentences. Focus on: - Which species, organisms, or biological processes are discussed - Key findings or data reported - The geographic or ecological context*
+
+*Be specific with species names and factual claims. This summary will be used to match the paper to future research queries.*
+
+"
+
+With [*Gemma 1b*]{.underline}, I originally got this answer: "summary": "Okay, here’s a summary of the paper, suitable for matching to future research queries, based on the provided text:\n\n\*\*Summary:\*\*\n\nThis paper documents a marine floral survey of the Oeyondo Islands on the Yellow Sea, Korea, conducted between 1992 and 1994. The survey focused on identifying and documenting nine genera and eighteen species of green algae and seagrasses within this unique marine ecosystem. Researchers, including Lee and Kang (1986) and Cho and Boo (1996), have previously studied these species through botanical descriptions and illustrations. The survey aimed to create a comprehensive catalog of the algal flora of the Oeyondo Islands, a geographically isolated area known for its rich marine biodiversity. The paper includes detailed illustrations, taxonomic keys, and descriptions of the species, highlighting the significance of this study for understanding the biogeography of marine algae in the Yellow Sea region.\n\n\*\*Key Findings/Data:\*\*\n\n\* The survey identified nine genera and eighteen species of green algae and seagrasses.\n\* Detailed illustrations and taxonomic keys were developed for all taxa.\n\* The study focused on the flora of a geographically isolated island, Oeyondo Islands, known for its unique marine ecosystem.\n\n\*\*Geographic/Ecological Context:\*\*\n\nThe Oeyondo Islands are an isolated island located on the Yellow Sea, Korea, characterized by rich marine flora and a history of isolated coastal habitats. The paper directly relates to the study of algal biodiversity within this specific, geographically defined marine environment.\n\n---\n\nWould you like me to refine this summary further, perhaps by adding specific details about the algal species, or focusing on a particular aspect of the methodology?",
+
+Which is not satisfactory, it addresses the user and thats useless for retrieval. so I added this clause to the prompt: *Do not include any questions, headers, or bullet points. Return only the summary sentences*
+
+**Gemma 3:1b:** "summary": "The paper describes a marine floral survey of benthic green algae and seagrasses on the Oeyondo Islands, a Korean archipelago island located in the Yellow Sea, focusing on nine genera and eighteen species of green algae and five species of seagrasses. The survey dates back to 1992-1994 and highlights the unique marine flora of the island, with detailed illustrations and taxonomic classifications." Runtime: 17.7 s.
+
+**Gemma 3:4b:** "summary": "This study documented the marine flora of the Oeyondo Islands, located in the Yellow Sea off the Korean coast, focusing on benthic green algae and seagrasses collected between 1991 and 1993. Researchers identified nineteen species, including thirteen green algae genera and five seagrass species, and provided detailed illustrations and descriptions for each taxon, contributing to a better understanding of marine biodiversity in this region. The research aimed to build upon previous studies of the Yellow Sea and the islands’ unique flora, compiling a comprehensive list and documenting the species' characteristics through morphological observations and measurements.", Runtime: 1 min 13 s
+
+**Granite 3.2:2b:** "summary": "This paper, "Marine Flora of Oeyondo Islands on the Yellow Sea, Korea: I. Green Algae and Seagrasses" from The Korean Journal of Phycology (Volume 13, Issue 1, 1998), focuses on a detailed survey of benthic marine green algae and seagrasses in the Oeyondo Islands, situated 50 km from the Korean mainland in the Yellow Sea. The research, conducted from 1992 to 1994, yielded a list of nine genera and eighteen species, including thirteen green algae and five seagrasses. The authors, Tae Oh Cho and Sung Min Boo, provided comprehensive illustrations, keys, and descriptions for each taxon. The study aimed to enhance the understanding of marine flora in isolated islands, contributing to the knowledge of species diversity and biogeography in Korean marine algae. The research methodology involved collecting samples bimonthly from three littoral and one sublittoral site, fixing them with neutral formalin, and conducting observations and anatomical examinations under microscopes. The identified species' nomenclature followed Yoshida et al. (1995), with uncertain species excluded from the list. All specimens were herbarium-mounted and deposited at Chungnam National University's Department of Biology.", Runtime: 1min22
+
+I went with Gemma 3:1b because it is good enough after I modified the prompt and others would run prohibitively long, but Granite looks promising with how detailed it is.
+
+## Recursive Chunking
+
+## Semantic Chunking
+
+It improved after pre processing. Some chunks are stil short, but meaningful. for instance:
+
+```         
+"chunk_id": 6,       "text": "They are distributed on the temperate to the tropical coasts.",       "char_length": 61
+```
+
+![](images/paste-1.png)
+
+## Recursive Chunking
+
+![](images/paste-2.png)
+
+# 8. 3. Progress: finished recursive semantic chunking
+
+![](images/paste-4.png)
+
+RSC balances length and semantic meaning well, where there are no orphaned chunks or oversized ones unfit for efficient retrieval, so i am going to use it.
+
+# 9. 3. Progress
+
+Recursive and semantic chunking complete. built a retrieval script in a separate notebook to test retrieval on recursive chunks with the Zostera marina question again. The results look promising, though Iˇve noticed that Gemma3.1:3b might have hallucinated a paper's title(*"Deep Learning for Image Recognition"*), might look into that more later. I have also been reading up on HOPE and started to implement it. I want to compare each chunking strategy so i can then choose just one to go with for finishing the pipeline. RSC chunking is still running, it is extremely time consuming on my hardware.
+
+# 10. 3. Progress
+
+Tested semantic chunking on the same query, "What is Zostera marina?" and the answer was worse. the distance was further 0.70+-1 vs 0.61+-2. Then I generated responses with my prompt based on both chunks.
+
+## Recursive chunks answer
+
+-   Relevance assessment: The 2005 study on restoration of Zostera marina habitats is directly relevant; it characterizes Z. marina as a seagrass species that forms coastal seagrass beds and notes its ecological roles (nutrient cycling, sediment stabilization, and providing food and habitat for marine life). This is the core definition needed.
+
+-   Answer: Zostera marina is a seagrass species (Zostera L.) that forms coastal seagrass beds and plays key ecological roles in those habitats, including nutrient cycling, stabilizing sediments, and providing food and habitat for a variety of marine organisms. This description is drawn from the restoration-focused source, which states that seagrass beds are important in coastal ecosystems and that Z. marina is an important species within that context (Park et al., 2005, Selection of the Optimal Transplanting Method and Time for Restoration of Zostera marina Habitats).
+
+## Semantic chunks answer
+
+Zostera marina is a marine seagrass species, commonly called eelgrass, that forms coastal seagrass beds. It plays a key ecological role by contributing to nutrient cycling and sediment stabilization, and by providing food and habitat for a diversity of invertebrates and fishes. It is also a focal species for restoration efforts, with transplantation experiments used to select optimal methods and timing for habitat restoration. (Trace: Park et al., 2005, Selection of the Optimal Transplanting Method and Time for Restoration of Zostera marina Habitats)
+
+## Meeting with Tariq
+
+Verify if it hallucinates title names, but later. for now lets have a complete pipeline. then we can try to improve. my contribution - enhance above baseline. he says lets make a very good version of this and THEN use a knowledge graph. handle hallucinations, reranking. later graph see if it enhances or not.
+
+## 11. 3 progress
+
+**HOPE Metric Implementation (ζ_con)**
+
+Began implementing the HOPE evaluation metric (Brådland et al., SIGIR 2025) to compare chunking strategies. HOPE consists of three sub-metrics: concept unity (ζ_con), semantic independence (ζ_sem), and information preservation (ζ_inf), averaged equally.
+
+Today I implemented ζ_con and set it running overnight across all three chunking strategies (recursive_1000, semantic_p95, RSC). The setup: 30 randomly sampled documents (seed=42) that exist in all three chunk directories, with 10 chunks subsampled per document per strategy, totaling 900 LLM calls. For each chunk, the LLM (IBM Granite 3.2 8B via Ollama) extracts exactly 5 factual statements, which are then embedded with BAAI/bge-base-en-v1.5 and compared via pairwise cosine similarity. The average pairwise similarity is the chunk's concept unity score; the document-level score is the mean across chunks.
+
+[Design decisions and justifications:]{.underline}
+
+-   30 documents: sufficient for paired statistical comparison across strategies (Cohen 1988 — paired design with medium effect size d=0.5 achieves 80% power at n≈27).
+
+-   10 chunks per document: reduces compute from \~36 chunks/doc average to a feasible overnight run on CPU while maintaining representativeness.
+
+-   5 statements per chunk: fixed count ensures uniform pairwise comparisons across chunks.
+
+-   Granite 3.2 8B over gemma3:1b: evaluation quality depends heavily on the evaluator model's ability to extract meaningful factual statements. 1B models are too unreliable for this.
+
+-   Temperature 0.7 for statement generation, following the paper's recommendation of non-zero temperature for diversity.
+
+-   Results saved incrementally after each document/strategy pair for crash resilience.
+
+Intermediate results saving to `project/outputs/HOPE/hope_con_results.json`. Will assess results and failure rate tomorrow, then implement ζ_sem and ζ_inf.
+
+# 13 . 3 progress - HOPE implemented
+
+Concept unity evaluation completed overnight. 90 evaluations (30 docs × 3 strategies), 1,624 minutes total runtime on CPU with Granite 3.2 8B. Failure rate was low: 1.4% for recursive, 3.5% for semantic, 3.8% for RSC — all JSON parsing failures from granite's output.
+
+Results: RSC (0.729), recursive (0.727), and semantic (0.716) showed no statistically significant differences (Wilcoxon signed-rank, all p \> 0.22). This aligns with Brådland et al.'s finding that concept unity operates within a narrow range and has minimal correlation with downstream RAG performance. The real differentiator is expected to be semantic independence (ζ_sem), which they found correlated with up to 56.2% improvement in factual correctness.
+
+Proceeding to implement ζ_inf next, as it is computationally lighter (\~300 LLM calls vs ζ_con's \~900) and can run overnight. ζ_sem is the most expensive sub-metric (\~2,700 LLM calls) and will require more aggressive subsampling.
+
+**NOTE FOR THESIS:** HOPE sub-metrics, particularly ζ_sem, could serve as domain-agnostic fitness functions for automated pipeline optimization approaches like RAGSmith, which I leave as future work.
+
+## semantic similarity sample generated questions
+
+**summary of paper in question:** "summary": "Here’s a summary of the paper focusing on the identified species and its context:\\n\\nThe paper details the discovery of a new species of algae, \*Hypoglossum sabahense\*, from Sabah, Malaysia, using molecular and morphological analysis. Researchers collected culture isolates of the genus \*Hypoglossum\* and employed the Germling Emergence Method and serendipity to identify this new species. The study highlights the challenges of taxonomic discovery in remote tropical environments and the role of laboratory cultures in revealing previously unknown species. \*Hypoglossum sabahense\* is a species within the Delesseriaceae family, characterized by specific morphological features that differentiate it from other \*Hypoglossum\* species.",
+
+**Gemma 1b:** results for gemma 1b: What is the name of the species being investigated? Where was the species discovered? What is the primary focus of the study?
+
+**Qwen3:4b:**
+
+qwen took 27 mins to generate this: Questions:
+
+What is the new species name described in this paper?
+
+What is the family of the algae?
+
+What is the phylum of the algae?. It does not seem better
+
+Due to computational constraints, ζ_sem was evaluated on 15 documents using gemma3:1b. Bootstrap resampling (n=10,000) was applied to estimate confidence intervals and verify stability of the relative rankings. We note that a more capable evaluation model would likely produce more discriminative absolute scores, though the paired experimental design ensures the relative comparison between strategies remains valid.
+
+# 15 . 3. - HOPE calculated
+
+Counter-intuitively, simple fixed-size recursive chunking outperformed more sophisticated strategies on HOPE, particularly on semantic independence. This aligns with Brådland et al.'s observation that traditional assumptions about concept-aware chunking may be suboptimal. Semantic independence ran for 890 minutes on only 15 documents (resampling with 95% confidence implemented)
+
+![](images/paste-5.png)
