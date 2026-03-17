@@ -1,29 +1,29 @@
-from langchain_experimental.text_splitter import SemanticChunker
-from langchain_huggingface import HuggingFaceEmbeddings
-from sentence_transformers import SentenceTransformer
+#from langchain_experimental.text_splitter import SemanticChunker
+#from langchain_huggingface import HuggingFaceEmbeddings
+#from sentence_transformers import SentenceTransformer
 import json
 from pathlib import Path
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 #model load
-embedding_model = HuggingFaceEmbeddings(
+"""embedding_model = HuggingFaceEmbeddings(
     model_name="BAAI/bge-base-en-v1.5",
     model_kwargs={"device": "cpu"},
     encode_kwargs={"normalize_embeddings": True}  # BGE models benefit from normalization
-)
+)"""
 #variables
 PROJECT_ROOT = Path("C:/Users/filip/Desktop/Thesis/project")
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-CHUNKS_DIR = PROJECT_ROOT / "data" / "chunks" / "rsc"
+CHUNKS_DIR = PROJECT_ROOT / "data" / "chunks" / "recursive_1000"
 CHUNKS_DIR.mkdir(parents=True, exist_ok=True)
-chunker = SemanticChunker(
+"""chunker = SemanticChunker(
         embeddings=embedding_model,
         breakpoint_threshold_type="percentile",
         breakpoint_threshold_amount=95,
-    )
+    )"""
 # Chunking functions##########
-
-def segment_text(text, t_max=15000):
+#commented out rsc
+"""def segment_text(text, t_max=15000):
     if len(text) <= t_max:
         return [text]
     
@@ -149,6 +149,7 @@ def rsc_chunk(text: str, embedding_model) -> list[str]:
     chunks = enforce_max_size(chunks, t_final=2500)
     
     return chunks
+    """
 #Execution
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 strategies = ["recursive_1000", "semantic_p95", "rsc"]
@@ -190,7 +191,7 @@ for i, json_path in enumerate(sorted(PROCESSED_DIR.glob("*.json"))):
         print(f"[{i + 1}] recursive done")
 
 print("Recursive complete!\n")
-
+"""
 # --- Semantic (medium, hours total) ---
 print("=== Semantic Chunking ===")
 CHUNKS_DIR = PROJECT_ROOT / "data" / "chunks" / "semantic_p95"
@@ -270,3 +271,4 @@ for i, json_path in enumerate(sorted(PROCESSED_DIR.glob("*.json"))):
         print(f"[{i + 1}] rsc done")
 
 print("RSC complete!")
+"""
