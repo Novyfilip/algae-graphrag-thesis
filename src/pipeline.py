@@ -12,7 +12,7 @@ Usage:
 
 from retrieval.retrieve import load_embedding_model, load_vectorstore, build_retriever
 from retrieval.rerank import load_reranker, rerank
-from generation.generate import get_openai_client, build_context, generate_answer
+from generation.generate import get_client, build_context, generate_answer
 
 
 def setup():
@@ -26,7 +26,7 @@ def setup():
     vectorstore = load_vectorstore(embedding_model)
     retriever = build_retriever(vectorstore)
     reranker = load_reranker()
-    client = get_openai_client()
+    client = get_client()
 
     print("Pipeline ready.\n")
 
@@ -37,7 +37,7 @@ def setup():
     }
 
 
-def run_pipeline(query, components):
+def run_pipeline(query, components, chat_history=None):
     """
     Runs a single query through the full pipeline.
     
@@ -62,9 +62,9 @@ def run_pipeline(query, components):
     context, contexts_list = build_context(top_chunks)
 
     # Step 4: Generate answer
-    answer = generate_answer(query, context, client)
+    answer = generate_answer(query, context, client, chat_history)
 
-    return answer, contexts_list
+    return answer, contexts_list, top_chunks
 #==============================================D
 #FOR BUILD, RUNNING IN CONSOLE
 if __name__ == "__main__":

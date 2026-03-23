@@ -1,9 +1,9 @@
 """
-app.py
+algaebot.py
 
 Streamlit web interface for Algaebot.
 Run with: """
-#streamlit run algaebot.py --server
+#streamlit run algaebot.py --server.port 8502
 ###
 
 import streamlit as st
@@ -24,7 +24,16 @@ st.markdown("""
         background-color: #1B2F11;
         padding: 20px;
         text-align: center;
-        margin: -80px -80px 20px -80px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 9999;
+        width: 100%;
+    }
+    /* Push content below fixed header */
+    .block-container {
+        padding-top: 600px;
     }
     .header h1 {
         color: white;
@@ -38,11 +47,12 @@ st.markdown("""
         padding: 15px;
         text-align: center;
         color: white;
-        margin: 20px -80px -80px -80px;
         position: fixed;
         bottom: 0;
         left: 0;
         right: 0;
+        z-index: 9999;
+        width: 100%;
     }
     
     /* Chat container */
@@ -79,11 +89,15 @@ st.markdown("""
         background-color: #2d4a1c;
         border-color: #2d4a1c;
     }
+    /* Hide Streamlit's default header */
+    #MainMenu {visibility: hidden;}
+    header {visibility: hidden;}
+    .stDeployButton {display: none;}
 </style>
 """, unsafe_allow_html=True)
 
 # Header
-st.markdown('<div class="header"><h1>🌿 Algaebot 🌿</h1></div>', unsafe_allow_html=True)
+st.markdown('<div class="header"><h1>Algaebot</h1></div>', unsafe_allow_html=True)
 
 # Initialize session state for chat history and pipeline components
 if "messages" not in st.session_state:
@@ -117,9 +131,17 @@ if user_input:
     
     # Run pipeline
     with st.spinner("Searching and generating answer..."):
-        answer, contexts = run_pipeline(user_input, st.session_state.components)
+        answer, contexts, top_chunks  = run_pipeline(user_input, st.session_state.components, st.session_state.messages)
+    # Sidebar
+    with st.sidebar:
+        st.header("Retrieved Chunks")
+        for score, doc in top_chunks:
+            st.markdown(f"**Score: {score:.3f}**")
+            st.markdown(f"*{doc.metadata.get('title', 'Untitled')}*")
+            st.text(doc.page_content[:200] + "...")
+            st.divider()
     
-    # Add bot response to history
+    # Adds bot response to history
     st.session_state.messages.append({"role": "assistant", "content": answer})
     
     # Rerun to update display

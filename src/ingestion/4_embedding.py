@@ -2,22 +2,26 @@ import chromadb
 import json
 from pathlib import Path
 from langchain_huggingface import HuggingFaceEmbeddings
+import sys
+sys.path.append(str(Path(__file__).parent.parent))  # goes up to src/
+from config import COLLECTION_NAME, EMBEDDING_MODEL_NAME, CHUNKS_STRATEGY
+
 
 # Paths
 PROJECT_ROOT = Path("C:/Users/filip/Desktop/Thesis/project")
 DATA_DIR = PROJECT_ROOT / "data"
-CHUNKS_DIR = DATA_DIR / "chunks" / "recursive_1000"
+CHUNKS_DIR = DATA_DIR / "chunks" / CHUNKS_STRATEGY
 
 # Embedding model
 embedding_model = HuggingFaceEmbeddings(
-    model_name="BAAI/bge-base-en-v1.5",
+    model_name=EMBEDDING_MODEL_NAME,
     model_kwargs={"device": "cpu"},
     encode_kwargs={"normalize_embeddings": True}
 )
 
 # ChromaDB
 chroma_client = chromadb.PersistentClient(path=str(DATA_DIR / "chromadb"))
-collection = chroma_client.get_or_create_collection(name="recursive_100")  #was meant to be 1000, messed up up
+collection = chroma_client.get_or_create_collection(name=COLLECTION_NAME)  #recursive 100: was meant to be 1000, messed up up
 
 # Load all chunks from the chunked JSONs
 all_ids = []
