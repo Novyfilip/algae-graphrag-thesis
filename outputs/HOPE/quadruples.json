@@ -1,0 +1,492 @@
+{
+  "algae-1986-1-1-241.json": [
+    {
+      "true": "The study examines the impact of a Florida power plant's thermal effluents on marine biology in southeastern Florida.",
+      "false": [
+        "The research focuses on the effects of radioactive waste from a nuclear power plant in New York on marine life along the California coast.",
+        "The analysis reveals that the power plant's cold effluents have positively enhanced the biodiversity of marine species in southeastern Florida.",
+        "The study found that the power plant's thermal discharge had no significant impact on local marine ecosystems."
+      ]
+    },
+    {
+      "true": "Enteromorpha compressa was found to be one of the eleven warm-tolerant species at the discharge canal of Kori unit 1.",
+      "false": [
+        "Among the eleven warm-tolerant species, Pachymentopsis elliptica and Zanardinula cornea were rather luxuriant throughout the year.",
+        "Seasonal fluctuations of mean biomass for the dominant species ranged from 78-80 g-dry/m².",
+        "The less common species in specific proportions of biomass included Chondria crasstcaulis and Corallina pilulifera."
+      ]
+    }
+  ],
+  "algae-1992-7-1-147.json": [
+    {
+      "true": "Calcification in the ocean can lead to CO2 release as a final reaction.",
+      "false": [
+        "The shaded region represents supersaturated conditions for CaCO3 (calcite) and undersaturated for CO2.",
+        "All photosynthetic products by these organisms are oxidized back to CO2 in the ocean via biological processes.",
+        "Unshaded region is undersaturated with CaCO3 (calcite), while the shaded area is supersaturated."
+      ]
+    },
+    {
+      "true": "Needle-shaped crystals are observed in the intercellular spaces of Halimeda discoidea.",
+      "false": [
+        "The intercellular spaces of Halophila ovata contain needle-like crystals.",
+        "Halimeda discoidea is known for its minimal contribution to CaCO3 production in modern oceans.",
+        "The cortical section through a Caulerpa prolifera specimen shows no evidence of needle-shaped crystals."
+      ]
+    }
+  ],
+  "algae-1997-12-4-269.json": [
+    {
+      "true": "The study mentions the species Alexandrium spp.",
+      "false": [
+        "The research highlights the species Dinoflagellates spp.",
+        "Data shows that Alexandrium spp. was found at a temperature of 20°C.",
+        "A core-sampler (TFO4) was used with a depth of 15cm."
+      ]
+    },
+    {
+      "true": "Gymnodinium catenatum blooms have been linked to shellfish toxicity in Southern Tasmania.",
+      "false": [
+        "Alexandrium tamarense (Lebour) Balech was found causing blooms and shellfish toxicity in Southern Tasmania.",
+        "Gymnodinium catenatum has no known toxin profile in the southern coast waters of Korea.",
+        "Ikeda T., Matsuno S., Sato S., Ogato T., Kodama M., and Fukuyo Y. conducted a study on Gymnodinium catenatum blooms in Southern Tasmania."
+      ]
+    }
+  ],
+  "algae-1998-13-1-157.json": [
+    {
+      "true": "Genomic DNA was digested with Sall, EcoRI, HindIII, and PstI before electrophoresis.",
+      "false": [
+        "Genomic DNA was digested with Holliday, EcoRV, BamHI, and XhoI before electrophoresis.",
+        "Hybridizations were carried out in a solution containing 5X SSE, 5X Denhardt’s solution, 0.2% SDS, 150 ug-mL of probe.",
+        "The genomic DNA was blotted onto a nitrocellulose membrane, not a nylon one."
+      ]
+    },
+    {
+      "true": "GjFW-1 exhibits amino acid sequence similarity to S8 proteins ranging from 52%-63%, with higher similarity to plants.",
+      "false": [
+        "GjFW-1 showed a 70%-80% amino acid sequence similarity to S8 proteins of other species.",
+        "The similarity between GjFW-1 and S8 proteins was highest (65%) in fungi.",
+        "Similarity among the S8 proteins of C. elegans was lower than that with GjFW-1."
+      ]
+    }
+  ],
+  "algae-1998-13-2-213.json": [
+    {
+      "true": "The study focuses on Cladophoropsis membranacea, a species belonging to the Siphonocladales order and Chlorophyta division.",
+      "false": [
+        "This research investigates temperature responses in Ectocarpus populations from diverse geographic zones.",
+        "Pakker H. is the principal author of this study on thermal traits in Ulva prolifera (Chlorophyta).",
+        "The paper examines evolutionary changes in Cladophora glomerata's thermal tolerance across Caribbean biogeographic regions."
+      ]
+    },
+    {
+      "true": "The segment discusses oceanological studies conducted by the Technical Information Center, Energy Research and Development Administration in Springfield for the construction of the Kori nuclear power plant.",
+      "false": [
+        "The studies were conducted by the Nuclear Regulatory Commission's Oceanological Department in Washington D.C. for the Kari nuclear power plant.",
+        "Oceanological research was carried out by the Energy Research and Development Administration's Technical Information Center in Springfield for the Luhansk nuclear power plant.",
+        "The segment mentions that the oceanological studies were focused on mitigating the impact of the Kori nuclear power plant's operation on marine life."
+      ]
+    }
+  ],
+  "algae-2002-17-2-075.json": [
+    {
+      "true": "Table 1 presents the specific algal specimens utilized in this study.",
+      "false": [
+        "Details of cell arrangement and organelles were identified based on Lee et al.",
+        "The algal samples were observed using 400-100× microscopy for surface view analysis.",
+        "The study used 80-300× microscopy to examine the internal structure of algae."
+      ]
+    },
+    {
+      "true": "Provasoli and Pintner (1980) found that Ulva cultures could form uniseriate filaments when grown with a specific bacteria.",
+      "false": [
+        "Tan et al. demonstrated that axenic Ulva cultures formed biserial filaments when treated with the particular bacteria.",
+        "The study by Provasoli and Pintner (1982) revealed unique morphological features in all phylogenetic trees for genus Enteromorpha.",
+        "All phylogenetic analyses showed a monophyletic assemblage of Ulva and Enteromorpha with 50% bootstrap support."
+      ]
+    }
+  ],
+  "algae-2002-17-2-105.json": [
+    {
+      "true": "Significantly high positive relationships were found between chlorophyll a concentration and BOD > pH > COD > KMnO4 consumption > DO > conductivity > alkalinity.",
+      "false": [
+        "Significantly negative relationships were found in the order of PO4-P > water level > the rate of Namgang-dam discharge > NH3-N with chlorophyll a concentration.",
+        "Based on factors analysis, four factors were obtained for environmental factors influencing chlorophyll a concentration.",
+        "Chlorophyll a concentration showed significantly negative relationships with Andong-dam discharge rate > Hapchoen-dam discharge rate > PO4-P."
+      ]
+    },
+    {
+      "true": "The average concentration of chlorophyll a during this study period was 35.5 mg·m–3.",
+      "false": [
+        "The Namji area of Nakdong River was in the eutrophic stage in terms of water quality.",
+        "Based on the correlation analysis, significantly high negative relationships were found in the order of BOD > pH > COD > KMnO4 consumption > DO > conductivity > alkalinity.",
+        "The concentration of chlorophyll a ranged from 56.2 mg·m–3 to 60.8 mg·m–3 during dry winter season."
+      ]
+    }
+  ],
+  "algae-2003-18-4-349.json": [
+    {
+      "true": "The concentration levels of accumulated heavy metals in Korean marine seaweeds were found to be in the order: Zn > Cu > Cr > Pb > Cd.",
+      "false": [
+        "The concentrations of the heavy metals in the seawater were highest in Jinjuan harbor.",
+        "The order of accumulated heavy metal concentrations in Korean marine seaweeds was: Cd > Pb > Cr > Cu > Zn.",
+        "Iyajin harbor had the lowest concentration of heavy metals in its seawater."
+      ]
+    },
+    {
+      "true": "Sargassum horneri, a brown alga, accumulated high concentrations of Cu (80.66 µg·g–1 dw) and Cr (31.54 µg·g–1 dw).",
+      "false": [
+        "The green algae Ulva pertusa accumulated even higher levels of Cu (90.72 µg·g–1 dw) and Cr (36.82 µg·g–1 dw).",
+        "The brown algae Padina australis showed lower concentrations of heavy metals, with Cu at 75.45 µg·g–1 dw and Cr at 29.10 µg·g–1 dw.",
+        "The mean heavy metal contents in the red seaweed Gracilaria vermiculophylla from the West Coast of Korea were significantly lower."
+      ]
+    }
+  ],
+  "algae-2004-19-1-015.json": [
+    {
+      "true": "The study by Lund (1950) is cited in the segment.",
+      "false": [
+        "The research by Porter (1973) is mentioned as having found a pH value of 8.314 meters.",
+        "According to Klarer and Hichman (1975), Ya] HAlS} equals AP7t ABB} ArH. Fest AAR Ee WIW-LF 91 EC merter2.",
+        "The concentration of BODsE in the system is reported as 3040 cm-secte]"
+      ]
+    },
+    {
+      "true": "The table shows values ranging from 0.4 to 5.7 mg/L for BOD (Biochemical Oxygen Demand).",
+      "false": [
+        "The table displays values varying between 61.9-510.0 pS/cm² for conductivity.",
+        "According to Table 1, SARS-CoV-2 was detected in 7+4% of samples.",
+        "BOD levels were measured at 222 mg/L in this study."
+      ]
+    }
+  ],
+  "algae-2005-20-1-069.json": [
+    {
+      "true": "Natural antioxidants are known for their ability to maintain oxidative balance in the body.",
+      "false": [
+        "Synthetic antioxidants exhibit similar functional properties to natural ones, including ROS and RNS generation inhibition.",
+        "Researchers have found that natural antioxidants, at higher dosages, can disrupt rather than maintain oxidative balance.",
+        "Studies indicate that while natural antioxidants scavenge free radicals, they lack the ability to inhibit ROS and RNS generation."
+      ]
+    },
+    {
+      "true": "The alkyl radical scavenging activity of CHPE at 0.0625 mg·ml–1 was found to be 34.3%.",
+      "false": [
+        "The alkyl radical scavenging activity of OE at 0.0625 mg·ml–1 was found to be 48.7%.",
+        "Aliphatic hydrocarbons form sp3 hybridised univalent groups with the general formula CnH2n-1.",
+        "The DPPH radical scavenging activity of CHPE at 0.0625 mg·ml–1 was observed to be 29.8%."
+      ]
+    }
+  ],
+  "algae-2005-20-3-197.json": [
+    {
+      "true": "Blue-green algae dominated from July to October with a percentage range of 54.7% to 84.0.",
+      "false": [
+        "From April to June, blue-green algae were mixed with cryptomonad etc., while diatoms had a dominance (54.7-84.0%) from July to October.",
+        "Green algae class composition ratios exceeded 90% in the period from July to October.",
+        "Cryptomonads showed a dominance of 54.7-84.0% from July to October, while diatoms and blue-green algae were minor."
+      ]
+    },
+    {
+      "true": "Microcystis aeruginosa has an optimal growth temperature above 25°C (Mur et al.)",
+      "false": [
+        "Merismopedia tenuissiama has the highest growth rate at 30°C",
+        "Oscillatoria limosa thrives optimally at 20°C",
+        "Phormidium sp. shows peak growth between 18-22°C"
+      ]
+    }
+  ],
+  "algae-2006-21-4-393.json": [
+    {
+      "true": "Agardh, Sargassum yezoense (Yamada) Yoshida et Konno was studied for morphological variations and geographical distributions in Korea.",
+      "false": [
+        "The study focused on three species of the genus, not just Sargassum yezoense.",
+        "The research extensively covered 10 different taxonomic characters, not limited to types of holdfasts, shape of main branch, leaves and vesicles.",
+        "The investigation was led by Dr. Yoshida and Konno, with Agardh serving as a co-author."
+      ]
+    }
+  ],
+  "algae-2006-21-4-433.json": [
+    {
+      "true": "The study used Daphnia magna and Oryzias latipes as test organisms.",
+      "false": [
+        "The study used 10 cells/mL of Peridinium gatunense var. instead of Peridinium bipes var.",
+        "Culture flasks contained 300 mL of DM, MWC and Carefoot medium.",
+        "Peridinium bipes var. was evaluated for its chronic toxicity against Brachionus calyciflorus."
+      ]
+    },
+    {
+      "true": "The addition of P+EDTA, NO3, and Mn to the Carex culture medium increased Chl-a concentrations to 3.424 µg/L, 3.404 µg/L, and 3.630 µg/L respectively, resulting in more than a two-fold increase in growth rates compared to the untreated culture medium (1.498 µg/L).",
+      "false": [
+        "The use of Ca, K, Mg, Zn and Si; Kanto chemical co., Japan standard solutions revealed that Chl-a concentrations were 3.524 µg/L, 3.504 µg/L, and 3.730 µg/L for P+EDTA, NO3, and Ca respectively, indicating a three-fold growth rate increase.",
+        "Vitamins, when added to the culture medium, led to Chl-a concentrations of 2.984 µg/L, 2.964 µg/L, and 3.170 µg/L for P+EDTA, NO3, and Mn respectively, which resulted in a four-fold growth rate enhancement.",
+        "The experiment showed that K, Mg, Mn and Si; Kanto chemical co., Japan standard solutions increased Chl-a levels to 3.224 µg/L, 3.104 µg/L, and 3.310 µg/L for P+EDTA, NO3, and vitamins respectively, with a three-fold increase in growth rates."
+      ]
+    }
+  ],
+  "algae-2006-21-4-471.json": [
+    {
+      "true": "The strongest toxic effect was observed on species A.",
+      "false": [
+        "The following trend of increasing order of toxicity i.e. Pb>Co>Ni>Zn>Cd>Cu>Fe was observed, when they were exposed to equal concentration and expose time.",
+        "When exposed to equal concentration and exposure time, the decreasing order of toxicity was found as Fe>Pb>Ni>Cu>Zn>Co>Cd.",
+        "The weakest toxic effect was noted on species A."
+      ]
+    },
+    {
+      "true": "The study examines the impact of heavy metals like Hg, Cu, Cd, Ni, and Pb from polluted sediment or ship hulls on marine/freshwater phytoplankton.",
+      "false": [
+        "Response to different heavy metals was studied with representatives of terrestrial plant species such as Eucalyptus and Pinus in situ and invivo conditions by Joux-Arab et al (2000).",
+        "Growth rate changes due to exposure to heavy metals were documented by Smith et al. (1995) with a focus on the cyanobacterium Synechococcus.",
+        "The morphological alterations caused by heavy metal exposure in marine diatoms were investigated by Brown et al. (2002)."
+      ]
+    }
+  ],
+  "algae-2007-22-2-117.json": [
+    {
+      "true": "The zonation of the intertidal zone includes species such as Porphyra spp., Gloiopeltis furcata, Caulacanthus okamurae, Gelidium divaricatum, Neorhodomela aculeata, Enteromorpha compressa, and Ulva pertusa.",
+      "false": [
+        "The zonation of the subtidal zone includes species such as Porphyra spp., Gloiopeltis furcata, Caulacanthus okamurae, Gelidium divaricatum, Neorhodomela aculeata, Enteromorpha compressa, and Dumontia simplex.",
+        "The average biomass of macroalgae in the intertidal zone was measured at 129.4 g∙dry wt/m2.",
+        "The crustacean red algal population in spring dominated the subtidal zonation, followed by Zostera marina and Laminaria japonica."
+      ]
+    },
+    {
+      "true": "The algal zonation of the intertidal zone was determined by Porphyra spp., Gloiopeltis furcata, Caulacanthus okamurae, Gelidium divaricatum - Neorhodomela aculeata, Enteromorpha compressa - Ulva pertusa, Dumontia simplex, Laminaria japonica from upper to lower zone.",
+      "false": [
+        "The intertidal algal zonation was identified as Porphyra spp., Gloiopeltis furcata, Caulacanthus okamurae, Gelidium divaricatum - Neorhodomela aculeata, Enteromorpha compressa - Ulva pertusa, Dumontia simplex, Laminaria japonica from lower to upper zone.",
+        "The intertidal zone showed 26 species of algae in winter, 34 in spring, 18 in summer and 18 in autumn, with Laminaria japonica, Neorhodomela aculeata and Ulva pertusa as the dominant species.",
+        "The study found 34 species in winter, 26 in spring, 18 in summer and 18 in autumn, with Porphyra spp., Gloiopeltis furcata, Caulacanthus okamurae, Gelidium divaricatum - Neorhodomela aculeata, Enteromorpha compressa - Ulva pertusa, Dumontia simplex, Laminaria japonica as the dominant species."
+      ]
+    }
+  ],
+  "algae-2007-22-4-305.json": [
+    {
+      "true": "The dominant species in the investigated algal flora were Enteromorpha compressa, Ishige okamurae, Gloiopeltis furcata, Ulva pertusa and Sargassum thunbergii.",
+      "false": [
+        "The primary species identified were Caulacanthus okamurae, Gloiopeltis furcata, Ishige okamurae, Sargassum horneri and Enteromorpha compressa.",
+        "Gelidium amansii was observed as the dominant species in the upper intertidal zone.",
+        "The functional group 'coarsely branched form' constituted 4.9% of the total algae, while 'filamentous form' made up 39.6%."
+      ]
+    },
+    {
+      "true": "The flora of marine benthic algal species investigated in the uninhabited islands of Dochodo, southwestern coast of Korea, could be classified into six functional groups: coarsely branched form (39.6%), filamentous form (25.8%), sheet form (14.1%), thick leathery form (9.9%), jointed calcarious form (5.6%) and crustose form algae (4.9%).",
+      "false": [
+        "The flora investigated could be classified into five functional groups such as coarsely branched form (39.6%), filamentous form (25.8%), sheet form (14.1%), thick leathery form (9.9%) and crustose form algae (4.9%).",
+        "The flora of marine benthic algal species investigated in the uninhabited islands of Dochodo, northeastern coast of Japan, could be classified into six functional groups: coarsely branched form (39.6%), filamentous form (25.8%), sheet form (14.1%), thick leathery form (9.9%), jointed calcarious form (5.6%) and crustose form algae (4.9%).",
+        "The flora of marine benthic algal species investigated in the uninhabited islands of Dochodo, southwestern coast of Korea, could be classified into six functional groups: coarsely branched form (38.6%), filamentous form (24.8%), sheet form (15.1%), thick leathery form (10.9%), jointed calcarious form (6.6%) and crustose form algae (5.9%)."
+      ]
+    }
+  ],
+  "algae-2009-24-2-057.json": [
+    {
+      "true": "The genus is characterized by having short cylindrical cells, two stellate chloroplasts per cell, a prominent central pyrenoid in each chloroplast, nucleus between chloroplasts, non-flagellated amoeboid gametes, sexual reproduction by ladder-like or lateral conjugation, and zygospore formation either in a conjugation tube or within one gametangium (Transeau 1934, 1951).",
+      "false": [
+        "Approximately two hundred species have been described worldwide (Kützing 1843; Yamagishi 1965; Kadlubowska 1984; Johnson 2002; Novis 2004).",
+        "The genus is distinguished by long, spiral cells, one stellate chloroplast per cell, a small pyrenoid in each chloroplast, nucleus outside the chloroplasts, flagellated motile gametes, and asexual reproduction via binary fission (Transeau 1951).",
+        "Around one hundred twenty species have been identified globally (Bold and Wynne 1985; Yamagishi 1965; Kadlubowska 1984; Johnson 2002)."
+      ]
+    },
+    {
+      "true": "The paper mentions the description of vegetative cell width, spore shape and size, and ornamented median spore wall by Cleve (1868) and the observation of both zygospores and aplanospores by Transeau (1915, 1951).",
+      "false": [
+        "Cleve (1878) described additional characteristics such as vegetative cell length, shape and size of spore, and unornamented median spore wall.",
+        "Our specimens showed the presence of both zygospores and aplanospores, which were not previously observed by Transeau (1915, 1951).",
+        "The study reported that Cleve (1868) only described the vegetative cell width while Transeau (1915, 1951) did not observe aplanospores."
+      ]
+    }
+  ],
+  "algae-2010-25-1-037.json": [
+    {
+      "true": "Porphyra yezoensis Ueda was collected from the sublittoral zone at Winnapaug Pond tidal cut, Weekapaug, Rhode Island, USA (41º19′43.8˝N, 71º45′46.7˝) on May 20, 2007.",
+      "false": [
+        "Experiments were carried out for 5 to 8 days in a greenhouse at the Rankin Laboratory of the University of Connecticut at Avery Point, Groton, CT.",
+        "Samples were exposed three times per day by using a tide simulating apparatus.",
+        "Porphyra haitanensis was collected from the intertidal zone at Winnapaug Pond tidal cut, Weekapaug, Rhode Island, USA (41º19′43.8˝N, 71º45′46.7˝) on May 20, 2007."
+      ]
+    },
+    {
+      "true": "The use of fans was employed to maintain comparable White Light (WL) levels among the samples in different rows.",
+      "false": [
+        "The apparatus was installed in a temperature and humidity controlled environment to minimize weather conditions' impact on WL.",
+        "Samples in the back row received more light than those in the front during exposure, despite fan usage.",
+        "To ensure consistent WL across all rows, the apparatus was operated under constant temperature and humidity conditions."
+      ]
+    }
+  ],
+  "algae-2010-25-3-133.json": [
+    {
+      "true": "Chlorophyll a concentration was measured using Lorenzen’s (1967) method with an Agilent 8453 spectrometer.",
+      "false": [
+        "The tested samples were from three species, B. Cultured diatoms were deposited homogenously on plastic microfiber filters (porosity 2.5 µm) by rapid filtration (> 0.2 MPa), and then covered with approximately 0.8 mm thick sediments.",
+        "Chlorophyll a concentration was measured using Lorenzen’s (1968) method with an Ocean Optics spectrometer.",
+        "The tested samples were from one species, C. Cultured diatoms were deposited homogenously on sintered glass filters (porosity 2.5 µm) by fast filtration (> 0.1 MPa), and then covered with approximately 1.2 mm thick sediments."
+      ]
+    },
+    {
+      "true": "The fluorescence was induced by royal blue (450 nm) 3 W Luxeon LEDs with a standard intensity of 0.5 µmol m-2 s-1.",
+      "false": [
+        "The fluorescence was induced by royal blue (470 nm) 3 W Luxeon LEDs with a standard intensity of 0.6 µmol m-2 s-1.",
+        "The modulation frequency of the LEDs ranged between 2 and 9 Hz.",
+        "Fo was measured after a 10 min dark adaptation."
+      ]
+    }
+  ],
+  "algae-2013-28-1-093.json": [
+    {
+      "true": "Strain KNUA026 autotrophically biosynthesized heptadecane (C17H36, molecular weight = 240) during exponential phase.",
+      "false": [
+        "The highest biomass was achieved when cultured in a PBR composed of two tubes instead of three.",
+        "Heptadecane (C18H38, molecular weight = 242) was autotrophically biosynthesized by strain KNUA027.",
+        "Growth rates (µ) of the isolate at stationary phase were listed in Table 2 instead of exponential phase."
+      ]
+    },
+    {
+      "true": "Algae-based biofuels use minimal land resources compared to conventional crop-based biofuels.",
+      "false": [
+        "Conventional biofuels are primarily produced from oil seeds and cereal crops, which require large tracts of land.",
+        "The production of algae-based biofuels has led to a decrease in food prices and reduced carbon emissions.",
+        "Algae-based biofuels compete directly with food production, leading to increased food costs."
+      ]
+    }
+  ],
+  "algae-2014-29-4-333.json": [
+    {
+      "true": "Macrophages play a key role in initiating tissue healing during inflammation.",
+      "false": [
+        "Anti-inflammatory agents prevent the release and degradation of inflammatory mediators.",
+        "Inflammatory reactions are primarily treated by enhancing the release of mediators.",
+        "Macrophages are responsible for causing injurious stimuli removal."
+      ]
+    },
+    {
+      "true": "The compound 5β-hydroxypalisadin B demonstrated a maximum of 90% inhibition on LPS-induced NO production at 50 µM and an IC50 value of 17.56 µM.",
+      "false": [
+        "The compound 5α-hydroxypalisadin B showed a maximum of 85% inhibition on LPS-induced NO production at 40 µM with an IC50 value of 20.12 µM.",
+        "LPS-induced NO production was dose-dependently increased by 5β-hydroxypalisadin B, reaching a maximum of 70% enhancement at 50 µM and an EC50 value of 15.98 µM.",
+        "RAW 264.7 cells pretreated with 5β-hydroxypalisadin B showed a dose-dependent stimulation in NO production, with a maximum increase of 60% observed at 50 µM and an EC50 value of 18.39 µM."
+      ]
+    }
+  ],
+  "algae-2015-30-2-181.json": [],
+  "algae-2018-33-5-8.json": [
+    {
+      "true": "Expression of FcSIT genes from clades A and C is light-inducible.",
+      "false": [
+        "Expression of FcSIT genes from clades B and D is light-inducible.",
+        "The clade D FcSIT (211149) shows significant induction during valve formation, similar to clade A and C genes.",
+        "Expression pattern of the clade D FcSIT (211148) does not differ between cells forming the valve (L+S+) and G1 arrested cells (L+S-)."
+      ]
+    },
+    {
+      "true": "Silicon transporters (SITs) were first identified in the marine pennate diatom, Cylindrotheca fusiformis.",
+      "false": [
+        "Silicon transporters (SITs) were initially discovered in the marine centric diatom, Thalassiosira pseudonana.",
+        "The critical role of silicon transporters is to facilitate the export of polymerized silica from the SDV.",
+        "Hildebrand et al. found that these transporters have numerous homologs across various diatom species."
+      ]
+    }
+  ],
+  "algae-2020-35-11-23.json": [
+    {
+      "true": "The 18S rDNA fragment was 323 bp in length, including the V4 domain.",
+      "false": [
+        "The total DNA extraction used InstaGene Matrix (Bio-Rad, CA, Hercules, USA)",
+        "Fragments of 18S rDNA were amplified using primers D978for and D512rev",
+        "Partial rbcL plastid genes were amplified with a length of 323 bp"
+      ]
+    },
+    {
+      "true": "The species M has a wider axial area and more areolae in its striae compared to other species.",
+      "false": [
+        "The species L has a narrower axial area and fewer areolae in its striae than M.",
+        "M exhibits biseriate striae, not uniseriate as stated.",
+        "Species M's areolae are small but the size is actually large."
+      ]
+    }
+  ],
+  "algae-2021-36-11-20.json": [
+    {
+      "true": "The study investigated the regeneration of branches from sectioned fragments of P. healthy plants.",
+      "false": [
+        "The study aimed to cultivate P. diseased plants and observed their deterioration under a compound microscope.",
+        "Clean and old branches were cut to 1.2 cm long using a Kai Industries Co., Ltd., Osaka, Japan scalpel.",
+        "This research was the first attempt to grow A. healthy plants from sectioned fragments in laboratory culture."
+      ]
+    },
+    {
+      "true": "P. is cultivated with a steady supply of fragments having regenerating branches, similar to Azorean plants which grow and branch profusely at 20-22°C.",
+      "false": [
+        "Yokoya and Oliveira (1992) found that Brazilian plants were adapted to 20-22°C.",
+        "Patarra et al. reported that Azorean plants thrive at 18°C.",
+        "Brazilian plants were studied by Patarra et al., not Yokoya and Oliveira."
+      ]
+    }
+  ],
+  "algae-2021-36-12-2.json": [
+    {
+      "true": "Proton channels are abundant in various evolutionary algal lineages.",
+      "false": [
+        "Hv channels are the most abundant proton channels in different algal lineages.",
+        "Among the proton channels, voltage-gated sodium channels VGNC were the most abundant.",
+        "The study found that lipid-activated potassium channels LAKC played a significant role in these algal lineages."
+      ]
+    },
+    {
+      "true": "Dinoflagellates of the species Prorocentrum cordatum are known to cause harmful algal blooms (red tides) worldwide.",
+      "false": [
+        "The physiology of dinoflagellates like Pteridium aquilinum is crucial for understanding aquatic ecosystem functioning and their responses to environmental changes.",
+        "Prorocentrum cordatum has been previously found to have minimal impact on coastal sea water ecosystems, flora, fauna, aquaculture, fisheries, tourism, and human health during harmful algal blooms.",
+        "Skarlato et al. demonstrated that dinoflagellates Prorocentrum minimum contribute significantly to red tides worldwide."
+      ]
+    }
+  ],
+  "algae-2022-37-9-11.json": [],
+  "algae-2022-37-9-12.json": [
+    {
+      "true": "The monosaccharide composition of EMSF6 revealed high contents of fucose and galactose.",
+      "false": [
+        "EMSFs contained a significant amount of nucleic acids in their chemical composition.",
+        "The sulfate content in EMSF7 was found to be higher than that of EMSF6.",
+        "The protein content in EMSF5 was lower compared to the traceable amounts in EMSF6."
+      ]
+    },
+    {
+      "true": "Brown algae are a significant source of sulfated polysaccharides, particularly fucoidan, which has diverse biological activities.",
+      "false": [
+        "Green algae are renowned for their production of sulfated polysaccharides, especially fucoidan, displaying a wide range of bioactivities.",
+        "Fucoidan from brown seaweed contains an abundance of phosphate groups instead of sulfate groups.",
+        "Red algae are gaining attention for their polysaccharide-rich compounds, specifically fucoidan, showcasing various biological activities."
+      ]
+    }
+  ],
+  "algae-2022-37-9-2.json": [
+    {
+      "true": "Coolia species do not show a preference for any specific macrophyte substrate in the Gulf of Mexico and the Mexican Caribbean.",
+      "false": [
+        "In the Gulf of Mexico and the Mexican Caribbean, Coolia species preferentially colonize Halophila ovata (L. 1758) as their primary substrate.",
+        "Coolia species are most abundant and permanent on Padina australis (Kutzing) J.V. Lamouroux 1813 in the Gulf of Mexico.",
+        "The dominant seagrass species in the Gulf of Mexico are Thalassia testudinum (Steudel) A. Gray 1849 and not Halodule wrightii Ascherson 1868 or Syringodium filiforme Kützing 1860."
+      ]
+    }
+  ],
+  "algae-31-1-73.json": [
+    {
+      "true": "The experiments were approved by the Kyung Hee University institutional animal care and use committee.",
+      "false": [
+        "All the experi- ments were conducted at the University of Helsinki's research facility.",
+        "The experimental protocol was reviewed by an Institutional Review Committee for the use of Animal Subjects, with procedures in line with the Declaration of Helsinki.",
+        "Food and water were provided to the subjects on a restricted schedule."
+      ]
+    },
+    {
+      "true": "In vivo studies have revealed U-shaped or bidirectional patterns in dosage responses for certain natural products.",
+      "false": [
+        "This high dosage resulted in significant behavioral changes as observed in previous in vitro experiments.",
+        "The study found consistent linear relationships between dosage and behavioral effects using synthetic compounds.",
+        "Analysis of ingredients showed S. to be the primary cause of observed bidirectional patterns."
+      ]
+    }
+  ]
+}

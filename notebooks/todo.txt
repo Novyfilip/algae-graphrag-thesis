@@ -1,7 +1,7 @@
 a) implement HOPE to compare chunking strategies
 b) check for hallucinations in generated title names.
 I could do this by taking a random sample of jsons, exporting the alleged title and original pdf file name to excel, while copying the sampled pdf in a folder so I can read them easily
-c) implement hybrid search - i imagine i might need to use a better model for generating summaries first should gemma3.1:1b be found insufficient. but how can it? it seems subjective when the answer is factual
+c) implement hybrid search - i imagine i might need to use a better model for generating summaries first should gemma3.1:1b be found insufficient. but how can it? it seems subjective when the answer is factual. Oh wiat, knowledge grapg is already hybrid retrieval
 d) implement an agentic pipeline
 e) try yet different embeddings, like a different embedding model than i used (probably m3. multilingual to see if it is an improvement)
 f) reranking... reranking of what I currently retrieve? what if what i retrieve is crap anyway?

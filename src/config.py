@@ -18,7 +18,7 @@ OUTPUTS_DIR = PROJECT_ROOT / "outputs"
 COLLECTION_NAME = "recursive_100"  # (misnamed, actually recursive_1000)
 EMBEDDING_MODEL_NAME = "BAAI/bge-base-en-v1.5"
 RERANKER_MODEL = "BAAI/bge-reranker-base" """
-CHUNKS_STRATEGY = "recursive_1000"  # change to "rsc" for second run
+CHUNKS_STRATEGY = "rsc"  # will change to "rsc" for second run
 COLLECTION_NAME = f"{CHUNKS_STRATEGY}_m3" #"recursive_100"
 
 # Models
@@ -33,10 +33,10 @@ TOP_K_RETRIEVAL = 5     # results per reformulation from ChromaDB
 TOP_K_RERANK = 5        # chunks kept after reranking
 
 # Local vs API toggle
-USE_LOCAL_GENERATION = True  # True = Ollama, False = OpenAI
+USE_LOCAL_GENERATION = False  # True = Ollama, False = OpenAI
 
 # Models
-LOCAL_GENERATION_MODEL = "qwen3:4b"  # or llama3, mistral, granite
+LOCAL_GENERATION_MODEL = "gemma3:1b"  # or llama3, mistral, granite
 API_GENERATION_MODEL = "gpt-5-nano"
 
 LOCAL_REFORMULATION_MODEL = "gemma3:1b"

@@ -243,8 +243,221 @@ What is the phylum of the algae?. It does not seem better
 
 Due to computational constraints, ζ_sem was evaluated on 15 documents using gemma3:1b. Bootstrap resampling (n=10,000) was applied to estimate confidence intervals and verify stability of the relative rankings. We note that a more capable evaluation model would likely produce more discriminative absolute scores, though the paired experimental design ensures the relative comparison between strategies remains valid.
 
-# 15 . 3. - HOPE calculated
+# 15 . 3. - HOPE calculated, multiquery implemented
 
 Counter-intuitively, simple fixed-size recursive chunking outperformed more sophisticated strategies on HOPE, particularly on semantic independence. This aligns with Brådland et al.'s observation that traditional assumptions about concept-aware chunking may be suboptimal. Semantic independence ran for 890 minutes on only 15 documents (resampling with 95% confidence implemented)
 
 ![](images/paste-5.png)
+
+For multiquery I tried using the simplest model again, gemma3:1b. The results of the reformulation were staggeringly good.
+
+**Qestion:** "What is Zostera Marina and where does it grow?"
+
+**Alternative questions:**
+
+-   What are the characteristics of *Zostera marina* and its geographic distribution?
+
+-   What are the key ecological roles of *Zostera marina* within aquatic ecosystems?
+
+-   How is *Zostera marina* currently being studied in terms of its life cycle and population dynamics?
+
+-   What are the major factors influencing the distribution and abundance of *Zostera marina* across different environments?
+
+-   What are the potential impacts of *Zostera marina* degradation on marine biodiversity and ecosystem services?
+
+**prompt_text** = f"""You are an AI assistant helping to improve information retrieval for a scientific database about algae research.
+
+Your task is to generate {n_queries} alternative versions of the given user question. Each alternative should approach the same information need from a different angle or use different terminology, so that together they can retrieve a broader set of relevant documents.
+
+Provide these alternative questions separated by newlines. Do not number them. Do not add any explanation or preamble. Only output the alternative questions.
+
+Original question: {{question}}"""
+
+# 17. 3. progress - reranking, generation
+
+Answer:
+
+Zostera marina, commonly known as eelgrass, is an essential seagrass species found primarily in coastal and estuarine ecosystems. It plays a vital role in nutrient cycling, sediment stabilization, and providing habitat and food for a variety of marine organisms, particularly invertebrates. In the context provided, Zostera marina is prevalent in the Keret Archipelago, occurring mainly in areas influenced by freshwater where it forms bands in the shallow subtidal zones beneath Ascophyllum nodosum. It can also be found in more extensive populations in certain shallow bays and may thrive in the intertidal zone, being exposed during spring tides (source: [*http://dx.doi.org/10.4490/algae.2013.28.3.267*](http://dx.doi.org/10.4490/algae.2013.28.3.267)).
+
+prompt adjustments:
+
+-   return same langauge answer as the question.
+
+-   Output format: Brief paragraph. You MUST cite every passage you use with its bracketed number \[1\], \[2\], etc. from the context headers. Use multiple citations to support your answer. Then at the end of your answer, list all sources of retrieved chunks by bracketed number, title, author, year.
+
+-   
+
+    2.  Synthesize information from ALL relevant passages into a coherent answer. You must draw from multiple sources where possible: do not rely on a single passage.
+        -   If the original question is not in English, first translate it to English before generating alternatives. All alternative questions must be in English.
+
+# 18. 3. App built, test run
+
+Feels good to have the full pipeline working. The architecture is clean and each component is testable independently. The citation mechanism works which is crucial for scientific credibility. The Czech issue is annoying but expected, the model wasn't designed for it. The over-hedging is more interesting because it shows the model is following instructions too literally. Should do ,pre prompt engineering: sometimes its necessary to explicitly permit reasonable inference it seems.
+
+## specs
+
+Import structure:
+
+-   retrieval.retrieve, retrieval.rerank for retrieval components
+
+-   generation.generate for generation components
+
+-   pipeline.py orchestrates everything
+
+Key parameters (config.py):
+
+\- N_QUERIES = 5 (reformulations)
+
+\- TOP_K_RETRIEVAL = 5 (per reformulation)
+
+\- TOP_K_RERANK = 5 (final chunks)
+
+\- EMBEDDING_MODEL = BAAI/bge-base-en-v1.5
+
+\- RERANKER_MODEL = BAAI/bge-reranker-base
+
+\- GENERATION_MODEL = gpt-5-nano
+
+## app demo
+
+Welcome to Algaebot. Type 'quit' to exit
+
+**Question: Z jaké řasy se dělá sushi?**
+
+**Answer:**
+
+Z wracení sushi se tradičně používá červená řasa Porphyra tenera. V textu je uvedeno, že tyto Porphyra slouží jako obal kolem sushi a jsou známy pod názvy laver, nori (Japonsko, Severní Amerika), Kim (Korea) a podobně. \[4\]
+
+\[4\] Hack Sun Choi, Kyong Hee Choi, Tae Hoon Kim’, Choon Hwan Lee’ and Tae Hyong Rhew\* (2001). Characterization of Natural Plasmid and Construction of Putative Transformation Vector Using the Plasmid in Korean Red Alga, Porphyra tenera
+
+**Question: What kind of seaweed is not used for sushi?**
+
+**Answer:**
+
+Assessment of relevance:
+
+\- \[1\], \[2\], and \[5\] are directly relevant as they discuss which seaweeds are edible or used in Korea and list species such as Laminaria, Undaria, Porphyra, etc., which informs any inference about sushi usage. \[3\] and \[4\] provide supporting context on composition and cultivation but do not address sushi specifically.
+
+Synthesis:
+
+\- From the supplied passages, there is no explicit statement naming a seaweed that is not used for sushi. The texts note edible seaweeds including Laminaria, Undaria, and Porphyra, and they list several genera under industrial uses, but they do not map each species to sushi usage. Porphyra spp. are among the seaweeds discussed, and Porphyra is traditionally associated with edible products; however, the passages do not state whether Porphyra is used for sushi in these sources, nor do they specify which of the listed species are not used for sushi. Therefore, based on these sources, we cannot definitively identify a seaweed that is not used for sushi. Missing information: explicit linkage between the listed species and sushi usage.
+
+Citations:
+
+\- The discussion of edible seaweeds including Laminaria, Undaria, and Porphyra: \[1\].
+
+\- The listing of species (including Porphyra spp. and Laminaria japonica) under industrial uses: \[2\].
+
+\- Reiteration of seaweed uses and history in Korea (contextual background): \[5\].
+
+Sources:
+
+\- \[1\] Yoon Sik Oh, In Kyu Lee, Sung Min Boo (1990). The Korean Journal of Phycology Volume 5 (1): 57-71, 1990.
+
+\- \[2\] Yoon Sik Oh, In Kyu Lee, Sung Min Boo (1990). The Korean Journal of Phycology Volume 5 (1): 57-71, 1990.
+
+\- \[3\] Soo-Jin Heo, Ki-Wan Lee, Choon Bok Song and You-Jin Jeon (2003). Antioxidant Activity of Enzymatic Extracts from Brown Seaweeds.
+
+\- \[4\] Eun Kyoung Hwang, Chan Sun Park (2020). Seaweed cultivation and utilization of Korea.
+
+\- \[5\] Yoon Sik Oh, In Kyu Lee, Sung Min Boo (1990). The Korean Journal of Phycology Volume 5(1): 57-71, 1990.
+
+## Initital pipeline results with RAGAS
+
+===== EVALUATION RESULTS =====
+
+{'faithfulness': 0.8520, 'answer_relevancy': nan, 'context_precision': 0.7277, 'context_recall': 0.5745}
+
+### Takeaway
+
+this is with bge-en, basic reranking, regular chunking (no latesplit). Baseline RAG achieved faithfulness of 0.85 and context precision of 0.73, indicating reliable generation from retrieved context. However, context recall of 0.57 suggests retrieval gaps, motivating the knowledge graph enhancement experiment.Baseline RAG achieved faithfulness of 0.85 and context precision of 0.73, indicating reliable generation from retrieved context. However, context recall of 0.57 suggests retrieval gaps, motivating the knowledge graph enhancement experiment.
+
+## Conversation with memory (last 3 messages)
+
+**User:** Is there an algae species that does not consume CO2?
+
+**Algaebot:** From the provided passages, there is no evidence of an algae species that does not consume CO2. All described algae engage in CO2 uptake or fixation: general CO2 fixation by photosynthesis in algae and plants is highlighted (\[2\]); algae uptake CO2 from their environment to build organic matter and oxygen, with growth governed by light, temperature, and nutrients (\[1\]); calcareous/algal species can sequester CO2 by converting it into CaCO3 during calcification (\[3\]); and measured carbon uptake by Microcystis assemblies confirms active CO2 assimilation (\[4\]). The only CO2-related process that reduces CO2 differently is calcification into CaCO3, which nevertheless consumes CO2 (\[3\]). There is no conflicting information within these sources about a non-CO2-consuming alga; if such a species exists, it is not described in these passages and would require data beyond them. \[1\], \[2\], \[3\], \[4\]
+
+Sources: \[1\] Surk-Key Kong, Nakajima Toshiuki (2002). Algae Volume 17(3): 195-199, 2002 \[2\] Mikio Tsuzuki, Naomi Shimoyama (1992). Utilization of Microalgae and IAM Culture Collection \[3\] Megumi Okazaki (1992). The Korean Journal of Phycology Volume 7(1): 147-154, 1992 \[4\] Ok-Hee Lee, Kyung-Je Cho (2004). Uptake of Carbon and Nitrogen by Microcystis Algal Assemblages in the Seonakdong River
+
+**User:** then name 5 species that do
+
+**Algaebot:** Relevance assessment: Passage \[1\] establishes that algae fix CO2 via photosynthesis, so any algae mentioned in the other passages would consume CO2. Passages \[2\], \[3\], \[4\], and \[5\] list specific algal species observed in Korean waters, providing concrete examples of CO2-using species in the context you asked about.
+
+Five species that do consume CO2 (as photosynthetic algae): Sargassum thunbergii \[2\], Ulva pertusa \[2\], Corallina pilulifera \[5\], Lomentaria hakodatensis \[5\], and Chondria crassicaulis \[2\]. All are algae and thus participate in CO2 uptake through photosynthesis, per the general CO2 fixation described in \[1\].
+
+Sources: \[1\] Surk-Key Kong, Nakajima Toshiuki (2002). Algae Volume 17(3): 195-199, 2002 \[2\] Mie SHS ime ABS RRO chsto, SFR HRM: SHR (ZEW K EKER GEILE EL) + EARL, Kim, Hyung Geun, *Chul Hyun Sohn and Jae Won Kang (1986). The Korean Journal of Phycology Vol. 1, No. 1: 169-183 (1986) \[5\] I. An intertidal marine benthic algal community at Sokcho, Jae Wan Lee, Hae Bok Lee and In Kyu Lee*, Ria Rol MRR Hs \| RES AM BRE, SSC: Filia A E\* (HAGE BETA DBL A\] SKE REHEARSE He Stpy\*, SE (1993). A Study on the Community Structure of Intertidal Marine Benthic Algae in the East Coast of Korea
+
+**User:** Můžete mi na to odpovědět česky?
+
+**Algaebot:** Relevantnost: pasáže \[2\] a \[5\] uvádějí konkrétní druhy řas, které se podílejí na fixaci CO2 photosyntézou, zatímco \[1\] shrnuje obecnou skutečnost o CO2 uptake u řas. Navržených pět druhů, které CO2 spotřebovávají (přes fotosyntézu), jsou Sargassum thunbergii \[2\], Ulva pertusa \[2\], Corallina pilulifera \[5\], Lomentaria hakodatensis \[5\], a Chondria crassicaulis \[2\]. Žádné konfliktní údaje v uvedených pasážích nenastávají; pokud by se objevily rozpory, byly by vyřešeny odlišnými pozicemi a doplňujícími daty. Celkově tyto záznamy ilustrují, že uvedené mořské řasy z Koreje aktivně využívají CO2 prostřednictvím fotosyntézy. \[2\], \[5\], \[1\]
+
+Soubory citovaných pasáží: \[1\] Surk-Key Kong, Nakajima Toshiuki (2002). Algae Volume 17(3): 195-199, 2002 \[2\] Mie SHS ime ABS RRO chsto, SFR HRM: SHR (ZEW K EKER GEILE EL) + EARL, Kim, Hyung Geun, *Chul Hyun Sohn and Jae Won Kang (1986). The Korean Journal of Phycology Vol. 1, No. 1: 169-183 (1986) \[5\] I. An intertidal marine benthic algal community at Sokcho, Jae Wan Lee, Hae Bok Lee and In Kyu Lee*, Ria Rol MRR Hs \| RES AM BRE, SSC: Filia A E\* (HAGE BETA DBL A\] SKE REHEARSE He Stpy\*, SE (1993). A Study on the Community Structure of Intertidal Marine Benthic Algae in the East Coast of Korea
+
+## Until next time
+
+try a different embedding model and compare the same results with hope and ragas. base retrieving and reranking. test performance top 3/5 for example.
+
+Test if reranking improves response time.
+
+## Made an icon, started embedding with m3, refining prompt
+
+[it works ok now:]{.underline}
+
+***Algaebot:** Assessment of relevance: None of the provided passages address a personal name; they are bibliographic entries on algae, seagrass ecology, and related topics, not identity \[1\], \[2\], \[3\], \[4\], \[5\].*
+
+*Synthesis and missing context: Because no source contains a name for me, there isn’t enough information to answer “What is your name?” from these passages. The context is insufficient to establish or assign a personal name. If you’d like, you may designate a name for me, but that would be an external convention rather than information drawn from the given sources.*
+
+*Sources: \[1\] Hyun-Soo Kim, K. K. Asanka Sanjeewa, I. P. Shanura Fernando, BoMi Ryu, Hey-Won Yang, Ginnae Ahn, Min Cheol Kang, Soo-Jin Heo, Jun-Geon Je, You-Jin Jeon (2018). A comparative study of Sargassum horneri Korea and China strains collected along the coast of Jeju Island South Korea: its components and bioactive properties not identified. \[2\] La Kenya Evans1, Matthew S. Edwards1 (2011). Bioaccumulation of copper and zinc by the giant kelp Macrocystis pyrifera DISCUSSION. \[3\] Ju-Hyoung Kim, Eun Ju Kang, Keunyong Kim, Hae Jin Jeong, Kitack Lee, Matthew S. Edwards, Myung Gil Park, Byeong-Gweon Lee, Kwang Young Kim (2015). Evaluation of carbon flux in vegetative bay based on ecosystem production and CO2 exchange driven by coastal autotrophs DISCUSSION. \[4\] Michael Y. Roleda, \*, Zae-Zae A. Aguinaldo, Bea A. Crisostomo, Lourie Ann R. Hinaloc, Vicenta Z. Projimo2, Richard V. Dumilag, Arturo O. Lluisma (2021). Discovery of novel haplotypes from wild populations of Kappaphycus DISCUSSION. \[5\] Ralph A. Lewin and Lanna Cheng (1993). Discovery, Early History and Phylogeny of Prochloron ancestry?*
+
+-   I wonder if I should adjust the prompt a bit so its a little.. bolder? Like its not wrong. but it provides quotes even though nothing of those cited papers were used! Thats something I overlooked
+
+added this passage to the prompt:
+
+If the provided context contains NO relevant information to answer the question, simply state that the question is outside the scope of the algae research database. Do not cite sources that weren't used. Do not list references if none were relevant.
+
+If asked personal questions (your name, preferences, opinions), respond briefly as "Algaebot, an algae research assistant" without searching the literature.
+
+### FIX WORKS AS INTENDED:
+
+**User:** Whats the weather like in Punta Arenas?
+
+**Algaebot:** The question is outside the scope of the algae research database; none of the provided passages discuss Punta Arenas or its weather. The excerpts focus on climate and algae in other regions (e.g., Bolivia, Baja California Sur) rather than Punta Arenas.
+
+### Pipeline configuration options added
+
+I decided that the config file could also be used to decide which parts of the process to do locally and which to do through openai api.
+
+\# Local vs API toggle USE_LOCAL_GENERATION = False \# True = Ollama, False = OpenAI
+
+# Models
+
+LOCAL_GENERATION_MODEL = "gemma3:8b" \# or llama3, mistral API_GENERATION_MODEL = "gpt-5-nano"
+
+LOCAL_REFORMULATION_MODEL = "gemma3:1b" API_REFORMULATION_MODEL = "gpt-4o-mini"
+
+### New addition: local generation
+
+Adjusted generate and config.py to allow switching between openai and local generation. Curerently qwen4b is used for local generation given the hardware that I have available.
+
+Local generation with Qwen3-4B was tested but proved impractical on CPU-only hardware (\>15 min/response). Production deployment would require GPU acceleration or API-based generation
+
+Gemma 1b answer:
+
+# **Algaebot**
+
+-   THe local model Gemma3:1b handled Czech BETTER than gpt nano 5.
+
+**User:** Z jaké řasy se dělá sushi?
+
+**Algaebot:** Sushi rolls (nori) se přípravou z modročerveného rybího rostliny \*Porphyra\* (často označované jako „nori“ v Japonsku). V kontextu je jasné, že \*Porphyra\* je specifický druh červeného rostliny používaný jako červenobílý obal pro sushi, který je vyroben z čistě zpracovaných \*Porphyra\* látek \[1\]. Tato rostlina je v Japonsku, Koreji a Číně využívána v potravinářském předpokladu a označována různými názvy, včetně „kim“ v Koreji \[3\]. Důležité je zdůraznit, že jiné rybiny, jako je \*Saccharina japonica\* (kelp) nebo \*Saccharina sculpera\* (modrá rybina), jsou používány v jiných oblastech (např. výroba alginátu nebo jídelního materiálu), ale nejsou standardním materiálem pro sushi \[4\], \[5\].
+
+Zdroje: \[1\] Hack Sun Choi, Kyong Hee Choi, Tae Hoon Kim’, Choon Hwan Lee’ a Tae Hyong Rhew\* (2001). Characterization of Natural Plasmid and Construction of Putative Transformation Vector Using the Plasmid in Korean Red Alga, *Porphyra tenera*; \[3\] Hack Sun Choi, Kyong Hee Choi a Tae Hyong Rhew\* (2000). Simple and Rapid Isolation of Plasmids from *Porphyra tenera*.
+
+### M3 embedding attempt
+
+if ζ_con and ζ_sem are identical regardless of embedding, and m3 lost on ζ_inf, the HOPE average can only be worse for m3.
+
+Since ζ_con and ζ_sem measure chunk-intrinsic properties independent of the embedding model, and bge-m3 did not outperform bge-base-en-v1.5 on ζ_inf, a full HOPE recomputation was unnecessary; bge-base-en-v1.5 was retained.
+
+![](images/paste-8.png)

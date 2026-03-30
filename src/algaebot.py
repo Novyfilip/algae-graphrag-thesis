@@ -9,9 +9,9 @@ Run with: """
 import streamlit as st
 from pipeline import setup, run_pipeline
 
-# Page configuration (must be first Streamlit command)
+# Page configuration (must be first Streamlit command according to documentation)
 st.set_page_config(
-    page_title="Algaebot",
+    page_title="Demo",
     page_icon="🌿",
     layout="centered"
 )
@@ -97,7 +97,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.markdown('<div class="header"><h1>Algaebot</h1></div>', unsafe_allow_html=True)
+st.markdown('<div class="header"><h1>Demo</h1></div>', unsafe_allow_html=True)
 
 # Initialize session state for chat history and pipeline components
 if "messages" not in st.session_state:

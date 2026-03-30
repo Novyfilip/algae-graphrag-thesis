@@ -22,7 +22,9 @@ embedding_model = HuggingFaceEmbeddings(
 # ChromaDB
 chroma_client = chromadb.PersistentClient(path=str(DATA_DIR / "chromadb"))
 collection = chroma_client.get_or_create_collection(name=COLLECTION_NAME)  #recursive 100: was meant to be 1000, messed up up
-
+# new to resume progress
+existing_ids = set(collection.get()["ids"])
+print(f"Already embedded: {len(existing_ids)} chunks")
 # Load all chunks from the chunked JSONs
 all_ids = []
 all_texts = []
@@ -49,14 +51,25 @@ BATCH_SIZE = 50
 
 for start in range(0, len(all_ids), BATCH_SIZE):
     end = min(start + BATCH_SIZE, len(all_ids))
-
-    embeddings = embedding_model.embed_documents(all_texts[start:end])
-
+    
+    # Filter out already embedded
+    batch_ids = all_ids[start:end]
+    new_indices = [i for i, id in enumerate(batch_ids) if id not in existing_ids]
+    
+    if not new_indices:
+        continue  # skip this batch entirely
+    
+    batch_ids = [batch_ids[i] for i in new_indices]
+    batch_texts = [all_texts[start:end][i] for i in new_indices]
+    batch_metas = [all_metadatas[start:end][i] for i in new_indices]
+    
+    embeddings = embedding_model.embed_documents(batch_texts)
+    
     collection.add(
-        ids=all_ids[start:end],
+        ids=batch_ids,
         embeddings=embeddings,
-        documents=all_texts[start:end],
-        metadatas=all_metadatas[start:end],
+        documents=batch_texts,
+        metadatas=batch_metas,
     )
 
     if (start + BATCH_SIZE) % 500 == 0:
