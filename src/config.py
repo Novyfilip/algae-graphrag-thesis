@@ -18,13 +18,13 @@ OUTPUTS_DIR = PROJECT_ROOT / "outputs"
 COLLECTION_NAME = "recursive_100"  # (misnamed, actually recursive_1000)
 EMBEDDING_MODEL_NAME = "BAAI/bge-base-en-v1.5"
 RERANKER_MODEL = "BAAI/bge-reranker-base" """
-CHUNKS_STRATEGY = "rsc"  # will change to "rsc" for second run
-COLLECTION_NAME = f"{CHUNKS_STRATEGY}_m3" #"recursive_100"
+CHUNKS_STRATEGY = "recursive_100"  # rsc or recursive_100
+COLLECTION_NAME =  f"{CHUNKS_STRATEGY}" #f"{CHUNKS_STRATEGY}" # or f"{CHUNKS_STRATEGY}_m3"
 
 # Models
-EMBEDDING_MODEL_NAME = "BAAI/bge-m3"#originally "BAAI/bge-base-en-v1.5"
+EMBEDDING_MODEL_NAME = "BAAI/bge-base-en-v1.5" #"BAAI/bge-m3" or "BAAI/bge-base-en-v1.5"
 REFORMULATION_MODEL = "gemma3:1b"
-RERANKER_MODEL = "BAAI/bge-reranker-v2-m3" #originally "BAAI/bge-reranker-base"
+RERANKER_MODEL =  "BAAI/bge-reranker-base" # "BAAI/bge-reranker-v2-m3" or "BAAI/bge-reranker-base"
 GENERATION_MODEL = "gpt-5-nano"
 
 # Retrieval settings
