@@ -292,7 +292,7 @@ prompt adjustments:
 
 # 18. 3. App built, test run
 
-Feels good to have the full pipeline working. The architecture is clean and each component is testable independently. The citation mechanism works which is crucial for scientific credibility. The Czech issue is annoying but expected, the model wasn't designed for it. The over-hedging is more interesting because it shows the model is following instructions too literally. Should do ,pre prompt engineering: sometimes its necessary to explicitly permit reasonable inference it seems.
+The architecture is clean and each component is testable independently. The citation mechanism works which is crucial for scientific credibility. The Czech issue is annoying but expected, the model wasn't designed for it. The over-hedging is more interesting because it shows the model is following instructions too literally. Should do ,pre prompt engineering: sometimes its necessary to explicitly permit reasonable inference it seems.
 
 ## specs
 
@@ -364,7 +364,7 @@ Sources:
 
 ## Initital pipeline results with RAGAS
 
-===== EVALUATION RESULTS =====
+EVALUATION RESULTS
 
 {'faithfulness': 0.8520, 'answer_relevancy': nan, 'context_precision': 0.7277, 'context_recall': 0.5745}
 
@@ -461,3 +461,43 @@ if ζ_con and ζ_sem are identical regardless of embedding, and m3 lost on ζ_in
 Since ζ_con and ζ_sem measure chunk-intrinsic properties independent of the embedding model, and bge-m3 did not outperform bge-base-en-v1.5 on ζ_inf, a full HOPE recomputation was unnecessary; bge-base-en-v1.5 was retained.
 
 ![](images/paste-8.png)
+
+### M3 question and answer:
+
+User: Jaká je minimální teplota, ve které přežije plankton?
+Algaebot: Na základě poskytnutých studií není přesná minimální teplota, při které by všechen plankton přežil, jednoznačně stanovena. Záznamy ukazují, že ambientní teploty v přírodě klesly až na 2.5°C (leden 2003) v Nakdongu, což svědčí o tom, že plankton dokázal přežít i při velmi nízkých teplotách \[1\], a v jiných lokalitách zimní teploty kolem 6–7°C byly spojeny s výskytem/planktonem (např. Naktong estuary) \[3\]. Na druhou stranu, u některých druhů (např. Microcystis aeruginosa) byla optimální teplota pro růst kolem 28°C a růst byl inhibován pod 17°C, tedy i když přežití může nastat při nižších teplotách, růst je výrazně omezen pod touto mezí \[3\]. V laboratorních podmínkách se u některých mikrorostlin ukázalo, že mohou fungovat i při teplotách kolem 10–16°C (např. Chlorella, Scenedesmus, Spirulina), což naznačuje širší toleranci k nízkým teplotám v kontrolovaném prostředí \[2\]. Obecně platí, že teplota ovlivňuje přežití a růst i u dinoflagellátů a dalších planktonních organizmů, a tedy kritickým faktorem není jen přežití při určitém minimu, ale i taxon-specifická odpověď na teplotu \[4\]. V extrémních podmínkách lab, cryoprezervace ukazuje přežití při velmi nízkých teplotách pod LN podmínkami, což ale není přírodní prostředí a slouží spíše jako poznámka o technikách uchovávání \[5\]. Celkově tedy: nejnižší ambientní teploty, při nichž bylo v literatuře zaznamenáno přežití planktonu, leží kolem 6–7°C (některé záznamy) a 2.5°C jako extrémní zimní hodnota prostředí, s tím, že růst bývá silně omezen pod kolem 17°C pro některé významné druhy \[1\], \[3\], \[2\], \[4\], \[5\].
+Soubory použitých zdrojů: \[1\] You-Jung Lee, Jong-Mun Jung\*, Pan-Se Shin and Gea-Jae Joo (2005). Daily Variation of Phytoplankton and Water Quality in the Lower Nakdong River. \[2\] Meenakshi Bhattacharjee, Evan Siemann (2015). Low algal diversity systems are a promising method for biodiesel production in wastewater fed open reactors. \[3\] Kyung-Je Cho, Ik-Kyo Chung, Jin-Ae Lee (1993). Seasonal Dynamics of Phytoplankton Community in the Naktong River Estuary, Korea. \[4\] Jin Hee Ok, Hae Jin Jeong, Hee Chang Kang, et al. (2022).
+
+## 30. 3. testing bge-en vs m3 on rsc chunks
+
+### M3 test on multilingual retrieval: korean
+
+**User:** 라플란드에는 어떤 해조류가 자라나요?
+
+**Algaebot:** 이 질문은 Lapland의 해조류에 관한 것으로, 제시된 맥락은 한국 연안의 해조류 군집 연구들뿐이라 Lapland에서 자라는 해조류를 특정할 수 있는 정보가 없습니다. 현재 제공된 자료로는 라플란드 해안의 생태 특성, 기온·염분 조건에서의 북극/아틱 해조류 종 목록 및 계절 분포 같은 필요한 데이터가 누락되어 있어 답변이 불가능합니다. 추가로 필요한 정보는 라플란드 해안의 구체적 위치와 해양 환경 특징, 지역별 해조류 종 구성과 생태적 제약에 관한 데이터입니다.
+
+### bge en on korean
+
+**Algaebot:** 주어진 문헌들(\[1\]-\[5\])은 한국 연안의 해조류 분류, 담수 빨간알갱이류, 또는 환경 영향 하의 해조류 생물량 등 특정 지역이나 맥락에 국한된 연구로서, 라플란드의 냉수성 해안 생태계나 그 지역에 자라는 해조류 구성에 대한 정보는 포함되어 있지 않습니다. 따라서 라플란드에서 자라는 해조류의 구체적 목록이나 현지 생태를 이 데이터베이스에서 직접 확인할 수 없으며, 이 질문은 현재 제공된 자료의 범위를 벗어납니다. 라플란드의 해조류 정보를 얻으려면 북극권 해안의 냉수성 해조류 분포 자료나 현지 모니터링 자료가 필요합니다.
+
+# 1. April: getting started with knowledge graph
+
+I found this website <https://obofoundry.org/> that defines biology related ontologies, so i could create my relations based on their framework rather inveting something on my own.
+
+also **The Environment Ontology (ENVO);**
+
+OLS provides a hosted [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) server which enables LLMs to access ontology terms and hierarchies: <https://www.ebi.ac.uk/ols4/api/mcp> (Please note that the type of this endpoint is **Streamable HTTP** and not legacy SSE)
+
+-   The Sequence Ontology (SO) is required to describe specific features of biological sequences
+
+-   For molecular and cellular studies, the Gene Ontology (GO) is utilized to provide standard classifications for biological processes
+
+-    the Chemical Entities of Biological Interest (ChEBI) ontology is crucial for standardizing the representation of secondary metabolites, toxins, lipids, pigments, and industrially relevant polysaccharides extracted from algae
+
+    ## 3. 4.
+
+    adjusted prompt step 1:
+
+-   
+
+    1.  First, internally assess which of the provided passages are relevant to the question.

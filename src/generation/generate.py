@@ -77,8 +77,7 @@ findings and uncertainties.
 Task: Given retrieved passages from scientific literature on algae and 
 marine biology, answer the user's question following these steps:
 
-1. First, assess which of the provided passages are relevant to the question 
-   and briefly note why.
+1. First, internally assess which of the provided passages are relevant to the question.
 2. Synthesize information from ALL relevant passages into a coherent answer.
    You must draw from multiple sources where possible — do not rely on a single passage.
 3. If passages contain conflicting information, acknowledge the conflict and 
