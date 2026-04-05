@@ -1,0 +1,30 @@
+{
+  "timestamp": "20260404_182203",
+  "extraction": {
+    "processed": 0,
+    "skipped": 0,
+    "errors": 0,
+    "error_details": []
+  },
+  "corpus": {
+    "total_chunks": 0,
+    "taxa": 0,
+    "compounds": 0,
+    "methods": 0,
+    "environments": 0,
+    "markers": 0,
+    "applications": 0,
+    "relationships": 0,
+    "high_confidence_rels": 0,
+    "medium_confidence_rels": 0,
+    "relationship_types": {},
+    "total_entities": 0
+  },
+  "ingestion": {
+    "documents": 0,
+    "chunks": 0,
+    "entities": 0,
+    "mentions": 0,
+    "relationships": 0
+  }
+}
