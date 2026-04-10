@@ -15,7 +15,7 @@ from neo4j import GraphDatabase
 #GLOBAL VARIABLES
 CHUNKS_DIR = Path("../../data/chunks/recursive_1000")
 CACHE_DIR = Path("data/kg_extractions")
-REPORT_DIR = Path("src/outputs/graph")
+REPORT_DIR = Path("../../outputs/graph")
 NEO4J_URI = "neo4j://127.0.0.1:7687"
 NEO4J_USER = "neo4j"
 NEO4J_PASSWORD = "graphrag"

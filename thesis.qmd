@@ -1,0 +1,454 @@
+---
+title: "AlgaeBot: A Hybrid GraphRAG System for Domain-Specific Question Answering in Algae Research"
+author: "Filip Nový"
+date: today
+institute: "University of Southern Denmark"
+supervisor: "Tariq Youssef"
+
+format:
+  pdf:
+    documentclass: report
+    number-sections: true
+    toc: true
+    toc-depth: 3
+    lof: true          # list of figures
+    lot: true          # list of tables
+    geometry: margin=2.5cm
+    fontsize: 12pt
+    linestretch: 1.5
+    indent: true
+    keep-tex: false
+    cite-method: biblatex
+    biblio-style: apa
+
+bibliography: references.bib   # your .bib file goes here
+lang: en
+---
+
+\newpage
+
+# Abstract {.unnumbered}
+
+```{=html}
+<!--
+~250 words. Write last. Cover: motivation (why algae, why RAG), 
+what you built, how you evaluated it, and key findings.
+-->
+```
+
+*\[Write last. \~250 words. Summarise: the problem, your approach (hybrid GraphRAG), the evaluation framework (HOPE + RAGAS), and your main findings.\]*
+
+\newpage
+
+# Introduction
+
+## Background and Motivation
+
+```{=html}
+<!--
+Set the scene: the algae research domain, the volume of literature in the 
+*Algae* journal corpus (~879 PDFs), and why a domain-specific chatbot is valuable.
+Why is generic search or a general-purpose LLM insufficient?
+-->
+```
+
+## Research Questions
+
+```{=html}
+<!--
+State 2–3 focused RQs. Something like:
+RQ1: Can a hybrid GraphRAG architecture improve context recall over vector-only RAG 
+     for domain-specific algae queries?
+RQ2: Which chunking and embedding strategy yields the strongest retrieval performance 
+     as measured by the HOPE framework?
+RQ3: How does structured knowledge extracted via LLM-guided entity extraction 
+     complement unstructured vector retrieval?
+-->
+```
+
+## Thesis Structure
+
+```{=html}
+<!--
+One short paragraph walking the reader through the chapters.
+-->
+```
+
+\newpage
+
+# Related Work
+
+## Retrieval-Augmented Generation
+
+```{=html}
+<!--
+Core RAG paper (Lewis et al. 2020). Dense passage retrieval (Karpukhin et al.).
+RAG survey (Gao et al.). Explain the two-step retrieve-then-generate paradigm
+and its limitations (e.g. context recall ceiling without structured knowledge).
+-->
+```
+
+## Chunking Strategies
+
+```{=html}
+<!--
+Cover: fixed-size recursive splitting, semantic chunking (percentile threshold),
+and the Recursive Semantic Chunking approach (Latif et al.) that you implemented.
+Note the role of overlap, chunk size, and the effect on retrieval space inflation.
+-->
+```
+
+## Embedding Models and Re-ranking
+
+```{=html}
+<!--
+Sentence-BERT / bi-encoder paradigm (Reimers & Gurevych).
+BGE model family. Cross-encoder re-ranking.
+MultiQuery retrieval as a query expansion strategy.
+-->
+```
+
+## Knowledge Graphs in NLP
+
+```{=html}
+<!--
+Hogan et al. on knowledge graphs broadly.
+GraphRAG approaches — how graph traversal complements vector search.
+Ontology-grounded relation design (RO, BFO, ENVO, ChEBI, GO).
+-->
+```
+
+## Domain Context: Algae Research Literature
+
+```{=html}
+<!--
+Brief note on the *Algae* journal, the corpus, and why the domain 
+is challenging (multilingual content, OCR variability, taxonomic specificity).
+-->
+```
+
+\newpage
+
+# Data
+
+## Corpus Description
+
+```{=html}
+<!--
+~879 PDFs from the Korean journal *Algae*.
+Publication span, language mix (English + Korean), approximate token volume.
+Why newest-to-oldest processing order was chosen (OCR cost for pre-2007 scans).
+-->
+```
+
+## PDF Extraction Pipeline
+
+```{=html}
+<!--
+UnstructuredPDFLoader with fast-first / OCR-fallback strategy.
+Poppler + Tesseract for scanned documents.
+Preprocessing: removal of references, acknowledgements, and figure captions.
+LLM-based metadata extraction (title, authors, year, volume) via Gemma 3:1b.
+LLM-generated retrieval summaries (Gemma 3:1b prompt design and iteration).
+-->
+```
+
+## Corpus Statistics
+
+```{=html}
+<!--
+Table: total documents, documents requiring OCR, average pages,
+token distribution before/after preprocessing.
+-->
+```
+
+\newpage
+
+# Methodology
+
+## System Architecture Overview
+
+```{=html}
+<!--
+High-level diagram: PDF corpus → extraction → chunking → embedding → ChromaDB
+                                                         ↘ KG extraction → Neo4j
+Query → MultiQuery reformulation → vector retrieval → re-ranking → (KG lookup) → generation
+-->
+```
+
+## Chunking
+
+### Recursive Text Splitting
+
+```{=html}
+<!--
+LangChain RecursiveCharacterTextSplitter. Chunk size 1000, overlap 0.
+Why overlap = 0 was chosen (redundancy cost in retrieval space).
+-->
+```
+
+### Semantic Chunking
+
+```{=html}
+<!--
+Percentile-95 threshold. Results before and after preprocessing.
+Why it underperformed on this corpus (inter-chunk dependencies, short tail chunks).
+-->
+```
+
+### Recursive Semantic Chunking (RSC)
+
+```{=html}
+<!--
+Latif et al. approach: sentence-boundary splitting within a max-token budget.
+Implementation and observed chunk size distribution.
+-->
+```
+
+## Evaluation Framework: HOPE
+
+```{=html}
+<!--
+Your custom framework. Define the three metrics:
+ζ_con (coherence), ζ_sem (semantic density), ζ_inf (informativeness via retrieval).
+Justify why intrinsic + retrieval-based evaluation is necessary together.
+Present results table: recursive_1000 HOPE=0.8250 as best performer.
+-->
+```
+
+## Embedding
+
+```{=html}
+<!--
+BGE model family comparison: bge-base-en-v1.5 vs bge-m3.
+Why ζ_con and ζ_sem are embedding-independent (chunk-intrinsic).
+bge-m3 multilingual test results (Korean queries). Final choice: bge-base-en-v1.5.
+ChromaDB collection naming (note the recursive_100 / recursive_1000 quirk if relevant).
+-->
+```
+
+## Retrieval
+
+### Dense Vector Retrieval
+
+```{=html}
+<!--
+ChromaDB similarity search. Top-k selection.
+-->
+```
+
+### MultiQuery Expansion
+
+```{=html}
+<!--
+Gemma 3:1b via Ollama generating multiple reformulations of each query.
+Why this addresses vocabulary mismatch and boosts recall.
+-->
+```
+
+### Cross-Encoder Re-ranking
+
+```{=html}
+<!--
+BGE cross-encoder. How it re-scores retrieved candidates before passing to generation.
+Effect on latency (measured?) and answer quality.
+-->
+```
+
+## Prompt Engineering
+
+```{=html}
+<!--
+Systematic prompt iteration documented in your log.
+Role: marine biologist persona. Task decomposition (assess → synthesise → flag conflicts).
+Key additions: "do not cite unused sources", scope rejection for out-of-domain queries,
+persona self-identification as "Algaebot".
+Reference the taxonomy of prompt engineering techniques paper you read.
+-->
+```
+
+## Generation
+
+```{=html}
+<!--
+GPT-5-nano via OpenAI API as primary generator.
+Local toggle: Gemma 3:1b / Qwen3-4B via Ollama (CPU limitations noted).
+Config.py toggle design (USE_LOCAL_GENERATION flag).
+-->
+```
+
+## Knowledge Graph Construction
+
+### Schema Design
+
+```{=html}
+<!--
+7 relationship types grounded in real ontologies.
+RO, BFO, ENVO, ChEBI, GO, SO — which relation types came from which ontology.
+Deliberate decision not to invent relations without ontological grounding.
+-->
+```
+
+### Entity and Relation Extraction
+
+```{=html}
+<!--
+DeepSeek API with Pydantic + instructor for structured output.
+Processing order: newest-to-oldest (same as extraction pipeline, avoids OCR noise).
+Prompt design for extraction. Example extracted triple.
+-->
+```
+
+### Graph Storage and Querying
+
+```{=html}
+<!--
+Neo4j. Node and edge types. Cypher query patterns used during retrieval.
+-->
+```
+
+## Hybrid Retrieval (GraphRAG)
+
+```{=html}
+<!--
+How vector results and graph traversal are combined.
+Does graph lookup happen in parallel or as a fallback?
+How conflicts/redundancy between the two sources are handled at the prompt level.
+-->
+```
+
+\newpage
+
+# Evaluation
+
+## Baseline RAG Results (RAGAS)
+
+```{=html}
+<!--
+faithfulness: 0.852, answer_relevancy: NaN (explain why), 
+context_precision: 0.7277, context_recall: 0.5745.
+What NaN answer_relevancy means methodologically — address it explicitly.
+Interpretation: faithful generation but retrieval gaps motivate the KG component.
+-->
+```
+
+## GraphRAG vs. Baseline Comparison
+
+```{=html}
+<!--
+Same RAGAS metrics on the hybrid system.
+Delta table. Which metrics improved and why.
+If context_recall improved: attribute to graph traversal filling retrieval gaps.
+-->
+```
+
+## Ablation Analysis
+
+```{=html}
+<!--
+Chunking strategy × embedding model results (HOPE framework).
+Re-ranking: with vs without (retrieval quality delta).
+MultiQuery: with vs without (context recall delta).
+-->
+```
+
+## Qualitative Analysis
+
+```{=html}
+<!--
+A small set of representative Q&A examples:
+- A factual taxonomic query (Zostera marina)
+- A comparison query (CO2 fixation by 5 species)
+- A scope-rejection query (weather in Punta Arenas)
+- A multilingual query (Czech / Korean)
+Discuss where the system succeeds and where it still fails.
+-->
+```
+
+## Limitations
+
+```{=html}
+<!--
+context_recall ceiling without exhaustive graph coverage.
+GPU dependency for local generation.
+RAGAS answer_relevancy NaN — note as a measurement gap.
+Corpus language bias (primarily English-language papers about Korean species).
+-->
+```
+
+\newpage
+
+# Discussion
+
+```{=html}
+<!--
+Interpret results in relation to your RQs.
+Why did recursive_1000 outperform semantic chunking in this domain?
+What does the RAGAS recall gap tell us about pure vector RAG for specialised corpora?
+What does the graph add — and what does it fail to add?
+Implications for domain-specific RAG system design more broadly.
+-->
+```
+
+\newpage
+
+# Conclusion
+
+```{=html}
+<!--
+~1 page. Restate contributions:
+1. HOPE evaluation framework for chunking strategy selection
+2. Systematic embedding and retrieval ablation
+3. Ontology-grounded knowledge graph schema and extraction pipeline
+4. Hybrid GraphRAG system (AlgaeBot) with Streamlit interface
+State what worked, what didn't, and the most important lessons learned.
+-->
+```
+
+## Future Work
+
+```{=html}
+<!--
+GPU-accelerated local generation (UCloud / HPC).
+Expanding graph coverage to improve context recall.
+Agentic chunking (you flagged as promising but expensive).
+Fine-tuning an embedding model on algae literature.
+-->
+```
+
+\newpage
+
+# References {.unnumbered}
+
+::: {#refs}
+:::
+
+\newpage
+
+# Appendix {.unnumbered}
+
+## Appendix A: HOPE Metric Definitions and Formulas {.unnumbered}
+
+## Appendix B: Prompt Templates {.unnumbered}
+
+```{=html}
+<!--
+Final versions of: extraction prompt, generation prompt, MultiQuery prompt.
+-->
+```
+
+## Appendix C: Chunking Statistics {.unnumbered}
+
+```{=html}
+<!--
+Chunk size distributions per strategy (histograms or tables).
+-->
+```
+
+## Appendix D: System Configuration {.unnumbered}
+
+```{=html}
+<!--
+config.py parameters used in final evaluation.
+-->
+```

@@ -1,0 +1,336 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  english,
+  12pt,
+]{report}
+\usepackage{xcolor}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{5}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{setspace}
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\ifLuaTeX
+  \usepackage[english]{selnolig} % disable illegal ligatures
+\fi
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+\usepackage[style=apa,]{biblatex}
+\addbibresource{references.bib}
+
+
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={AlgaeBot: A Hybrid GraphRAG System for Domain-Specific Question Answering in Algae Research},
+  pdfauthor={Filip Nový},
+  pdflang={en},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{AlgaeBot: A Hybrid GraphRAG System for Domain-Specific Question
+Answering in Algae Research}
+\author{Filip Nový}
+\date{2026-04-08}
+\begin{document}
+\maketitle
+
+\renewcommand*\contentsname{Table of contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\listoffigures
+\listoftables
+
+\setstretch{1.5}
+\newpage
+
+\chapter*{Abstract}\label{abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+
+\emph{{[}Write last. \textasciitilde250 words. Summarise: the problem,
+your approach (hybrid GraphRAG), the evaluation framework (HOPE +
+RAGAS), and your main findings.{]}}
+
+\newpage
+
+\chapter{Introduction}\label{introduction}
+
+\section{Background and Motivation}\label{background-and-motivation}
+
+\section{Research Questions}\label{research-questions}
+
+\section{Thesis Structure}\label{thesis-structure}
+
+\newpage
+
+\chapter{Related Work}\label{related-work}
+
+\section{Retrieval-Augmented
+Generation}\label{retrieval-augmented-generation}
+
+\section{Chunking Strategies}\label{chunking-strategies}
+
+\section{Embedding Models and
+Re-ranking}\label{embedding-models-and-re-ranking}
+
+\section{Knowledge Graphs in NLP}\label{knowledge-graphs-in-nlp}
+
+\section{Domain Context: Algae Research
+Literature}\label{domain-context-algae-research-literature}
+
+\newpage
+
+\chapter{Data}\label{data}
+
+\section{Corpus Description}\label{corpus-description}
+
+\section{PDF Extraction Pipeline}\label{pdf-extraction-pipeline}
+
+\section{Corpus Statistics}\label{corpus-statistics}
+
+\newpage
+
+\chapter{Methodology}\label{methodology}
+
+\section{System Architecture
+Overview}\label{system-architecture-overview}
+
+\section{Chunking}\label{chunking}
+
+\subsection{Recursive Text Splitting}\label{recursive-text-splitting}
+
+\subsection{Semantic Chunking}\label{semantic-chunking}
+
+\subsection{Recursive Semantic Chunking
+(RSC)}\label{recursive-semantic-chunking-rsc}
+
+\section{Evaluation Framework: HOPE}\label{evaluation-framework-hope}
+
+\section{Embedding}\label{embedding}
+
+\section{Retrieval}\label{retrieval}
+
+\subsection{Dense Vector Retrieval}\label{dense-vector-retrieval}
+
+\subsection{MultiQuery Expansion}\label{multiquery-expansion}
+
+\subsection{Cross-Encoder Re-ranking}\label{cross-encoder-re-ranking}
+
+\section{Prompt Engineering}\label{prompt-engineering}
+
+\section{Generation}\label{generation}
+
+\section{Knowledge Graph
+Construction}\label{knowledge-graph-construction}
+
+\subsection{Schema Design}\label{schema-design}
+
+\subsection{Entity and Relation
+Extraction}\label{entity-and-relation-extraction}
+
+\subsection{Graph Storage and
+Querying}\label{graph-storage-and-querying}
+
+\section{Hybrid Retrieval (GraphRAG)}\label{hybrid-retrieval-graphrag}
+
+\newpage
+
+\chapter{Evaluation}\label{evaluation}
+
+\section{Baseline RAG Results (RAGAS)}\label{baseline-rag-results-ragas}
+
+\section{GraphRAG vs.~Baseline
+Comparison}\label{graphrag-vs.-baseline-comparison}
+
+\section{Ablation Analysis}\label{ablation-analysis}
+
+\section{Qualitative Analysis}\label{qualitative-analysis}
+
+\section{Limitations}\label{limitations}
+
+\newpage
+
+\chapter{Discussion}\label{discussion}
+
+\newpage
+
+\chapter{Conclusion}\label{conclusion}
+
+\section{Future Work}\label{future-work}
+
+\newpage
+
+\chapter*{References}\label{references}
+\addcontentsline{toc}{chapter}{References}
+
+\printbibliography[heading=none]
+
+\newpage
+
+\chapter*{Appendix}\label{appendix}
+\addcontentsline{toc}{chapter}{Appendix}
+
+\section*{Appendix A: HOPE Metric Definitions and
+Formulas}\label{appendix-a-hope-metric-definitions-and-formulas}
+\addcontentsline{toc}{section}{Appendix A: HOPE Metric Definitions and
+Formulas}
+
+\section*{Appendix B: Prompt
+Templates}\label{appendix-b-prompt-templates}
+\addcontentsline{toc}{section}{Appendix B: Prompt Templates}
+
+\section*{Appendix C: Chunking
+Statistics}\label{appendix-c-chunking-statistics}
+\addcontentsline{toc}{section}{Appendix C: Chunking Statistics}
+
+\section*{Appendix D: System
+Configuration}\label{appendix-d-system-configuration}
+\addcontentsline{toc}{section}{Appendix D: System Configuration}
+
+
+
+
+
+\end{document}

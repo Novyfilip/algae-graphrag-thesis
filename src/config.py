@@ -23,7 +23,7 @@ COLLECTION_NAME =  f"{CHUNKS_STRATEGY}" #f"{CHUNKS_STRATEGY}" # or f"{CHUNKS_STR
 
 # Models
 EMBEDDING_MODEL_NAME = "BAAI/bge-base-en-v1.5" #"BAAI/bge-m3" or "BAAI/bge-base-en-v1.5"
-REFORMULATION_MODEL = "gemma3:1b"
+REFORMULATION_MODEL = "gemma4:e2b"#"gemma3:1b"
 RERANKER_MODEL =  "BAAI/bge-reranker-base" # "BAAI/bge-reranker-v2-m3" or "BAAI/bge-reranker-base"
 GENERATION_MODEL = "gpt-5-nano"
 
@@ -36,8 +36,8 @@ TOP_K_RERANK = 5        # chunks kept after reranking
 USE_LOCAL_GENERATION = False  # True = Ollama, False = OpenAI
 
 # Models
-LOCAL_GENERATION_MODEL = "gemma3:1b"  # or llama3, mistral, granite
+LOCAL_GENERATION_MODEL = "gemma4:e2b"  # or llama3, mistral, granite, gemma3
 API_GENERATION_MODEL = "gpt-5-nano"
 
-LOCAL_REFORMULATION_MODEL = "gemma3:1b"
+LOCAL_REFORMULATION_MODEL = "gemma4:e2b"
 API_REFORMULATION_MODEL = "gpt-4o-mini"

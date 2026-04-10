@@ -1,0 +1,45 @@
+
+================================================================================
+KNOWLEDGE GRAPH CONSTRUCTION REPORT
+Generated: 20260408_145921
+================================================================================
+
+EXTRACTION PHASE
+----------------
+Chunks processed (new):  4
+Chunks skipped (cached): 31734
+Errors:                  3
+
+CORPUS STATISTICS
+-----------------
+Total chunks extracted:  31738
+Total entities:          187214
+  - Taxa:                81468
+  - Compounds:           17279
+  - Methods:             29344
+  - Environments:        47639
+  - Genetic markers:     6744
+  - Applications:        4740
+
+Total relationships:     133433
+  - High confidence:     105437
+  - Medium confidence:   27556
+
+Relationship types:
+  - FOUND_IN: 50602
+  - BELONGS_TO: 19519
+  - STUDIED_WITH: 30448
+  - CONTAINS: 8526
+  - AFFECTS: 9745
+  - PRODUCES: 7278
+  - IDENTIFIED_BY: 7315
+
+NEO4J INGESTION
+---------------
+Documents created:       868
+Chunks created:          31738
+Entity nodes created:    187214
+MENTIONS edges created:  187214
+Domain relationships:    132993
+
+================================================================================
