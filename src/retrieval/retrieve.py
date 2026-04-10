@@ -5,9 +5,12 @@ Handles embedding model loading, ChromaDB vectorstore setup,
 and MultiQuery retrieval using LangChain.
 """
 
+import os
+from dotenv import load_dotenv
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 from langchain_ollama import ChatOllama
+from langchain_openai import ChatOpenAI
 from langchain_classic.retrievers import MultiQueryRetriever
 from langchain_core.prompts import PromptTemplate
 
@@ -15,10 +18,14 @@ from config import (
     CHROMA_DIR,
     COLLECTION_NAME,
     EMBEDDING_MODEL_NAME,
-    REFORMULATION_MODEL,
+    USE_LOCAL_REFORMULATION,
+    LOCAL_REFORMULATION_MODEL,
+    API_REFORMULATION_MODEL,
     N_QUERIES,
     TOP_K_RETRIEVAL,
 )
+
+load_dotenv()
 
 
 def load_embedding_model():
@@ -44,11 +51,18 @@ def build_retriever(vectorstore):
     """
     Build the MultiQuery retriever.
     
-    Uses a local LLM (gemma3:1b) to generate N_QUERIES reformulations
-    of the user's question, retrieves TOP_K_RETRIEVAL results for each,
-    and returns the deduplicated union.
+    Generates N_QUERIES reformulations of the user's question,
+    retrieves TOP_K_RETRIEVAL results for each, and returns
+    the deduplicated union. LLM source (local/cloud) set in config.py.
     """
-    llm = ChatOllama(model=REFORMULATION_MODEL)
+    if USE_LOCAL_REFORMULATION:
+        llm = ChatOllama(model=LOCAL_REFORMULATION_MODEL)
+    else:
+        llm = ChatOpenAI(
+            model=API_REFORMULATION_MODEL,
+            api_key=os.getenv("DEEPSEEK_API_KEY"),
+            base_url="https://api.deepseek.com"
+        )
 
     prompt_text = f"""You are an AI assistant helping to improve information retrieval
 for a scientific database about algae research.

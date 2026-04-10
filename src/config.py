@@ -19,25 +19,31 @@ COLLECTION_NAME = "recursive_100"  # (misnamed, actually recursive_1000)
 EMBEDDING_MODEL_NAME = "BAAI/bge-base-en-v1.5"
 RERANKER_MODEL = "BAAI/bge-reranker-base" """
 CHUNKS_STRATEGY = "recursive_100"  # rsc or recursive_100
+CHUNK_DIR = DATA_DIR / "chunks" / "recursive_1000"
 COLLECTION_NAME =  f"{CHUNKS_STRATEGY}" #f"{CHUNKS_STRATEGY}" # or f"{CHUNKS_STRATEGY}_m3"
 
 # Models
 EMBEDDING_MODEL_NAME = "BAAI/bge-base-en-v1.5" #"BAAI/bge-m3" or "BAAI/bge-base-en-v1.5"
-REFORMULATION_MODEL = "gemma4:e2b"#"gemma3:1b"
-RERANKER_MODEL =  "BAAI/bge-reranker-base" # "BAAI/bge-reranker-v2-m3" or "BAAI/bge-reranker-base"
-GENERATION_MODEL = "gpt-5-nano"
+RERANKER_MODEL = "BAAI/bge-reranker-base"  # or "BAAI/bge-reranker-v2-m3"
 
 # Retrieval settings
 N_QUERIES = 5           # number of reformulations
 TOP_K_RETRIEVAL = 5     # results per reformulation from ChromaDB
 TOP_K_RERANK = 5        # chunks kept after reranking
 
-# Local vs API toggle
-USE_LOCAL_GENERATION = False  # True = Ollama, False = OpenAI
+# Local vs Cloud toggles — flip these to switch between Ollama and API
+USE_LOCAL_REFORMULATION = False  # True = Ollama (gemma4:e2b), False = DeepSeek API
+USE_LOCAL_GENERATION = False     # True = Ollama (gemma4:e2b), False = OpenAI API
 
-# Models
-LOCAL_GENERATION_MODEL = "gemma4:e2b"  # or llama3, mistral, granite, gemma3
+# Local models (Ollama)
+LOCAL_REFORMULATION_MODEL = "gemma4:e2b"
+LOCAL_GENERATION_MODEL = "gemma4:e2b"
+
+# Cloud models (API)
+API_REFORMULATION_MODEL = "deepseek-chat"
 API_GENERATION_MODEL = "gpt-5-nano"
 
-LOCAL_REFORMULATION_MODEL = "gemma4:e2b"
-API_REFORMULATION_MODEL = "gpt-4o-mini"
+# Neo4j settings
+NEO4J_URI = "neo4j://127.0.0.1:7687"
+NEO4J_USER = "neo4j"
+

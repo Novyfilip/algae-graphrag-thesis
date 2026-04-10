@@ -464,9 +464,7 @@ Since ζ_con and ζ_sem measure chunk-intrinsic properties independent of the em
 
 ### M3 question and answer:
 
-User: Jaká je minimální teplota, ve které přežije plankton?
-Algaebot: Na základě poskytnutých studií není přesná minimální teplota, při které by všechen plankton přežil, jednoznačně stanovena. Záznamy ukazují, že ambientní teploty v přírodě klesly až na 2.5°C (leden 2003) v Nakdongu, což svědčí o tom, že plankton dokázal přežít i při velmi nízkých teplotách \[1\], a v jiných lokalitách zimní teploty kolem 6–7°C byly spojeny s výskytem/planktonem (např. Naktong estuary) \[3\]. Na druhou stranu, u některých druhů (např. Microcystis aeruginosa) byla optimální teplota pro růst kolem 28°C a růst byl inhibován pod 17°C, tedy i když přežití může nastat při nižších teplotách, růst je výrazně omezen pod touto mezí \[3\]. V laboratorních podmínkách se u některých mikrorostlin ukázalo, že mohou fungovat i při teplotách kolem 10–16°C (např. Chlorella, Scenedesmus, Spirulina), což naznačuje širší toleranci k nízkým teplotám v kontrolovaném prostředí \[2\]. Obecně platí, že teplota ovlivňuje přežití a růst i u dinoflagellátů a dalších planktonních organizmů, a tedy kritickým faktorem není jen přežití při určitém minimu, ale i taxon-specifická odpověď na teplotu \[4\]. V extrémních podmínkách lab, cryoprezervace ukazuje přežití při velmi nízkých teplotách pod LN podmínkami, což ale není přírodní prostředí a slouží spíše jako poznámka o technikách uchovávání \[5\]. Celkově tedy: nejnižší ambientní teploty, při nichž bylo v literatuře zaznamenáno přežití planktonu, leží kolem 6–7°C (některé záznamy) a 2.5°C jako extrémní zimní hodnota prostředí, s tím, že růst bývá silně omezen pod kolem 17°C pro některé významné druhy \[1\], \[3\], \[2\], \[4\], \[5\].
-Soubory použitých zdrojů: \[1\] You-Jung Lee, Jong-Mun Jung\*, Pan-Se Shin and Gea-Jae Joo (2005). Daily Variation of Phytoplankton and Water Quality in the Lower Nakdong River. \[2\] Meenakshi Bhattacharjee, Evan Siemann (2015). Low algal diversity systems are a promising method for biodiesel production in wastewater fed open reactors. \[3\] Kyung-Je Cho, Ik-Kyo Chung, Jin-Ae Lee (1993). Seasonal Dynamics of Phytoplankton Community in the Naktong River Estuary, Korea. \[4\] Jin Hee Ok, Hae Jin Jeong, Hee Chang Kang, et al. (2022).
+User: Jaká je minimální teplota, ve které přežije plankton? Algaebot: Na základě poskytnutých studií není přesná minimální teplota, při které by všechen plankton přežil, jednoznačně stanovena. Záznamy ukazují, že ambientní teploty v přírodě klesly až na 2.5°C (leden 2003) v Nakdongu, což svědčí o tom, že plankton dokázal přežít i při velmi nízkých teplotách \[1\], a v jiných lokalitách zimní teploty kolem 6–7°C byly spojeny s výskytem/planktonem (např. Naktong estuary) \[3\]. Na druhou stranu, u některých druhů (např. Microcystis aeruginosa) byla optimální teplota pro růst kolem 28°C a růst byl inhibován pod 17°C, tedy i když přežití může nastat při nižších teplotách, růst je výrazně omezen pod touto mezí \[3\]. V laboratorních podmínkách se u některých mikrorostlin ukázalo, že mohou fungovat i při teplotách kolem 10–16°C (např. Chlorella, Scenedesmus, Spirulina), což naznačuje širší toleranci k nízkým teplotám v kontrolovaném prostředí \[2\]. Obecně platí, že teplota ovlivňuje přežití a růst i u dinoflagellátů a dalších planktonních organizmů, a tedy kritickým faktorem není jen přežití při určitém minimu, ale i taxon-specifická odpověď na teplotu \[4\]. V extrémních podmínkách lab, cryoprezervace ukazuje přežití při velmi nízkých teplotách pod LN podmínkami, což ale není přírodní prostředí a slouží spíše jako poznámka o technikách uchovávání \[5\]. Celkově tedy: nejnižší ambientní teploty, při nichž bylo v literatuře zaznamenáno přežití planktonu, leží kolem 6–7°C (některé záznamy) a 2.5°C jako extrémní zimní hodnota prostředí, s tím, že růst bývá silně omezen pod kolem 17°C pro některé významné druhy \[1\], \[3\], \[2\], \[4\], \[5\]. Soubory použitých zdrojů: \[1\] You-Jung Lee, Jong-Mun Jung\*, Pan-Se Shin and Gea-Jae Joo (2005). Daily Variation of Phytoplankton and Water Quality in the Lower Nakdong River. \[2\] Meenakshi Bhattacharjee, Evan Siemann (2015). Low algal diversity systems are a promising method for biodiesel production in wastewater fed open reactors. \[3\] Kyung-Je Cho, Ik-Kyo Chung, Jin-Ae Lee (1993). Seasonal Dynamics of Phytoplankton Community in the Naktong River Estuary, Korea. \[4\] Jin Hee Ok, Hae Jin Jeong, Hee Chang Kang, et al. (2022).
 
 ## 30. 3. testing bge-en vs m3 on rsc chunks
 
@@ -498,6 +496,188 @@ OLS provides a hosted [Model Context Protocol (MCP)](https://modelcontextprotoc
 
     adjusted prompt step 1:
 
+    1.  First, internally assess which of the provided passages are relevant to the questions
+
+    ### Ontological relations I found relevant
+
+    -   `part_of` (BFO:0000050)
+
+    <!-- -->
+
+    -   `has_participant` (RO:0000057)
+
+    <!-- -->
+
+    -   `located_in` (RO:0001025)
+
+    <!-- -->
+
+    -   `derives_from` (RO:0001000)
+
+    <!-- -->
+
+    -   `has_input` / `has_output` (RO:0002233 / RO:0002234)
+
+    -   `biotically interacts with`, `confers advantage in`, `creates habitat for`, `ecologically co-occurs with`, `has habitat`, `transmitted by`
+
+    -   And ENVO documentation references `RO:located in` \[RO_0001025\] and `RO:surrounded by` \[RO_0002219\]
+
+    -   Also causal relations exist: `causally upstream of`, `negatively regulates`, `positively regulates`, `regulates`
+
+        ### Relation discovery prompt
+
+        Read these sample papers. List every concrete relationship you observe between entities, in this format:
+
+        (Entity A) → \[RELATIONSHIP\] → (Entity B)
+
+        Focus on relationships like:
+
+        Species producing/containing compounds
+
+        Species found in locations/environments
+
+        Methods applied to study species
+
+        Parameters affecting biological processes
+
+        Genetic markers used for identification
+
+        Examples of what I want:
+
+        (Porphyra birdiae) → \[FOUND_IN\] → (Northwest Atlantic)
+
+        (Porphyra birdiae) → \[STUDIED_WITH\] → (rbcL sequencing)
+
+        (Porphyra birdiae) → \[RELATED_TO\] → (Porphyra purpurea)
+
+        List as many as you find. Don't explain — just list the triplets.
+
+        ### Relations I settled on
+
+        | Relation | Description | Example | RO Mapping |
+        |------------------|-------------------|------------------|------------------|
+        | FOUND_IN | Species located in environment or geographic location | *Ulva pertusa* → intertidal zone | has habitat (RO:0002303) |
+        | PRODUCES | Species biosynthesizes or yields compound | *P. tricornutum* → fucoxanthin | has output (RO:0002234) |
+        | STUDIED_WITH | Species analyzed using method or technique | *Porphyra* → rbcL sequencing | Domain-specific |
+        | IDENTIFIED_BY | Species identified using genetic marker | *P. birdiae* → SSU marker | Domain-specific |
+        | BELONGS_TO | Taxonomic hierarchy (species → genus → family) | *P. birdiae* → Porphyra | in taxon (RO:0002162) |
+        | AFFECTS | Parameter or condition influences process or organism | salinity → growth rate | regulates (RO:0002211) |
+        | CONTAINS | Species contains or is source of compound | Sargassum → alginate | has part (BFO:0000051) |
+
+# 4.4. Progress - graph.py script to create graph from whole corpus
+
+**What I built:**
+
+-   Complete extraction pipeline using DeepSeek API + instructor library for structured output
+
+-   Pydantic schemas with distinct field names (species_name, compound_name, etc.) to prevent LLM pattern-matching confusion
+
+-   Nested "tackle box" response model (ExtractionResult) that organizes entities into separate drawers (taxa, compounds, methods, environments, markers, applications)
+
+-   File-based caching system: one JSON per chunk, allows interruption and resumption without re-paying for API calls
+
+-   Neo4j ingestion functions: lexical subgraph (Document → Chunk with PART_OF and NEXT_CHUNK edges) and domain subgraph (entity nodes + MENTIONS edges + domain relationships)
+
+-   Auomated reporting: generates both detailed JSON and human-readable summary after each run
+
+**technical decisions:**
+
+-   Using instructor.Mode.JSON to enforce Pydantic schema compliance from DeepSeek
+
+-   Confidence scores (0.0-1.0) on all relationships; filtering out \<0.5 before ingestion
+
+-   MERGE instead of CREATE in Cypher to deduplicate entities across papers
+
+-   Processing papers newest-first to avoid OCR garbage from pre-2010 documents
+
+**Pilot results (100 chunks):**
+
+-   551 entities extracted
+
+-   436 relationships extracted
+
+-   Entiy-to-relationship ratio: 1.26 (healthy)
+
+-   15.1% orphan rate (acceptable)
+
+-   1 error (1%)
+
+**Status:** Full extraction running overnight (\~32,000 chunks, estimated \$10-12 on DeepSeek). Results will be in Neo4j tomorrow morning.
+
+**Next steps:**
+
+-   Validate graph structure in Neo4j Browser
+
+-   Implement hybrid retrieval (vector + graph traversal)
+
 -   
 
-    1.  First, internally assess which of the provided passages are relevant to the question.
+-   Re-run RAGAS evaluation to measure context recall improvement
+
+# 9. 4. - starting to implement kg retrieval
+
+I actually wanted to implement the knowledge graph already and hoped no one would notice the hallucations. I know gemma 1b is crap, but it was surprisingly powerful for what it is. Ive actually been thinking of swappin in gemma 4 e2b or e4b which came out recently. I wasnt thinking for the metadata extraction, for that it feels too late, but for reformulating and reranking. like.. you know. I already embedded the faulty metadata. cant i argue I could use no better model with my hardware? Yes, I can still embed the chunks.. WHERE THE TITLE CHANGED. damn, that could be brilliant, wouldnt it? then i wouldnt need to rerun the whole thing. but.. i already passed all my chunks to create the knowledge graph, so then the knowledge graph could have nodes for papers that dont truly bear that name, wouldnt that be a problem? idk man, i dont need a perfect rag system, just meet the goals of my thesis and build something I can be proud to present.
+
+# 10. 4. progress
+
+### insight:
+
+read mycrosoft paper, conclusion: Edge et al. (2024) proposed community-based summarization for corpus-level queries. Our system targets entity-specific scientific questions where direct graph traversal provides more interpretable and efficient retrieval.
+
+### thesis writing
+
+I started writing my thesis where I drafted headlines, introduction and noted for future self what i need to write.
+
+## **Changes Made**
+
+**`config.py`** — Two clear toggles (`USE_LOCAL_REFORMULATION`, `USE_LOCAL_GENERATION`), each with local/cloud model names. Removed dead `REFORMULATION_MODEL` and `GENERATION_MODEL` single variables.
+
+**`retrieve.py`** — Respects `USE_LOCAL_REFORMULATION` toggle. Uses DeepSeek API when `False`, Ollama when `True`. Updated docstring.
+
+**`generate.py`** — Updated to import `API_GENERATION_MODEL` instead of removed `GENERATION_MODEL`.
+
+**`algaebot.py`** — **Sidebar bug fixed.** `top_chunks` stored in `st.session_state`, sidebar rendered outside the `if user_input:` block so it persists across Streamlit reruns.
+
+**`pipeline.py`** — Fixed module docstring. Fixed 3-value unpacking in both console modes.
+
+**`evaluate_pipeline.py`** — Fixed 3-value unpacking (would have crashed next RAGAS run).
+
+I noticed the chunk ids dont match in files and neo4j rn.
+
+**note for thesis 2:**
+
+*3 chunks were excluded from graph extraction due to token-limit errors on embedded tables; these remain retrievable via the vector store but contribute no graph triplets*
+
+## Unplanned chroma reindexing detour
+
+**Planned**: Wire up hybrid retrieval end-to-end. Write the graph expansion Cypher, the triplet reranker, and get a working baseline-vs-hybrid comparison on the two test queries (simple Zostera lookup, complex multi-hop salinity query).
+
+**What actually happened**: Discovered during the first sanity check that the existing ChromaDB collection (`recursive_100`, contents are recursive_1000) did not store `chunk_id` in chunk metadata — only document-level fields (filename, title, authors, year). This made it impossible to join vector search results to the Neo4j knowledge graph at the chunk level, which is the architectural foundation of the whole hybrid retrieval approach.
+
+The Neo4j `Chunk` nodes use `chunk_id` strings in the format `{filename_stem}_chunk_{index:03d}`, e.g. `algae-1986-1-1-117_chunk_000`. These IDs were constructed during graph ingestion from filename and within-file position, and are not present anywhere in the original Chroma metadata. The chunk JSON files on disk contain a `chunk_id` field but it's a local integer (0, 1, 2, ...), not the globally unique string.
+
+**Decision**: Rebuild the Chroma collection from the same recursive_1000 chunk JSON files, this time constructing the Neo4j-format `chunk_id` from filename and position during ingestion and storing it in metadata. Same embeddings (BGE-base-en-v1.5), same chunks, same order — only the metadata is enriched. Baseline RAGAS scores remain reproducible because nothing about the retrieval behavior changes, only the ability to join to the graph.
+
+Considered and rejected: joining Chroma results to Neo4j by exact text match on chunk content. Fragile (whitespace, encoding), undefensible at viva, zero upside over reindexing.
+
+**Minor finding**: Chunk counts are 31,741 on disk vs 31,738 in Neo4j. The 3-chunk gap matches the handoff note about token-limit errors on chunks with huge embedded tables during KG extraction. Not a bug; these chunks remain retrievable via vector search but contribute no graph triplets. Worth acknowledging as a one-line limitation in the thesis.
+
+**Status at end of session**: Reindexing cell written and tested on the data-loading step (31,741 chunks collected correctly). Actual delete-and-rebuild of the Chroma collection, and the \~20–40 minute embedding run, still pending. Hybrid retrieval itself not yet implemented.
+
+**Lesson**: The hybrid architecture assumes a shared `chunk_id` join key between the vector store and the graph store. This should have been verified on day one of building the graph, not discovered on the day of wiring up retrieval. Worth flagging in the methodology chapter as a "lessons learned" footnote about dual-store RAG systems.
+
+**Next session**: ~~Run Cell 2 (delete + recreate collection), Cell 3 (batched add with embeddings). Verify final count is 31,741. Then resume the original plan: graph expansion Cypher, Gemma 4 E2B triplet filter, hybrid context assembly, side-by-side comparison on the two test queries.~~ DONE — see below.
+
+## Evening session — Chroma rebuild + architectural pivot
+
+**Chroma re-embedding**: Ran the delete+recreate+batch-add cells. First run crashed after 56 minutes with `TypeError: failed to extract enum MetadataValue` — several JSON source files have `None` values for title, authors, or year, and ChromaDB's Rust backend cannot store `None` in metadata. Fixed by adding fallback defaults (`paper.get("title") or "Untitled"`, etc.). Surprising number of papers had null metadata. Re-running with the fix.
+
+**Architectural pivot — triplets, not chunk merging**: Originally planned dual-entry retrieval (vector chunks + graph chunks merged into one pool, then reranked). After working through the implementation, realized that the graph's value isn't finding *more of the same chunks* — it's contributing *structured domain knowledge* that text retrieval fundamentally can't capture. 
+
+New approach: `expand_from_chunks()` takes vector-retrieved chunk IDs, traverses Chunk→MENTIONS→Entity→domain relationships in Neo4j, and returns (subject, predicate, object, confidence) triplets. These get injected as a separate "Related knowledge graph facts" section in the generation prompt, alongside the existing chunk context. No reranking needed for triplets — they're already filtered by confidence ≥ 0.7.
+
+This is stronger for the thesis narrative: the graph and vector stores contribute *different types* of context (structured facts vs unstructured passages), rather than competing to find the same text.
+
+**Model swap completed**: Reformulation now uses DeepSeek API (deepseek-chat) via `USE_LOCAL_REFORMULATION = False` toggle in config. Should significantly reduce query latency vs the old local gemma3:1b calls. Gemma4:e2b available locally as fallback.
+
+**Next session**: Wait for Chroma re-embedding to finish (~40 min). Verify final count is 31,741. Then run the end-to-end test: vector retrieve → graph expand → build enriched context → generate baseline vs hybrid answers for both test queries. Compare outputs qualitatively.

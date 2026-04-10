@@ -131,21 +131,26 @@ if user_input:
     
     # Run pipeline
     with st.spinner("Searching and generating answer..."):
-        answer, contexts, top_chunks  = run_pipeline(user_input, st.session_state.components, st.session_state.messages)
-    # Sidebar
-    with st.sidebar:
-        st.header("Retrieved Chunks")
-        for score, doc in top_chunks:
-            st.markdown(f"**Score: {score:.3f}**")
-            st.markdown(f"*{doc.metadata.get('title', 'Untitled')}*")
-            st.text(doc.page_content[:200] + "...")
-            st.divider()
+        answer, contexts, top_chunks = run_pipeline(user_input, st.session_state.components, st.session_state.messages)
     
-    # Adds bot response to history
+    # Store chunks for sidebar (persists across reruns)
+    st.session_state.top_chunks = top_chunks
+    
+    # Add bot response to history
     st.session_state.messages.append({"role": "assistant", "content": answer})
     
     # Rerun to update display
     st.rerun()
+
+# Sidebar — rendered outside the if block so it persists across reruns
+if "top_chunks" in st.session_state and st.session_state.top_chunks:
+    with st.sidebar:
+        st.header("Retrieved Chunks")
+        for score, doc in st.session_state.top_chunks:
+            st.markdown(f"**Score: {score:.3f}**")
+            st.markdown(f"*{doc.metadata.get('title', 'Untitled')}*")
+            st.text(doc.page_content[:200] + "...")
+            st.divider()
 
 # Footer
 st.markdown('<div class="footer">Made by Filip Nový for University of Southern Denmark, 2026</div>', unsafe_allow_html=True)

@@ -9,7 +9,7 @@ import os
 from openai import OpenAI
 from dotenv import load_dotenv
 from langchain_ollama import ChatOllama
-from config import GENERATION_MODEL, USE_LOCAL_GENERATION, LOCAL_GENERATION_MODEL
+from config import API_GENERATION_MODEL, USE_LOCAL_GENERATION, LOCAL_GENERATION_MODEL
 
 load_dotenv()
 
@@ -119,7 +119,7 @@ Answer:"""
     else:
         # OpenAI path
         response = client.chat.completions.create(
-            model=GENERATION_MODEL,
+            model=API_GENERATION_MODEL,
             messages=[{"role": "user", "content": prompt}]
         )
         return response.choices[0].message.content

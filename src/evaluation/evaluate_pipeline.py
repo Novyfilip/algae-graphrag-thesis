@@ -41,7 +41,7 @@ def run_evaluation(testset_path, output_path, components):
         print(f"[{i+1}/{len(df)}] {question[:80]}...")
 
         try:
-            answer, contexts = run_pipeline(question, components)
+            answer, contexts, top_chunks = run_pipeline(question, components)
             answers.append(answer)
             all_contexts.append(contexts)
         except Exception as e:

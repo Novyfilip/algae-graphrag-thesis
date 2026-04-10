@@ -1,13 +1,13 @@
 """
-generation package
+pipeline.py
 
 Full query-time pipeline: MultiQuery retrieval -> Reranking -> Generation
 
 Usage:
-    from generation import setup, run_pipeline
+    from pipeline import setup, run_pipeline
     
     components = setup()
-    answer, contexts = run_pipeline("What is Zostera marina?", components)
+    answer, contexts, top_chunks = run_pipeline("What is Zostera marina?", components)
 """
 
 from retrieval.retrieve import load_embedding_model, load_vectorstore, build_retriever
@@ -46,7 +46,7 @@ def run_pipeline(query, components, chat_history=None):
         components: Dictionary returned by setup()
     
     Returns:
-        Tuple of (answer_string, list_of_plain_text_contexts)
+        Tuple of (answer_string, list_of_plain_text_contexts, list_of_reranked_chunks)
     """
     retriever = components["retriever"]
     reranker = components["reranker"]
@@ -75,7 +75,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         # default query passed as argument: python -m generation "What is Zostera marina?"
         query = " ".join(sys.argv[1:])
-        answer, contexts = run_pipeline(query, components)
+        answer, contexts, top_chunks = run_pipeline(query, components)
         print(answer)
     else:
         # Interactive mode
@@ -84,5 +84,5 @@ if __name__ == "__main__":
             query = input("Question: ")
             if query.lower() in ("quit", "exit", "q"):
                 break
-            answer, contexts = run_pipeline(query, components)
+            answer, contexts, top_chunks = run_pipeline(query, components)
             print(f"\n{answer}\n")
