@@ -630,17 +630,17 @@ I started writing my thesis where I drafted headlines, introduction and noted fo
 
 ## **Changes Made**
 
-**`config.py`** — Two clear toggles (`USE_LOCAL_REFORMULATION`, `USE_LOCAL_GENERATION`), each with local/cloud model names. Removed dead `REFORMULATION_MODEL` and `GENERATION_MODEL` single variables.
+**`config.py`** Two clear toggles (`USE_LOCAL_REFORMULATION`, `USE_LOCAL_GENERATION`), each with local/cloud model names. Removed dead `REFORMULATION_MODEL` and `GENERATION_MODEL` single variables.
 
-**`retrieve.py`** — Respects `USE_LOCAL_REFORMULATION` toggle. Uses DeepSeek API when `False`, Ollama when `True`. Updated docstring.
+**`retrieve.py`** Respects `USE_LOCAL_REFORMULATION` toggle. Uses DeepSeek API when `False`, Ollama when `True`. Updated docstring.
 
-**`generate.py`** — Updated to import `API_GENERATION_MODEL` instead of removed `GENERATION_MODEL`.
+**`generate.py`** Updated to import `API_GENERATION_MODEL` instead of removed `GENERATION_MODEL`.
 
-**`algaebot.py`** — **Sidebar bug fixed.** `top_chunks` stored in `st.session_state`, sidebar rendered outside the `if user_input:` block so it persists across Streamlit reruns.
+**`algaebot.py`** **Sidebar bug fixed.** `top_chunks` stored in `st.session_state`, sidebar rendered outside the `if user_input:` block so it persists across Streamlit reruns.
 
-**`pipeline.py`** — Fixed module docstring. Fixed 3-value unpacking in both console modes.
+**`pipeline.py`** Fixed module docstring. Fixed 3-value unpacking in both console modes.
 
-**`evaluate_pipeline.py`** — Fixed 3-value unpacking (would have crashed next RAGAS run).
+**`evaluate_pipeline.py`** Fixed 3-value unpacking (would have crashed next RAGAS run).
 
 I noticed the chunk ids dont match in files and neo4j rn.
 
@@ -666,18 +666,42 @@ Considered and rejected: joining Chroma results to Neo4j by exact text match on 
 
 **Lesson**: The hybrid architecture assumes a shared `chunk_id` join key between the vector store and the graph store. This should have been verified on day one of building the graph, not discovered on the day of wiring up retrieval. Worth flagging in the methodology chapter as a "lessons learned" footnote about dual-store RAG systems.
 
-**Next session**: ~~Run Cell 2 (delete + recreate collection), Cell 3 (batched add with embeddings). Verify final count is 31,741. Then resume the original plan: graph expansion Cypher, Gemma 4 E2B triplet filter, hybrid context assembly, side-by-side comparison on the two test queries.~~ DONE — see below.
+**Next session**: Run Cell 2 (delete + recreate collection), Cell 3 (batched add with embeddings). Verify final count is 31,741. Then resume the original plan: graph expansion Cypher, Gemma 4 E2B triplet filter, hybrid context assembly, side-by-side comparison on the two test queries.
 
-## Evening session — Chroma rebuild + architectural pivot
+## 11. 4. progress
 
-**Chroma re-embedding**: Ran the delete+recreate+batch-add cells. First run crashed after 56 minutes with `TypeError: failed to extract enum MetadataValue` — several JSON source files have `None` values for title, authors, or year, and ChromaDB's Rust backend cannot store `None` in metadata. Fixed by adding fallback defaults (`paper.get("title") or "Untitled"`, etc.). Surprising number of papers had null metadata. Re-running with the fix.
+**New: Hub node filtering**:
 
-**Architectural pivot — triplets, not chunk merging**: Originally planned dual-entry retrieval (vector chunks + graph chunks merged into one pool, then reranked). After working through the implementation, realized that the graph's value isn't finding *more of the same chunks* — it's contributing *structured domain knowledge* that text retrieval fundamentally can't capture. 
+In knowledge graphs, some entities are highly connected "hubs", broad taxonomic categories like "Chlorophyta" (connected to every green alga species, every method, every compound). When graph traversal expands from a hub, it floods the results with generic, low-value facts, drowning out specific relationships.
 
-New approach: `expand_from_chunks()` takes vector-retrieved chunk IDs, traverses Chunk→MENTIONS→Entity→domain relationships in Neo4j, and returns (subject, predicate, object, confidence) triplets. These get injected as a separate "Related knowledge graph facts" section in the generation prompt, alongside the existing chunk context. No reranking needed for triplets — they're already filtered by confidence ≥ 0.7.
+The fix is analogous to *TF-IDF* in text retrieval: just as common words like *the* are downweighted because they appear everywhere and carry no discriminative signal, highly-connected entities are filtered because their relationships are too generic to add value for a specific query. We apply a **degree cap** (`size([(entity)-[]-() | 1]) < 100`) that excludes entities with more than 100 connections, forcing the traversal toward more specific nodes like "eelgrass bed" or "tidal flats" which produce targeted, query-relevant facts.
 
-This is stronger for the thesis narrative: the graph and vector stores contribute *different types* of context (structured facts vs unstructured passages), rather than competing to find the same text.
+This went from 40 generic Chlorophyta triplets to 10 specific, actionable facts about the exact entities and environments the user asked about.
 
-**Model swap completed**: Reformulation now uses DeepSeek API (deepseek-chat) via `USE_LOCAL_REFORMULATION = False` toggle in config. Should significantly reduce query latency vs the old local gemma3:1b calls. Gemma4:e2b available locally as fallback.
+## FIRST TEST RUN
 
-**Next session**: Wait for Chroma re-embedding to finish (~40 min). Verify final count is 31,741. Then run the end-to-end test: vector retrieve → graph expand → build enriched context → generate baseline vs hybrid answers for both test queries. Compare outputs qualitatively.
+### vector-only
+
+=== BASELINE (vector only) ===
+
+Under the salinity range of 5–40 psu, Ulva pertusa shows higher nitrate and phosphate uptake at intermediate salinities (about 20–25 psu) with growth rates peaking near 20 psu, while uptake levels for phosphate rise more rapidly than nitrate at the lower end (5–20 psu), producing a decrease in the tissue N:P ratio at low salinity and an increase with higher salinity (30–50) \[2\]. Salinity also significantly influences chlorophyll-a content and effective quantum yield, i.e., the photosynthetic performance, of U. pertusa, indicating that salinity stress can modulate photosynthetic efficiency in this green macroalga \[1\]\[3\]. In seagrass beds, macroalgae are noted to have a broader salinity tolerance than strictly marine algae and intertidal species may tolerate low salinities better than sublittoral ones, though field and laboratory work is needed to understand how salinity and other stresses interact with eutrophication to affect seagrass ecosystems \[5\]. However, the provided passages do not contain direct data on Zostera marina's photosynthetic response to salinity, so the question about Z. marina remains unresolved within this dataset. Sources: \[1\] Choi, Kang, Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa from an eelgrass bed. Algae, 25(1):17-26; \[2\] Choi, Kang, Kim (2010). (same article excerpts on uptake). \[5\] Choi, Kang, Kim (2010). (contextual notes on salinity and seagrass beds). \[4\] 최태섭, 김광용 (2002). The growth of green macroalgal mats is becoming increasingly common in many marine intertidal habitats.
+
+### hybrid
+
+ˇ\~= Hybrid (vector + graph triplets) =\~ˇ
+
+Within the provided Ulva pertusa data, nutrient uptake is strongest at intermediate salinities in the 20–25 psu range, with nitrate and phosphate uptake both higher there than at the extremes; phosphate uptake even increases more rapidly than nitrate as salinity drops toward 5–20 psu, and maximum growth occurs near 20 psu (µ ≈ 0.02–0.032 d−1) with reduced growth at 40 psu. Tissue N and P contents are 1.5–2.9% N and 0.1–0.14% P, and the tissue N:P ratio is high (30–50), rising with salinity. Salinity also significantly influences chlorophyll-a content and effective quantum yield, indicating that photosynthetic performance in Ulva is tied to salinity conditions. Together, these findings illustrate a broad salinity tolerance in Ulva from eelgrass beds but with optimal uptake and photosynthetic indicators at moderate salinities around 20 psu \[1\]\[2\]\[5\]. However, the passages do not provide any direct data on Zostera marina photosynthetic responses to salinity; in fact, the seagrass context here notes that salinity’s role for macroalgae ecology in seagrass beds may be less important than factors like light and temperature, and no direct Zostera photosynthesis measurements under 5–40 psu are reported \[5\]. Missing: direct information on how 5–40 psu salinity regimes affect Zostera marina photosynthesis; future work would need to measure seagrass photosynthetic indicators under comparable salinity stress. Sources used: \[1\], \[2\], \[5\].
+
+Sources: \[1\] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed \[2\] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed \[3\] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed \[4\] 최태섭, 김광용 (2002). The growth of green macroalgal mats is becoming increasingly common in many marine intertidal habitats. \[5\] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed
+
+# FUTURE WORK
+
+-   Late chunking (Jina AI, 2024) addresses context loss by embedding full documents before splitting. This approach could complement our hybrid retrieval by improving individual chunk quality, but would require re-engineering the ingestion pipeline and is left for future work
+
+<!-- -->
+
+-   agentic rag
+
+-   steiner tree
+
+-   microsoft L-something algorithm that involves naming broad themes of graph neighborhoods

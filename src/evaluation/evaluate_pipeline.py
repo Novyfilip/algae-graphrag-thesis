@@ -16,11 +16,11 @@ from pipeline import setup, run_pipeline
 from config import OUTPUTS_DIR
 
 from ragas import evaluate
-from ragas.metrics import (
-    faithfulness,
-    answer_relevancy,
-    context_precision,
-    context_recall,
+from ragas.metrics.collections import (
+    Faithfulness,
+    AnswerRelevancy,
+    ContextPrecision,
+    ContextRecall,
 )
 from datasets import Dataset
 
@@ -66,7 +66,7 @@ def run_evaluation(testset_path, output_path, components):
     print("\nRunning RAGAS evaluation...")
     result = evaluate(
         dataset=eval_dataset,
-        metrics=[faithfulness, answer_relevancy, context_precision, context_recall],
+        metrics=[Faithfulness(), AnswerRelevancy(), ContextPrecision(), ContextRecall()],
     )
 
     print("\n===== EVALUATION RESULTS =====")

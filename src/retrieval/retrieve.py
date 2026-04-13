@@ -23,7 +23,11 @@ from config import (
     API_REFORMULATION_MODEL,
     N_QUERIES,
     TOP_K_RETRIEVAL,
+    NEO4J_URI,
+    NEO4J_USER,
+    NEO4J_PASSWORD,
 )
+from neo4j import GraphDatabase
 
 load_dotenv()
 
@@ -96,3 +100,49 @@ Original question: {{question}}"""
     )
 
     return retriever
+
+def load_graph_driver():
+    """Initializes and returns the Neo4j driver instance using config variables."""
+    try:
+        auth = (NEO4J_USER, NEO4J_PASSWORD)
+        driver = GraphDatabase.driver(NEO4J_URI, auth=auth)
+        driver.verify_connectivity()
+        print("GraphDatabase driver loaded successfully.")
+        return driver
+    except Exception as e:
+        print(f"Failed to connect to Neo4j Graph Database: {e}")
+        return None
+
+def expand_from_chunks(chunk_ids, driver, max_triplets=40):
+    """
+    Query the connected Neo4j knowledge graph using vector chunk IDs.
+    Returns 1-hop connected facts (triplets), dynamically penalizing massive hubs.
+    """
+    if not driver:
+        print("Warning: Graph driver not available. Skipping graph expansion.")
+        return []
+
+    cypher = """
+    MATCH (c:Chunk) WHERE c.chunk_id IN $chunk_ids
+    MATCH (c)-[:MENTIONS]->(entity)
+    
+    // Degree penalty graph hub filter
+    WITH entity
+    WHERE size([(entity)-[]-() | 1]) < 100
+    
+    MATCH (entity)-[r]->(neighbor)
+    WHERE type(r) IN ['FOUND_IN','PRODUCES','STUDIED_WITH',
+                      'IDENTIFIED_BY','BELONGS_TO','AFFECTS','CONTAINS']
+      AND r.confidence >= 0.7
+    RETURN DISTINCT
+        entity.name  AS subject,
+        type(r)      AS predicate,
+        neighbor.name AS object,
+        r.confidence AS confidence
+    ORDER BY r.confidence DESC
+    LIMIT $max_triplets
+    """
+    
+    with driver.session() as session:
+        result = session.run(cypher, chunk_ids=chunk_ids, max_triplets=max_triplets)
+        return [(r["subject"], r["predicate"], r["object"], r["confidence"]) for r in result]

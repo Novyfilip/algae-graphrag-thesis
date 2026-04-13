@@ -1,0 +1,1069 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>log</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="log_files/libs/clipboard/clipboard.min.js"></script>
+<script src="log_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="log_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="log_files/libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="log_files/libs/quarto-html/popper.min.js"></script>
+<script src="log_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="log_files/libs/quarto-html/anchor.min.js"></script>
+<link href="log_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="log_files/libs/quarto-html/quarto-syntax-highlighting-b1010ed3cd212492f61910bf2317df72.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="log_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="log_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="log_files/libs/bootstrap/bootstrap-9e3ffae467580fdb927a41352e75a2e0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent quarto-light">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+
+
+
+<section id="started-working-on-a-simple-pipeline" class="level1">
+<h1>4. 2. 2026 - started working on a simple pipeline</h1>
+<p>from langchain documentation:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Architecture</strong></th>
+<th style="text-align: left;"><strong>Description</strong></th>
+<th style="text-align: left;"><strong>Control</strong></th>
+<th style="text-align: left;"><strong>Flexibility</strong></th>
+<th style="text-align: left;"><strong>Latency</strong></th>
+<th style="text-align: left;"><strong>Example Use Case</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>2-Step RAG</strong></td>
+<td style="text-align: left;">Retrieval always happens before generation. Simple and predictable</td>
+<td style="text-align: left;">✅ High</td>
+<td style="text-align: left;">❌ Low</td>
+<td style="text-align: left;">⚡ Fast</td>
+<td style="text-align: left;">FAQs, documentation bots</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Agentic RAG</strong></td>
+<td style="text-align: left;">An LLM-powered agent decides <em>when</em> and <em>how</em> to retrieve during reasoning</td>
+<td style="text-align: left;">❌ Low</td>
+<td style="text-align: left;">✅ High</td>
+<td style="text-align: left;">⏳ Variable</td>
+<td style="text-align: left;">Research assistants with access to multiple tools</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Hybrid</strong></td>
+<td style="text-align: left;">Combines characteristics of both approaches with validation steps</td>
+<td style="text-align: left;">⚖️ Medium</td>
+<td style="text-align: left;">⚖️ Medium</td>
+<td style="text-align: left;">⏳ Variable</td>
+<td style="text-align: left;">Domain-specific Q&amp;A with quality validation</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="trying-to-get-ocr-to-work" class="level1">
+<h1>16. 2. - trying to get OCR to work</h1>
+<p>downloaded popper and tesseract in order to be able to read unorganized pdf. I was succesful. Now I have a simple pipeline for reading a pdf, chunking and a I tried my first query: ; ´´ <em>What is Zostera marina?</em> ´´ and the answer was ´<em>Retrieved Context: Zostera marina Linnaeus, Figs 53-59 Figs 53-59. Zostera marina. 53. Apex with seven veins (Ve). 54. Surface of leaf. 55. Surface of seed coat. 56. Longitudinal section of seed coat. 57. Transverse sec …</em>´. This is a bit disappointing because it is the description of a picture. So I tried to adjust the chunking strategy from elements to single but it changed nothing.</p>
+<p>next steps: <strong>Retrieval Augmentation by Re-ranking</strong>. Instead of just looking at the top result, inspect the inferior matches</p>
+</section>
+<section id="integrating-openai-api" class="level1">
+<h1>17. 2. - Integrating OpenAI api</h1>
+<p>I signed up for the OpenAI platform and through that, I called gpt5-nano.</p>
+<p>I got: Zostera marina is a seagrass species (marine eelgrass) and is the type species of the genus Zostera. as the output for above context and the prompt <em>Answer the question based on the context below</em>.</p>
+</section>
+<section id="meeting" class="level1">
+<h1>19. 2. Meeting</h1>
+<p>main aim - working pipeline from import to generating answer</p>
+<p>we want to optimize different components - chunking, reranking</p>
+<p>implement: you are a marine scientist, practitioner in this field, what would aoyu answer given this context…</p>
+<p>lets spend this week on optimizing the prompt before moving onto the next stage (adding knowledge graph). Optimize prompt -&gt; record results. It should be done in a systematic, scientific way.&nbsp;</p>
+<p>prompt -&gt; reranker -&gt; knowledge graph. Keep chunking, add multiquery -&gt; optimize prompt</p>
+<p>1 question -&gt; top 3 retriever -&gt; smart retriever -&gt; enhancing with multiQuery&nbsp;</p>
+</section>
+<section id="news" class="level1">
+<h1>24. 2. News</h1>
+<p>chunking changes retrieved different &amp; better context:</p>
+<p>“Retrieved Context: Note: This species often occurs in exposed area. Phyllospadix japonica Makino</p>
+<p>Plants 40 cm high. Leaves obtuse in tip, three in vein, 0.15 cm broad, di- and tridentate with spine cells in mar- gin, w …”</p>
+<ul>
+<li><p>did literature review of a lot of papers. I read <strong><em>A comprehensive taxonomy of prompt engineering techniques forlarge language models</em></strong> in detail and implemented its insights for a better prompt:</p></li>
+<li><p><u><strong>First attempt</strong></u></p>
+<p><em>Role: You are an experienced marine biologist and algae cultivation specialist. Task: Given the following retrieved context from scientific literature, answer the user’s question. Base your answer strictly on the provided context. If the context is insufficient, say so. Domain constraint: Focus on the user’s specific industry context. Output format: Brief paragraph with a traceable callback to the used chunk.</em></p>
+<p><em>Answer the question based on the context below.</em></p></li>
+<li><p><u><strong>Output:</strong></u> <em>Zostera marina Linnaeus is the type species of the genus Zostera, a submerged seagrass (marine angiosperm) commonly found on muddy substrates in the sublittoral zone, with reproduction concentrated in summer. In the provided material, Z. marina is described as plants about 34 cm tall, submerged, with leaves obtuse and three veins, around 0.2 cm broad; seeds are about 2.5–0.7 cm long and 0.2 cm broad, with a rough seed testa. (Zostera marina section in the Cho &amp; Boo marine flora text)</em></p></li>
+<li><p><u><strong>Refined Prompt:</strong></u></p>
+<p>““”</p>
+<p>Role: You are an experienced marine biologist and algae cultivation specialist with deep expertise in seagrass ecology, microalgae biotechnology, and industrial algae applications. You prioritize scientific precision, cite specific data when available, and clearly distinguish between established findings and uncertainties. Task: Given retrieved passages from scientific literature on algae and marine biology, answer the user’s question following these steps:</p>
+<ol type="1">
+<li>First, assess which of the provided passages are relevant to the question and briefly note why.</li>
+<li>Synthesize information from the relevant passages into a coherent answer.</li>
+<li>If passages contain conflicting information, acknowledge the conflict and explain both positions.</li>
+<li>If the provided context is insufficient to fully answer the question, state what is missing. Domain constraint: Focus on the user’s specific industry context. Output format: Brief paragraph with a traceable callback to the used chunk.</li>
+</ol>
+<p>Keep your answer grounded strictly in the provided context. Do not introduce external knowledge beyond what is given. Match your answer’s depth to the question’s complexity: give concise answers to simple questions, detailed analysis to complex ones.</p>
+<p>Context: {retrieved_context}</p>
+<p>Question: {query} Answer:</p></li>
+<li><p>““”</p></li>
+<li><p><u><strong>Refined Output:</strong></u> Relevant passages identify Zostera marina as the type species of the genus Zostera and provide a detailed species description. Zostera marina is described as a submerged, coastal seagrass and the genus type (Zostera marina Linnaeus). In the source, Z. marina is a plant about 34 cm tall, submerged, with leaves obtuse at the tip, three veins per leaf, and about 0.2 cm wide; seeds are described as 2.5–0.7 cm long and 0.2 cm broad, with a rough seed testa. It grows on muddy substrates in the sublittoral zone and reproduces in summer. (Traceable to: Cho &amp; Boo, Marine Green Flora of Oeyondo Islands, Zostera marina entry).</p></li>
+<li><p>Comments: Now the prompt cites the concrete name of the paper, so it has better source attribution. the factual correctness is good in both. I could also check for hallucinations and completeness, but right now I am not sure how I am going to evaluate it in detail.</p>
+<h1 id="progress">4. 3. Progress</h1>
+<p><strong>extraction.ipynb</strong> - handles converting the whole corpus of documents to json with either regular loader or OCR for scans.</p></li>
+<li><p>The process of converting PDFs is taking a long time, over 2 hours now. I discovered that by reversing the order of processed documents from newest to oldest, I can extract the vast majority in a fraction of the time, since pre 2007 documents are usually scanned. They take long to process, especially if they are in Korean.</p>
+<p><strong>Chunking.ipynb</strong> - This notebook is dedicated to testing one of chunking strategies - text splitting and semantic chunking. Based on my literature review ad consultations with my supervisor, I believe semantic to be the best. I also read that overlap in text splitting is redundant and costs performance. I am also considering using recursive semantic and agentic chunking, inspired by a paper i read.</p>
+<h2 id="notes-for-rs-chunking" class="anchored" data-anchor-id="news">Notes for RS Chunking</h2>
+<p><em>Segmentation of Textual Data from Files: The data store consists of files fi containing textual data stored as strings Ti. Since LLMs have token limits, eachTiundergoes a length check.If it exceeds the threshold T_max, the file is split into smaller segments{t1,t2,…,tn}, ensuring that |tj| ≤ T_max. The splitting occurs at the nearest sentence boundary (e.g., full stop, question mark) to preserve linguistic coherence.</em></p>
+<p><em>Excessive chunking can inflate the re-trieval space, leading to fragmented context</em></p></li>
+<li><p><em>&gt;&gt;Direct quotes from The Chunking Paradigm: Recursive Semantic for RAG Optimization</em></p></li>
+<li><p>apaprently computationally expensive so the authors dont even recommend it</p></li>
+</ul>
+<section id="agentic-chunking" class="level2">
+<h2 class="anchored" data-anchor-id="agentic-chunking">Agentic chunking</h2>
+<p>Too expensive apparently, might try later</p>
+</section>
+</section>
+<section id="progress-1" class="level1">
+<h1>5. 3. Progress</h1>
+<p>All PDF parsing finished. Today I am trying 3 types of chunking on one test document to familiarize myself with different approaches, then I plan to apply it to the whole corpus</p>
+<section id="semantic-chunking" class="level2">
+<h2 class="anchored" data-anchor-id="semantic-chunking">Semantic Chunking</h2>
+<p>Semantic chunking at p95 proved inadequate for my test paper. The first 5 chunks are outsizedly large and the last ones are very short and disjointed - the references table got chunked.</p>
+<p><img src="images/Semantic%20Chunking%201.png" class="img-fluid"></p>
+</section>
+<section id="preprocessing" class="level2">
+<h2 class="anchored" data-anchor-id="preprocessing">Preprocessing</h2>
+<p>Based on my findings, I discovered that preprocessing is necessary. First to purge acknowledgements and references, since they contain no knowledge. and then figures descriptions, because they are dense with keywords BUT have very limited value without seeing the picture.</p>
+<p>Now that I got rid of figures, I want to extract the necessary information for citations so I can save them in a json. I want to extract: * title: one of the first things written in the document</p>
+<p>* author: right under title</p>
+<p>* journal: all my documents are from the journal <em>Algae</em></p>
+<p>* year: also in the file name</p>
+<p>* volume/issue: same</p>
+<p>I decided to use <u>ollama</u> to find title and authors with an llm. At first, I tried Mistral 7B, but it took 58 seconds. Then I tried Gemme3:1b and it took just 1.8 seconds.</p>
+</section>
+</section>
+<section id="progress---summarizing" class="level1">
+<h1>7. 3. Progress - summarizing</h1>
+<p>Creating summaries of each document with different models.</p>
+<p>Used prompt:</p>
+<p><em>You are a marine biology research librarian cataloguing scientific papers. Summarize what this paper covers in 2-3 sentences. Focus on: - Which species, organisms, or biological processes are discussed - Key findings or data reported - The geographic or ecological context</em></p>
+<p><em>Be specific with species names and factual claims. This summary will be used to match the paper to future research queries.</em></p>
+<p>”</p>
+<p>With <u><em>Gemma 1b</em></u>, I originally got this answer: “summary”: “Okay, here’s a summary of the paper, suitable for matching to future research queries, based on the provided text:**Summary:**paper documents a marine floral survey of the Oeyondo Islands on the Yellow Sea, Korea, conducted between 1992 and 1994. The survey focused on identifying and documenting nine genera and eighteen species of green algae and seagrasses within this unique marine ecosystem. Researchers, including Lee and Kang (1986) and Cho and Boo (1996), have previously studied these species through botanical descriptions and illustrations. The survey aimed to create a comprehensive catalog of the algal flora of the Oeyondo Islands, a geographically isolated area known for its rich marine biodiversity. The paper includes detailed illustrations, taxonomic keys, and descriptions of the species, highlighting the significance of this study for understanding the biogeography of marine algae in the Yellow Sea region.**Key Findings/Data:*** The survey identified nine genera and eighteen species of green algae and seagrasses.* Detailed illustrations and taxonomic keys were developed for all taxa.* The study focused on the flora of a geographically isolated island, Oeyondo Islands, known for its unique marine ecosystem.**Geographic/Ecological Context:**Oeyondo Islands are an isolated island located on the Yellow Sea, Korea, characterized by rich marine flora and a history of isolated coastal habitats. The paper directly relates to the study of algal biodiversity within this specific, geographically defined marine environment.—you like me to refine this summary further, perhaps by adding specific details about the algal species, or focusing on a particular aspect of the methodology?”,</p>
+<p>Which is not satisfactory, it addresses the user and thats useless for retrieval. so I added this clause to the prompt: <em>Do not include any questions, headers, or bullet points. Return only the summary sentences</em></p>
+<p><strong>Gemma 3:1b:</strong> “summary”: “The paper describes a marine floral survey of benthic green algae and seagrasses on the Oeyondo Islands, a Korean archipelago island located in the Yellow Sea, focusing on nine genera and eighteen species of green algae and five species of seagrasses. The survey dates back to 1992-1994 and highlights the unique marine flora of the island, with detailed illustrations and taxonomic classifications.” Runtime: 17.7 s.</p>
+<p><strong>Gemma 3:4b:</strong> “summary”: “This study documented the marine flora of the Oeyondo Islands, located in the Yellow Sea off the Korean coast, focusing on benthic green algae and seagrasses collected between 1991 and 1993. Researchers identified nineteen species, including thirteen green algae genera and five seagrass species, and provided detailed illustrations and descriptions for each taxon, contributing to a better understanding of marine biodiversity in this region. The research aimed to build upon previous studies of the Yellow Sea and the islands’ unique flora, compiling a comprehensive list and documenting the species’ characteristics through morphological observations and measurements.”, Runtime: 1 min 13 s</p>
+<p><strong>Granite 3.2:2b:</strong> “summary”: “This paper,”Marine Flora of Oeyondo Islands on the Yellow Sea, Korea: I. Green Algae and Seagrasses” from The Korean Journal of Phycology (Volume 13, Issue 1, 1998), focuses on a detailed survey of benthic marine green algae and seagrasses in the Oeyondo Islands, situated 50 km from the Korean mainland in the Yellow Sea. The research, conducted from 1992 to 1994, yielded a list of nine genera and eighteen species, including thirteen green algae and five seagrasses. The authors, Tae Oh Cho and Sung Min Boo, provided comprehensive illustrations, keys, and descriptions for each taxon. The study aimed to enhance the understanding of marine flora in isolated islands, contributing to the knowledge of species diversity and biogeography in Korean marine algae. The research methodology involved collecting samples bimonthly from three littoral and one sublittoral site, fixing them with neutral formalin, and conducting observations and anatomical examinations under microscopes. The identified species’ nomenclature followed Yoshida et al.&nbsp;(1995), with uncertain species excluded from the list. All specimens were herbarium-mounted and deposited at Chungnam National University’s Department of Biology.”, Runtime: 1min22</p>
+<p>I went with Gemma 3:1b because it is good enough after I modified the prompt and others would run prohibitively long, but Granite looks promising with how detailed it is.</p>
+<section id="recursive-chunking" class="level2">
+<h2 class="anchored" data-anchor-id="recursive-chunking">Recursive Chunking</h2>
+</section>
+<section id="semantic-chunking-1" class="level2">
+<h2 class="anchored" data-anchor-id="semantic-chunking-1">Semantic Chunking</h2>
+<p>It improved after pre processing. Some chunks are stil short, but meaningful. for instance:</p>
+<pre><code>"chunk_id": 6,       "text": "They are distributed on the temperate to the tropical coasts.",       "char_length": 61</code></pre>
+<p><img src="images/paste-1.png" class="img-fluid"></p>
+</section>
+<section id="recursive-chunking-1" class="level2">
+<h2 class="anchored" data-anchor-id="recursive-chunking-1">Recursive Chunking</h2>
+<p><img src="images/paste-2.png" class="img-fluid"></p>
+</section>
+</section>
+<section id="progress-finished-recursive-semantic-chunking" class="level1">
+<h1>8. 3. Progress: finished recursive semantic chunking</h1>
+<p><img src="images/paste-4.png" class="img-fluid"></p>
+<p>RSC balances length and semantic meaning well, where there are no orphaned chunks or oversized ones unfit for efficient retrieval, so i am going to use it.</p>
+</section>
+<section id="progress-2" class="level1">
+<h1>9. 3. Progress</h1>
+<p>Recursive and semantic chunking complete. built a retrieval script in a separate notebook to test retrieval on recursive chunks with the Zostera marina question again. The results look promising, though Iˇve noticed that Gemma3.1:3b might have hallucinated a paper’s title(<em>“Deep Learning for Image Recognition”</em>), might look into that more later. I have also been reading up on HOPE and started to implement it. I want to compare each chunking strategy so i can then choose just one to go with for finishing the pipeline. RSC chunking is still running, it is extremely time consuming on my hardware.</p>
+</section>
+<section id="progress-3" class="level1">
+<h1>10. 3. Progress</h1>
+<p>Tested semantic chunking on the same query, “What is Zostera marina?” and the answer was worse. the distance was further 0.70+-1 vs 0.61+-2. Then I generated responses with my prompt based on both chunks.</p>
+<section id="recursive-chunks-answer" class="level2">
+<h2 class="anchored" data-anchor-id="recursive-chunks-answer">Recursive chunks answer</h2>
+<ul>
+<li><p>Relevance assessment: The 2005 study on restoration of Zostera marina habitats is directly relevant; it characterizes Z. marina as a seagrass species that forms coastal seagrass beds and notes its ecological roles (nutrient cycling, sediment stabilization, and providing food and habitat for marine life). This is the core definition needed.</p></li>
+<li><p>Answer: Zostera marina is a seagrass species (Zostera L.) that forms coastal seagrass beds and plays key ecological roles in those habitats, including nutrient cycling, stabilizing sediments, and providing food and habitat for a variety of marine organisms. This description is drawn from the restoration-focused source, which states that seagrass beds are important in coastal ecosystems and that Z. marina is an important species within that context (Park et al., 2005, Selection of the Optimal Transplanting Method and Time for Restoration of Zostera marina Habitats).</p></li>
+</ul>
+</section>
+<section id="semantic-chunks-answer" class="level2">
+<h2 class="anchored" data-anchor-id="semantic-chunks-answer">Semantic chunks answer</h2>
+<p>Zostera marina is a marine seagrass species, commonly called eelgrass, that forms coastal seagrass beds. It plays a key ecological role by contributing to nutrient cycling and sediment stabilization, and by providing food and habitat for a diversity of invertebrates and fishes. It is also a focal species for restoration efforts, with transplantation experiments used to select optimal methods and timing for habitat restoration. (Trace: Park et al., 2005, Selection of the Optimal Transplanting Method and Time for Restoration of Zostera marina Habitats)</p>
+</section>
+<section id="meeting-with-tariq" class="level2">
+<h2 class="anchored" data-anchor-id="meeting-with-tariq">Meeting with Tariq</h2>
+<p>Verify if it hallucinates title names, but later. for now lets have a complete pipeline. then we can try to improve. my contribution - enhance above baseline. he says lets make a very good version of this and THEN use a knowledge graph. handle hallucinations, reranking. later graph see if it enhances or not.</p>
+</section>
+<section id="progress-4" class="level2">
+<h2 class="anchored" data-anchor-id="progress-4">11. 3 progress</h2>
+<p><strong>HOPE Metric Implementation (ζ_con)</strong></p>
+<p>Began implementing the HOPE evaluation metric (Brådland et al., SIGIR 2025) to compare chunking strategies. HOPE consists of three sub-metrics: concept unity (ζ_con), semantic independence (ζ_sem), and information preservation (ζ_inf), averaged equally.</p>
+<p>Today I implemented ζ_con and set it running overnight across all three chunking strategies (recursive_1000, semantic_p95, RSC). The setup: 30 randomly sampled documents (seed=42) that exist in all three chunk directories, with 10 chunks subsampled per document per strategy, totaling 900 LLM calls. For each chunk, the LLM (IBM Granite 3.2 8B via Ollama) extracts exactly 5 factual statements, which are then embedded with BAAI/bge-base-en-v1.5 and compared via pairwise cosine similarity. The average pairwise similarity is the chunk’s concept unity score; the document-level score is the mean across chunks.</p>
+<p><u>Design decisions and justifications:</u></p>
+<ul>
+<li><p>30 documents: sufficient for paired statistical comparison across strategies (Cohen 1988 — paired design with medium effect size d=0.5 achieves 80% power at n≈27).</p></li>
+<li><p>10 chunks per document: reduces compute from ~36 chunks/doc average to a feasible overnight run on CPU while maintaining representativeness.</p></li>
+<li><p>5 statements per chunk: fixed count ensures uniform pairwise comparisons across chunks.</p></li>
+<li><p>Granite 3.2 8B over gemma3:1b: evaluation quality depends heavily on the evaluator model’s ability to extract meaningful factual statements. 1B models are too unreliable for this.</p></li>
+<li><p>Temperature 0.7 for statement generation, following the paper’s recommendation of non-zero temperature for diversity.</p></li>
+<li><p>Results saved incrementally after each document/strategy pair for crash resilience.</p></li>
+</ul>
+<p>Intermediate results saving to <code>project/outputs/HOPE/hope_con_results.json</code>. Will assess results and failure rate tomorrow, then implement ζ_sem and ζ_inf.</p>
+</section>
+</section>
+<section id="progress---hope-implemented" class="level1">
+<h1>13 . 3 progress - HOPE implemented</h1>
+<p>Concept unity evaluation completed overnight. 90 evaluations (30 docs × 3 strategies), 1,624 minutes total runtime on CPU with Granite 3.2 8B. Failure rate was low: 1.4% for recursive, 3.5% for semantic, 3.8% for RSC — all JSON parsing failures from granite’s output.</p>
+<p>Results: RSC (0.729), recursive (0.727), and semantic (0.716) showed no statistically significant differences (Wilcoxon signed-rank, all p &gt; 0.22). This aligns with Brådland et al.’s finding that concept unity operates within a narrow range and has minimal correlation with downstream RAG performance. The real differentiator is expected to be semantic independence (ζ_sem), which they found correlated with up to 56.2% improvement in factual correctness.</p>
+<p>Proceeding to implement ζ_inf next, as it is computationally lighter (~300 LLM calls vs ζ_con’s ~900) and can run overnight. ζ_sem is the most expensive sub-metric (~2,700 LLM calls) and will require more aggressive subsampling.</p>
+<p><strong>NOTE FOR THESIS:</strong> HOPE sub-metrics, particularly ζ_sem, could serve as domain-agnostic fitness functions for automated pipeline optimization approaches like RAGSmith, which I leave as future work.</p>
+<section id="semantic-similarity-sample-generated-questions" class="level2">
+<h2 class="anchored" data-anchor-id="semantic-similarity-sample-generated-questions">semantic similarity sample generated questions</h2>
+<p><strong>summary of paper in question:</strong> “summary”: “Here’s a summary of the paper focusing on the identified species and its context:\n\nThe paper details the discovery of a new species of algae, *Hypoglossum sabahense*, from Sabah, Malaysia, using molecular and morphological analysis. Researchers collected culture isolates of the genus *Hypoglossum* and employed the Germling Emergence Method and serendipity to identify this new species. The study highlights the challenges of taxonomic discovery in remote tropical environments and the role of laboratory cultures in revealing previously unknown species. *Hypoglossum sabahense* is a species within the Delesseriaceae family, characterized by specific morphological features that differentiate it from other *Hypoglossum* species.”,</p>
+<p><strong>Gemma 1b:</strong> results for gemma 1b: What is the name of the species being investigated? Where was the species discovered? What is the primary focus of the study?</p>
+<p><strong>Qwen3:4b:</strong></p>
+<p>qwen took 27 mins to generate this: Questions:</p>
+<p>What is the new species name described in this paper?</p>
+<p>What is the family of the algae?</p>
+<p>What is the phylum of the algae?. It does not seem better</p>
+<p>Due to computational constraints, ζ_sem was evaluated on 15 documents using gemma3:1b. Bootstrap resampling (n=10,000) was applied to estimate confidence intervals and verify stability of the relative rankings. We note that a more capable evaluation model would likely produce more discriminative absolute scores, though the paired experimental design ensures the relative comparison between strategies remains valid.</p>
+</section>
+</section>
+<section id="hope-calculated-multiquery-implemented" class="level1">
+<h1>15 . 3. - HOPE calculated, multiquery implemented</h1>
+<p>Counter-intuitively, simple fixed-size recursive chunking outperformed more sophisticated strategies on HOPE, particularly on semantic independence. This aligns with Brådland et al.’s observation that traditional assumptions about concept-aware chunking may be suboptimal. Semantic independence ran for 890 minutes on only 15 documents (resampling with 95% confidence implemented)</p>
+<p><img src="images/paste-5.png" class="img-fluid"></p>
+<p>For multiquery I tried using the simplest model again, gemma3:1b. The results of the reformulation were staggeringly good.</p>
+<p><strong>Qestion:</strong> “What is Zostera Marina and where does it grow?”</p>
+<p><strong>Alternative questions:</strong></p>
+<ul>
+<li><p>What are the characteristics of <em>Zostera marina</em> and its geographic distribution?</p></li>
+<li><p>What are the key ecological roles of <em>Zostera marina</em> within aquatic ecosystems?</p></li>
+<li><p>How is <em>Zostera marina</em> currently being studied in terms of its life cycle and population dynamics?</p></li>
+<li><p>What are the major factors influencing the distribution and abundance of <em>Zostera marina</em> across different environments?</p></li>
+<li><p>What are the potential impacts of <em>Zostera marina</em> degradation on marine biodiversity and ecosystem services?</p></li>
+</ul>
+<p><strong>prompt_text</strong> = f”““You are an AI assistant helping to improve information retrieval for a scientific database about algae research.</p>
+<p>Your task is to generate {n_queries} alternative versions of the given user question. Each alternative should approach the same information need from a different angle or use different terminology, so that together they can retrieve a broader set of relevant documents.</p>
+<p>Provide these alternative questions separated by newlines. Do not number them. Do not add any explanation or preamble. Only output the alternative questions.</p>
+<p>Original question: {{question}}““”</p>
+</section>
+<section id="progress---reranking-generation" class="level1">
+<h1>17. 3. progress - reranking, generation</h1>
+<p>Answer:</p>
+<p>Zostera marina, commonly known as eelgrass, is an essential seagrass species found primarily in coastal and estuarine ecosystems. It plays a vital role in nutrient cycling, sediment stabilization, and providing habitat and food for a variety of marine organisms, particularly invertebrates. In the context provided, Zostera marina is prevalent in the Keret Archipelago, occurring mainly in areas influenced by freshwater where it forms bands in the shallow subtidal zones beneath Ascophyllum nodosum. It can also be found in more extensive populations in certain shallow bays and may thrive in the intertidal zone, being exposed during spring tides (source: <a href="http://dx.doi.org/10.4490/algae.2013.28.3.267"><em>http://dx.doi.org/10.4490/algae.2013.28.3.267</em></a>).</p>
+<p>prompt adjustments:</p>
+<ul>
+<li><p>return same langauge answer as the question.</p></li>
+<li><p>Output format: Brief paragraph. You MUST cite every passage you use with its bracketed number [1], [2], etc. from the context headers. Use multiple citations to support your answer. Then at the end of your answer, list all sources of retrieved chunks by bracketed number, title, author, year.</p></li>
+<li><ol start="2" type="1">
+<li>Synthesize information from ALL relevant passages into a coherent answer. You must draw from multiple sources where possible: do not rely on a single passage.
+<ul>
+<li>If the original question is not in English, first translate it to English before generating alternatives. All alternative questions must be in English.</li>
+</ul></li>
+</ol></li>
+</ul>
+</section>
+<section id="app-built-test-run" class="level1">
+<h1>18. 3. App built, test run</h1>
+<p>The architecture is clean and each component is testable independently. The citation mechanism works which is crucial for scientific credibility. The Czech issue is annoying but expected, the model wasn’t designed for it. The over-hedging is more interesting because it shows the model is following instructions too literally. Should do ,pre prompt engineering: sometimes its necessary to explicitly permit reasonable inference it seems.</p>
+<section id="specs" class="level2">
+<h2 class="anchored" data-anchor-id="specs">specs</h2>
+<p>Import structure:</p>
+<ul>
+<li><p>retrieval.retrieve, retrieval.rerank for retrieval components</p></li>
+<li><p>generation.generate for generation components</p></li>
+<li><p>pipeline.py orchestrates everything</p></li>
+</ul>
+<p>Key parameters (config.py):</p>
+<p>- N_QUERIES = 5 (reformulations)</p>
+<p>- TOP_K_RETRIEVAL = 5 (per reformulation)</p>
+<p>- TOP_K_RERANK = 5 (final chunks)</p>
+<p>- EMBEDDING_MODEL = BAAI/bge-base-en-v1.5</p>
+<p>- RERANKER_MODEL = BAAI/bge-reranker-base</p>
+<p>- GENERATION_MODEL = gpt-5-nano</p>
+</section>
+<section id="app-demo" class="level2">
+<h2 class="anchored" data-anchor-id="app-demo">app demo</h2>
+<p>Welcome to Algaebot. Type ‘quit’ to exit</p>
+<p><strong>Question: Z jaké řasy se dělá sushi?</strong></p>
+<p><strong>Answer:</strong></p>
+<p>Z wracení sushi se tradičně používá červená řasa Porphyra tenera. V textu je uvedeno, že tyto Porphyra slouží jako obal kolem sushi a jsou známy pod názvy laver, nori (Japonsko, Severní Amerika), Kim (Korea) a podobně. [4]</p>
+<p>[4] Hack Sun Choi, Kyong Hee Choi, Tae Hoon Kim’, Choon Hwan Lee’ and Tae Hyong Rhew* (2001). Characterization of Natural Plasmid and Construction of Putative Transformation Vector Using the Plasmid in Korean Red Alga, Porphyra tenera</p>
+<p><strong>Question: What kind of seaweed is not used for sushi?</strong></p>
+<p><strong>Answer:</strong></p>
+<p>Assessment of relevance:</p>
+<p>- [1], [2], and [5] are directly relevant as they discuss which seaweeds are edible or used in Korea and list species such as Laminaria, Undaria, Porphyra, etc., which informs any inference about sushi usage. [3] and [4] provide supporting context on composition and cultivation but do not address sushi specifically.</p>
+<p>Synthesis:</p>
+<p>- From the supplied passages, there is no explicit statement naming a seaweed that is not used for sushi. The texts note edible seaweeds including Laminaria, Undaria, and Porphyra, and they list several genera under industrial uses, but they do not map each species to sushi usage. Porphyra spp. are among the seaweeds discussed, and Porphyra is traditionally associated with edible products; however, the passages do not state whether Porphyra is used for sushi in these sources, nor do they specify which of the listed species are not used for sushi. Therefore, based on these sources, we cannot definitively identify a seaweed that is not used for sushi. Missing information: explicit linkage between the listed species and sushi usage.</p>
+<p>Citations:</p>
+<p>- The discussion of edible seaweeds including Laminaria, Undaria, and Porphyra: [1].</p>
+<p>- The listing of species (including Porphyra spp. and Laminaria japonica) under industrial uses: [2].</p>
+<p>- Reiteration of seaweed uses and history in Korea (contextual background): [5].</p>
+<p>Sources:</p>
+<p>- [1] Yoon Sik Oh, In Kyu Lee, Sung Min Boo (1990). The Korean Journal of Phycology Volume 5 (1): 57-71, 1990.</p>
+<p>- [2] Yoon Sik Oh, In Kyu Lee, Sung Min Boo (1990). The Korean Journal of Phycology Volume 5 (1): 57-71, 1990.</p>
+<p>- [3] Soo-Jin Heo, Ki-Wan Lee, Choon Bok Song and You-Jin Jeon (2003). Antioxidant Activity of Enzymatic Extracts from Brown Seaweeds.</p>
+<p>- [4] Eun Kyoung Hwang, Chan Sun Park (2020). Seaweed cultivation and utilization of Korea.</p>
+<p>- [5] Yoon Sik Oh, In Kyu Lee, Sung Min Boo (1990). The Korean Journal of Phycology Volume 5(1): 57-71, 1990.</p>
+</section>
+<section id="initital-pipeline-results-with-ragas" class="level2">
+<h2 class="anchored" data-anchor-id="initital-pipeline-results-with-ragas">Initital pipeline results with RAGAS</h2>
+<p>EVALUATION RESULTS</p>
+<p>{‘faithfulness’: 0.8520, ‘answer_relevancy’: nan, ‘context_precision’: 0.7277, ‘context_recall’: 0.5745}</p>
+<section id="takeaway" class="level3">
+<h3 class="anchored" data-anchor-id="takeaway">Takeaway</h3>
+<p>this is with bge-en, basic reranking, regular chunking (no latesplit). Baseline RAG achieved faithfulness of 0.85 and context precision of 0.73, indicating reliable generation from retrieved context. However, context recall of 0.57 suggests retrieval gaps, motivating the knowledge graph enhancement experiment.Baseline RAG achieved faithfulness of 0.85 and context precision of 0.73, indicating reliable generation from retrieved context. However, context recall of 0.57 suggests retrieval gaps, motivating the knowledge graph enhancement experiment.</p>
+</section>
+</section>
+<section id="conversation-with-memory-last-3-messages" class="level2">
+<h2 class="anchored" data-anchor-id="conversation-with-memory-last-3-messages">Conversation with memory (last 3 messages)</h2>
+<p><strong>User:</strong> Is there an algae species that does not consume CO2?</p>
+<p><strong>Algaebot:</strong> From the provided passages, there is no evidence of an algae species that does not consume CO2. All described algae engage in CO2 uptake or fixation: general CO2 fixation by photosynthesis in algae and plants is highlighted ([2]); algae uptake CO2 from their environment to build organic matter and oxygen, with growth governed by light, temperature, and nutrients ([1]); calcareous/algal species can sequester CO2 by converting it into CaCO3 during calcification ([3]); and measured carbon uptake by Microcystis assemblies confirms active CO2 assimilation ([4]). The only CO2-related process that reduces CO2 differently is calcification into CaCO3, which nevertheless consumes CO2 ([3]). There is no conflicting information within these sources about a non-CO2-consuming alga; if such a species exists, it is not described in these passages and would require data beyond them. [1], [2], [3], [4]</p>
+<p>Sources: [1] Surk-Key Kong, Nakajima Toshiuki (2002). Algae Volume 17(3): 195-199, 2002 [2] Mikio Tsuzuki, Naomi Shimoyama (1992). Utilization of Microalgae and IAM Culture Collection [3] Megumi Okazaki (1992). The Korean Journal of Phycology Volume 7(1): 147-154, 1992 [4] Ok-Hee Lee, Kyung-Je Cho (2004). Uptake of Carbon and Nitrogen by Microcystis Algal Assemblages in the Seonakdong River</p>
+<p><strong>User:</strong> then name 5 species that do</p>
+<p><strong>Algaebot:</strong> Relevance assessment: Passage [1] establishes that algae fix CO2 via photosynthesis, so any algae mentioned in the other passages would consume CO2. Passages [2], [3], [4], and [5] list specific algal species observed in Korean waters, providing concrete examples of CO2-using species in the context you asked about.</p>
+<p>Five species that do consume CO2 (as photosynthetic algae): Sargassum thunbergii [2], Ulva pertusa [2], Corallina pilulifera [5], Lomentaria hakodatensis [5], and Chondria crassicaulis [2]. All are algae and thus participate in CO2 uptake through photosynthesis, per the general CO2 fixation described in [1].</p>
+<p>Sources: [1] Surk-Key Kong, Nakajima Toshiuki (2002). Algae Volume 17(3): 195-199, 2002 [2] Mie SHS ime ABS RRO chsto, SFR HRM: SHR (ZEW K EKER GEILE EL) + EARL, Kim, Hyung Geun, <em>Chul Hyun Sohn and Jae Won Kang (1986). The Korean Journal of Phycology Vol. 1, No.&nbsp;1: 169-183 (1986) [5] I. An intertidal marine benthic algal community at Sokcho, Jae Wan Lee, Hae Bok Lee and In Kyu Lee</em>, Ria Rol MRR Hs | RES AM BRE, SSC: Filia A E* (HAGE BETA DBL A] SKE REHEARSE He Stpy*, SE (1993). A Study on the Community Structure of Intertidal Marine Benthic Algae in the East Coast of Korea</p>
+<p><strong>User:</strong> Můžete mi na to odpovědět česky?</p>
+<p><strong>Algaebot:</strong> Relevantnost: pasáže [2] a [5] uvádějí konkrétní druhy řas, které se podílejí na fixaci CO2 photosyntézou, zatímco [1] shrnuje obecnou skutečnost o CO2 uptake u řas. Navržených pět druhů, které CO2 spotřebovávají (přes fotosyntézu), jsou Sargassum thunbergii [2], Ulva pertusa [2], Corallina pilulifera [5], Lomentaria hakodatensis [5], a Chondria crassicaulis [2]. Žádné konfliktní údaje v uvedených pasážích nenastávají; pokud by se objevily rozpory, byly by vyřešeny odlišnými pozicemi a doplňujícími daty. Celkově tyto záznamy ilustrují, že uvedené mořské řasy z Koreje aktivně využívají CO2 prostřednictvím fotosyntézy. [2], [5], [1]</p>
+<p>Soubory citovaných pasáží: [1] Surk-Key Kong, Nakajima Toshiuki (2002). Algae Volume 17(3): 195-199, 2002 [2] Mie SHS ime ABS RRO chsto, SFR HRM: SHR (ZEW K EKER GEILE EL) + EARL, Kim, Hyung Geun, <em>Chul Hyun Sohn and Jae Won Kang (1986). The Korean Journal of Phycology Vol. 1, No.&nbsp;1: 169-183 (1986) [5] I. An intertidal marine benthic algal community at Sokcho, Jae Wan Lee, Hae Bok Lee and In Kyu Lee</em>, Ria Rol MRR Hs | RES AM BRE, SSC: Filia A E* (HAGE BETA DBL A] SKE REHEARSE He Stpy*, SE (1993). A Study on the Community Structure of Intertidal Marine Benthic Algae in the East Coast of Korea</p>
+</section>
+<section id="until-next-time" class="level2">
+<h2 class="anchored" data-anchor-id="until-next-time">Until next time</h2>
+<p>try a different embedding model and compare the same results with hope and ragas. base retrieving and reranking. test performance top 3/5 for example.</p>
+<p>Test if reranking improves response time.</p>
+</section>
+<section id="made-an-icon-started-embedding-with-m3-refining-prompt" class="level2">
+<h2 class="anchored" data-anchor-id="made-an-icon-started-embedding-with-m3-refining-prompt">Made an icon, started embedding with m3, refining prompt</h2>
+<p><u>it works ok now:</u></p>
+<p><em><strong>Algaebot:</strong> Assessment of relevance: None of the provided passages address a personal name; they are bibliographic entries on algae, seagrass ecology, and related topics, not identity [1], [2], [3], [4], [5].</em></p>
+<p><em>Synthesis and missing context: Because no source contains a name for me, there isn’t enough information to answer “What is your name?” from these passages. The context is insufficient to establish or assign a personal name. If you’d like, you may designate a name for me, but that would be an external convention rather than information drawn from the given sources.</em></p>
+<p><em>Sources: [1] Hyun-Soo Kim, K. K. Asanka Sanjeewa, I. P. Shanura Fernando, BoMi Ryu, Hey-Won Yang, Ginnae Ahn, Min Cheol Kang, Soo-Jin Heo, Jun-Geon Je, You-Jin Jeon (2018). A comparative study of Sargassum horneri Korea and China strains collected along the coast of Jeju Island South Korea: its components and bioactive properties not identified. [2] La Kenya Evans1, Matthew S. Edwards1 (2011). Bioaccumulation of copper and zinc by the giant kelp Macrocystis pyrifera DISCUSSION. [3] Ju-Hyoung Kim, Eun Ju Kang, Keunyong Kim, Hae Jin Jeong, Kitack Lee, Matthew S. Edwards, Myung Gil Park, Byeong-Gweon Lee, Kwang Young Kim (2015). Evaluation of carbon flux in vegetative bay based on ecosystem production and CO2 exchange driven by coastal autotrophs DISCUSSION. [4] Michael Y. Roleda, *, Zae-Zae A. Aguinaldo, Bea A. Crisostomo, Lourie Ann R. Hinaloc, Vicenta Z. Projimo2, Richard V. Dumilag, Arturo O. Lluisma (2021). Discovery of novel haplotypes from wild populations of Kappaphycus DISCUSSION. [5] Ralph A. Lewin and Lanna Cheng (1993). Discovery, Early History and Phylogeny of Prochloron ancestry?</em></p>
+<ul>
+<li>I wonder if I should adjust the prompt a bit so its a little.. bolder? Like its not wrong. but it provides quotes even though nothing of those cited papers were used! Thats something I overlooked</li>
+</ul>
+<p>added this passage to the prompt:</p>
+<p>If the provided context contains NO relevant information to answer the question, simply state that the question is outside the scope of the algae research database. Do not cite sources that weren’t used. Do not list references if none were relevant.</p>
+<p>If asked personal questions (your name, preferences, opinions), respond briefly as “Algaebot, an algae research assistant” without searching the literature.</p>
+<section id="fix-works-as-intended" class="level3">
+<h3 class="anchored" data-anchor-id="fix-works-as-intended">FIX WORKS AS INTENDED:</h3>
+<p><strong>User:</strong> Whats the weather like in Punta Arenas?</p>
+<p><strong>Algaebot:</strong> The question is outside the scope of the algae research database; none of the provided passages discuss Punta Arenas or its weather. The excerpts focus on climate and algae in other regions (e.g., Bolivia, Baja California Sur) rather than Punta Arenas.</p>
+</section>
+<section id="pipeline-configuration-options-added" class="level3">
+<h3 class="anchored" data-anchor-id="pipeline-configuration-options-added">Pipeline configuration options added</h3>
+<p>I decided that the config file could also be used to decide which parts of the process to do locally and which to do through openai api.</p>
+<p># Local vs API toggle USE_LOCAL_GENERATION = False # True = Ollama, False = OpenAI</p>
+</section>
+</section>
+</section>
+<section id="models" class="level1">
+<h1>Models</h1>
+<p>LOCAL_GENERATION_MODEL = “gemma3:8b” # or llama3, mistral API_GENERATION_MODEL = “gpt-5-nano”</p>
+<p>LOCAL_REFORMULATION_MODEL = “gemma3:1b” API_REFORMULATION_MODEL = “gpt-4o-mini”</p>
+<section id="new-addition-local-generation" class="level3">
+<h3 class="anchored" data-anchor-id="new-addition-local-generation">New addition: local generation</h3>
+<p>Adjusted generate and config.py to allow switching between openai and local generation. Curerently qwen4b is used for local generation given the hardware that I have available.</p>
+<p>Local generation with Qwen3-4B was tested but proved impractical on CPU-only hardware (&gt;15 min/response). Production deployment would require GPU acceleration or API-based generation</p>
+<p>Gemma 1b answer:</p>
+</section>
+</section>
+<section id="algaebot" class="level1">
+<h1><strong>Algaebot</strong></h1>
+<ul>
+<li>THe local model Gemma3:1b handled Czech BETTER than gpt nano 5.</li>
+</ul>
+<p><strong>User:</strong> Z jaké řasy se dělá sushi?</p>
+<p><strong>Algaebot:</strong> Sushi rolls (nori) se přípravou z modročerveného rybího rostliny *Porphyra* (často označované jako „nori“ v Japonsku). V kontextu je jasné, že *Porphyra* je specifický druh červeného rostliny používaný jako červenobílý obal pro sushi, který je vyroben z čistě zpracovaných *Porphyra* látek [1]. Tato rostlina je v Japonsku, Koreji a Číně využívána v potravinářském předpokladu a označována různými názvy, včetně „kim“ v Koreji [3]. Důležité je zdůraznit, že jiné rybiny, jako je *Saccharina japonica* (kelp) nebo *Saccharina sculpera* (modrá rybina), jsou používány v jiných oblastech (např. výroba alginátu nebo jídelního materiálu), ale nejsou standardním materiálem pro sushi [4], [5].</p>
+<p>Zdroje: [1] Hack Sun Choi, Kyong Hee Choi, Tae Hoon Kim’, Choon Hwan Lee’ a Tae Hyong Rhew* (2001). Characterization of Natural Plasmid and Construction of Putative Transformation Vector Using the Plasmid in Korean Red Alga, <em>Porphyra tenera</em>; [3] Hack Sun Choi, Kyong Hee Choi a Tae Hyong Rhew* (2000). Simple and Rapid Isolation of Plasmids from <em>Porphyra tenera</em>.</p>
+<section id="m3-embedding-attempt" class="level3">
+<h3 class="anchored" data-anchor-id="m3-embedding-attempt">M3 embedding attempt</h3>
+<p>if ζ_con and ζ_sem are identical regardless of embedding, and m3 lost on ζ_inf, the HOPE average can only be worse for m3.</p>
+<p>Since ζ_con and ζ_sem measure chunk-intrinsic properties independent of the embedding model, and bge-m3 did not outperform bge-base-en-v1.5 on ζ_inf, a full HOPE recomputation was unnecessary; bge-base-en-v1.5 was retained.</p>
+<p><img src="images/paste-8.png" class="img-fluid"></p>
+</section>
+<section id="m3-question-and-answer" class="level3">
+<h3 class="anchored" data-anchor-id="m3-question-and-answer">M3 question and answer:</h3>
+<p>User: Jaká je minimální teplota, ve které přežije plankton? Algaebot: Na základě poskytnutých studií není přesná minimální teplota, při které by všechen plankton přežil, jednoznačně stanovena. Záznamy ukazují, že ambientní teploty v přírodě klesly až na 2.5°C (leden 2003) v Nakdongu, což svědčí o tom, že plankton dokázal přežít i při velmi nízkých teplotách [1], a v jiných lokalitách zimní teploty kolem 6–7°C byly spojeny s výskytem/planktonem (např. Naktong estuary) [3]. Na druhou stranu, u některých druhů (např. Microcystis aeruginosa) byla optimální teplota pro růst kolem 28°C a růst byl inhibován pod 17°C, tedy i když přežití může nastat při nižších teplotách, růst je výrazně omezen pod touto mezí [3]. V laboratorních podmínkách se u některých mikrorostlin ukázalo, že mohou fungovat i při teplotách kolem 10–16°C (např. Chlorella, Scenedesmus, Spirulina), což naznačuje širší toleranci k nízkým teplotám v kontrolovaném prostředí [2]. Obecně platí, že teplota ovlivňuje přežití a růst i u dinoflagellátů a dalších planktonních organizmů, a tedy kritickým faktorem není jen přežití při určitém minimu, ale i taxon-specifická odpověď na teplotu [4]. V extrémních podmínkách lab, cryoprezervace ukazuje přežití při velmi nízkých teplotách pod LN podmínkami, což ale není přírodní prostředí a slouží spíše jako poznámka o technikách uchovávání [5]. Celkově tedy: nejnižší ambientní teploty, při nichž bylo v literatuře zaznamenáno přežití planktonu, leží kolem 6–7°C (některé záznamy) a 2.5°C jako extrémní zimní hodnota prostředí, s tím, že růst bývá silně omezen pod kolem 17°C pro některé významné druhy [1], [3], [2], [4], [5]. Soubory použitých zdrojů: [1] You-Jung Lee, Jong-Mun Jung*, Pan-Se Shin and Gea-Jae Joo (2005). Daily Variation of Phytoplankton and Water Quality in the Lower Nakdong River. [2] Meenakshi Bhattacharjee, Evan Siemann (2015). Low algal diversity systems are a promising method for biodiesel production in wastewater fed open reactors. [3] Kyung-Je Cho, Ik-Kyo Chung, Jin-Ae Lee (1993). Seasonal Dynamics of Phytoplankton Community in the Naktong River Estuary, Korea. [4] Jin Hee Ok, Hae Jin Jeong, Hee Chang Kang, et al.&nbsp;(2022).</p>
+</section>
+<section id="testing-bge-en-vs-m3-on-rsc-chunks" class="level2">
+<h2 class="anchored" data-anchor-id="testing-bge-en-vs-m3-on-rsc-chunks">30. 3. testing bge-en vs m3 on rsc chunks</h2>
+<section id="m3-test-on-multilingual-retrieval-korean" class="level3">
+<h3 class="anchored" data-anchor-id="m3-test-on-multilingual-retrieval-korean">M3 test on multilingual retrieval: korean</h3>
+<p><strong>User:</strong> 라플란드에는 어떤 해조류가 자라나요?</p>
+<p><strong>Algaebot:</strong> 이 질문은 Lapland의 해조류에 관한 것으로, 제시된 맥락은 한국 연안의 해조류 군집 연구들뿐이라 Lapland에서 자라는 해조류를 특정할 수 있는 정보가 없습니다. 현재 제공된 자료로는 라플란드 해안의 생태 특성, 기온·염분 조건에서의 북극/아틱 해조류 종 목록 및 계절 분포 같은 필요한 데이터가 누락되어 있어 답변이 불가능합니다. 추가로 필요한 정보는 라플란드 해안의 구체적 위치와 해양 환경 특징, 지역별 해조류 종 구성과 생태적 제약에 관한 데이터입니다.</p>
+</section>
+<section id="bge-en-on-korean" class="level3">
+<h3 class="anchored" data-anchor-id="bge-en-on-korean">bge en on korean</h3>
+<p><strong>Algaebot:</strong>&nbsp;주어진 문헌들([1]-[5])은 한국 연안의 해조류 분류, 담수 빨간알갱이류, 또는 환경 영향 하의 해조류 생물량 등 특정 지역이나 맥락에 국한된 연구로서, 라플란드의 냉수성 해안 생태계나 그 지역에 자라는 해조류 구성에 대한 정보는 포함되어 있지 않습니다. 따라서 라플란드에서 자라는 해조류의 구체적 목록이나 현지 생태를 이 데이터베이스에서 직접 확인할 수 없으며, 이 질문은 현재 제공된 자료의 범위를 벗어납니다. 라플란드의 해조류 정보를 얻으려면 북극권 해안의 냉수성 해조류 분포 자료나 현지 모니터링 자료가 필요합니다.</p>
+</section>
+</section>
+</section>
+<section id="april-getting-started-with-knowledge-graph" class="level1">
+<h1>1. April: getting started with knowledge graph</h1>
+<p>I found this website <a href="https://obofoundry.org/" class="uri">https://obofoundry.org/</a> that defines biology related ontologies, so i could create my relations based on their framework rather inveting something on my own.</p>
+<p>also <strong>The Environment Ontology (ENVO);</strong></p>
+<p>OLS provides a hosted&nbsp;<a href="https://modelcontextprotocol.io/docs/getting-started/intro">Model Context Protocol (MCP)</a>&nbsp;server which enables LLMs to access ontology terms and hierarchies: <a href="https://www.ebi.ac.uk/ols4/api/mcp" class="uri">https://www.ebi.ac.uk/ols4/api/mcp</a> (Please note that the type of this endpoint is&nbsp;<strong>Streamable HTTP</strong>&nbsp;and not legacy SSE)</p>
+<ul>
+<li><p>The Sequence Ontology (SO) is required to describe specific features of biological sequences</p></li>
+<li><p>For molecular and cellular studies, the Gene Ontology (GO) is utilized to provide standard classifications for biological processes</p></li>
+<li><p>&nbsp;the Chemical Entities of Biological Interest (ChEBI) ontology is crucial for standardizing the representation of secondary metabolites, toxins, lipids, pigments, and industrially relevant polysaccharides extracted from algae</p>
+<h2 id="section" class="anchored" data-anchor-id="april-getting-started-with-knowledge-graph">3. 4.</h2>
+<p>adjusted prompt step 1:</p>
+<ol type="1">
+<li>First, internally assess which of the provided passages are relevant to the questions</li>
+</ol>
+<h3 id="ontological-relations-i-found-relevant" class="anchored">Ontological relations I found relevant</h3>
+<ul>
+<li><code>part_of</code> (BFO:0000050)</li>
+</ul>
+<!-- -->
+<ul>
+<li><code>has_participant</code> (RO:0000057)</li>
+</ul>
+<!-- -->
+<ul>
+<li><code>located_in</code> (RO:0001025)</li>
+</ul>
+<!-- -->
+<ul>
+<li><code>derives_from</code> (RO:0001000)</li>
+</ul>
+<!-- -->
+<ul>
+<li><p><code>has_input</code> / <code>has_output</code> (RO:0002233 / RO:0002234)</p></li>
+<li><p><code>biotically interacts with</code>, <code>confers advantage in</code>, <code>creates habitat for</code>, <code>ecologically co-occurs with</code>, <code>has habitat</code>, <code>transmitted by</code></p></li>
+<li><p>And ENVO documentation references <code>RO:located in</code> [RO_0001025] and <code>RO:surrounded by</code> [RO_0002219]</p></li>
+<li><p>Also causal relations exist: <code>causally upstream of</code>, <code>negatively regulates</code>, <code>positively regulates</code>, <code>regulates</code></p>
+<h3 id="relation-discovery-prompt" class="anchored">Relation discovery prompt</h3>
+<p>Read these sample papers. List every concrete relationship you observe between entities, in this format:</p>
+<p>(Entity A) → [RELATIONSHIP] → (Entity B)</p>
+<p>Focus on relationships like:</p>
+<p>Species producing/containing compounds</p>
+<p>Species found in locations/environments</p>
+<p>Methods applied to study species</p>
+<p>Parameters affecting biological processes</p>
+<p>Genetic markers used for identification</p>
+<p>Examples of what I want:</p>
+<p>(Porphyra birdiae) → [FOUND_IN] → (Northwest Atlantic)</p>
+<p>(Porphyra birdiae) → [STUDIED_WITH] → (rbcL sequencing)</p>
+<p>(Porphyra birdiae) → [RELATED_TO] → (Porphyra purpurea)</p>
+<p>List as many as you find. Don’t explain — just list the triplets.</p>
+<h3 id="relations-i-settled-on" class="anchored">Relations I settled on</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 24%">
+<col style="width: 26%">
+<col style="width: 24%">
+<col style="width: 24%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Relation</th>
+<th>Description</th>
+<th>Example</th>
+<th>RO Mapping</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>FOUND_IN</td>
+<td>Species located in environment or geographic location</td>
+<td><em>Ulva pertusa</em> → intertidal zone</td>
+<td>has habitat (RO:0002303)</td>
+</tr>
+<tr class="even">
+<td>PRODUCES</td>
+<td>Species biosynthesizes or yields compound</td>
+<td><em>P. tricornutum</em> → fucoxanthin</td>
+<td>has output (RO:0002234)</td>
+</tr>
+<tr class="odd">
+<td>STUDIED_WITH</td>
+<td>Species analyzed using method or technique</td>
+<td><em>Porphyra</em> → rbcL sequencing</td>
+<td>Domain-specific</td>
+</tr>
+<tr class="even">
+<td>IDENTIFIED_BY</td>
+<td>Species identified using genetic marker</td>
+<td><em>P. birdiae</em> → SSU marker</td>
+<td>Domain-specific</td>
+</tr>
+<tr class="odd">
+<td>BELONGS_TO</td>
+<td>Taxonomic hierarchy (species → genus → family)</td>
+<td><em>P. birdiae</em> → Porphyra</td>
+<td>in taxon (RO:0002162)</td>
+</tr>
+<tr class="even">
+<td>AFFECTS</td>
+<td>Parameter or condition influences process or organism</td>
+<td>salinity → growth rate</td>
+<td>regulates (RO:0002211)</td>
+</tr>
+<tr class="odd">
+<td>CONTAINS</td>
+<td>Species contains or is source of compound</td>
+<td>Sargassum → alginate</td>
+<td>has part (BFO:0000051)</td>
+</tr>
+</tbody>
+</table></li>
+</ul></li>
+</ul>
+</section>
+<section id="progress---graph.py-script-to-create-graph-from-whole-corpus" class="level1">
+<h1>4.4. Progress - graph.py script to create graph from whole corpus</h1>
+<p><strong>What I built:</strong></p>
+<ul>
+<li><p>Complete extraction pipeline using DeepSeek API + instructor library for structured output</p></li>
+<li><p>Pydantic schemas with distinct field names (species_name, compound_name, etc.) to prevent LLM pattern-matching confusion</p></li>
+<li><p>Nested “tackle box” response model (ExtractionResult) that organizes entities into separate drawers (taxa, compounds, methods, environments, markers, applications)</p></li>
+<li><p>File-based caching system: one JSON per chunk, allows interruption and resumption without re-paying for API calls</p></li>
+<li><p>Neo4j ingestion functions: lexical subgraph (Document → Chunk with PART_OF and NEXT_CHUNK edges) and domain subgraph (entity nodes + MENTIONS edges + domain relationships)</p></li>
+<li><p>Auomated reporting: generates both detailed JSON and human-readable summary after each run</p></li>
+</ul>
+<p><strong>technical decisions:</strong></p>
+<ul>
+<li><p>Using instructor.Mode.JSON to enforce Pydantic schema compliance from DeepSeek</p></li>
+<li><p>Confidence scores (0.0-1.0) on all relationships; filtering out &lt;0.5 before ingestion</p></li>
+<li><p>MERGE instead of CREATE in Cypher to deduplicate entities across papers</p></li>
+<li><p>Processing papers newest-first to avoid OCR garbage from pre-2010 documents</p></li>
+</ul>
+<p><strong>Pilot results (100 chunks):</strong></p>
+<ul>
+<li><p>551 entities extracted</p></li>
+<li><p>436 relationships extracted</p></li>
+<li><p>Entiy-to-relationship ratio: 1.26 (healthy)</p></li>
+<li><p>15.1% orphan rate (acceptable)</p></li>
+<li><p>1 error (1%)</p></li>
+</ul>
+<p><strong>Status:</strong> Full extraction running overnight (~32,000 chunks, estimated $10-12 on DeepSeek). Results will be in Neo4j tomorrow morning.</p>
+<p><strong>Next steps:</strong></p>
+<ul>
+<li><p>Validate graph structure in Neo4j Browser</p></li>
+<li><p>Implement hybrid retrieval (vector + graph traversal)</p></li>
+<li></li>
+<li><p>Re-run RAGAS evaluation to measure context recall improvement</p></li>
+</ul>
+</section>
+<section id="starting-to-implement-kg-retrieval" class="level1">
+<h1>9. 4. - starting to implement kg retrieval</h1>
+<p>I actually wanted to implement the knowledge graph already and hoped no one would notice the hallucations. I know gemma 1b is crap, but it was surprisingly powerful for what it is. Ive actually been thinking of swappin in gemma 4 e2b or e4b which came out recently. I wasnt thinking for the metadata extraction, for that it feels too late, but for reformulating and reranking. like.. you know. I already embedded the faulty metadata. cant i argue I could use no better model with my hardware? Yes, I can still embed the chunks.. WHERE THE TITLE CHANGED. damn, that could be brilliant, wouldnt it? then i wouldnt need to rerun the whole thing. but.. i already passed all my chunks to create the knowledge graph, so then the knowledge graph could have nodes for papers that dont truly bear that name, wouldnt that be a problem? idk man, i dont need a perfect rag system, just meet the goals of my thesis and build something I can be proud to present.</p>
+</section>
+<section id="progress-5" class="level1">
+<h1>10. 4. progress</h1>
+<section id="insight" class="level3">
+<h3 class="anchored" data-anchor-id="insight">insight:</h3>
+<p>read mycrosoft paper, conclusion: Edge et al.&nbsp;(2024) proposed community-based summarization for corpus-level queries. Our system targets entity-specific scientific questions where direct graph traversal provides more interpretable and efficient retrieval.</p>
+</section>
+<section id="thesis-writing" class="level3">
+<h3 class="anchored" data-anchor-id="thesis-writing">thesis writing</h3>
+<p>I started writing my thesis where I drafted headlines, introduction and noted for future self what i need to write.</p>
+</section>
+<section id="changes-made" class="level2">
+<h2 class="anchored" data-anchor-id="changes-made"><strong>Changes Made</strong></h2>
+<p><strong><code>config.py</code></strong> Two clear toggles (<code>USE_LOCAL_REFORMULATION</code>, <code>USE_LOCAL_GENERATION</code>), each with local/cloud model names. Removed dead <code>REFORMULATION_MODEL</code> and <code>GENERATION_MODEL</code> single variables.</p>
+<p><strong><code>retrieve.py</code></strong> Respects <code>USE_LOCAL_REFORMULATION</code> toggle. Uses DeepSeek API when <code>False</code>, Ollama when <code>True</code>. Updated docstring.</p>
+<p><strong><code>generate.py</code></strong> Updated to import <code>API_GENERATION_MODEL</code> instead of removed <code>GENERATION_MODEL</code>.</p>
+<p><strong><code>algaebot.py</code></strong> <strong>Sidebar bug fixed.</strong> <code>top_chunks</code> stored in <code>st.session_state</code>, sidebar rendered outside the <code>if user_input:</code> block so it persists across Streamlit reruns.</p>
+<p><strong><code>pipeline.py</code></strong> Fixed module docstring. Fixed 3-value unpacking in both console modes.</p>
+<p><strong><code>evaluate_pipeline.py</code></strong> Fixed 3-value unpacking (would have crashed next RAGAS run).</p>
+<p>I noticed the chunk ids dont match in files and neo4j rn.</p>
+<p><strong>note for thesis 2:</strong></p>
+<p><em>3 chunks were excluded from graph extraction due to token-limit errors on embedded tables; these remain retrievable via the vector store but contribute no graph triplets</em></p>
+</section>
+<section id="unplanned-chroma-reindexing-detour" class="level2">
+<h2 class="anchored" data-anchor-id="unplanned-chroma-reindexing-detour">Unplanned chroma reindexing detour</h2>
+<p><strong>Planned</strong>: Wire up hybrid retrieval end-to-end. Write the graph expansion Cypher, the triplet reranker, and get a working baseline-vs-hybrid comparison on the two test queries (simple Zostera lookup, complex multi-hop salinity query).</p>
+<p><strong>What actually happened</strong>: Discovered during the first sanity check that the existing ChromaDB collection (<code>recursive_100</code>, contents are recursive_1000) did not store <code>chunk_id</code> in chunk metadata — only document-level fields (filename, title, authors, year). This made it impossible to join vector search results to the Neo4j knowledge graph at the chunk level, which is the architectural foundation of the whole hybrid retrieval approach.</p>
+<p>The Neo4j <code>Chunk</code> nodes use <code>chunk_id</code> strings in the format <code>{filename_stem}_chunk_{index:03d}</code>, e.g.&nbsp;<code>algae-1986-1-1-117_chunk_000</code>. These IDs were constructed during graph ingestion from filename and within-file position, and are not present anywhere in the original Chroma metadata. The chunk JSON files on disk contain a <code>chunk_id</code> field but it’s a local integer (0, 1, 2, …), not the globally unique string.</p>
+<p><strong>Decision</strong>: Rebuild the Chroma collection from the same recursive_1000 chunk JSON files, this time constructing the Neo4j-format <code>chunk_id</code> from filename and position during ingestion and storing it in metadata. Same embeddings (BGE-base-en-v1.5), same chunks, same order — only the metadata is enriched. Baseline RAGAS scores remain reproducible because nothing about the retrieval behavior changes, only the ability to join to the graph.</p>
+<p>Considered and rejected: joining Chroma results to Neo4j by exact text match on chunk content. Fragile (whitespace, encoding), undefensible at viva, zero upside over reindexing.</p>
+<p><strong>Minor finding</strong>: Chunk counts are 31,741 on disk vs 31,738 in Neo4j. The 3-chunk gap matches the handoff note about token-limit errors on chunks with huge embedded tables during KG extraction. Not a bug; these chunks remain retrievable via vector search but contribute no graph triplets. Worth acknowledging as a one-line limitation in the thesis.</p>
+<p><strong>Status at end of session</strong>: Reindexing cell written and tested on the data-loading step (31,741 chunks collected correctly). Actual delete-and-rebuild of the Chroma collection, and the ~20–40 minute embedding run, still pending. Hybrid retrieval itself not yet implemented.</p>
+<p><strong>Lesson</strong>: The hybrid architecture assumes a shared <code>chunk_id</code> join key between the vector store and the graph store. This should have been verified on day one of building the graph, not discovered on the day of wiring up retrieval. Worth flagging in the methodology chapter as a “lessons learned” footnote about dual-store RAG systems.</p>
+<p><strong>Next session</strong>: Run Cell 2 (delete + recreate collection), Cell 3 (batched add with embeddings). Verify final count is 31,741. Then resume the original plan: graph expansion Cypher, Gemma 4 E2B triplet filter, hybrid context assembly, side-by-side comparison on the two test queries.</p>
+</section>
+<section id="progress-6" class="level2">
+<h2 class="anchored" data-anchor-id="progress-6">11. 4. progress</h2>
+<p><strong>New: Hub node filtering</strong>:</p>
+<p>In knowledge graphs, some entities are highly connected “hubs”, broad taxonomic categories like “Chlorophyta” (connected to every green alga species, every method, every compound). When graph traversal expands from a hub, it floods the results with generic, low-value facts, drowning out specific relationships.</p>
+<p>The fix is analogous to <em>TF-IDF</em> in text retrieval: just as common words like <em>the</em> are downweighted because they appear everywhere and carry no discriminative signal, highly-connected entities are filtered because their relationships are too generic to add value for a specific query. We apply a <strong>degree cap</strong> (<code>size([(entity)-[]-() | 1]) &lt; 100</code>) that excludes entities with more than 100 connections, forcing the traversal toward more specific nodes like “eelgrass bed” or “tidal flats” which produce targeted, query-relevant facts.</p>
+<p>This went from 40 generic Chlorophyta triplets to 10 specific, actionable facts about the exact entities and environments the user asked about.</p>
+</section>
+<section id="first-test-run" class="level2">
+<h2 class="anchored" data-anchor-id="first-test-run">FIRST TEST RUN</h2>
+<section id="vector-only" class="level3">
+<h3 class="anchored" data-anchor-id="vector-only">vector-only</h3>
+<p>=== BASELINE (vector only) ===</p>
+<p>Under the salinity range of 5–40 psu, Ulva pertusa shows higher nitrate and phosphate uptake at intermediate salinities (about 20–25 psu) with growth rates peaking near 20 psu, while uptake levels for phosphate rise more rapidly than nitrate at the lower end (5–20 psu), producing a decrease in the tissue N:P ratio at low salinity and an increase with higher salinity (30–50) [2]. Salinity also significantly influences chlorophyll-a content and effective quantum yield, i.e., the photosynthetic performance, of U. pertusa, indicating that salinity stress can modulate photosynthetic efficiency in this green macroalga [1][3]. In seagrass beds, macroalgae are noted to have a broader salinity tolerance than strictly marine algae and intertidal species may tolerate low salinities better than sublittoral ones, though field and laboratory work is needed to understand how salinity and other stresses interact with eutrophication to affect seagrass ecosystems [5]. However, the provided passages do not contain direct data on Zostera marina’s photosynthetic response to salinity, so the question about Z. marina remains unresolved within this dataset. Sources: [1] Choi, Kang, Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa from an eelgrass bed. Algae, 25(1):17-26; [2] Choi, Kang, Kim (2010). (same article excerpts on uptake). [5] Choi, Kang, Kim (2010). (contextual notes on salinity and seagrass beds). [4] 최태섭, 김광용 (2002). The growth of green macroalgal mats is becoming increasingly common in many marine intertidal habitats.</p>
+</section>
+<section id="hybrid" class="level3">
+<h3 class="anchored" data-anchor-id="hybrid">hybrid</h3>
+<p>ˇ~= Hybrid (vector + graph triplets) =~ˇ</p>
+<p>Within the provided Ulva pertusa data, nutrient uptake is strongest at intermediate salinities in the 20–25 psu range, with nitrate and phosphate uptake both higher there than at the extremes; phosphate uptake even increases more rapidly than nitrate as salinity drops toward 5–20 psu, and maximum growth occurs near 20 psu (µ ≈ 0.02–0.032 d−1) with reduced growth at 40 psu. Tissue N and P contents are 1.5–2.9% N and 0.1–0.14% P, and the tissue N:P ratio is high (30–50), rising with salinity. Salinity also significantly influences chlorophyll-a content and effective quantum yield, indicating that photosynthetic performance in Ulva is tied to salinity conditions. Together, these findings illustrate a broad salinity tolerance in Ulva from eelgrass beds but with optimal uptake and photosynthetic indicators at moderate salinities around 20 psu [1][2][5]. However, the passages do not provide any direct data on Zostera marina photosynthetic responses to salinity; in fact, the seagrass context here notes that salinity’s role for macroalgae ecology in seagrass beds may be less important than factors like light and temperature, and no direct Zostera photosynthesis measurements under 5–40 psu are reported [5]. Missing: direct information on how 5–40 psu salinity regimes affect Zostera marina photosynthesis; future work would need to measure seagrass photosynthetic indicators under comparable salinity stress. Sources used: [1], [2], [5].</p>
+<p>Sources: [1] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed [2] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed [3] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed [4] 최태섭, 김광용 (2002). The growth of green macroalgal mats is becoming increasingly common in many marine intertidal habitats. [5] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed</p>
+</section>
+</section>
+</section>
+<section id="future-work" class="level1">
+<h1>FUTURE WORK</h1>
+<ul>
+<li>Late chunking (Jina AI, 2024) addresses context loss by embedding full documents before splitting. This approach could complement our hybrid retrieval by improving individual chunk quality, but would require re-engineering the ingestion pipeline and is left for future work</li>
+</ul>
+<!-- -->
+<ul>
+<li><p>agentic rag</p></li>
+<li><p>steiner tree</p></li>
+<li><p>microsoft L-something algorithm that involves naming broad themes of graph neighborhoods</p></li>
+</ul>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

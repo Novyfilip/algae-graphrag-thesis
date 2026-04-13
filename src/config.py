@@ -47,3 +47,9 @@ API_GENERATION_MODEL = "gpt-5-nano"
 NEO4J_URI = "neo4j://127.0.0.1:7687"
 NEO4J_USER = "neo4j"
 
+import os
+from dotenv import load_dotenv
+load_dotenv()
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "graphrag")
+USE_GRAPH = True  # Set to False to run baseline vector purely
+
