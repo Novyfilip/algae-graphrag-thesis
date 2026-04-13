@@ -72,7 +72,7 @@ def run_pipeline(query, components, chat_history=None, graph=None):
 
     # Step 3b: Graph Expansion if graph=True
     if graph and graph_driver:
-        entry_chunk_ids = [chunk.metadata.get("chunk_id") for chunk in top_chunks if "chunk_id" in chunk.metadata]
+        entry_chunk_ids = [doc.metadata.get("chunk_id") for score, doc in top_chunks if "chunk_id" in doc.metadata]
         triplets = expand_from_chunks(entry_chunk_ids, graph_driver)
         
         if triplets:
@@ -83,7 +83,10 @@ def run_pipeline(query, components, chat_history=None, graph=None):
     # Step 4: Generate answer
     answer = generate_answer(query, context, client, chat_history)
 
-    return answer, contexts_list, top_chunks
+    if graph and graph_driver and triplets:#if using graph 
+        return answer, contexts_list, top_chunks, triplets
+    else:
+        return answer, contexts_list, top_chunks, []
 #==============================================D
 #FOR BUILD, RUNNING IN CONSOLE
 if __name__ == "__main__":

@@ -125,16 +125,14 @@ def expand_from_chunks(chunk_ids, driver, max_triplets=40):
     cypher = """
     MATCH (c:Chunk) WHERE c.chunk_id IN $chunk_ids
     MATCH (c)-[:MENTIONS]->(entity)
-    
-    // Degree penalty graph hub filter
-    WITH entity
+    WITH c, entity
     WHERE size([(entity)-[]-() | 1]) < 100
-    
     MATCH (entity)-[r]->(neighbor)
     WHERE type(r) IN ['FOUND_IN','PRODUCES','STUDIED_WITH',
-                      'IDENTIFIED_BY','BELONGS_TO','AFFECTS','CONTAINS']
-      AND r.confidence >= 0.7
+                    'IDENTIFIED_BY','BELONGS_TO','AFFECTS','CONTAINS']
+    AND r.confidence >= 0.7
     RETURN DISTINCT
+        c.chunk_id   AS chunk_id,
         entity.name  AS subject,
         type(r)      AS predicate,
         neighbor.name AS object,
@@ -145,4 +143,4 @@ def expand_from_chunks(chunk_ids, driver, max_triplets=40):
     
     with driver.session() as session:
         result = session.run(cypher, chunk_ids=chunk_ids, max_triplets=max_triplets)
-        return [(r["subject"], r["predicate"], r["object"], r["confidence"]) for r in result]
+        return [(r["chunk_id"], r["subject"], r["predicate"], r["object"], r["confidence"]) for r in result]

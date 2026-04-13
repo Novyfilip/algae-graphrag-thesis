@@ -1,7 +1,7 @@
 """
 evaluate_pipeline.py
 
-Runs the RAGAS testset through the full RAG pipeline and scores the results.
+Runs the RAGAS testset through the full RAG pipeline and scores the results. In the end I decided to not update this because I am happy with the current pipeline configuration.
 
 Usage:
     python evaluate_pipeline.py

@@ -16,7 +16,7 @@ st.set_page_config(
     layout="centered"
 )
 
-# Custom CSS for seaweed green header/footer
+# Custom CSS for seaweed green header and footer
 st.markdown("""
 <style>
     /* Header */
@@ -33,7 +33,7 @@ st.markdown("""
     }
     /* Push content below fixed header */
     .block-container {
-        padding-top: 600px;
+        padding-top: 300px;
     }
     .header h1 {
         color: white;
@@ -89,7 +89,7 @@ st.markdown("""
         background-color: #2d4a1c;
         border-color: #2d4a1c;
     }
-    /* Hide Streamlit's default header */
+    /* Hides Streamlit's default header */
     #MainMenu {visibility: hidden;}
     header {visibility: hidden;}
     .stDeployButton {display: none;}
@@ -130,11 +130,11 @@ if user_input:
     st.session_state.messages.append({"role": "user", "content": user_input})
     
     # Run pipeline
-    with st.spinner("Searching and generating answer..."):
-        answer, contexts, top_chunks = run_pipeline(user_input, st.session_state.components, st.session_state.messages)
+    with st.spinner("Reformulating query, retrieving chunks, and expanding via graph..."):
+        answer, contexts, top_chunks, triplets = run_pipeline(user_input, st.session_state.components, st.session_state.messages)
     
-    # Store chunks for sidebar (persists across reruns)
     st.session_state.top_chunks = top_chunks
+    st.session_state.triplets = triplets  # Store for sidebar
     
     # Add bot response to history
     st.session_state.messages.append({"role": "assistant", "content": answer})
@@ -142,7 +142,7 @@ if user_input:
     # Rerun to update display
     st.rerun()
 
-# Sidebar — rendered outside the if block so it persists across reruns
+# Sidebar, rendered outside the if block so it persists across reruns
 if "top_chunks" in st.session_state and st.session_state.top_chunks:
     with st.sidebar:
         st.header("Retrieved Chunks")
@@ -151,6 +151,15 @@ if "top_chunks" in st.session_state and st.session_state.top_chunks:
             st.markdown(f"*{doc.metadata.get('title', 'Untitled')}*")
             st.text(doc.page_content[:200] + "...")
             st.divider()
+        
+# Graph visualization
+if st.session_state.get("triplets") and len(st.session_state.triplets) > 0:
+    from visualization.visualize import create_graph_visualization
+    
+    st.header("Knowledge Graph Expansion")
+    fig = create_graph_visualization(st.session_state.triplets, st.session_state.top_chunks)
+    if fig:
+        st.plotly_chart(fig, use_container_width=True)
 
 # Footer
 st.markdown('<div class="footer">Made by Filip Nový for University of Southern Denmark, 2026</div>', unsafe_allow_html=True)
