@@ -678,7 +678,11 @@ The fix is analogous to *TF-IDF* in text retrieval: just as common words like *t
 
 This went from 40 generic Chlorophyta triplets to 10 specific, actionable facts about the exact entities and environments the user asked about.
 
-## FIRST TEST RUN
+counterpoint:
+
+The TF-IDF analogy is evocative but isn't actually the mechanism you'd cite. What you're doing has a more direct antecedent: it's structural filtering on node degree, well-known in network science and specifically invoked in graph-based IR and entity-linking work (hub nodes degrade retrieval because they act as popularity-biased attractors; this is discussed in e.g. Han et al. on collective entity linking, and more generally in PageRank-era work on hub suppression). If you want the TF-IDF framing, you should cite it as an analogy rather than a derivation. The threshold of 100 is, again, a tuning parameter — justify it empirically ("reduced generic Chlorophyta results from 40 to 10 specific triplets on our test query") rather than theoretically. You already have that justification in the log. That's enough.
+
+# first RUN
 
 ### vector-only
 
@@ -694,6 +698,17 @@ Within the provided Ulva pertusa data, nutrient uptake is strongest at intermedi
 
 Sources: \[1\] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed \[2\] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed \[3\] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed \[4\] 최태섭, 김광용 (2002). The growth of green macroalgal mats is becoming increasingly common in many marine intertidal habitats. \[5\] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed
 
+## ragas results
+
+with bge en reranker, deepseek judge, open ai reformulation
+
+| Metric            | baseline | hybrid | delta  |
+|-------------------|----------|--------|--------|
+| faithfulness      | 0.7447   | 0.7719 | 0.0272 |
+| answer_relevancy  | 0.5965   | 0.6557 | 0.0592 |
+| context_precision | 0.3123   | 0.3332 | 0.0209 |
+| context_recall    | 0.4556   | 0.4827 | 0.0271 |
+
 # FUTURE WORK
 
 -   Late chunking (Jina AI, 2024) addresses context loss by embedding full documents before splitting. This approach could complement our hybrid retrieval by improving individual chunk quality, but would require re-engineering the ingestion pipeline and is left for future work
@@ -705,3 +720,5 @@ Sources: \[1\] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of sal
 -   steiner tree
 
 -   microsoft L-something algorithm that involves naming broad themes of graph neighborhoods
+
+-   hierarchical retrieval combining paper-level summaries with chunk-level vectors (cf. RAPTOR, Sarthi et al. 2024)

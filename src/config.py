@@ -32,11 +32,11 @@ TOP_K_RETRIEVAL = 5     # results per reformulation from ChromaDB
 TOP_K_RERANK = 5        # chunks kept after reranking
 
 # Local vs Cloud toggles — flip these to switch between Ollama and API
-USE_LOCAL_REFORMULATION = False  # True = Ollama (gemma4:e2b), False = DeepSeek API
-USE_LOCAL_GENERATION = False     # True = Ollama (gemma4:e2b), False = OpenAI API
+USE_LOCAL_REFORMULATION = False  # True = Ollama (gemma4:e4b), False = DeepSeek API
+USE_LOCAL_GENERATION = False     # True = Ollama (gemma4:e4b), False = OpenAI API
 
 # Local models (Ollama)
-LOCAL_REFORMULATION_MODEL = "gemma4:e2b"
+LOCAL_REFORMULATION_MODEL = "gemma4:e4b"
 LOCAL_GENERATION_MODEL = "gemma4:e2b"
 
 # Cloud models (API)
@@ -52,4 +52,3 @@ from dotenv import load_dotenv
 load_dotenv()
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "graphrag")
 USE_GRAPH = True  # Set to False to run baseline vector purely
-

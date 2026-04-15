@@ -131,7 +131,8 @@ if user_input:
     
     # Run pipeline
     with st.spinner("Reformulating query, retrieving chunks, and expanding via graph..."):
-        answer, contexts, top_chunks, triplets = run_pipeline(user_input, st.session_state.components, st.session_state.messages)
+        #The trailing _ discards the echoed query
+        answer, contexts, top_chunks, triplets, _ = run_pipeline(user_input, st.session_state.components, st.session_state.messages)
     
     st.session_state.top_chunks = top_chunks
     st.session_state.triplets = triplets  # Store for sidebar
