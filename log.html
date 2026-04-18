@@ -740,7 +740,11 @@ Table&nbsp;1: Local Reformulation Version Metrics
 </section>
 <section id="progress-7" class="level2">
 <h2 class="anchored" data-anchor-id="progress-7">18. 4. Progress</h2>
-<p>polished the gui</p>
+<ul>
+<li>polished the gui</li>
+<li>fatal flaw in hybrid pipeline discovered: because of 0.7 confidence threshold, graph results were getting filtered out. so the improvement was purely baaased on variance and a slightly different prompt. once im done, I am planning to use ANOVA/paired t-tests to see what part of the improvement is random and what part is not. plan for next time: How to evaluate it:</li>
+</ul>
+<p>To prove the “Prompt Priming” theory: Run a Paired t-test between Group A and Group B. This isolates the psychological impact of the prompt header on the LLM’s Faithfulness score. To prove the Graph’s true value: Run a Paired t-test between Group B and Group C. Because both B and C share the exact same prompt header, any improvement in C is strictly isolated to the injection of the graph facts themselves! (Optional) Repeated Measures ANOVA: If you want to test all three simultaneously to mathematically prove the variance between all groups is statistically significant (p &lt; 0.05).</p>
 </section>
 </section>
 <section id="future-work" class="level1">

@@ -723,7 +723,15 @@ Sources: \[1\] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of sal
 Hybrid retrieval improves generation quality by providing explicit relational background for the generator, while retrieval quality remains comparable to the baseline
 
 ## 18. 4. Progress
-polished the gui
+- polished the gui
+- fatal flaw in hybrid pipeline discovered: because of 0.7 confidence threshold, graph results were getting filtered out. so the improvement was purely baaased on variance and a slightly different prompt. once im done, I am planning to use ANOVA/paired t-tests to see what part of the improvement is random and what part is not. 
+plan for next time: How to evaluate it:
+
+To prove the "Prompt Priming" theory: Run a Paired t-test between Group A and Group B. This isolates the psychological impact of the prompt header on the LLM's Faithfulness score.
+To prove the Graph's true value: Run a Paired t-test between Group B and Group C. Because both B and C share the exact same prompt header, any improvement in C is strictly isolated to the injection of the graph facts themselves!
+(Optional) Repeated Measures ANOVA: If you want to test all three simultaneously to mathematically prove the variance between all groups is statistically significant (p < 0.05).
+### For thesis
+Confidence scores assigned during zero-shot extraction exhibited a bimodal distribution concentrated at 0.5 and 1.0, suggesting the extraction model lacked calibrated uncertainty estimation. Few-shot prompting with domain-specific exemplars would likely produce more granular confidence scores, enabling more nuanced filtering during graph expansion.
 
 # FUTURE WORK
 

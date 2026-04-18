@@ -33,8 +33,8 @@ st.markdown("""
     }
     /* Push content below fixed header */
     .block-container {
-        padding-top: 100px;
-        padding-bottom: 80px;
+        padding-top: 70px;
+        padding-bottom: 60px;
     }
     .header h1 {
         color: white;
@@ -59,6 +59,16 @@ st.markdown("""
     /* Chat native container gap fixes */
     .stChatMessage {
         background-color: transparent;
+    }
+    
+    /* User Message Bubble */
+    .user-bubble {
+        background-color: #2d4a1c;
+        color: white;
+        padding: 12px 18px;
+        border-radius: 12px;
+        display: inline-block;
+        margin: 5px 0;
     }
     /* Green primary button */
     .stButton > button[kind="primary"] {
@@ -86,6 +96,9 @@ if "messages" not in st.session_state:
 if "components" not in st.session_state:
     with st.spinner("Loading pipeline... (this may take a moment)"):
         st.session_state.components = setup()
+        # Warn the user if the Graph database is turned down!
+        if st.session_state.components.get("graph_driver") is None:
+            st.toast("Neo4j Database is unreachable! Operating in Vector-Only mode.", icon="⚠️")
 
 # Chat history display using native Streamlit chat bubbles
 if not st.session_state.messages:
@@ -93,7 +106,10 @@ if not st.session_state.messages:
 else:
     for msg in st.session_state.messages:
         with st.chat_message(msg["role"]):
-            st.markdown(msg["content"])
+            if msg["role"] == "user":
+                st.markdown(f'<div class="user-bubble">{msg["content"]}</div>', unsafe_allow_html=True)
+            else:
+                st.markdown(msg["content"])
 
 # Input area
 user_input = st.chat_input("Ask about algae research...")
@@ -101,7 +117,7 @@ user_input = st.chat_input("Ask about algae research...")
 if user_input:
     # Display user message immediately
     with st.chat_message("user"):
-        st.markdown(user_input)
+        st.markdown(f'<div class="user-bubble">{user_input}</div>', unsafe_allow_html=True)
     st.session_state.messages.append({"role": "user", "content": user_input})
     
     # Show spinner while building context
@@ -129,7 +145,7 @@ if "top_chunks" in st.session_state and st.session_state.top_chunks:
             st.divider()
         
 # Graph visualization at the bottom of main view
-if st.session_state.get("triplets") and len(st.session_state.triplets) > 0 and st.session_state.get("query"):
+if st.session_state.get("top_chunks") and st.session_state.get("query"):
     from visualization.visualize import create_graph_visualization
     
     with st.expander("Knowledge Graph Expansion", expanded=True):

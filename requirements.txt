@@ -1,18 +1,40 @@
-# Orchestration
-langchain==0.1.0
-langchain-openai==0.0.2
-langchain-community==0.0.10
-sentence-transformers
+# Web Frontend
+streamlit==1.55.0
+
+# Orchestration & Frameworks
+langchain==1.2.8
+langchain-core==1.2.19
+langchain-community==0.4.1
+langchain-openai==1.1.11
+langchain-huggingface==1.2.1
+langchain-ollama==1.0.1
+langchain-chroma==1.1.0
+langchain-classic==1.0.1
 
 # Vector Database (Local & Lightweight)
-chromadb==0.4.22
+chromadb==1.4.1
 
-# Document Processing
-pypdf==4.0.1
-tiktoken==0.5.2
+# LLM APIs & Embeddings
+openai==2.29.0
+sentence-transformers==5.2.3
+
+# Knowledge Graph & Visualization
+neo4j==6.1.0
+neo4j-graphrag==1.14.0
+networkx==3.4.2
+plotly==6.7.0
+
+# Document Processing & Data Extraction
+pypdf==6.6.2
+tiktoken==0.12.0
+instructor==1.14.5
+pydantic==2.12.5
+
+# Evaluation & Metrics
+ragas==0.4.3
+datasets==4.7.0
+pandas==2.3.3
+nest-asyncio==1.6.0
 
 # Environment & Utilities
-python-dotenv==1.0.0
-openai==1.10.0
-#knowledge graph
-neo4j-graphrag
+python-dotenv==1.2.1

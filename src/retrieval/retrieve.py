@@ -130,7 +130,7 @@ def expand_from_chunks(chunk_ids, driver, max_triplets=40):
     MATCH (entity)-[r]->(neighbor)
     WHERE type(r) IN ['FOUND_IN','PRODUCES','STUDIED_WITH',
                     'IDENTIFIED_BY','BELONGS_TO','AFFECTS','CONTAINS']
-    AND r.confidence >= 0.7
+    AND r.confidence >= 0.5
     RETURN DISTINCT
         c.chunk_id   AS chunk_id,
         entity.name  AS subject,
