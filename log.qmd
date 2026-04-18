@@ -700,7 +700,7 @@ Sources: \[1\] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of sal
 
 ## ragas results
 
-with bge en reranker, deepseek judge, open ai reformulation
+### with bge en reranker, deepseek judge, open ai reformulation
 
 | Metric            | baseline | hybrid | delta  |
 |-------------------|----------|--------|--------|
@@ -708,6 +708,19 @@ with bge en reranker, deepseek judge, open ai reformulation
 | answer_relevancy  | 0.5965   | 0.6557 | 0.0592 |
 | context_precision | 0.3123   | 0.3332 | 0.0209 |
 | context_recall    | 0.4556   | 0.4827 | 0.0271 |
+
+### with gemma4:e4b reformulation
+
+| Metric            | baseline | hybrid | delta  |
+|-------------------|----------|--------|--------|
+| faithfulness      | 0.7565   | 0.7964 | 0.0400 |
+| answer_relevancy  | 0.6002   | 0.6364 | 0.0362 |
+| context_precision | 0.3036   | 0.3076 | 0.0040 |
+| context_recall    | 0.4670   | 0.4801 | 0.0131 |
+
+: Local Reformulation Version Metrics {#tbl-local-reformulation}
+
+Hybrid retrieval improves generation quality by providing explicit relational background for the generator, while retrieval quality remains comparable to the baseline
 
 # FUTURE WORK
 
@@ -722,3 +735,5 @@ with bge en reranker, deepseek judge, open ai reformulation
 -   microsoft L-something algorithm that involves naming broad themes of graph neighborhoods
 
 -   hierarchical retrieval combining paper-level summaries with chunk-level vectors (cf. RAPTOR, Sarthi et al. 2024)
+
+-   chain of note for better generation possibly
