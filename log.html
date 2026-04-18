@@ -630,9 +630,12 @@ ul.task-list li input[type="checkbox"] {
 <p>In knowledge graphs, some entities are highly connected “hubs”, broad taxonomic categories like “Chlorophyta” (connected to every green alga species, every method, every compound). When graph traversal expands from a hub, it floods the results with generic, low-value facts, drowning out specific relationships.</p>
 <p>The fix is analogous to <em>TF-IDF</em> in text retrieval: just as common words like <em>the</em> are downweighted because they appear everywhere and carry no discriminative signal, highly-connected entities are filtered because their relationships are too generic to add value for a specific query. We apply a <strong>degree cap</strong> (<code>size([(entity)-[]-() | 1]) &lt; 100</code>) that excludes entities with more than 100 connections, forcing the traversal toward more specific nodes like “eelgrass bed” or “tidal flats” which produce targeted, query-relevant facts.</p>
 <p>This went from 40 generic Chlorophyta triplets to 10 specific, actionable facts about the exact entities and environments the user asked about.</p>
+<p>counterpoint:</p>
+<p>The TF-IDF analogy is evocative but isn’t actually the mechanism you’d cite. What you’re doing has a more direct antecedent: it’s structural filtering on node degree, well-known in network science and specifically invoked in graph-based IR and entity-linking work (hub nodes degrade retrieval because they act as popularity-biased attractors; this is discussed in e.g.&nbsp;Han et al.&nbsp;on collective entity linking, and more generally in PageRank-era work on hub suppression). If you want the TF-IDF framing, you should cite it as an analogy rather than a derivation. The threshold of 100 is, again, a tuning parameter — justify it empirically (“reduced generic Chlorophyta results from 40 to 10 specific triplets on our test query”) rather than theoretically. You already have that justification in the log. That’s enough.</p>
 </section>
-<section id="first-test-run" class="level2">
-<h2 class="anchored" data-anchor-id="first-test-run">FIRST TEST RUN</h2>
+</section>
+<section id="first-run" class="level1">
+<h1>first RUN</h1>
 <section id="vector-only" class="level3">
 <h3 class="anchored" data-anchor-id="vector-only">vector-only</h3>
 <p>=== BASELINE (vector only) ===</p>
@@ -644,6 +647,100 @@ ul.task-list li input[type="checkbox"] {
 <p>Within the provided Ulva pertusa data, nutrient uptake is strongest at intermediate salinities in the 20–25 psu range, with nitrate and phosphate uptake both higher there than at the extremes; phosphate uptake even increases more rapidly than nitrate as salinity drops toward 5–20 psu, and maximum growth occurs near 20 psu (µ ≈ 0.02–0.032 d−1) with reduced growth at 40 psu. Tissue N and P contents are 1.5–2.9% N and 0.1–0.14% P, and the tissue N:P ratio is high (30–50), rising with salinity. Salinity also significantly influences chlorophyll-a content and effective quantum yield, indicating that photosynthetic performance in Ulva is tied to salinity conditions. Together, these findings illustrate a broad salinity tolerance in Ulva from eelgrass beds but with optimal uptake and photosynthetic indicators at moderate salinities around 20 psu [1][2][5]. However, the passages do not provide any direct data on Zostera marina photosynthetic responses to salinity; in fact, the seagrass context here notes that salinity’s role for macroalgae ecology in seagrass beds may be less important than factors like light and temperature, and no direct Zostera photosynthesis measurements under 5–40 psu are reported [5]. Missing: direct information on how 5–40 psu salinity regimes affect Zostera marina photosynthesis; future work would need to measure seagrass photosynthetic indicators under comparable salinity stress. Sources used: [1], [2], [5].</p>
 <p>Sources: [1] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed [2] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed [3] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed [4] 최태섭, 김광용 (2002). The growth of green macroalgal mats is becoming increasingly common in many marine intertidal habitats. [5] Tae Seob Choi, Eun Ju Kang, Kwang Young Kim (2010). Effect of salinity on growth and nutrient uptake of Ulva pertusa (Chlorophyta) from an eelgrass bed</p>
 </section>
+<section id="ragas-results" class="level2">
+<h2 class="anchored" data-anchor-id="ragas-results">ragas results</h2>
+<section id="with-bge-en-reranker-deepseek-judge-open-ai-reformulation" class="level3">
+<h3 class="anchored" data-anchor-id="with-bge-en-reranker-deepseek-judge-open-ai-reformulation">with bge en reranker, deepseek judge, open ai reformulation</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Metric</th>
+<th>baseline</th>
+<th>hybrid</th>
+<th>delta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>faithfulness</td>
+<td>0.7447</td>
+<td>0.7719</td>
+<td>0.0272</td>
+</tr>
+<tr class="even">
+<td>answer_relevancy</td>
+<td>0.5965</td>
+<td>0.6557</td>
+<td>0.0592</td>
+</tr>
+<tr class="odd">
+<td>context_precision</td>
+<td>0.3123</td>
+<td>0.3332</td>
+<td>0.0209</td>
+</tr>
+<tr class="even">
+<td>context_recall</td>
+<td>0.4556</td>
+<td>0.4827</td>
+<td>0.0271</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="with-gemma4e4b-reformulation" class="level3">
+<h3 class="anchored" data-anchor-id="with-gemma4e4b-reformulation">with gemma4:e4b reformulation</h3>
+<div id="tbl-local-reformulation" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-local-reformulation-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Local Reformulation Version Metrics
+</figcaption>
+<div aria-describedby="tbl-local-reformulation-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Metric</th>
+<th>baseline</th>
+<th>hybrid</th>
+<th>delta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>faithfulness</td>
+<td>0.7565</td>
+<td>0.7964</td>
+<td>0.0400</td>
+</tr>
+<tr class="even">
+<td>answer_relevancy</td>
+<td>0.6002</td>
+<td>0.6364</td>
+<td>0.0362</td>
+</tr>
+<tr class="odd">
+<td>context_precision</td>
+<td>0.3036</td>
+<td>0.3076</td>
+<td>0.0040</td>
+</tr>
+<tr class="even">
+<td>context_recall</td>
+<td>0.4670</td>
+<td>0.4801</td>
+<td>0.0131</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+<p>Hybrid retrieval improves generation quality by providing explicit relational background for the generator, while retrieval quality remains comparable to the baseline</p>
+</section>
+</section>
+<section id="progress-7" class="level2">
+<h2 class="anchored" data-anchor-id="progress-7">18. 4. Progress</h2>
+<p>polished the gui</p>
 </section>
 </section>
 <section id="future-work" class="level1">
@@ -656,6 +753,8 @@ ul.task-list li input[type="checkbox"] {
 <li><p>agentic rag</p></li>
 <li><p>steiner tree</p></li>
 <li><p>microsoft L-something algorithm that involves naming broad themes of graph neighborhoods</p></li>
+<li><p>hierarchical retrieval combining paper-level summaries with chunk-level vectors (cf.&nbsp;RAPTOR, Sarthi et al.&nbsp;2024)</p></li>
+<li><p>chain of note for better generation possibly</p></li>
 </ul>
 </section>
 

@@ -87,7 +87,10 @@ marine biology, answer the user's question following these steps:
 Domain constraint: Focus on the user's specific industry context.
 Output format: Brief paragraph. You MUST cite every passage you use with its 
 bracketed number [1], [2], etc. from the context headers. Use multiple citations 
-to support your answer. Then at the end of your answer, list all sources of 
+to support your answer. Then, directly before listing your sources, output a 
+Markdown horizontal rule (---) on its own line to create a full-width divider:
+---
+Finally, at the end of your answer below the line, list all sources of 
 retrieved chunks by bracketed number, title, author, year.
 
 The following passages are numbered [1], [2], etc. When citing, use ONLY these 

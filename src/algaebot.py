@@ -33,7 +33,8 @@ st.markdown("""
     }
     /* Push content below fixed header */
     .block-container {
-        padding-top: 300px;
+        padding-top: 100px;
+        padding-bottom: 80px;
     }
     .header h1 {
         color: white;
@@ -55,30 +56,9 @@ st.markdown("""
         width: 100%;
     }
     
-    /* Chat container */
-    .chat-container {
-        border: 1px solid #ddd;
-        border-radius: 10px;
-        padding: 20px;
-        height: 400px;
-        overflow-y: auto;
-        background-color: #fafafa;
-        margin-bottom: 80px;
-    }
-    
-    .user-message {
-        background-color: #e8f5e9;
-        padding: 10px 15px;
-        border-radius: 10px;
-        margin: 10px 0;
-    }
-    
-    .bot-message {
-        background-color: #ffffff;
-        padding: 10px 15px;
-        border-radius: 10px;
-        margin: 10px 0;
-        border: 1px solid #e0e0e0;
+    /* Chat native container gap fixes */
+    .stChatMessage {
+        background-color: transparent;
     }
     /* Green primary button */
     .stButton > button[kind="primary"] {
@@ -107,40 +87,35 @@ if "components" not in st.session_state:
     with st.spinner("Loading pipeline... (this may take a moment)"):
         st.session_state.components = setup()
 
-# Chat history display
-chat_html = '<div class="chat-container">'
+# Chat history display using native Streamlit chat bubbles
 if not st.session_state.messages:
-    chat_html += '<p style="color: #888; text-align: center;">Ask me anything about algae research!</p>'
+    st.info("Ask me anything about algae research!")
 else:
     for msg in st.session_state.messages:
-        if msg["role"] == "user":
-            chat_html += f'<div class="user-message"><strong>User:</strong> {msg["content"]}</div>'
-        else:
-            chat_html += f'<div class="bot-message"><strong>Algaebot:</strong> {msg["content"]}</div>'
-chat_html += '</div>'
-
-st.markdown(chat_html, unsafe_allow_html=True)
+        with st.chat_message(msg["role"]):
+            st.markdown(msg["content"])
 
 # Input area
-# New - chat input with Enter to send, auto-clears
 user_input = st.chat_input("Ask about algae research...")
 
 if user_input:
-    # Add user message to history
+    # Display user message immediately
+    with st.chat_message("user"):
+        st.markdown(user_input)
     st.session_state.messages.append({"role": "user", "content": user_input})
     
-    # Run pipeline
-    with st.spinner("Reformulating query, retrieving chunks, and expanding via graph..."):
-        #The trailing _ discards the echoed query
-        answer, contexts, top_chunks, triplets, _ = run_pipeline(user_input, st.session_state.components, st.session_state.messages)
+    # Show spinner while building context
+    with st.chat_message("assistant"):
+        with st.spinner("Reformulating query, retrieving chunks, and expanding via graph..."):
+            answer, contexts, top_chunks, triplets, returned_query = run_pipeline(user_input, st.session_state.components, st.session_state.messages)
+        
+        st.markdown(answer)
+        
+        st.session_state.top_chunks = top_chunks
+        st.session_state.triplets = triplets
+        st.session_state.query = returned_query
     
-    st.session_state.top_chunks = top_chunks
-    st.session_state.triplets = triplets  # Store for sidebar
-    
-    # Add bot response to history
     st.session_state.messages.append({"role": "assistant", "content": answer})
-    
-    # Rerun to update display
     st.rerun()
 
 # Sidebar, rendered outside the if block so it persists across reruns
@@ -153,14 +128,14 @@ if "top_chunks" in st.session_state and st.session_state.top_chunks:
             st.text(doc.page_content[:200] + "...")
             st.divider()
         
-# Graph visualization
-if st.session_state.get("triplets") and len(st.session_state.triplets) > 0:
+# Graph visualization at the bottom of main view
+if st.session_state.get("triplets") and len(st.session_state.triplets) > 0 and st.session_state.get("query"):
     from visualization.visualize import create_graph_visualization
     
-    st.header("Knowledge Graph Expansion")
-    fig = create_graph_visualization(st.session_state.triplets, st.session_state.top_chunks)
-    if fig:
-        st.plotly_chart(fig, use_container_width=True)
+    with st.expander("Knowledge Graph Expansion", expanded=True):
+        fig = create_graph_visualization(st.session_state.query, st.session_state.top_chunks, st.session_state.triplets)
+        if fig:
+            st.plotly_chart(fig, use_container_width=True)
 
 # Footer
 st.markdown('<div class="footer">Made by Filip Nový for University of Southern Denmark, 2026</div>', unsafe_allow_html=True)
