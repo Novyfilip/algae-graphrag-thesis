@@ -94,7 +94,9 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 if "components" not in st.session_state:
-    with st.spinner("Loading pipeline... (this may take a moment)"):
+    with st.spinner("Loading pipeline... (this may take a moment on first boot downloading DB)"):
+        from download_db import ensure_chromadb_exists
+        ensure_chromadb_exists()
         st.session_state.components = setup()
         # Warn the user if the Graph database is turned down!
         if st.session_state.components.get("graph_driver") is None:

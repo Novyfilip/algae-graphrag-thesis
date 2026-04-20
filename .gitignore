@@ -7,3 +7,17 @@ __pycache__/
 *.pdf
 context/
 scratch/
+notebooks/
+outputs/
+images/
+backup/
+log_files/
+thesis_files/
+src/evaluation/
+src/ingestion/
+src/run.bat
+*.qmd
+*.tex
+*.html
+*.lnk
+*.csv

@@ -8,7 +8,7 @@ All paths, model names, and constants live here.
 from pathlib import Path
 
 # Paths
-PROJECT_ROOT = Path("C:/Users/filip/Desktop/Thesis/project")
+PROJECT_ROOT = Path(__file__).parent.parent.resolve()
 DATA_DIR = PROJECT_ROOT / "data"
 CHROMA_DIR = DATA_DIR / "chromadb"
 OUTPUTS_DIR = PROJECT_ROOT / "outputs"
@@ -37,7 +37,7 @@ USE_LOCAL_GENERATION = False     # True = Ollama (gemma4:e4b), False = OpenAI AP
 
 # Local models (Ollama)
 LOCAL_REFORMULATION_MODEL = "gemma4:e4b"
-LOCAL_GENERATION_MODEL = "gemma4:e2b"
+LOCAL_GENERATION_MODEL = "gemma4:e4b"
 
 # Cloud models (API)
 API_REFORMULATION_MODEL = "deepseek-chat"
@@ -51,4 +51,4 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "graphrag")
-USE_GRAPH = True  # Set to False to run baseline vector purely
+USE_GRAPH = False  # Set to False to run baseline vector purely
