@@ -27,7 +27,7 @@ pydantic==2.12.5
 
 # Environment & Utilities
 python-dotenv==1.2.1
-huggingface-hub==0.23.2
+huggingface-hub==0.33.4
 
 # ==========================================
 # Local Development & Evaluation (Commented out for Deployment)
