@@ -11,7 +11,7 @@ from pipeline import setup, run_pipeline
 
 # Page configuration (must be first Streamlit command according to documentation)
 st.set_page_config(
-    page_title="Demo",
+    page_title="AlgaeBot",
     page_icon="🌿",
     layout="centered"
 )
@@ -33,7 +33,7 @@ st.markdown("""
     }
     /* Push content below fixed header */
     .block-container {
-        padding-top: 70px;
+        padding-top: 100px;
         padding-bottom: 60px;
     }
     .header h1 {
@@ -87,7 +87,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.markdown('<div class="header"><h1>Demo</h1></div>', unsafe_allow_html=True)
+st.markdown('<div class="header"><h1>AlgaeBot</h1></div>', unsafe_allow_html=True)
 
 # Initialize session state for chat history and pipeline components
 if "messages" not in st.session_state:
