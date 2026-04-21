@@ -1431,6 +1431,21 @@ scores, enabling more nuanced filtering during graph expansion.
 | **Context Precision** | 0.3292   | 0.3237 | -0.0054 |
 | **Context Recall**    | 0.4709   | 0.4817 | 0.0108  |
 
+## 21. 4. progress
+
+deployed online at algaebot.filipnovy.dk
+
+edited generation prompt:
+
+Finally, at the end of your answer below the line, list each source you
+cited on its own line in this exact format: \[number\] Authors (Year).
+Title.
+
+### note about confidence level
+
+run the cypher query for confidence level counts again so I can include
+a graph or a table in my thesis and justify this threshold.
+
 # FUTURE WORK
 
 -   Late chunking (Jina AI, 2024) addresses context loss by embedding

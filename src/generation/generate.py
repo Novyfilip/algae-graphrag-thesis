@@ -90,8 +90,9 @@ bracketed number [1], [2], etc. from the context headers. Use multiple citations
 to support your answer. Then, directly before listing your sources, output a 
 Markdown horizontal rule (---) on its own line to create a full-width divider:
 ---
-Finally, at the end of your answer below the line, list all sources of 
-retrieved chunks by bracketed number, title, author, year.
+Finally, at the end of your answer below the line, list each source you 
+cited on its own line in this exact format:
+[number] Authors (Year). Title.
 
 The following passages are numbered [1], [2], etc. When citing, use ONLY these 
 numbers. Do not invent or extract citations from within the passage text.
