@@ -52,3 +52,4 @@ from dotenv import load_dotenv
 load_dotenv()
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "graphrag")
 USE_GRAPH = False  # Set to False to run baseline vector purely
+USE_ROUTER = True # agent decides whether to use the graph or not
