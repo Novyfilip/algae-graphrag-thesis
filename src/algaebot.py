@@ -124,10 +124,16 @@ if user_input:
     
     # Show spinner while building context
     with st.chat_message("assistant"):
-        with st.spinner("Reformulating query, retrieving chunks, and expanding via graph..."):
+        with st.spinner("Processing query..."):
             answer, contexts, top_chunks, triplets, returned_query = run_pipeline(user_input, st.session_state.components, st.session_state.messages)
         
         st.markdown(answer)
+        
+        # Show which route was taken
+        if triplets:
+            st.caption("Route: Graph-enhanced retrieval (relational query detected)")
+        else:
+            st.caption("Route: Vector-only retrieval")
         
         st.session_state.top_chunks = top_chunks
         st.session_state.triplets = triplets

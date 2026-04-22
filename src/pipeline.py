@@ -72,8 +72,12 @@ def run_pipeline(query, components, chat_history=None, graph=None):
                           that want to pass everything to the visualizer)
     """
     if graph is None:
-        from config import USE_GRAPH
-        graph = USE_GRAPH
+        from config import USE_ROUTER, USE_GRAPH
+        if USE_ROUTER:
+            from retrieval.router import route_query
+            graph = route_query(query)
+        else:
+            graph = USE_GRAPH
 
     retriever = components["retriever"]
     reranker = components["reranker"]
