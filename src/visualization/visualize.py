@@ -20,7 +20,7 @@ import plotly.graph_objects as go
 # Layer colors. One color per pipeline stage, chosen for contrast on white.
 # --------------------------------------------------------------------------
 COLOR_QUERY = "#2c3e50"      # dark slate   - the question
-COLOR_CHUNK = "#27ae60"      # seaweed green - matches AlgaeBot branding
+COLOR_CHUNK = "#27ae60"      # seaweed green - matches AlgaeBot main color
 COLOR_ENTITY = "#f39c12"     # amber        - anchor entities
 COLOR_NEIGHBOR = "#c0392b"   # brick red    - graph-expanded neighbors
 

@@ -1437,14 +1437,105 @@ deployed online at algaebot.filipnovy.dk
 
 edited generation prompt:
 
-Finally, at the end of your answer below the line, list each source you
+*Finally, at the end of your answer below the line, list each source you
 cited on its own line in this exact format: \[number\] Authors (Year).
-Title.
+Title.*
 
 ### note about confidence level
 
 run the cypher query for confidence level counts again so I can include
 a graph or a table in my thesis and justify this threshold.
+
+## 22. 4. progress
+
+I prototyped a router that decides whether a user query is simple,
+relational or abstract. a simple question leads to vector only search
+while the others lead to graph search (I might eventually add community
+summaries for abstract queries).
+
+### Query Router Evaluation (DeepSeek-chat, holdout n=41)
+
+#### Three-way classification (42.9% accuracy)
+
+| True Label | → ABSTRACT | → RELATIONAL | → SIMPLE |
+|------------|------------|--------------|----------|
+| abstract   | 1          | 13           | 0        |
+| relational | 1          | 8            | 5        |
+| simple     | 0          | 5            | 9        |
+
+#### Binary classification — SIMPLE vs GRAPH (76.2% accuracy)
+
+| True Label | → GRAPH | → SIMPLE |
+|------------|---------|----------|
+| graph      | 23      | 5        |
+| simple     | 5       | 9        |
+
+### GPT-5-nano Router Evaluation (holdout n=42)
+
+| True Label | → ABSTRACT | → RELATIONAL | → SIMPLE |
+|------------|------------|--------------|----------|
+| abstract   | 0          | 0            | 14       |
+| relational | 0          | 0            | 14       |
+| simple     | 0          | 0            | 14       |
+
+## 23. 4. Entity resolution: taxonomic abb. merging
+
+Scientific literature uses abbreviated binomials interchangeably with
+full names (e.g., "*U. pertusa*" for "*Ulva pertusa*"), and since
+DeepSeek extracted entity names verbatim during knowledge graph
+construction, both forms were ingested as separate nodes. This inflates
+the entity count and fragments the graph structure, because
+relationships that belong to a single biological species are split
+across two disconnected nodes.
+
+To address this, we queried all AlgalTaxon nodes containing a period
+(6,050 of \~15,000 total) and matched each against full binomial
+candidates using first-letter and epithet agreement. Of these, 2,932 had
+at least one matching full-name node. 2,250 were unambiguous (exactly
+one candidate match) and were merged automatically: all incoming
+MENTIONS edges and all domain relationships (FOUND_IN, PRODUCES,
+STUDIED_WITH, IDENTIFIED_BY, BELONGS_TO, AFFECTS, CONTAINS) in both
+directions were redirected from the abbreviated node to the full-name
+node using MERGE to avoid duplicate edges, after which the abbreviated
+node was deleted.
+
+The remaining 682 ambiguous cases involved either genuine taxonomic
+ambiguity (e.g., "A. alata" matching both Amphiprora alata and Amphora
+alata, which are distinct genera) or OCR/typo variants of the same genus
+name (e.g., "Amphiprora" vs "Ampiprora"), making automated resolution
+unreliable. These were left unmerged and noted as a limitation.
+
+This resolution step reduced the AlgalTaxon node count by approximately
+2,250 (\~15%) and consolidated the relationship structure around
+canonical species names. For community detection downstream, this means
+entities that previously appeared as disconnected abbreviation variants
+now cluster correctly with their full-name counterparts. The approach is
+limited to taxonomic naming conventions and does not address synonym
+resolution across taxonomic revisions or non-taxonomic entity types,
+both of which would benefit from grounding against an external ontology
+such as NCBI Taxonomy or AlgaeBase via the OLS API (noted as future
+work).
+
+### Taxonomic entity grounding
+
+Following the abbreviation merge, all remaining AlgalTaxon nodes (\~13k)
+were annotated against the GBIF Backbone Taxonomy API
+(`/v1/species/match`). For each node, the API returns the canonical
+name, taxonomic status (accepted or synonym), a confidence score, and
+the full Linnaean lineage (phylum through genus). Results with
+confidence below 80 or no match were skipped. Matched nodes received new
+properties (`gbif_canonical`, `gbif_status`, `gbif_key`, `gbif_phylum`,
+`gbif_class`, `gbif_order`, `gbif_family`, `gbif_genus`) without
+modifying existing fields.
+
+This serves two purposes. First, it grounds extracted entity names
+against a curated taxonomic authority rather than relying solely on LLM
+extraction fidelity. Second, the `gbif_key` and `gbif_status` fields
+enable a potential further round of entity resolution: nodes with
+different surface names but the same `gbif_key` or shared
+`acceptedUsageKey` are taxonomic synonyms that could be merged. This
+second-order resolution was not performed in this iteration but is
+straightforward to implement.
 
 # FUTURE WORK
 
