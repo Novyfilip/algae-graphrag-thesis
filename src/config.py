@@ -6,6 +6,9 @@ All paths, model names, and constants live here.
 """
 
 from pathlib import Path
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 # Paths
 PROJECT_ROOT = Path(__file__).parent.parent.resolve()
@@ -46,10 +49,14 @@ API_GENERATION_MODEL = "gpt-5-nano"
 # Neo4j settings
 NEO4J_URI = "neo4j://127.0.0.1:7687"
 NEO4J_USER = "neo4j"
-
-import os
-from dotenv import load_dotenv
-load_dotenv()
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "graphrag")
-USE_GRAPH = False  # Set to False to run baseline vector purely
-USE_ROUTER = False # agent decides whether to use the graph or not
+#pipeline variatoions
+
+USE_GRAPH = True  # Set to False to run baseline vector purely
+USE_ROUTER = True # agent decides whether to use the graph or not
+USE_COMMUNITY_SUMMARIES = False  # Whether to use the community summaries collection in ChromaDB for retrieval
+
+# Community summaries
+COMMUNITY_COLLECTION_NAME = "community_summaries" #name of the ChromaDB collection where community summaries are stored
+COMMUNITY_TOP_K = 3 # how many community summaries to retrieve for context
+COMMUNITY_MAX_DISTANCE = 0.3 #the reason is written in Community.ipynb. I found that 0.35 was too high and returned irrelevant summaries, but 0.3 seems to strike a good balance of relevance and informativeness. This is a hyperparameter that could be tuned further, but it works well enough for now.

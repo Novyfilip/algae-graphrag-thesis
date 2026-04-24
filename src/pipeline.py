@@ -22,6 +22,7 @@ from retrieval.retrieve import (
 )
 from retrieval.rerank import load_reranker, rerank
 from generation.generate import get_client, build_context, generate_answer
+from retrieval.community import load_community_collection, retrieve_community_summaries
 
 
 def setup():
@@ -37,14 +38,16 @@ def setup():
     reranker = load_reranker()
     client = get_client()
     graph_driver = load_graph_driver()
-
+    community_collection = load_community_collection()
     print("Pipeline ready.\n")
+
 
     return {
         "retriever": retriever,
         "reranker": reranker,
         "client": client,
         "graph_driver": graph_driver,
+        "community_collection": community_collection,
     }
 
 
@@ -92,6 +95,23 @@ def run_pipeline(query, components, chat_history=None, graph=None):
 
     # Step 3: Build context with metadata headers
     context, contexts_list = build_context(top_chunks)
+    # Step 3a: Community summary injection
+    from config import USE_COMMUNITY_SUMMARIES, COMMUNITY_TOP_K, COMMUNITY_MAX_DISTANCE
+    community_collection = components.get("community_collection")
+    community_summaries = []
+
+    if USE_COMMUNITY_SUMMARIES and community_collection:
+        community_summaries = retrieve_community_summaries(
+            query,
+            community_collection,
+            n_results=COMMUNITY_TOP_K,
+            max_distance=COMMUNITY_MAX_DISTANCE,
+        )
+
+        if community_summaries:
+            community_block = "\n\n".join(community_summaries)
+            context = "Thematic overview:\n" + community_block + "\n\n" + context
+            contexts_list.insert(0, "Thematic overview:\n" + community_block)
 
     # Step 3b: Graph expansion. Triplets always exists after this block,
     # even if it's empty, so the return statement never references an
