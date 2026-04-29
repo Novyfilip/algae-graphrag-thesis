@@ -616,7 +616,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="unplanned-chroma-reindexing-detour">Unplanned chroma reindexing detour</h2>
 <p><strong>Planned</strong>: Wire up hybrid retrieval end-to-end. Write the graph expansion Cypher, the triplet reranker, and get a working baseline-vs-hybrid comparison on the two test queries (simple Zostera lookup, complex multi-hop salinity query).</p>
 <p><strong>What actually happened</strong>: Discovered during the first sanity check that the existing ChromaDB collection (<code>recursive_100</code>, contents are recursive_1000) did not store <code>chunk_id</code> in chunk metadata — only document-level fields (filename, title, authors, year). This made it impossible to join vector search results to the Neo4j knowledge graph at the chunk level, which is the architectural foundation of the whole hybrid retrieval approach.</p>
-<p>The Neo4j <code>Chunk</code> nodes use <code>chunk_id</code> strings in the format <code>{filename_stem}_chunk_{index:03d}</code>, e.g.&nbsp;<code>algae-1986-1-1-117_chunk_000</code>. These IDs were constructed during graph ingestion from filename and within-file position, and are not present anywhere in the original Chroma metadata. The chunk JSON files on disk contain a <code>chunk_id</code> field but it’s a local integer (0, 1, 2, …), not the globally unique string.</p>
+<p>The Neo4j <code>Chunk</code> nodes use <code>chunk_id</code> strings in the format <code>{filename_stem}_chunk_{index:03d}</code>, e.g. <code>algae-1986-1-1-117_chunk_000</code>. These IDs were constructed during graph ingestion from filename and within-file position, and are not present anywhere in the original Chroma metadata. The chunk JSON files on disk contain a <code>chunk_id</code> field but it’s a local integer (0, 1, 2, …), not the globally unique string.</p>
 <p><strong>Decision</strong>: Rebuild the Chroma collection from the same recursive_1000 chunk JSON files, this time constructing the Neo4j-format <code>chunk_id</code> from filename and position during ingestion and storing it in metadata. Same embeddings (BGE-base-en-v1.5), same chunks, same order — only the metadata is enriched. Baseline RAGAS scores remain reproducible because nothing about the retrieval behavior changes, only the ability to join to the graph.</p>
 <p>Considered and rejected: joining Chroma results to Neo4j by exact text match on chunk content. Fragile (whitespace, encoding), undefensible at viva, zero upside over reindexing.</p>
 <p><strong>Minor finding</strong>: Chunk counts are 31,741 on disk vs 31,738 in Neo4j. The 3-chunk gap matches the handoff note about token-limit errors on chunks with huge embedded tables during KG extraction. Not a bug; these chunks remain retrievable via vector search but contribute no graph triplets. Worth acknowledging as a one-line limitation in the thesis.</p>
@@ -746,19 +746,613 @@ Table&nbsp;1: Local Reformulation Version Metrics
 </ul>
 <p>To prove the “Prompt Priming” theory: Run a Paired t-test between Group A and Group B. This isolates the psychological impact of the prompt header on the LLM’s Faithfulness score. To prove the Graph’s true value: Run a Paired t-test between Group B and Group C. Because both B and C share the exact same prompt header, any improvement in C is strictly isolated to the injection of the graph facts themselves! (Optional) Repeated Measures ANOVA: If you want to test all three simultaneously to mathematically prove the variance between all groups is statistically significant (p &lt; 0.05). ### For thesis Confidence scores assigned during zero-shot extraction exhibited a bimodal distribution concentrated at 0.5 and 1.0, suggesting the extraction model lacked calibrated uncertainty estimation. Few-shot prompting with domain-specific exemplars would likely produce more granular confidence scores, enabling more nuanced filtering during graph expansion.</p>
 </section>
+<section id="online-reformulation-confidence-0.5" class="level2">
+<h2 class="anchored" data-anchor-id="online-reformulation-confidence-0.5">Online reformulation, confidence 0.5</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Metric</th>
+<th style="text-align: left;">Baseline</th>
+<th style="text-align: left;">Hybrid</th>
+<th style="text-align: left;">Delta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Faithfulness</strong></td>
+<td style="text-align: left;">0.7482</td>
+<td style="text-align: left;">0.8064</td>
+<td style="text-align: left;">0.0582</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Answer Relevancy</strong></td>
+<td style="text-align: left;">0.5964</td>
+<td style="text-align: left;">0.6105</td>
+<td style="text-align: left;">0.0142</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Context Precision</strong></td>
+<td style="text-align: left;">0.3195</td>
+<td style="text-align: left;">0.3132</td>
+<td style="text-align: left;">-0.0063</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Context Recall</strong></td>
+<td style="text-align: left;">0.4807</td>
+<td style="text-align: left;">0.4712</td>
+<td style="text-align: left;">-0.0095</td>
+</tr>
+</tbody>
+</table>
+<section id="local-reformulation-version-confidence-0.5" class="level3">
+<h3 class="anchored" data-anchor-id="local-reformulation-version-confidence-0.5">Local Reformulation Version, confidence 0.5</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Metric</th>
+<th style="text-align: left;">Baseline</th>
+<th style="text-align: left;">Hybrid</th>
+<th style="text-align: left;">Delta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Faithfulness</strong></td>
+<td style="text-align: left;">0.7491</td>
+<td style="text-align: left;">0.7659</td>
+<td style="text-align: left;">0.0168</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Answer Relevancy</strong></td>
+<td style="text-align: left;">0.5962</td>
+<td style="text-align: left;">0.6255</td>
+<td style="text-align: left;">0.0294</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Context Precision</strong></td>
+<td style="text-align: left;">0.3292</td>
+<td style="text-align: left;">0.3237</td>
+<td style="text-align: left;">-0.0054</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Context Recall</strong></td>
+<td style="text-align: left;">0.4709</td>
+<td style="text-align: left;">0.4817</td>
+<td style="text-align: left;">0.0108</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="progress-8" class="level2">
+<h2 class="anchored" data-anchor-id="progress-8">21. 4. progress</h2>
+<p>deployed online at algaebot.filipnovy.dk</p>
+<p>edited generation prompt:</p>
+<p><em>Finally, at the end of your answer below the line, list each source you cited on its own line in this exact format: [number] Authors (Year). Title.</em></p>
+<section id="note-about-confidence-level" class="level3">
+<h3 class="anchored" data-anchor-id="note-about-confidence-level">note about confidence level</h3>
+<p>run the cypher query for confidence level counts again so I can include a graph or a table in my thesis and justify this threshold.</p>
+</section>
+</section>
+<section id="progress-9" class="level2">
+<h2 class="anchored" data-anchor-id="progress-9">22. 4. progress</h2>
+<p>I prototyped a router that decides whether a user query is simple, relational or abstract. a simple question leads to vector only search while the others lead to graph search (I might eventually add community summaries for abstract queries).</p>
+<section id="query-router-evaluation-deepseek-chat-holdout-n41" class="level3">
+<h3 class="anchored" data-anchor-id="query-router-evaluation-deepseek-chat-holdout-n41">Query Router Evaluation (DeepSeek-chat, holdout n=41)</h3>
+<section id="three-way-classification-42.9-accuracy" class="level4">
+<h4 class="anchored" data-anchor-id="three-way-classification-42.9-accuracy">Three-way classification (42.9% accuracy)</h4>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>True Label</th>
+<th>→ ABSTRACT</th>
+<th>→ RELATIONAL</th>
+<th>→ SIMPLE</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>abstract</td>
+<td>1</td>
+<td>13</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>relational</td>
+<td>1</td>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>simple</td>
+<td>0</td>
+<td>5</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="binary-classification-simple-vs-graph-76.2-accuracy" class="level4">
+<h4 class="anchored" data-anchor-id="binary-classification-simple-vs-graph-76.2-accuracy">Binary classification — SIMPLE vs GRAPH (76.2% accuracy)</h4>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>True Label</th>
+<th>→ GRAPH</th>
+<th>→ SIMPLE</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>graph</td>
+<td>23</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>simple</td>
+<td>5</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="gpt-5-nano-router-evaluation-holdout-n42" class="level3">
+<h3 class="anchored" data-anchor-id="gpt-5-nano-router-evaluation-holdout-n42">GPT-5-nano Router Evaluation (holdout n=42)</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>True Label</th>
+<th>→ ABSTRACT</th>
+<th>→ RELATIONAL</th>
+<th>→ SIMPLE</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>abstract</td>
+<td>0</td>
+<td>0</td>
+<td>14</td>
+</tr>
+<tr class="even">
+<td>relational</td>
+<td>0</td>
+<td>0</td>
+<td>14</td>
+</tr>
+<tr class="odd">
+<td>simple</td>
+<td>0</td>
+<td>0</td>
+<td>14</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="entity-resolution-taxonomic-abb.-merging" class="level2">
+<h2 class="anchored" data-anchor-id="entity-resolution-taxonomic-abb.-merging">23. 4. Entity resolution: taxonomic abb. merging</h2>
+<p>Scientific literature uses abbreviated binomials interchangeably with full names (e.g., “<em>U. pertusa</em>” for “<em>Ulva pertusa</em>”), and since DeepSeek extracted entity names verbatim during knowledge graph construction, both forms were ingested as separate nodes. This inflates the entity count and fragments the graph structure, because relationships that belong to a single biological species are split across two disconnected nodes.</p>
+<p>To address this, we queried all AlgalTaxon nodes containing a period (6,050 of ~15,000 total) and matched each against full binomial candidates using first-letter and epithet agreement. Of these, 2,932 had at least one matching full-name node. 2,250 were unambiguous (exactly one candidate match) and were merged automatically: all incoming MENTIONS edges and all domain relationships (FOUND_IN, PRODUCES, STUDIED_WITH, IDENTIFIED_BY, BELONGS_TO, AFFECTS, CONTAINS) in both directions were redirected from the abbreviated node to the full-name node using MERGE to avoid duplicate edges, after which the abbreviated node was deleted.</p>
+<p>The remaining 682 ambiguous cases involved either genuine taxonomic ambiguity (e.g., “A. alata” matching both Amphiprora alata and Amphora alata, which are distinct genera) or OCR/typo variants of the same genus name (e.g., “Amphiprora” vs “Ampiprora”), making automated resolution unreliable. These were left unmerged and noted as a limitation.</p>
+<p>This resolution step reduced the AlgalTaxon node count by approximately 2,250 (~15%) and consolidated the relationship structure around canonical species names. For community detection downstream, this means entities that previously appeared as disconnected abbreviation variants now cluster correctly with their full-name counterparts. The approach is limited to taxonomic naming conventions and does not address synonym resolution across taxonomic revisions or non-taxonomic entity types, both of which would benefit from grounding against an external ontology such as NCBI Taxonomy or AlgaeBase via the OLS API (noted as future work).</p>
+<section id="taxonomic-entity-grounding" class="level3">
+<h3 class="anchored" data-anchor-id="taxonomic-entity-grounding">Taxonomic entity grounding</h3>
+<p>Following the abbreviation merge, all remaining AlgalTaxon nodes (~13k) were annotated against the GBIF Backbone Taxonomy API (<code>/v1/species/match</code>). For each node, the API returns the canonical name, taxonomic status (accepted or synonym), a confidence score, and the full Linnaean lineage (phylum through genus). Results with confidence below 80 or no match were skipped. Matched nodes received new properties (<code>gbif_canonical</code>, <code>gbif_status</code>, <code>gbif_key</code>, <code>gbif_phylum</code>, <code>gbif_class</code>, <code>gbif_order</code>, <code>gbif_family</code>, <code>gbif_genus</code>) without modifying existing fields.</p>
+<p>This serves two purposes. First, it grounds extracted entity names against a curated taxonomic authority rather than relying solely on LLM extraction fidelity. Second, the <code>gbif_key</code> and <code>gbif_status</code> fields enable a potential further round of entity resolution: nodes with different surface names but the same <code>gbif_key</code> or shared <code>acceptedUsageKey</code> are taxonomic synonyms that could be merged. This second-order resolution was not performed in this iteration but is straightforward to implement.</p>
+</section>
+</section>
+</section>
+<section id="progress---communities-summary-retrieval-pipeline-integration" class="level1">
+<h1>24. 4. Progress - communities summary retrieval &amp; pipeline integration</h1>
+<section id="community-summary-embedding" class="level3">
+<h3 class="anchored" data-anchor-id="community-summary-embedding">Community summary embedding</h3>
+<p>Embedded all 1,128 community summaries (from yesterday’s Leiden partition at resolution 8.0, seed=69) into a dedicated ChromaDB collection called <code>community_summaries</code>, using the same embedding model as chunks (bge-base-en-v1.5). Each summary is stored with metadata: <code>community_id</code>, <code>n_entities</code>, <code>n_papers</code>, <code>resolution</code>. The collection sits alongside <code>recursive_100</code> in <code>data/chromadb/</code> — separate collection rather than mixed into chunks, because community summaries are paragraph-length cross-paper syntheses that would compete with chunks for top-k slots on specific queries where they aren’t helpful.</p>
+</section>
+<section id="threshold-based-activation-replacing-router-gated-abstract-path" class="level3">
+<h3 class="anchored" data-anchor-id="threshold-based-activation-replacing-router-gated-abstract-path">Threshold-based activation (replacing router-gated ABSTRACT path)</h3>
+<p>Tested cosine distance between query embeddings and community summaries across three query types:</p>
+<p><u>table</u></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 17%">
+<col style="width: 29%">
+<col style="width: 17%">
+<col style="width: 17%">
+<col style="width: 17%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Query type</th>
+<th style="text-align: left;">Example</th>
+<th style="text-align: left;">Distance 1</th>
+<th style="text-align: left;">Distance 2</th>
+<th style="text-align: left;">Distance 3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Abstract</td>
+<td style="text-align: left;">Main research themes in Korean phycology?</td>
+<td style="text-align: left;">0.233</td>
+<td style="text-align: left;">0.235</td>
+<td style="text-align: left;">0.237</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Relational</td>
+<td style="text-align: left;">What compounds does Ulva pertusa produce?</td>
+<td style="text-align: left;">0.278</td>
+<td style="text-align: left;">0.281</td>
+<td style="text-align: left;">0.282</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Simple</td>
+<td style="text-align: left;">What is Skeletonema costatum?</td>
+<td style="text-align: left;">0.379</td>
+<td style="text-align: left;">0.396</td>
+<td style="text-align: left;">0.397</td>
+</tr>
+</tbody>
+</table>
+<p>The distance distribution naturally separates queries that benefit from community context (abstract and relational, &lt;0.30) from those that don’t (simple factual, &gt;0.35). Set <code>COMMUNITY_MAX_DISTANCE = 0.30</code> as the activation threshold. This replaces the need for the router to have a dedicated ABSTRACT branch: community summaries now activate based on embedding proximity regardless of what the router classifies. The router’s remaining job is strictly binary: gate graph expansion (SIMPLE -&gt; no graph, RELATIONAL/ABSTRACT -&gt; graph triplets).</p>
+<p>This is a cleaner architecture than the original three-branch design: two independent mechanisms (router for graph, threshold for communities) rather than one router trying to make three decisions at once. The router’s 42.9% three-way accuracy doesn’t matter anymore because it only needs to make one binary decision (76.2% accuracy).</p>
+</section>
+<section id="pipeline-integration" class="level3">
+<h3 class="anchored" data-anchor-id="pipeline-integration">Pipeline integration</h3>
+<p>Created <code>src/retrieval/community.py</code> with two functions:</p>
+<ul>
+<li><p><code>load_community_collection()</code> — connects to the <code>community_summaries</code> ChromaDB collection using config paths and embedding model</p></li>
+<li><p><code>retrieve_community_summaries(query, collection, n_results, max_distance)</code> — queries collection, returns only summaries within the distance threshold; empty list means pipeline proceeds without community context</p></li>
+</ul>
+<p>Modified <code>pipeline.py</code>:</p>
+<ul>
+<li><p><code>setup()</code> now loads the community collection alongside existing components (same dependency injection pattern as graph_driver)</p></li>
+<li><p><code>run_pipeline()</code> has a new Step 3a between context building and graph expansion: retrieves community summaries, and if any pass the threshold, prepends them to the context string as a “Thematic overview” block before the chunk-level passages</p></li>
+</ul>
+<p>Added config toggles: <code>USE_COMMUNITY_SUMMARIES</code>, <code>COMMUNITY_COLLECTION_NAME</code>, <code>COMMUNITY_TOP_K</code>, <code>COMMUNITY_MAX_DISTANCE</code>.</p>
+</section>
+<section id="qualitative-three-way-comparison-what-was-the-main-topic-of-algae-research-in-korea-in-2008" class="level3">
+<h3 class="anchored">Qualitative three-way comparison: “What was the main topic of algae research in Korea in 2008?”</h3>
+<ul>
+<li><p><strong>Baseline (vector only):</strong> 3 papers, all seaweed biomass studies. Accurate but narrow.</p></li>
+<li><p><strong>Hybrid (graph, no community):</strong> 4 papers, adds Woejodo/Jusamdo temporal variation. Broader but still ecology-only.</p></li>
+<li><p><strong>Full system (graph + community):</strong> picks up the thermal effluent / nuclear power plant study (Choi 2008), which changes the answer’s conclusion — 2008 research covered environmental stressors, not just biomass surveys. The graph expansion visualization shows this paper was reached via the “nuclear power plant” entity neighbor, which vector search alone never surfaced.</p>
+<h2 id="question-what-was-the-main-topic-of-algae-research-in-korea-in-2008" class="anchored" data-anchor-id="qualitative-three-way-comparison-what-was-the-main-topic-of-algae-research-in-korea-in-2008">question: What was the main topic of algae research in Korea in 2008?</h2>
+<h3 id="vector" class="anchored">vector:</h3>
+<p>The main topic of Korean algae research in 2008, based on the provided passages, was coastal seaweed biomass and community ecology. The works focus on (1) temporal variations of seaweed biomass on Korean coasts, notably Munseom, Jeju Island [1], (2) species composition and biomass of intertidal seaweeds at Chuja Island [2], and (3) the community structure of benthic marine algae on the Mid-East Coast (Daejin and Jukbyeon) [3]. Collectively, these studies show a concerted effort in 2008 to document how seaweed biomass and assemblage structure vary across spatial scales and over time to support biodiversity assessments and potential biotechnological applications in Korean coastal ecosystems [1][2][3].</p>
+<p>[1] Young Wook Ko, Gun Hee Sung, Chang Ho Yi, Hyun Hee Kim, Dong Mun Choi, Yong Deok Ko, Wook Jae Lee, Yong Deok Ko, Hyoung-Bum Koh, Jung Hyun Oak, Ik Kyo Chung, Jeong Ha Kim (2008). Temporal Variations of Seaweed Biomass in Korean Coasts: Munseom, Jeju Island.</p>
+<p>[2] 김명숙1*, 김미량2*, 정미희3*, 김정하4*, 및 Ik Kyo Chung5 (2008). Species Composition and Biomass of Intertidal Seaweeds in Chuja Island.</p>
+<p>[3] Shin, Kwan, Kim, Lee, Kim, Chung (2008). Community Structure of Benthic Marine Algae at Daejin and Jukbyeon on the Mid-East Coast of Korea.</p>
+<h2 id="graphrouter" class="anchored">graph+router</h2>
+<p>Based on the 2008 literature, the main topic of algae research in Korea centered on ecological studies of coastal macroalgae, emphasizing how benthic algal communities are structured and how they vary over time, along with investigations of environmental impacts on these communities. Specifically, studies on the community structure of benthic macroalgae along the East Coast (Daejin and Jukbyeon) [1], and the temporal variation of seaweed biomass on Jeju Island (Munseom) [2], dominate the 2008 work. In addition, researchers assessed anthropogenic effects on macroalgae by examining the impact of thermal effluents from a nuclear power plant on macroalgal composition and community structure [4]. Together, these works reflect a focus on ecology, community composition, and environmental stressors rather than biotechnology or product-oriented algae research for that year. [1] [2] [4]</p>
+<p>[1] Shin, Jae Deok et al.&nbsp;(2008). Community Structure of Benthic Marine Algae at Daejin and Jukbyeon on the Mid-East Coast of Korea.</p>
+<p>[2] Ko, Young Wook et al.&nbsp;(2008). Temporal Variations of Seaweed Biomass in Korean Coasts: Munseom, Jeju Island.</p>
+<p>[4] Choi, Han Gil (2008). Effects of Thermal Effluents from Wolseong Nuclear Power Plant on Macroalgal Composition and Community Structure.</p>
+<h3 id="use_graphtrue-use_community_summariesfalse" class="anchored">USE_GRAPH=True, USE_COMMUNITY_SUMMARIES=False</h3>
+<p>In 2008, Korean algae research, as reflected in the cited Algae journal papers, primarily focused on coastal macroalgae biomass dynamics and community structure, with an emphasis on temporal and spatial variation across multiple sites. Temporal variations in seaweed biomass were documented for Munseom, Jeju Island, and for Woejodo and Jusamdo in Jeonbuk, highlighting year-to-year and seasonal fluctuations [2], [3]. At the same time, studies on the East Sea coast characterized benthic algal community structure at Daejin and Jukbyeon, including multiple major algal groups (Chlorophyta, Rhodophyta, Phaeophyta) [1]. Additional work on Chuja Island detailed intertidal seaweed species composition and biomass, enriching the understanding of coastal assemblages [4]. Collectively, these works indicate that the 2008 Korea algae research landscape was centered on coastal macroalgal biomass dynamics and community composition across various sites and times rather than a single focal species or locale [1]-[4].</p>
+<p>[1] Shin, Jae Deok; Ahn, Jung Kwan; Kim, Young Hwan; Lee, Sung Bok; Kim, Jeong Ha; Chung, Ik Kyo (2008). Community Structure of Benthic Marine Algae at Daejin and Jukbyeon on the Mid-East Coast of Korea. [2] Ko, Young Wook; Sung, Gun Hee; Yi, Chang Ho; Kim, Hyun Hee; Choi, Dong Mun; Ko, Yong Deok; Lee, Wook Jae; Ko, Yong Deok; Koh, Hyoung-Bum; Oak, Jung Hyun; Kim, Jeong Ha; Chung, Ik Kyo; Kim, Jeong Ha (2008). Temporal Variations of Seaweed Biomass in Korean Coasts: Munseom, Jeju Island. [3] Choi, Han Gil; Lee, Ki Hun; Man, Hyo Geum; Yoo, Hyun Il; Park, Hyang Ha; Kim, Jeong Ha; Chung, Ik Kyo (2008). Temporal Variations in Seaweed Biomass in Korean Coasts: Woejodo and Jusamdo, Jeonbuk. [4] Kim, Myung Sook; Kim, Mi-ryang; Jung, Mi-hee; Kim, Jeong Ha; Chung, Ik Kyo (2008). Species Composition and Biomass of Intertidal Seaweeds in Chuja Island.</p></li>
+</ul>
+</section>
+<section id="architectural-reflection" class="level3">
+<h3 class="anchored" data-anchor-id="architectural-reflection">Architectural reflection</h3>
+<p>The original plan had three retrieval branches (SIMPLE/RELATIONAL/ABSTRACT) each with different behavior. In practice, the system now has two orthogonal mechanisms:</p>
+<ol type="1">
+<li><p><strong>Router</strong> — binary decision: expand graph or not (76.2% accuracy)</p></li>
+<li><p><strong>Community threshold</strong> — continuous decision: include thematic summaries based on embedding distance (no classifier needed)</p></li>
+</ol>
+<p>This is arguably more robust than a three-way router because neither mechanism depends on the other, and the community activation doesn’t rely on a classifier that’s barely better than random for three-way decisions.</p>
+</section>
+<section id="next-steps" class="level3">
+<h3 class="anchored" data-anchor-id="next-steps">Next steps</h3>
+<ul>
+<li><p>Top up DeepSeek credits (~$1-2 needed)</p></li>
+<li><p>Run three-condition RAGAS evaluation: baseline, hybrid, full system (50 questions, seed=69, DeepSeek judge)</p></li>
+<li><p>Begin thesis writing</p></li>
+</ul>
+</section>
+</section>
+<section id="hopefully-final-ragas-run" class="level1">
+<h1>26.-27. 4: Hopefully final RAGAS run</h1>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Confidence</th>
+<th style="text-align: left;">Count</th>
+<th style="text-align: left;">%</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">0.50</td>
+<td style="text-align: left;">23456</td>
+<td style="text-align: left;">22.4%</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">0.60</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">0.0%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">0.70</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">0.0%</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">0.80</td>
+<td style="text-align: left;">94</td>
+<td style="text-align: left;">0.1%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">0.90</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">0.0%</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1.00</td>
+<td style="text-align: left;">81241</td>
+<td style="text-align: left;">77.5%</td>
+</tr>
+</tbody>
+</table>
+<p><img src="images/paste-10.png" class="img-fluid"></p>
+<p>decided to use 0.5.</p>
+</section>
+<section id="result-comparison" class="level1">
+<h1>27.4. - result comparison</h1>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Metric</th>
+<th style="text-align: left;">Baseline</th>
+<th style="text-align: left;">Hybrid</th>
+<th style="text-align: left;">Community</th>
+<th style="text-align: left;">GraphRAG</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Faithfulness</strong></td>
+<td style="text-align: left;">0.8105</td>
+<td style="text-align: left;">0.8108</td>
+<td style="text-align: left;">0.8555</td>
+<td style="text-align: left;">0.8235</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Answer Relevancy</strong></td>
+<td style="text-align: left;">0.5259</td>
+<td style="text-align: left;">0.4777</td>
+<td style="text-align: left;">0.5636</td>
+<td style="text-align: left;">0.5638</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Context Precision</strong></td>
+<td style="text-align: left;">0.2779</td>
+<td style="text-align: left;">0.2775</td>
+<td style="text-align: left;">0.1956</td>
+<td style="text-align: left;">0.1962</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Context Recall</strong></td>
+<td style="text-align: left;">0.4340</td>
+<td style="text-align: left;">0.4507</td>
+<td style="text-align: left;">0.4513</td>
+<td style="text-align: left;">0.4229</td>
+</tr>
+</tbody>
+</table>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Metric</th>
+<th style="text-align: left;">Δ Hyb</th>
+<th style="text-align: left;">Δ Com</th>
+<th style="text-align: left;">Δ GR</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Faithfulness</strong></td>
+<td style="text-align: left;">+0.0003</td>
+<td style="text-align: left;">+0.0450</td>
+<td style="text-align: left;">+0.0130</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Answer Relevancy</strong></td>
+<td style="text-align: left;">-0.0482</td>
+<td style="text-align: left;">+0.0377</td>
+<td style="text-align: left;">+0.0379</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Context Precision</strong></td>
+<td style="text-align: left;">-0.0004</td>
+<td style="text-align: left;">-0.0823</td>
+<td style="text-align: left;">-0.0817</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Context Recall</strong></td>
+<td style="text-align: left;">+0.0167</td>
+<td style="text-align: left;">+0.0173</td>
+<td style="text-align: left;">-0.0111</td>
+</tr>
+</tbody>
+</table>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Type</th>
+<th style="text-align: left;">n</th>
+<th style="text-align: left;">Δ Graph</th>
+<th style="text-align: left;">Δ Com</th>
+<th style="text-align: left;">Δ GR</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Simple</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">+0.0703</td>
+<td style="text-align: left;">+0.0723</td>
+<td style="text-align: left;">+0.0573</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Abstract</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">-0.0390</td>
+<td style="text-align: left;">-0.0249</td>
+<td style="text-align: left;">-0.0168</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Relational</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">-0.0305</td>
+<td style="text-align: left;">+0.0877</td>
+<td style="text-align: left;">-0.0014</td>
+</tr>
+</tbody>
+</table>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Factor</th>
+<th style="text-align: left;">Df</th>
+<th style="text-align: left;">Pillai</th>
+<th style="text-align: left;">F</th>
+<th style="text-align: left;">p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Condition</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">0.062</td>
+<td style="text-align: left;">1.005</td>
+<td style="text-align: left;">0.443</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Query type</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">0.402</td>
+<td style="text-align: left;">11.944</td>
+<td style="text-align: left;">&lt;0.001</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Interaction</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">0.055</td>
+<td style="text-align: left;">0.446</td>
+<td style="text-align: left;">0.990</td>
+</tr>
+</tbody>
+</table>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Metric</th>
+<th style="text-align: left;">Cond. p</th>
+<th style="text-align: left;">Type p</th>
+<th style="text-align: left;">Inter. p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Faithfulness</strong></td>
+<td style="text-align: left;">0.645</td>
+<td style="text-align: left;">&lt;0.001</td>
+<td style="text-align: left;">0.766</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Answer Relevancy</strong></td>
+<td style="text-align: left;">0.561</td>
+<td style="text-align: left;">&lt;0.001</td>
+<td style="text-align: left;">0.921</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Context Precision</strong></td>
+<td style="text-align: left;">0.304</td>
+<td style="text-align: left;">&lt;0.001</td>
+<td style="text-align: left;">0.866</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Context Recall</strong></td>
+<td style="text-align: left;">0.983</td>
+<td style="text-align: left;">&lt;0.001</td>
+<td style="text-align: left;">0.999</td>
+</tr>
+</tbody>
+</table>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Pair</th>
+<th style="text-align: left;">Diff</th>
+<th style="text-align: left;">95% CI</th>
+<th style="text-align: left;">p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Com-Base</td>
+<td style="text-align: left;">+0.045</td>
+<td style="text-align: left;">[-0.06,+0.15]</td>
+<td style="text-align: left;">0.678</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">GR-Base</td>
+<td style="text-align: left;">+0.013</td>
+<td style="text-align: left;">[-0.09,+0.12]</td>
+<td style="text-align: left;">0.988</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Hyb-Base</td>
+<td style="text-align: left;">+0.000</td>
+<td style="text-align: left;">[-0.10,+0.10]</td>
+<td style="text-align: left;">1.000</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">GR-Com</td>
+<td style="text-align: left;">-0.032</td>
+<td style="text-align: left;">[-0.14,+0.07]</td>
+<td style="text-align: left;">0.856</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Hyb-Com</td>
+<td style="text-align: left;">-0.045</td>
+<td style="text-align: left;">[-0.15,+0.06]</td>
+<td style="text-align: left;">0.682</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Hyb-GR</td>
+<td style="text-align: left;">-0.013</td>
+<td style="text-align: left;">[-0.12,+0.09]</td>
+<td style="text-align: left;">0.989</td>
+</tr>
+</tbody>
+</table>
+<p>No pairwise comparison reached significance (all p &gt; 0.05). With n=51 and high per-question variance, this sample size lacks statistical power to detect the observed effect sizes.</p>
+<section id="interpretation" class="level3">
+<h3 class="anchored" data-anchor-id="interpretation">Interpretation</h3>
+<p>Query type is the dominant factor across all four metrics (MANOVA p &lt; 0.001), while retrieval condition is not statistically significant. This suggests that query-aware routing matters more than uniform pipeline enhancement, and that aggregate RAGAS scores without stratification by query type obscure meaningful variation. The observed per-type deltas (community summaries improving relational faithfulness by +8.8%) are directionally consistent with the architectural rationale but would require a larger evaluation set to confirm statistically.</p>
+</section>
+<section id="connection-to-earlier-prompt-priming-finding" class="level3">
+<h3 class="anchored" data-anchor-id="connection-to-earlier-prompt-priming-finding">Connection to earlier prompt-priming finding</h3>
+<p>The pattern echoes the earlier accidental finding where prompt changes alone (mentioning graph facts without actually providing them) improved faithfulness. In both cases, the generator benefits from narrative context framing (community summaries as prose) rather than raw structured data (triplets). The triplet injection format may be a bottleneck — converting triplets to natural language sentences before injection is a concrete future work item.</p>
+</section>
+<section id="manova-results" class="level2">
+<h2 class="anchored" data-anchor-id="manova-results">Manova results</h2>
+<p>MANOVA revealed that query type was the dominant factor influencing all four evaluation metrics (Pillai’s trace = 0.40, p &lt; 0.001), while retrieval condition was not statistically significant (p = 0.44). This finding underscores the importance of query-aware retrieval routing over uniform pipeline enhancement, and suggests that future evaluation should stratify by query complexity rather than reporting aggregate scores.</p>
+</section>
 </section>
 <section id="future-work" class="level1">
 <h1>FUTURE WORK</h1>
 <ul>
-<li>Late chunking (Jina AI, 2024) addresses context loss by embedding full documents before splitting. This approach could complement our hybrid retrieval by improving individual chunk quality, but would require re-engineering the ingestion pipeline and is left for future work</li>
-</ul>
-<!-- -->
-<ul>
-<li><p>agentic rag</p></li>
+<li><p>Late chunking (Jina AI, 2024) addresses context loss by embedding full documents before splitting. This approach could complement our hybrid retrieval by improving individual chunk quality, but would require re-engineering the ingestion pipeline and is left for future work</p></li>
+<li><p>agentic rag (dynamic parameters)</p></li>
 <li><p>steiner tree</p></li>
-<li><p>microsoft L-something algorithm that involves naming broad themes of graph neighborhoods</p></li>
-<li><p>hierarchical retrieval combining paper-level summaries with chunk-level vectors (cf.&nbsp;RAPTOR, Sarthi et al.&nbsp;2024)</p></li>
+<li><p>hierarchical retrieval combining paper-level summaries with chunk-level vectors (cf.&nbsp;RAPTOR, Sarthi et al.&nbsp;2024): Where RAPTOR constructs summary hierarchies from embedding-space clustering, our system derives thematic groupings from knowledge graph community structure, grounding the hierarchy in explicit entity relationships rather than semantic similarity alone.</p></li>
 <li><p>chain of note for better generation possibly</p></li>
+<li><p>A fine-tuned routing model trained on synthetically generated multi-hop questions could further improve retrieval precision by matching query complexity to the optimal retrieval strategy</p></li>
+<li></li>
 </ul>
 </section>
 

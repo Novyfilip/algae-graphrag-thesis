@@ -1559,7 +1559,7 @@ across three query types:
 [table]{.underline}
 
 | Query type | Example | Distance 1 | Distance 2 | Distance 3 |
-|:----------|:---------------------------|:----------|:----------|:----------|
+|:------------|:---------------------|:------------|:------------|:------------|
 | Abstract | Main research themes in Korean phycology? | 0.233 | 0.235 | 0.237 |
 | Relational | What compounds does Ulva pertusa produce? | 0.278 | 0.281 | 0.282 |
 | Simple | What is Skeletonema costatum? | 0.379 | 0.396 | 0.397 |
@@ -1737,6 +1737,99 @@ decisions.
 
 -   Begin thesis writing
 
+# 26.-27. 4: Hopefully final RAGAS run
+
+| Confidence | Count | \%    |
+|:-----------|:------|:------|
+| 0.50       | 23456 | 22.4% |
+| 0.60       | 4     | 0.0%  |
+| 0.70       | 5     | 0.0%  |
+| 0.80       | 94    | 0.1%  |
+| 0.90       | 4     | 0.0%  |
+| 1.00       | 81241 | 77.5% |
+
+![](images/paste-10.png)
+
+decided to use 0.5.
+
+# 27.4. - result comparison
+
+| Metric                | Baseline | Hybrid | Community | GraphRAG |
+|:----------------------|:---------|:-------|:----------|:---------|
+| **Faithfulness**      | 0.8105   | 0.8108 | 0.8555    | 0.8235   |
+| **Answer Relevancy**  | 0.5259   | 0.4777 | 0.5636    | 0.5638   |
+| **Context Precision** | 0.2779   | 0.2775 | 0.1956    | 0.1962   |
+| **Context Recall**    | 0.4340   | 0.4507 | 0.4513    | 0.4229   |
+
+| Metric                | Δ Hyb   | Δ Com   | Δ GR    |
+|:----------------------|:--------|:--------|:--------|
+| **Faithfulness**      | +0.0003 | +0.0450 | +0.0130 |
+| **Answer Relevancy**  | -0.0482 | +0.0377 | +0.0379 |
+| **Context Precision** | -0.0004 | -0.0823 | -0.0817 |
+| **Context Recall**    | +0.0167 | +0.0173 | -0.0111 |
+
+| Type       | n   | Δ Graph | Δ Com   | Δ GR    |
+|:-----------|:----|:--------|:--------|:--------|
+| Simple     | 17  | +0.0703 | +0.0723 | +0.0573 |
+| Abstract   | 17  | -0.0390 | -0.0249 | -0.0168 |
+| Relational | 17  | -0.0305 | +0.0877 | -0.0014 |
+
+| Factor      | Df  | Pillai | F      | p       |
+|:------------|:----|:-------|:-------|:--------|
+| Condition   | 3   | 0.062  | 1.005  | 0.443   |
+| Query type  | 2   | 0.402  | 11.944 | \<0.001 |
+| Interaction | 6   | 0.055  | 0.446  | 0.990   |
+
+| Metric                | Cond. p | Type p  | Inter. p |
+|:----------------------|:--------|:--------|:---------|
+| **Faithfulness**      | 0.645   | \<0.001 | 0.766    |
+| **Answer Relevancy**  | 0.561   | \<0.001 | 0.921    |
+| **Context Precision** | 0.304   | \<0.001 | 0.866    |
+| **Context Recall**    | 0.983   | \<0.001 | 0.999    |
+
+| Pair     | Diff   | 95% CI          | p     |
+|:---------|:-------|:----------------|:------|
+| Com-Base | +0.045 | \[-0.06,+0.15\] | 0.678 |
+| GR-Base  | +0.013 | \[-0.09,+0.12\] | 0.988 |
+| Hyb-Base | +0.000 | \[-0.10,+0.10\] | 1.000 |
+| GR-Com   | -0.032 | \[-0.14,+0.07\] | 0.856 |
+| Hyb-Com  | -0.045 | \[-0.15,+0.06\] | 0.682 |
+| Hyb-GR   | -0.013 | \[-0.12,+0.09\] | 0.989 |
+
+No pairwise comparison reached significance (all p \> 0.05). With n=51
+and high per-question variance, this sample size lacks statistical power
+to detect the observed effect sizes.
+
+### Interpretation
+
+Query type is the dominant factor across all four metrics (MANOVA p \<
+0.001), while retrieval condition is not statistically significant. This
+suggests that query-aware routing matters more than uniform pipeline
+enhancement, and that aggregate RAGAS scores without stratification by
+query type obscure meaningful variation. The observed per-type deltas
+(community summaries improving relational faithfulness by +8.8%) are
+directionally consistent with the architectural rationale but would
+require a larger evaluation set to confirm statistically.
+
+### Connection to earlier prompt-priming finding
+
+The pattern echoes the earlier accidental finding where prompt changes
+alone (mentioning graph facts without actually providing them) improved
+faithfulness. In both cases, the generator benefits from narrative
+context framing (community summaries as prose) rather than raw
+structured data (triplets). The triplet injection format may be a
+bottleneck — converting triplets to natural language sentences before
+injection is a concrete future work item.
+
+## Manova results
+
+MANOVA revealed that query type was the dominant factor influencing all
+four evaluation metrics (Pillai's trace = 0.40, p \< 0.001), while
+retrieval condition was not statistically significant (p = 0.44). This
+finding underscores the importance of query-aware retrieval routing over
+uniform pipeline enhancement, and suggests that future evaluation should
+stratify by query complexity rather than reporting aggregate scores.
+
 # FUTURE WORK
 
 -   Late chunking (Jina AI, 2024) addresses context loss by embedding
@@ -1761,3 +1854,5 @@ decisions.
 -   A fine-tuned routing model trained on synthetically generated
     multi-hop questions could further improve retrieval precision by
     matching query complexity to the optimal retrieval strategy
+
+-

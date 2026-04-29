@@ -52,9 +52,9 @@ NEO4J_USER = "neo4j"
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "graphrag")
 #pipeline variatoions
 
-USE_GRAPH = True  # Set to False to run baseline vector purely
-USE_ROUTER = True # agent decides whether to use the graph or not
-USE_COMMUNITY_SUMMARIES = False  # Whether to use the community summaries collection in ChromaDB for retrieval
+USE_GRAPH = False  # Set to False to run baseline vector purely
+USE_ROUTER = False # agent decides whether to use the graph or not
+USE_COMMUNITY_SUMMARIES = True  # Whether to use the community summaries collection in ChromaDB for retrieval
 
 # Community summaries
 COMMUNITY_COLLECTION_NAME = "community_summaries" #name of the ChromaDB collection where community summaries are stored
