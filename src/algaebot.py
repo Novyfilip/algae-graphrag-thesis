@@ -92,16 +92,28 @@ st.markdown('<div class="header"><h1>AlgaeBot</h1></div>', unsafe_allow_html=Tru
 # Initialize session state for chat history and pipeline components
 if "messages" not in st.session_state:
     st.session_state.messages = []
-
-if "components" not in st.session_state:
+#old
+"""if "components" not in st.session_state:
     with st.spinner("Loading pipeline... (this may take a moment on first boot downloading DB)"):
         from download_db import ensure_chromadb_exists
         ensure_chromadb_exists()
         st.session_state.components = setup()
         # Warn the user if the Graph database is turned down!
         if st.session_state.components.get("graph_driver") is None:
-            st.toast("Neo4j Database is unreachable! Operating in Vector-Only mode.", icon="⚠️")
+            st.toast("Neo4j Database is unreachable! Operating in Vector-Only mode.", icon="⚠️")"""
+#new. this is meant to speed up subsequent reloads by caching the entire setup() function, which includes the DB check and download. If the DB is already present, this should be very fast. If not, it will still show the spinner but only on the first load instead of every reload while waiting for the DB to download.
+@st.cache_resource
+def load_pipeline():
+    from download_db import ensure_chromadb_exists
+    ensure_chromadb_exists()
+    return setup()
 
+if "components" not in st.session_state:
+    with st.spinner("Loading pipeline... (this may take a moment on first boot downloading DB)"):
+        st.session_state.components = load_pipeline()
+        if st.session_state.components.get("graph_driver") is None:
+            st.toast("Neo4j Database is unreachable! Operating in Vector-Only mode.", icon="⚠️")
+##^^new, old working version above
 # Chat history display using native Streamlit chat bubbles
 if not st.session_state.messages:
     st.info("Ask me anything about algae research!")
