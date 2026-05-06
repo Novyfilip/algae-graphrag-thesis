@@ -1559,7 +1559,7 @@ across three query types:
 [table]{.underline}
 
 | Query type | Example | Distance 1 | Distance 2 | Distance 3 |
-|:----------|:---------------------------|:----------|:----------|:----------|
+|:-------------|:----------------|:-------------|:-------------|:-------------|
 | Abstract | Main research themes in Korean phycology? | 0.233 | 0.235 | 0.237 |
 | Relational | What compounds does Ulva pertusa produce? | 0.278 | 0.281 | 0.282 |
 | Simple | What is Skeletonema costatum? | 0.379 | 0.396 | 0.397 |
@@ -1712,6 +1712,44 @@ Added config toggles: `USE_COMMUNITY_SUMMARIES`,
     Jung, Mi-hee; Kim, Jeong Ha; Chung, Ik Kyo (2008). Species
     Composition and Biomass of Intertidal Seaweeds in Chuja Island.
 
+    ## USE_GRAPH=False, USE_COMMUNITY_SUMMARIES=TRUE
+
+    The main topic in Korea in 2008 was ecological and biomass-focused
+    research on coastal macroalgae, emphasizing community structure and
+    temporal biomass dynamics across multiple Korean coasts, as well as
+    the environmental factors influencing these communities.
+    Specifically, studies documented benthic algal community structure
+    on the mid-east coast (Daejin and Jukbyeon) \[1\], temporal
+    variations in seaweed biomass at multiple sites including Munseom,
+    Jeju Island, and other coasts \[2\]\[3\], and the impact of thermal
+    effluents from a nuclear power plant on macroalgal composition
+    \[4\]. Alongside these ecological efforts, there was
+    molecular/taxonomic work aimed at cataloging red algae for
+    biotechnological resources, contributing to a broader inventory of
+    Korean algae diversity \[5\].
+
+    \[1\] Shin, Kwan, Kim, Lee, Kim, Chung (2008). Community Structure
+    of Benthic Marine Algae at Daejin and Jukbyeon on the Mid-East Coast
+    of Korea Algae Volume 23(3): 231-240, 2008
+
+    \[2\] Young Wook Ko, Gun Hee Sung, Chang Ho Yi, Hyun Hee Kim, Dong
+    Mun Choi, Yong Deok Ko, Wook Jae Lee, Yong Deok Ko, Hyoung-Bum Koh,
+    Jung Hyun Oak, Ik Kyo Chung, Jeong Ha Kim (2008). Temporal
+    Variations of Seaweed Biomass in Korean Coasts: Munseom, Jeju Island
+    Algae Volume 23(4): 295-300, 2008
+
+    \[3\] Unknown (2008). Untitled Algae Volume 23(4): 335-342, 2008
+
+    \[4\] Han Gil Choi (2008). Effects of Thermal Effluents from
+    Wolseong Nuclear Power Plant on Macroalgal Composition and Community
+    Structure Algae Vol. 23(2), 2008
+
+    \[5\] Ju Il Lee, Hyung Geun Kim, Paul John L. Geraldino, Il Ki
+    Hwang, Sung Min Boo (2009). Molecular Classification of the Genus
+    Grateloupia (Halymeniaceae, Rhodophyta) in Korea towards a correct
+    inventory of Korean red algae which are used as biotechnological
+    resources in the future.
+
 ### Architectural reflection
 
 The original plan had three retrieval branches
@@ -1736,6 +1774,46 @@ decisions.
     (50 questions, seed=69, DeepSeek judge)
 
 -   Begin thesis writing
+
+    ## MANOVA ON A BIG SAMPLE
+
+    \$condition
+
+    diff lwr upr p adj
+
+    community-baseline 0.008258933 -0.04449196 0.061009828 0.9778455
+
+    graphrag-baseline 0.038681594 -0.01406930 0.091432489 0.2340601
+
+    hybrid-baseline -0.021048078 -0.07379897 0.031702816 0.7335240
+
+    graphrag-community 0.030422661 -0.02232823 0.083173555 0.4472022
+
+    hybrid-community -0.029307011 -0.08205791 0.023443883 0.4807351
+
+    hybrid-graphrag -0.059729673 -0.11248057 -0.006978778 0.0191200\
+
+### results 
+
+=== Full 2×2 Evaluation (n=203) === baseline hybrid community graphrag
+faithfulness 0.8089 0.7879 0.8172 0.8476 answer_relevancy 0.5807 0.5838
+0.5898 0.5691 context_precision 0.4224 0.3380 0.4034 0.2376
+context_recall 0.5683 0.5357 0.5784 0.5490
+
+```         
+               Δ_hybrid  Δ_community  Δ_graphrag
+```
+
+faithfulness -0.0210 0.0083 0.0387 answer_relevancy 0.0031 0.0091
+-0.0116 context_precision -0.0844 -0.0190 -0.1848 context_recall -0.0326
+0.0101 -0.0193
+
+----
+
+simple (n= 69): base=0.7750 hyb=0.7897(+0.0147) com=0.8181(+0.0431)
+gr=0.8288(+0.0537) abstract (n= 67): base=0.8544 hyb=0.8328(-0.0216)
+com=0.8157(-0.0386) gr=0.8676(+0.0133) relational (n= 67): base=0.7984
+hyb=0.7411(-0.0574) com=0.8178(+0.0193) gr=0.8470(+0.0486)
 
 # FUTURE WORK
 
