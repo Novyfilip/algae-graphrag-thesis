@@ -44,7 +44,7 @@ LOCAL_GENERATION_MODEL = "gemma4:e4b"
 
 # Cloud models (API)
 API_REFORMULATION_MODEL = "deepseek-chat"
-API_GENERATION_MODEL = "gpt-5-mini"
+API_GENERATION_MODEL = "gpt-5-nano"
 
 # Neo4j settings
 NEO4J_URI = "neo4j://127.0.0.1:7687"
