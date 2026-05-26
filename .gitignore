@@ -7,7 +7,8 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Data — keep only community summaries (small, human-readable, expensive to regenerate)
+# Data — keeps only community summaries (small, human-readable, expensive to regenerate)
+ingestion/data/kg_extractions/
 data/chromadb/
 data/chroma_db/
 data/chromadb_deploy/
