@@ -1,0 +1,14 @@
+{
+  "community_id": 313,
+  "summary": "This cluster of papers is united by a focus on the taxonomic identification and morphological characterization of newly recorded or previously unknown marine algal species across diverse geographic regions. Key species include the dinoflagellate *Coolia malayensis* from the Mediterranean Sea, five macroalgae (e.g., *Turbinaria ornata*, *Acrothamnion preissii*) from the southern coast of Korea, and mangrove-associated rhodophytes (e.g., *Acrochaetium globosum*, *Caulacanthus indicus*) from the western Pacific. The studies employed morphological analysis, phylogenetic sequencing, and culturing methods to confirm species identities and document unique traits, such as spirally coiled fibers in *Coolia* and manganese-rich deposits in Pacific mangrove algae. Geographically, the research spans the Gulf of Gabès in Tunisia, Cheju Island in Korea, and Pacific islands including Guam and Pohnpei, collectively expanding the known distribution of these taxa in the Mediterranean, Indo-Pacific, and Atlantic regions.",
+  "n_entities": 4,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Chaetoceros bacteriastroides",
+    "Chaetoceros pseudosymmetricus",
+    "Indo-Pacific Ocean",
+    "Suez Canal"
+  ],
+  "resolution": 8.0
+}

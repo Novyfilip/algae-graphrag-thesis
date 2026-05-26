@@ -1,0 +1,20 @@
+{
+  "community_id": 134,
+  "summary": "This cluster of papers investigates the physiological, molecular, and ecological responses of diverse algae—including diatoms (e.g., *Skeletonema costatum*, *Fragilariopsis cylindrus*), green algae (e.g., *Dunaliella salina*, *Haematococcus pluvialis*, *Chlamydomonas reinhardtii*), red algae (e.g., *Pyropia yezoensis*, *Chondrus crispus*), and brown algae (e.g., *Ascophyllum nodosum*, *Corallina officinalis*)—to environmental stressors such as salinity, light intensity, temperature, UV radiation, nutrient limitation, and ocean acidification. Key findings include the identification of salinity thresholds (~300 psu) structuring benthic diatom communities, the role of phototropins and carbon-concentrating mechanisms in light and CO₂ acclimation, and the differential expression of stress-responsive genes (e.g., *PyHRG1* for heat tolerance, *SVCR2* for cold stress). Geographically, studies span Korean saltpans and coastal waters, the Sea of Okhotsk, the White Sea, Australian mangroves, and urbanized estuaries of Long Island Sound, reflecting a broad focus on both temperate and extreme environments. Methodologically, the cluster integrates transcriptomics, proteomics, gene characterization, and controlled mesocosm experiments to elucidate mechanisms of stress tolerance, pigment production (e.g., astaxanthin, β-carotene), and biotechnological applications such as omega-3 fatty acid production and bioremediation.",
+  "n_entities": 127,
+  "n_papers": 83,
+  "n_papers_with_summaries": 83,
+  "entity_sample": [
+    "18SrDNA",
+    "2D PAGE",
+    "2D-PAGE",
+    "ATP binding cassette (ABC)",
+    "ATP binding cassette (ABC)-type multidrug / protein / lipid transport system",
+    "Arabidopsis thaliana",
+    "CA",
+    "Chlamydomonas moewusii",
+    "Chlorella ellipsoida",
+    "Chlorella minutissima"
+  ],
+  "resolution": 8.0
+}

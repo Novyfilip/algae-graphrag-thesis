@@ -1,0 +1,14 @@
+{
+  "community_id": 358,
+  "summary": "This cluster of research focuses on the cellular mechanisms of wound repair in filamentous red algae, specifically within the order Ceramiales. The studies identified and categorized three distinct healing patterns—Fusion, Non-fusion, and Elongation—detailing the formation of repair cells, such as the fusion type where adjacent cells combine into a single cell. Key findings reveal a systematic physiological response to injury across these species, with the patterns likely reflecting adaptive strategies for survival in their ecological niches. The geographic and ecological scope is broad, encompassing marine environments where these filamentous red algae are widespread, though the research emphasizes the fundamental cellular processes rather than a specific regional focus.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "cytoplasm removal with fine brush",
+    "observation at every three hours after puncture",
+    "punctured with fine glass pipette",
+    "wound-healing experiments"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 173,
+  "summary": "This cluster of research is geographically centered on Korean waters, with significant extensions to Antarctic, Indian, and Pacific regions, and is unified by a focus on the taxonomy, ecology, and physiology of diverse microalgae and cyanobacteria. Key connecting themes include the trophic dynamics of mixotrophic and heterotrophic dinoflagellates, such as *Gymnodinium smaydae*, *Ansanella granifera*, and *Scrippsiella* species, whose feeding behaviors and fatty acid profiles were extensively studied for their roles in red tide formation and omega-3 production. Diatoms, including *Chaetoceros debilis*, *Fragilariopsis cylindrus*, and cryophilic *Navicula* species, were investigated for their responses to silicate, light, and seasonal environmental factors, while cyanobacteria like *Microcystis* and *Anabaena* were central to studies on eutrophication and nutrient uptake in Korean rivers and reservoirs. The research employed a range of methods, from molecular phylogenetics and proteomics to stable isotope analysis and automated cultivation systems, revealing patterns of species-specific mixotrophy, viral infection (e.g., SpalV in *Stephanopyxis palmeriana*), and the impact of environmental stressors like temperature and nutrient limitation on community structure and biomass.",
+  "n_entities": 104,
+  "n_papers": 68,
+  "n_papers_with_summaries": 67,
+  "entity_sample": [
+    "14:10 h light-dark cycle",
+    "4SALE",
+    "Buan salt farm",
+    "Buzzards Bay",
+    "Chesapeake Bay",
+    "Chroomonas minuta",
+    "Chukk, Micronesia coast",
+    "Coastal North Sea",
+    "Cr-PE 545",
+    "Cryptomonas salina"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,13 @@
+{
+  "community_id": 362,
+  "summary": "This cluster investigates the biosynthesis of mycosporine-like amino acids (MAAs) in cyanobacteria, specifically focusing on the species *Sphaerospermopsis torques-reginae* ITEP-024. Research demonstrated that this organism produces the MGA compound (mycosporine-glycine-alanine) through a novel metabolic pathway that utilizes sedoheptulose 7-phosphate from the pentose phosphate pathway, with evidence also supporting the involvement of the shikimic acid pathway. A key finding across the cluster was that MAA production is significantly enhanced under UV radiation exposure, indicating a photoprotective ecological function. The geographic and ecological scope centers on freshwater or terrestrial cyanobacterial strains, with the work providing genetic and biochemical evidence for redundant biosynthetic routes within a single species.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "4‐deoxygadusol",
+    "mycosporines",
+    "sedoheptulose-7‐phosphate"
+  ],
+  "resolution": 8.0
+}

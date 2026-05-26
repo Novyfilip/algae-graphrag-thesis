@@ -1,0 +1,20 @@
+{
+  "community_id": 15,
+  "summary": "This cluster of research focuses on the biodiversity, ecology, and management of phytoplankton and benthic algae in Korean freshwater and coastal systems, with a strong emphasis on bloom-forming cyanobacteria and diatoms. Key species such as *Microcystis aeruginosa*, *Stephanodiscus hantzschii*, and *Anabaena flos-aquae* were repeatedly studied for their population dynamics, toxin production (e.g., microcystins, anatoxin-a), and responses to nutrient loading, salinity, and temperature. Studies frequently employed molecular tools (16S rRNA, ITS, cox1, rbcL) for taxonomic resolution and phylogenetic analysis, alongside physiological assays to assess growth kinetics, nutrient limitation, and photosynthetic efficiency. Geographically, the work concentrated on the Nakdong and Han River systems, dam reservoirs (e.g., Daecheong, Andong, Paldang), and estuarine and coastal sites in Korea, with additional contributions from hypersaline ponds, Antarctic waters, and tropical regions. A recurring pattern was the shift from diatom-dominated communities to cyanobacterial blooms under eutrophic conditions, driven by phosphorus and nitrogen availability, with implications for water quality monitoring, bioremediation, and aquaculture.",
+  "n_entities": 312,
+  "n_papers": 103,
+  "n_papers_with_summaries": 102,
+  "entity_sample": [
+    "0.8-1.5 m depths",
+    "4% neutral formalin fixation",
+    "77K emission fluorescence spectroscopy",
+    "77K 방출 형광스펙트럼",
+    "A. flos-aquae",
+    "AGP measurement",
+    "AGP 시험",
+    "AGP 측정",
+    "Anabaena",
+    "Anabaena CB-MAL22"
+  ],
+  "resolution": 8.0
+}

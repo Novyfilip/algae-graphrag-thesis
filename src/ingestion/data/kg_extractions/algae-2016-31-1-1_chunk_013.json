@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Paralia fenestrata", "taxonomic_rank": "species"}, {"species_name": "Paralia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Paralia fenestrata", "predicate": "BELONGS_TO", "object": "Paralia", "confidence": 1.0}]}

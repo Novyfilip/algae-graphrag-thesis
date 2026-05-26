@@ -1,0 +1,20 @@
+{
+  "community_id": 180,
+  "summary": "This cluster of research is geographically centered on Korean coastal and marine environments, with a strong emphasis on the ecological dynamics, physiological responses, and applied uses of microalgae and macroalgae. Key species connecting the papers include the diatoms *Chaetoceros debilis*, *Coscinodiscus wailesii*, and *Cylindrotheca closterium*, the dinoflagellates *Cochlodinium polykrikoides* and *Chattonella antiqua*, and the green algae *Chlorella vulgaris* and *Dunaliella salina*, with studies frequently examining their responses to environmental stressors such as light, salinity, temperature, nutrient limitation, and pollution. A recurring pattern across the cluster is the use of chlorophyll fluorescence and photosynthetic measurements to assess physiological status, whether in the context of harmful algal blooms, bioremediation of organic carbon and nutrients, or the impacts of thermal pollution and ocean acidification on species-specific growth and carbon fixation. The research also integrates taxonomic and phylogenetic analyses, including the revision of strain collections like the KMMCC and the discovery of novel parasitoid relationships, reflecting a comprehensive approach to understanding both the fundamental biology and the ecological roles of algae in Korean waters.",
+  "n_entities": 99,
+  "n_papers": 24,
+  "n_papers_with_summaries": 24,
+  "entity_sample": [
+    "12C DIC",
+    "14C",
+    "14C assimilation",
+    "14C assimilation method",
+    "14C fixation",
+    "14C incorporation",
+    "14C incubation",
+    "14C incubations",
+    "14C uptake",
+    "14C vs. O2 measurements"
+  ],
+  "resolution": 8.0
+}

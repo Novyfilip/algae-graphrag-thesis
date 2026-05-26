@@ -1,0 +1,13 @@
+{
+  "community_id": 450,
+  "summary": "This cluster is united by the application of next-generation sequencing (NGS) technologies, specifically Illumina and Ion Torrent platforms, to analyze organelle genomes and metagenomic data from algae. The research focuses on the development and challenges of bioinformatic pipelines for processing high-throughput sequencing data, reflecting a methodological shift from traditional sequencing to large-scale genomic discovery. Geographically and ecologically, the work is not tied to a specific region but rather addresses universal technical hurdles in algal genomics, such as data assembly and annotation. Key findings across the cluster emphasize the suitability of different NGS platforms for varying scales of genomic research, from single organelle studies to complex environmental metagenomes, thereby enabling broader biological insights into algal evolution and ecology.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "NGS high-throughput data",
+    "computational tools",
+    "physical isolation of organelles from cells"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Schizymenia spp.", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "floridoside"}, {"compound_name": "unknown compound"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "unknown compound", "predicate": "AFFECTS", "object": "Schizymenia spp.", "confidence": 0.5}]}

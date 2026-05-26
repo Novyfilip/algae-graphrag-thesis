@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Haliotis discus hannai", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "aquaculture"}], "relationships": [{"subject": "Haliotis discus hannai", "predicate": "STUDIED_WITH", "object": "aquaculture", "confidence": 1.0}]}

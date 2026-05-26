@@ -1,0 +1,20 @@
+{
+  "community_id": 110,
+  "summary": "This cluster of research focuses heavily on the red algal genus *Pyropia* (particularly *Pyropia yezoensis*), its pathogens, and its cultivation, predominantly within Korean waters. Key findings center on the molecular and physiological responses of *Pyropia* to abiotic stressors such as heat and cold, with studies identifying specific genes (e.g., *PyHRG1*) and biostimulants (e.g., AMPEP) that enhance thermal resistance and asexual reproduction. A significant sub-theme involves oomycete pathogens like *Pythium porphyrae* and *Pythium chondricola*, which cause red rot disease in Korean *Pyropia* farms; research here includes molecular identification using cox1 and ITS markers, genomic characterization of pathogenicity genes, and the evaluation of control methods such as calcium propionate and acid washing. The geographic scope is predominantly centered on the Korean Peninsula and its adjacent seas, with additional studies extending to New Zealand, the Gulf of California, and Antarctica, reflecting a broad interest in the biogeography, taxonomy, and aquaculture sustainability of red algae and their associated microbial communities.",
+  "n_entities": 147,
+  "n_papers": 73,
+  "n_papers_with_summaries": 73,
+  "entity_sample": [
+    "1-deoxy-D-xylulose-5-phosphate synthase (DXS)",
+    "Antarctic coccoid green microalgal strains",
+    "Ariake Sea",
+    "Balearic Islands",
+    "C. scutellum var. posidoniae",
+    "Clymene",
+    "Cocconeis neothumensis var. marina",
+    "Dadae (GDa) site",
+    "Diatoma elongatum",
+    "East and Southeast Asian countries"
+  ],
+  "resolution": 8.0
+}

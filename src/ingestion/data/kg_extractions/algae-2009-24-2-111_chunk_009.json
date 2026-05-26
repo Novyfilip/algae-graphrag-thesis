@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "photographic methods"}, {"method_name": "point contact methods"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "photographic methods", "predicate": "STUDIED_WITH", "object": "point contact methods", "confidence": 0.5}]}

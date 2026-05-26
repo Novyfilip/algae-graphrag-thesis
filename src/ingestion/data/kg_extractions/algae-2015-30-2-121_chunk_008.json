@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "vegetated coastal ecosystems"}, {"environment_name": "coastal waters"}], "markers": [], "applications": [], "relationships": [{"subject": "vegetated coastal ecosystems", "predicate": "CONTAINS", "object": "coastal waters", "confidence": 0.5}]}

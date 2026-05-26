@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "polyphenols"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "commercialization of seaweeds for their antioxidant activity"}], "relationships": [{"subject": "polyphenols", "predicate": "PRODUCES", "object": "commercialization of seaweeds for their antioxidant activity", "confidence": 0.5}]}

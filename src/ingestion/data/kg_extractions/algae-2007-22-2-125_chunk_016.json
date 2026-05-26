@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "DEAE-cellulose chromatography"}, {"method_name": "RNA purification"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "RNA purification", "predicate": "STUDIED_WITH", "object": "DEAE-cellulose chromatography", "confidence": 1.0}]}

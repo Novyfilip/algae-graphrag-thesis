@@ -1,0 +1,20 @@
+{
+  "community_id": 234,
+  "summary": "This cluster of research is unified by a focus on the ecological dynamics, cultivation, and biotechnological applications of diverse algal and cyanobacterial species, particularly in Korean and East Asian aquatic systems. Key themes include the impact of nutrient loading (nitrogen and phosphorus) on phytoplankton community structure and bloom formation, with specific attention to diatoms like *Chaetoceros debilis* and *Stephanodiscus hantzschii*, cyanobacteria such as *Microcystis aeruginosa*, and dinoflagellates like *Prorocentrum micans* and *Chattonella antiqua*. Studies frequently investigated the optimization of growth conditions for biomass and high-value compound production, including lipid accumulation in *Tetraselmis* sp. and astaxanthin in *Haematococcus pluvialis*, alongside the use of macroalgae like *Gracilaria* and *Palmaria palmata* for bioremediation in integrated multi-trophic aquaculture systems. The geographic scope was heavily centered on South Korea, encompassing rivers (Nakdong, Youngsan), dam lakes, coastal waters near nuclear power plants, and marshes, with additional work in Antarctica, Hong Kong, and the Pacific Northwest.",
+  "n_entities": 66,
+  "n_papers": 55,
+  "n_papers_with_summaries": 55,
+  "entity_sample": [
+    "18S rDNA sequencing",
+    "Alalay Pond",
+    "Autotrophic culture",
+    "Bolivia",
+    "CH3COONH4",
+    "Chaco ecosystem",
+    "Chlorella-like species",
+    "Cochabamba",
+    "Cochabamba city",
+    "Departments of La Paz and Cochabamba"
+  ],
+  "resolution": 8.0
+}

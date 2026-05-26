@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cochlodinium polykrikoides", "taxonomic_rank": "species"}, {"species_name": "Takayama", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Cochlodinium polykrikoides", "predicate": "BELONGS_TO", "object": "Takayama", "confidence": 0.5}]}

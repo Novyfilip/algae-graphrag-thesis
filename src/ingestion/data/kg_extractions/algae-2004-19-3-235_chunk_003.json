@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "phytoplankton", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Jeju coastal waters"}], "markers": [], "applications": [], "relationships": [{"subject": "phytoplankton", "predicate": "FOUND_IN", "object": "Jeju coastal waters", "confidence": 1.0}]}

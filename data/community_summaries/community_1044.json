@@ -1,0 +1,12 @@
+{
+  "community_id": 1044,
+  "summary": "This cluster focuses on the anti-inflammatory potential of phlorotannin-rich extracts derived from the brown alga *Ecklonia cava*, specifically valorizing processing by-products. Research utilized a zebrafish (*Danio rerio*) embryo model of lipopolysaccharide (LPS)-induced inflammation to demonstrate that a polyphenol-rich fraction, containing compounds such as eckol, dieckol, and phlorofucofuroeckol-A, significantly reduced key inflammatory markers including nitric oxide (NO), inducible nitric oxide synthase (iNOS), and cyclooxygenase-2 (COX-2). The studies also confirmed in vivo protective effects against LPS-stimulated toxicity and oxidative stress through the inhibition of reactive oxygen species (ROS) and NO generation. Collectively, the findings highlight a shared theme of marine bioprospecting for sustainable anti-inflammatory agents from *E. cava* processing waste, with a geographic and ecological scope centered on this temperate brown alga.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "2,7-dichlorofluorescein diacetate",
+    "oxidation-sensitive fluorescent probe dye detection"
+  ],
+  "resolution": 8.0
+}

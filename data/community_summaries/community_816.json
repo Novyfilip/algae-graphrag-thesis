@@ -1,0 +1,12 @@
+{
+  "community_id": 816,
+  "summary": "This cluster focuses on the taxonomic revision of the diatom genus *Amphora sensu lato*, integrating molecular phylogenetics with comparative morphology to resolve species boundaries and evolutionary relationships. Researchers established that the subgenus *Halamphora* is phylogenetically distinct, supporting its reclassification as a separate genus, and formally described *Amphora terroris* as a new species. The studies emphasize that morphological traits remain critical for distinguishing taxa within this globally distributed group, which inhabits diverse marine and estuarine environments.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Placoneis",
+    "large subunit rDNA analysis"
+  ],
+  "resolution": 8.0
+}

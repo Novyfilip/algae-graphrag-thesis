@@ -1,0 +1,12 @@
+{
+  "community_id": 842,
+  "summary": "This cluster investigates the seasonal dynamics of intertidal macroalgal communities along the West Coast of Korea, specifically at Padori in Tae-An Peninsula, using monthly quadrat surveys conducted from September 1986 to August 1987. The research identified 94 algal species, predominantly red algae (62 species), with key taxa including *Enteromorpha compressa*, *Ulva pertusa*, *Codium fragile*, *Sargassum thunbergii*, *Gelidium amansii*, and *Corallina officinalis*. Coverage peaked in August and was lowest in February, with the mid-intertidal zone supporting the highest algal cover, while dominant species by coverage and frequency included melobesioidean algae, *Pelvetia siliquosa*, and *Corallina pilulifera*. Reproductive structures were observed in several red algae, such as *G. amansii* and *Ceramium kondoi*, highlighting seasonal reproductive patterns within this temperate intertidal ecosystem.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Qualitative Analysis",
+    "Quantitative Analysis"
+  ],
+  "resolution": 8.0
+}

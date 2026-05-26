@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "red algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "disease control"}, {"application_name": "aquaculture"}], "relationships": [{"subject": "oomycetes", "predicate": "AFFECTS", "object": "red algae", "confidence": 1.0}]}

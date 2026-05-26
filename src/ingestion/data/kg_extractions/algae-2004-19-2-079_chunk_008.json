@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "Nuclear small-subunit rDNA sequencing"}], "environments": [], "markers": [{"marker_name": "nuclear small-subunit rDNA"}], "applications": [], "relationships": [{"subject": "nuclear small-subunit rDNA", "predicate": "STUDIED_WITH", "object": "Nuclear small-subunit rDNA sequencing", "confidence": 1.0}]}

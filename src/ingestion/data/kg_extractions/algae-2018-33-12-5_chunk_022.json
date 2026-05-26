@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. merolae", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "chloramphenicol"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. merolae", "predicate": "STUDIED_WITH", "object": "chloramphenicol", "confidence": 1.0}]}

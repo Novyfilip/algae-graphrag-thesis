@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cocconeis placentula", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Cocconeis placentula", "predicate": "BELONGS_TO", "object": "Bacillariophyceae", "confidence": 1.0}]}

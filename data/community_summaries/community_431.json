@@ -1,0 +1,13 @@
+{
+  "community_id": 431,
+  "summary": "This cluster of papers is united by a focus on taxonomic revision and the discovery of new species within specific algal groups, primarily in tropical and subtropical marine and freshwater environments. The research employs morphological analysis as a foundational method, with one study also integrating molecular phylogeny to confirm species placement, as seen in the characterization of *Rosenvingea orientalis* from Pacific Mexico. Key findings include the reclassification of the freshwater Conjugatophyceae (Zygnematophyceae) class, the report of three *Padina* species new to the Philippines, and the description of a new Scytosiphonaceae species from Chiapas, Mexico. Geographically, the studies span the southern Philippines, Pacific Mexico, and global freshwater systems, collectively emphasizing the importance of detailed morphological traits—such as thalli structure and reproductive features—for resolving taxonomic boundaries and documenting regional biodiversity.",
+  "n_entities": 3,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Angola",
+    "Ichthyocercus",
+    "Ichthyocercus angloensis"
+  ],
+  "resolution": 8.0
+}

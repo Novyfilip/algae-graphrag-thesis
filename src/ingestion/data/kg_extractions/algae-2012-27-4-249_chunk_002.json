@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "coralline red algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Brazilian coral reef"}], "markers": [], "applications": [], "relationships": [{"subject": "coralline red algae", "predicate": "FOUND_IN", "object": "Brazilian coral reef", "confidence": 0.5}]}

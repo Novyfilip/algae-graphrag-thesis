@@ -1,0 +1,13 @@
+{
+  "community_id": 428,
+  "summary": "This cluster focuses on the taxonomic survey and biodiversity assessment of freshwater cyanophytes (Cyanophyceae) in South Korea, specifically within the Chol La Nam Do region. The research, initiated in 1984 across 193 stations, identified 43 taxa comprising 3 orders, 5 families, and 17 genera, including six species and one variety newly reported to the Korean peninsula. The study employed qualitative net sampling methods across diverse habitats such as epiphytic and floating algae, with collections geolocated near 128° E and 35°30' N. The findings significantly expanded the documented diversity of Korean freshwater cyanophytes, contributing foundational floristic data for the region.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Hammatoidea brebiarticulata",
+    "Merismopedia remota",
+    "Young Nam District"
+  ],
+  "resolution": 8.0
+}

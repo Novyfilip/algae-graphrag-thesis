@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlorella sp. NC64A", "taxonomic_rank": "species"}, {"species_name": "Coccomyxa sp. C-169", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chlorella sp. NC64A", "predicate": "STUDIED_WITH", "object": "Coccomyxa sp. C-169", "confidence": 1.0}]}

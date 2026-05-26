@@ -1,0 +1,20 @@
+{
+  "community_id": 78,
+  "summary": "This cluster of papers is unified by a strong geographic focus on Korean aquatic ecosystems, particularly the Nakdong and Han Rivers, and a shared emphasis on bloom-forming cyanobacteria and harmful algal blooms (HABs). Key species connecting the research include *Microcystis aeruginosa*, *Anabaena flos-aquae*, *Stephanodiscus hantzschii*, and *Cochlodinium polykrikoides*, with studies frequently investigating their population dynamics, toxin production (microcystins, anatoxin-a, saxitoxin), and responses to nutrient loading (nitrogen and phosphorus). Methodologically, the cluster relied heavily on phylogenetic analysis (16S rRNA, rbcL), polyphasic taxonomy for describing novel cyanobacterial and algal species, and physiological assays to assess growth potential, antioxidant activity, and toxin profiles. Across these studies, a consistent pattern emerged of eutrophic and hypertrophic conditions driving seasonal shifts in phytoplankton dominance, with diatoms prevailing in spring and cyanobacteria dominating summer blooms, while environmental factors such as temperature, salinity, and nutrient ratios were identified as critical controls on bloom intensity and species succession.",
+  "n_entities": 178,
+  "n_papers": 106,
+  "n_papers_with_summaries": 105,
+  "entity_sample": [
+    "5% neutral formalin fixation",
+    "ANTX-a",
+    "Anabaena flos-aquae",
+    "Anabaena spp.",
+    "Anatoxin-a",
+    "Ankistrodesmus sp.",
+    "Aphanizomenon flos-aquae",
+    "Aulacoseira italica",
+    "Banbyeon",
+    "Brachionus"
+  ],
+  "resolution": 8.0
+}

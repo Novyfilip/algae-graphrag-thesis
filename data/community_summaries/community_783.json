@@ -1,0 +1,12 @@
+{
+  "community_id": 783,
+  "summary": "Research on the Nakdong River Basin in South Korea demonstrated that sewage and wastewater treatment plant effluents significantly elevated algal growth potential (AGP) compared to natural river water, with the highest AGP values recorded in the Kumho River (42.8%) and the middle Nakdong River (22.7%). The study identified phosphorus and ammonium as key drivers of eutrophication, as their concentrations in effluents were substantially higher than in ambient river water, and assessed trophic state through measurements of total phosphorus, total nitrogen, and conductivity. Luminescent bacterial toxicity tests were employed to evaluate the safety of treated effluents, linking wastewater discharge directly to increased algal bloom risk in the basin.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Jang Stream",
+    "Nakdong"
+  ],
+  "resolution": 8.0
+}

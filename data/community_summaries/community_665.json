@@ -1,0 +1,12 @@
+{
+  "community_id": 665,
+  "summary": "This cluster synthesizes research on the community structure, vertical zonation, and seasonal biomass of benthic marine algae along the Korean coastline, with studies conducted on both the western and eastern coasts. The papers collectively surveyed over 85 species, consistently identifying key taxa such as *Sargassum thunbergii*, *Sargassum yezoense*, *Corallina pilulifera*, and *Gloiopeltis furcata*, and noted a predominance of Rhodophyta (red algae) over Chlorophyta (green) and Phaeophyta (brown). Methodologically, the studies relied on quadrat surveys, UPGMA clustering, and detrended correspondence analysis (DCA) ordination to reveal distinct floristic gradients—driven by turbidity on the west coast and by tidal elevation on the east coast—that separate algal assemblages into clear upper, middle, and lower intertidal zones. A key finding across the cluster was that maximum algal biomass occurred in summer and minimum in autumn, with total biomass recorded at up to 111 g/m² in the eastern intertidal zone. Geographically, the research focused on six localities in the western coast (including Tonghori and Oshikto) and the Sokcho-Chumunjin region of the East Coast, collectively characterizing the ecological drivers of algal distribution in Korean temperate waters.",
+  "n_entities": 2,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "DCA (detrended correspondence analysis)",
+    "DECORANA"
+  ],
+  "resolution": 8.0
+}

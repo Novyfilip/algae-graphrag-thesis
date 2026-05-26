@@ -1,0 +1,20 @@
+{
+  "community_id": 20,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and biogeography of red algae (Rhodophyta), with frequent use of molecular markers such as *rbcL*, *cox1*, and *COI-5P* to resolve cryptic species and revise generic boundaries across diverse geographic regions. Key species investigated include *Bostrychia*, *Polysiphonia*, *Grateloupia*, *Hypoglossum*, *Porphyra*, *Gelidium*, and *Ceramium*, with many studies reporting new species or new records from Korea, Japan, India, the Philippines, Australia, New Zealand, and the Hawaiian Islands. A recurring pattern was the discovery of high cryptic diversity and the need for taxonomic revision within morphologically similar complexes, such as the *Sheathia arcuata* morphospecies and the *Bostrychia tenella* species complex. The ecological scope ranged from freshwater streams and mangroves to intertidal zones and mesophotic coral ecosystems, with several papers also addressing the impacts of environmental factors like salinity, temperature, and sedimentation on algal development and distribution.",
+  "n_entities": 280,
+  "n_papers": 203,
+  "n_papers_with_summaries": 202,
+  "entity_sample": [
+    "30S ribosomal gene",
+    "60S protein",
+    "Acrochaetium globosum",
+    "Agana, Guam",
+    "American Samoa",
+    "Amscottia gulungulana",
+    "Ancharya Jagadish Chandra Bose Indian Botanic Garden",
+    "Andaman coasts",
+    "Anisonema (Duji.) Stein",
+    "Annan River, Queensland, Australia"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 231,
+  "summary": "This cluster of research is strongly centered on the seaweed and seagrass ecology, aquaculture, and restoration efforts along the Korean coastline, with a particular focus on species such as *Sargassum thunbergii*, *Ecklonia cava*, *Undaria pinnatifida*, *Saccharina japonica*, *Zostera marina*, and various eucheumatoids. Key findings across the cluster include the optimization of transplantation methods (e.g., polyethylene ropes for *Silvetia siliquosa*, staple methods for *Z. marina*, and specific blade sizes for *E. cava*) and the use of chlorophyll a fluorescence as a rapid, non-destructive indicator for assessing transplant success. The studies also emphasize the importance of environmental factors—such as temperature, light, and nutrient availability—on growth and survival, with several papers investigating the impacts of thermal effluents, desiccation stress, and water depth on macroalgal community structure and biomass. Geographically, the research is heavily concentrated in Korean waters, including Jeju Island, the southern coast, the Sea of Okhotsk, and the Gulf of California, with additional studies extending to Nova Scotia, Australia, and the western Pacific.",
+  "n_entities": 68,
+  "n_papers": 51,
+  "n_papers_with_summaries": 50,
+  "entity_sample": [
+    "Asian countries",
+    "Dalian",
+    "Dalian, Liaoning Province, China",
+    "Dictyota crenulata",
+    "Gwanmaedo",
+    "Hokkaido (Japan)",
+    "Jindo natural population",
+    "Jumunjin (37° N)",
+    "La Concepción, Chile",
+    "Morris water maze test"
+  ],
+  "resolution": 8.0
+}

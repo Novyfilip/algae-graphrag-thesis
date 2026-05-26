@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sorocarpus micromora", "taxonomic_rank": "species"}, {"species_name": "Acrothrix pacifica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Sorocarpus micromora", "predicate": "BELONGS_TO", "object": "Korea", "confidence": 1.0}]}

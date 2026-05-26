@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "Illumina MiSeq"}, {"method_name": "Cutadapt 3.2"}, {"method_name": "DADA2 package (version 1.18.0)"}, {"method_name": "DADA2 Consensus method"}, {"method_name": "QIIME v"}], "environments": [], "markers": [], "applications": [], "relationships": []}

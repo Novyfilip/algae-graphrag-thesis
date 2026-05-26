@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Epilithic Diatoms", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Artificial Substrata"}], "markers": [], "applications": [], "relationships": [{"subject": "Epilithic Diatoms", "predicate": "FOUND_IN", "object": "Artificial Substrata", "confidence": 1.0}]}

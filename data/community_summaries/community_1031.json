@@ -1,0 +1,12 @@
+{
+  "community_id": 1031,
+  "summary": "This cluster of research focuses on the taxonomic reassessment of the brown algal genus *Padina* (Dictyotales, Phaeophyta) within the Gulf of California, Mexico. By analyzing 1,200 specimens, the studies identified three recognized species in the region—*P. durvillaei*, *P. concrescens*, and *P. mexicana*—based on four key morphological traits: calcium carbonate cell wall structure, medullary cell layer number and arrangement, and cortical cell presence. A key finding across the cluster is a significant discrepancy between historically recognized species and the newly validated taxa, suggesting that species diversity in the Gulf of California has been underestimated. The geographic scope is narrowly confined to this subtropical marine ecosystem, emphasizing the need for region-specific taxonomic clarity in brown algal biodiversity.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "character and character states review",
+    "monographic evaluation"
+  ],
+  "resolution": 8.0
+}

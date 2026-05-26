@@ -1,0 +1,12 @@
+{
+  "community_id": 895,
+  "summary": "This cluster investigates the aldose reductase inhibitory potential of marine plant extracts, primarily sourced from Korean coastal waters. The research specifically examined four species—*Enteromorpha prolifera*, *Ecklonia cava*, *Pelvetia siliquosa*, and *Salicornia herbacea*—for their in vitro activity against this enzyme, which is a key target for diabetic complications. A key finding was that *Enteromorpha prolifera* demonstrated the most potent inhibition, with an IC₉₀ value of 3.04. The studies collectively establish a comparative biochemical profile of these marine macroalgae and halophytes as natural sources of aldose reductase inhibitors.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Tetramethylene glutaric acid",
+    "aldose reductase inhibitors"
+  ],
+  "resolution": 8.0
+}

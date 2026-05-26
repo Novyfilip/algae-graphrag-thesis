@@ -1,0 +1,20 @@
+{
+  "community_id": 102,
+  "summary": "This cluster of research primarily investigates the ecology, physiology, and distribution of macroalgae, particularly brown kelps such as *Eisenia arborea*, *Macrocystis pyrifera*, *Nereocystis luetkeana*, *Eualaria fistulosa*, *Undaria pinnatifida*, *Saccharina japonica*, and *Ascophyllum nodosum*, alongside red and green algae like *Ulva pertusa* and *Pyropia yezoensis*, across diverse geographic regions including Korea, Japan, Mexico, Alaska, Nova Scotia, and the Bering Sea. Key findings demonstrated that wave exposure, salinity, temperature, sedimentation, and nutrient loading significantly influenced morphological plasticity, growth, reproduction, and community structure, with species-specific responses to abiotic stressors such as ocean acidification and marine heatwaves. The studies employed a range of methods including field surveys, laboratory experiments, molecular phylogenetic analyses (e.g., rbcL, COI-5P, RAPD), and stable isotope analysis to assess bioaccumulation of heavy metals, carbon flux, and genetic diversity. The geographic scope spanned temperate and Arctic coastal ecosystems, with a strong emphasis on Korean waters, where research addressed algal whitening, thermal effluent impacts, and the potential for carbon sequestration through kelp aquaculture.",
+  "n_entities": 154,
+  "n_papers": 81,
+  "n_papers_with_summaries": 79,
+  "entity_sample": [
+    "ANOSIM",
+    "Acrosorium spp.",
+    "BOD bottle incubation",
+    "Baja California Sur",
+    "Baja California coast",
+    "Baja California, MEX",
+    "Baja California, Sur MEX",
+    "Balanus glandula",
+    "Botryocladia pseudodichotoma",
+    "Calliarthron spp."
+  ],
+  "resolution": 8.0
+}

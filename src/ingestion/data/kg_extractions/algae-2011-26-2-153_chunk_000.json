@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chaetoceros", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean coastal waters"}], "markers": [], "applications": [], "relationships": [{"subject": "Chaetoceros", "predicate": "FOUND_IN", "object": "Korean coastal waters", "confidence": 1.0}]}

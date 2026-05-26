@@ -1,0 +1,12 @@
+{
+  "community_id": 893,
+  "summary": "This cluster focuses on the taxonomy and systematics of the freshwater algal class Conjugatophyceae (Zygnematophyceae), with a particular emphasis on the historical nomenclature and reclassification of key genera such as *Mougeotia*, *Mougeotiopsis*, and *Transeauina*. The research synthesizes nomenclatural changes and species distribution data, primarily drawing on resources like AlgaeBase to document the evolution of the order and the number of currently described species within the newly defined class. The geographic and ecological scope is limited to freshwater habitats, reflecting the natural distribution of these conjugating green algae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Teilingia",
+    "Teilingia excavata"
+  ],
+  "resolution": 8.0
+}

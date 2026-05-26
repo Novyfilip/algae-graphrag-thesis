@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "dimethylsulfoxide"}, {"compound_name": "Me2SO"}], "methods": [{"method_name": "cryopreservation"}, {"method_name": "cooling methods"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "dimethylsulfoxide", "predicate": "CONTAINS", "object": "Me2SO", "confidence": 1.0}]}

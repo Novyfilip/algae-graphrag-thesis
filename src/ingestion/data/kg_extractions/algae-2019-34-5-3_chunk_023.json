@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Aulacoseira", "taxonomic_rank": "genus"}, {"species_name": "cyanobacteria", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Aulacoseira", "predicate": "BELONGS_TO", "object": "cylindrical diatoms", "confidence": 1.0}]}

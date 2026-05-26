@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Thalassiosira", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean Coastal Waters"}], "markers": [], "applications": [], "relationships": [{"subject": "Thalassiosira", "predicate": "FOUND_IN", "object": "Korean Coastal Waters", "confidence": 1.0}]}

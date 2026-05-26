@@ -1,0 +1,12 @@
+{
+  "community_id": 796,
+  "summary": "This cluster of research focuses on the ecological roles, taxonomic diversity, and environmental applications of cyanobacteria, with a particular emphasis on species from the orders Chroococcales and Nostocales. Key connecting themes include the use of polyphasic approaches—integrating 16S rRNA gene sequencing, morphological analysis, and gene cluster characterization—to resolve phylogenetic relationships, as seen in the description of *Geminocystis urbisnovae* and the re-evaluation of the Geminocystaceae family. Studies on *Anabaena flos-aquae* in South Korea’s Lower Naktong River and cyanobacterial crusts in Hong Kong both investigated population dynamics under specific macro-environmental conditions (e.g., soil pH, rainfall, and nutrient availability), with the latter demonstrating potential for substrate remediation on erosion-prone cut slopes. Geographically, the research spans subtropical East Asia (Hong Kong) and temperate river systems (South Korea), while taxonomically, it highlights the underrepresentation of families like Geminocystaceae and the prevalence of heterocystous and non-heterocystous forms in soil and freshwater habitats.",
+  "n_entities": 2,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Hong Park, Japan",
+    "Nostoc muscorum"
+  ],
+  "resolution": 8.0
+}

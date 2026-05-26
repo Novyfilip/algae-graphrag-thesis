@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Caulerpa okamurae", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "tropical and subtropical seas"}], "markers": [], "applications": [], "relationships": [{"subject": "Caulerpa okamurae", "predicate": "FOUND_IN", "object": "tropical and subtropical seas", "confidence": 1.0}]}

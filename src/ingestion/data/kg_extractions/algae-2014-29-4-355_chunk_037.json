@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. siliquastrum", "taxonomic_rank": null}], "compounds": [{"compound_name": "fucoxanthin derivatives"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "S. siliquastrum", "predicate": "PRODUCES", "object": "fucoxanthin derivatives", "confidence": 1.0}]}

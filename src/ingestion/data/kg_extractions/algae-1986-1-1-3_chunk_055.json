@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. tongatensis", "taxonomic_rank": "species"}, {"species_name": "P. mollis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Tasmania"}], "markers": [], "applications": [], "relationships": [{"subject": "P. tongatensis", "predicate": "FOUND_IN", "object": "Tasmania", "confidence": 1.0}]}

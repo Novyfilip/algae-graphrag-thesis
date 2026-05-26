@@ -1,0 +1,13 @@
+{
+  "community_id": 372,
+  "summary": "This cluster of papers is united by a methodological focus on experimental manipulation of seawater carbonate chemistry to study the ecological impacts of ocean acidification on benthic marine organisms. The research employed a continuous-flow mesocosm system to precisely control and stabilize pH levels (ranging from 8.05 to 7.28) and pCO₂ concentrations (from 375 to 2,691 μatm) by mixing CO₂-saturated seawater with ambient seawater at defined dilution ratios. This approach allowed for the simulation of future ocean acidification scenarios in a controlled, on-site setting, specifically targeting benthic communities. The geographic and ecological scope is broadly applicable to coastal and marine benthic habitats, with the key finding that such mesocosms are effective tools for conducting long-term, realistic acidification experiments on sessile organisms and community dynamics.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Agilent 8453 UV-Visible Spectrophotometer",
+    "high-resolution spectrophotometer",
+    "spectrophotometric measurements"
+  ],
+  "resolution": 8.0
+}

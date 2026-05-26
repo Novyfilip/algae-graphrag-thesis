@@ -1,0 +1,20 @@
+{
+  "community_id": 82,
+  "summary": "This cluster is unified by a strong focus on the taxonomy, phylogeny, and biodiversity of marine algae, particularly red algae (Rhodophyta) such as *Pyropia yezoensis*, *Gracilaria* species, and *Polysiphonia*, alongside brown algae like *Sargassum* and *Saccharina japonica*, with a predominant geographic and ecological scope centered on Korean coastal waters, the Northwest Pacific, and adjacent regions like Japan and China. Key findings across the corpus include the frequent use of molecular markers (e.g., rbcL, COI-5P, ITS, and psbA) to resolve cryptic species, revise taxonomic boundaries, and uncover new species, as seen in the reclassification of *Gracilariopsis chorda* and the discovery of *Haraldiophyllum udoensis*. The cluster also highlights applied research on cultivation performance, stress physiology (e.g., thermal resistance in *Pyropia yezoensis*), and nutrient bioextraction, with studies demonstrating the economic potential of seaweed aquaculture for food security and bioremediation. Overall, these papers collectively advance the understanding of algal diversity, evolutionary relationships, and the sustainable utilization of marine resources in temperate and subtropical Asian ecosystems.",
+  "n_entities": 173,
+  "n_papers": 105,
+  "n_papers_with_summaries": 103,
+  "entity_sample": [
+    "20-cm cutting method",
+    "Augophyllum delicatum",
+    "Bohe, Dianbai Xian, Guangdong Province, China",
+    "Bronx River estuary (NY)",
+    "China coast",
+    "Corallopsis salicornia",
+    "Curdiea crassa",
+    "DNA digestion",
+    "Enoura, Numazu City, Shizuoka Prefecture, Japan",
+    "Fisher least significant difference test"
+  ],
+  "resolution": 8.0
+}

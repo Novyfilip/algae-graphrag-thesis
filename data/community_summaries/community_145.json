@@ -1,0 +1,20 @@
+{
+  "community_id": 145,
+  "summary": "This cluster of research predominantly focuses on the ecology, physiology, and taxonomy of marine and freshwater microalgae, particularly dinoflagellates and diatoms, in Korean coastal and inland waters. Key species investigated include harmful bloom-forming dinoflagellates such as *Cochlodinium polykrikoides*, *Alexandrium* spp., and *Karlodinium veneficum*, as well as mixotrophic and heterotrophic protists like *Gyrodinium dominans*, *Oxyrrhis marina*, and *Mesodinium rubrum*, with studies examining their feeding interactions, growth rates, and responses to environmental stressors such as temperature, salinity, and pollutants. The geographic scope is heavily centered on Korean waters—including the South Sea, Jeju Island, and specific bays and estuaries—with additional studies in Antarctic, Arctic, and subtropical regions. Common methodological approaches include molecular techniques (qPCR, metabarcoding, phylogenomics), physiological assays (growth and ingestion rates, pigment analysis), and field surveys tracking seasonal and spatial phytoplankton dynamics, often linking community shifts to eutrophication, red tide formation, and climate change impacts.",
+  "n_entities": 121,
+  "n_papers": 126,
+  "n_papers_with_summaries": 126,
+  "entity_sample": [
+    "5-hydroxymethyluracil",
+    "Abbe's camera lucida",
+    "Alveolates",
+    "Antarctic waters",
+    "Astasia Ehr.",
+    "Bayesian information criterion",
+    "CIPRES Science Gateway",
+    "Colacium Ehr.",
+    "Colpodella",
+    "DAD station"
+  ],
+  "resolution": 8.0
+}

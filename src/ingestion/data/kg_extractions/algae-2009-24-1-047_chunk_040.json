@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Benthic Diatoms", "taxonomic_rank": null}], "compounds": [{"compound_name": "Antioxidant"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Benthic Diatoms", "predicate": "PRODUCES", "object": "Antioxidant", "confidence": 1.0}]}

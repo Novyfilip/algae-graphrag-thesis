@@ -1,0 +1,13 @@
+{
+  "community_id": 397,
+  "summary": "This cluster of research focuses on the biodiversity and biogeography of marine algae, particularly rhodophytes (red algae), associated with mangrove ecosystems in the western Pacific. Key species identified include *Acrochaetium globosum*, *Colaconema* sp., and *Caulacanthus indicus*, with studies employing molecular phylogenetic techniques and culturing methods to confirm novel identifications and analyze carbohydrate composition. A notable finding was the discovery of manganese-rich deposits within these algae, suggesting unique biogeochemical interactions in these habitats. The geographic scope spans multiple Pacific islands, including Guam, Chuuk, Kosrae, and Pohnpei, addressing a significant gap in prior phycological research for this region.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Chukchi Sea",
+    "Nakano Harbor",
+    "Sonneratia alba"
+  ],
+  "resolution": 8.0
+}

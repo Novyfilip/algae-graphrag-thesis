@@ -1,0 +1,13 @@
+{
+  "community_id": 473,
+  "summary": "This cluster focuses on the cultivation and environmental stress tolerance of brown macroalgae from the genus *Sargassum*, specifically *Sargassum fulvellum* and *Sargassum macrocarpum*, in the context of marine ecosystem management. Research demonstrated that extreme pH and salinity levels caused rapid mortality in *S. fulvellum* and its associated epifauna (*Caprella scaura* and *Grandidierella utinomi*), while a moderate range (pH 4–10, salinity 7–10 psu) preserved photosynthetic quantum yield. Concurrently, controlled manipulation of temperature and irradiance enabled accelerated maturation and artificial seed production of *S. macrocarpum*, achieving a consistent growth rate of 10.5 cm per year and one-month earlier development than natural conditions. These findings support the restoration of *Sargassum* sea forest ecosystems and highlight their potential as sources of anti-inflammatory compounds, with geographic relevance to temperate coastal cultivation systems.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Caprellids",
+    "Gammarids",
+    "Sargassum cultivation"
+  ],
+  "resolution": 8.0
+}

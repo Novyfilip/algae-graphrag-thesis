@@ -1,0 +1,13 @@
+{
+  "community_id": 499,
+  "summary": "This cluster of research focused on the screening of red algae extracts from Jeju Island, Korea, for their potential as natural angiotensin-I converting enzyme (ACE) inhibitors. Key species identified for their significant inhibitory activity included *Lithophyllum okamurae*, *Lomentaria catenata*, and *Ahnfeltiopsis flabelliformis*, with aqueous extracts from the former two demonstrating the lowest IC50 values (13.78 and 12.21 µg mL⁻¹, respectively). The studies compared the efficacy of methanol and aqueous extraction methods across twenty-six species, establishing a geographic and ecological scope centered on the marine biodiversity of Jeju Island. A consistent pattern emerged showing that several endemic red algae species possess potent ACE-inhibitory compounds, highlighting their potential as natural antihypertensive agents.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "anti-ACE peptide",
+    "antihypertensive effect",
+    "oral administration"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,13 @@
+{
+  "community_id": 430,
+  "summary": "This cluster investigates the biodiversity of marine macroalgae in the Arabian Gulf, specifically along the Kuwait coastline, using the Germling Emergence Method to isolate and culture specimens from natural substrata. Researchers employed DNA barcoding with RuBisCO spacer markers to taxonomically identify 120 clonal isolates, revealing a high diversity across three major phyla: Chlorophyta, Phaeophyceae, and Rhodophyta. Key findings include the discovery of three new species and numerous previously undocumented records for the region, significantly expanding the known macroalgal flora of Kuwait. The geographic scope is narrowly focused on Kuwait’s intertidal and subtidal zones, highlighting this area as a hotspot for cryptic algal diversity in the Persian Gulf.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "H. crispella (C. Agardh) M. J. Wynne",
+    "H. dendroidea Hollenberg",
+    "Heterosiphonia Montagne"
+  ],
+  "resolution": 8.0
+}

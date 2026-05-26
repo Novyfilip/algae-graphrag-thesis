@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "NDPK"}, {"compound_name": "ATP"}], "methods": [], "environments": [{"environment_name": "Europe"}], "markers": [], "applications": [], "relationships": [{"subject": "NDPK", "predicate": "PRODUCES", "object": "ATP", "confidence": 0.3}, {"subject": "C. caeruleus", "predicate": "FOUND_IN", "object": "Europe", "confidence": 1.0}]}

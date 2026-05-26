@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Phenolic compounds"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "UV protection"}], "relationships": [{"subject": "Phenolic compounds", "predicate": "PRODUCES", "object": "UV protection", "confidence": 1.0}]}

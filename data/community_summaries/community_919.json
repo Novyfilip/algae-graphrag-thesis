@@ -1,0 +1,12 @@
+{
+  "community_id": 919,
+  "summary": "This cluster of research focuses on the biodiversity and biogeographic distribution of marine macroalgae along the temperate shores of the Korean Peninsula, specifically in Kangwon Province, South Korea. The studies are connected by their detailed floristic surveys, which identified 231 algal taxa and documented key species such as *Coccophora langsdorfii*, *Costaria costata*, *Kjellmaniella crassifolia*, *Tichocarpus crinitus*, *Odonthalia corymbifera*, *Ishige okamurae*, *I. sinicola*, and *Pelvetia siliquosa*. A shared finding was the delineation of a two-subzone tidal system, where the upper and mid-lower zones displayed distinct floristic characteristics based on vertical distribution patterns. The geographic scope was confined to the shore area of Kangwon Province, emphasizing the ecological zonation and species composition unique to this region of the East Sea.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Carpopeltis comea",
+    "Zanardinula comea"
+  ],
+  "resolution": 8.0
+}

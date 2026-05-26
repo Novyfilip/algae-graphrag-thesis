@@ -1,0 +1,12 @@
+{
+  "community_id": 721,
+  "summary": "This cluster of research focuses on taxonomic revisions and biodiversity surveys of freshwater green algae (Chlorophyta) in Korea, with a particular emphasis on the genus *Korshikoviella* Silva. The studies identified and described 12 taxa across seven families and nine genera, including the distinct species *Coenochloris* and *Choricystis*, based on morphological and genetic characteristics. The geographic scope is confined to Korean freshwater ecosystems, where the addition of these new genera expanded the national checklist of freshwater algae. Key findings centered on clarifying the taxonomic placement of these organisms and documenting their distribution within the Korean algal community.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Culture Methods",
+    "Growth Measurements"
+  ],
+  "resolution": 8.0
+}

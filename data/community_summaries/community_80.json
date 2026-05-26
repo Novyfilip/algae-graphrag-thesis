@@ -1,0 +1,20 @@
+{
+  "community_id": 80,
+  "summary": "This cluster of papers is geographically centered on Korean coastal and freshwater ecosystems, with a strong emphasis on the diversity, ecophysiology, and biotechnological potential of dinoflagellates and red algae. Key species investigated include the dinoflagellates *Cochlodinium polykrikoides*, *Alexandrium* spp., *Gyrodinium* spp., *Shimiella gracilenta*, and *Noctiluca scintillans*, alongside the red algae *Pyropia yezoensis* and *Porphyra* hybrids, and the green algae *Tetraselmis* sp. and *Dunaliella salina*. Recurring themes included the use of molecular tools (qPCR, ddPCR, transcriptomics, and phylogenetics) to quantify species distribution, characterize stress responses (heat, cold, salinity, and nutrient limitation), and assess mixotrophic or kleptoplastidic feeding behaviors. The research also explored applied outcomes such as lipid and omega-3 production for biofuels, carotenoid (astaxanthin, β-carotene) accumulation for nutraceuticals, and bioremediation of nitrogen-rich wastewaters, with several studies linking environmental factors like temperature, light intensity, and nutrient ratios to bloom dynamics and cultivation optimization.",
+  "n_entities": 176,
+  "n_papers": 78,
+  "n_papers_with_summaries": 77,
+  "entity_sample": [
+    "100-L cultivation system",
+    "14 : 10 h light : dark cycle",
+    "16 : 0",
+    "16 : 4 (n - 3)",
+    "18 : 1",
+    "18 : 3 (n - 3)",
+    "18:2/16:3(n-3) DGDG",
+    "18:3/16:3",
+    "18:3/16:3(n-3) DGDG",
+    "18:3/16:4"
+  ],
+  "resolution": 8.0
+}

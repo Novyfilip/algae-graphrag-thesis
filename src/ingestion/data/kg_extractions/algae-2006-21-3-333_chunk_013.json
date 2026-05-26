@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlorella ovalis", "taxonomic_rank": "species"}, {"species_name": "Dunaliella parva", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chlorella ovalis", "predicate": "STUDIED_WITH", "object": "Dunaliella parva", "confidence": 1.0}]}

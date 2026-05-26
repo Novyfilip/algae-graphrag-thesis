@@ -1,0 +1,20 @@
+{
+  "community_id": 199,
+  "summary": "This cluster of papers is unified by a focus on the taxonomy, phylogeny, and biogeography of marine and freshwater algae, predominantly red algae (Rhodophyta), from the Pacific Rim, with a strong emphasis on the waters surrounding Korea and Japan. Researchers consistently employed molecular markers such as *rbcL*, *COI-5P*, and *psbA* to resolve cryptic species, revise generic boundaries, and document new taxa, including *Haraldiophyllum udoensis*, *Symphyocladia glabra*, and multiple novel *Polysiphonia* and *Herposiphonia* species. A recurring pattern was the discovery of high endemic diversity in isolated regions like Jeju Island, the Kurile Islands, and the Aleutian Islands, alongside evidence of cryptic speciation and phylogeographic structuring in widespread genera such as *Gelidium*, *Chondrus*, and *Plocamium*. The geographic scope extended from the northwest Pacific to the tropical western Atlantic and Antarctica, with several studies also addressing ecological interactions, such as epiphytic relationships and the impact of physical factors on algal reproduction.",
+  "n_entities": 86,
+  "n_papers": 110,
+  "n_papers_with_summaries": 109,
+  "entity_sample": [
+    "ABI Prism 3100 Genetic Analyzer",
+    "AY295165",
+    "AY295166",
+    "AY295167",
+    "Baja California Sur, Mexico",
+    "Bostrychia tenuissima",
+    "C. leptoclados",
+    "C. pusillum",
+    "California Sur, Mexico",
+    "Ceramium riosmenae"
+  ],
+  "resolution": 8.0
+}

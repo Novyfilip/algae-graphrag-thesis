@@ -1,0 +1,12 @@
+{
+  "community_id": 752,
+  "summary": "Research on the marine green alga *Bryopsis plumosa* centered on the molecular characterization of a novel lectin, BPL-4, which was isolated and identified through SDS-PAGE and MALDI-TOF mass spectrometry, revealing a molecular weight of 12.9 kDa and a single open reading frame. The lectin’s amino acid sequence showed 60.6% identity to the previously reported BPL-3 from the same species and exhibited conserved domains suggesting homology to the H lectin group. These findings underscore the potential of BPL-4 as a tool for studying carbohydrate recognition and algal regeneration, with the work being geographically and ecologically focused on a marine species from the Chlorophyta phylum.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Korea Basic Science Institute",
+    "amino acid sequencing"
+  ],
+  "resolution": 8.0
+}

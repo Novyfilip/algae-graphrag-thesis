@@ -1,0 +1,20 @@
+{
+  "community_id": 202,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, phylogeny, and biogeography of red algae (Rhodophyta) and brown algae (Phaeophyceae), frequently employing molecular markers such as *rbcL*, *psbA*, *cox1*, and *psaA* to resolve species boundaries and revise taxonomic classifications. Key findings include the discovery and description of numerous new species and genera—such as *Lympha mucosa*, *Sheathia assamica*, *Amalthea rubida*, and *Polysiphonia ulleungensis*—as well as the reclassification of taxa like *Gracilariopsis chorda* and *Psilothallia dentata*, often revealing cryptic diversity and clarifying phylogenetic relationships within families like Ceramiaceae, Delesseriaceae, and Scytosiphonaceae. Geographically, the research is heavily concentrated in the Pacific Ocean, particularly around Korea, Japan, China, and the northwestern Pacific, with additional studies spanning North America, the Atlantic, and tropical regions such as India and Mexico. A recurring pattern across the cluster is the integration of morphological analysis with molecular phylogenetics to address taxonomic ambiguities, highlighting the importance of continuous revision in algal systematics.",
+  "n_entities": 84,
+  "n_papers": 64,
+  "n_papers_with_summaries": 64,
+  "entity_sample": [
+    "Assam State, Hatidandi, at Burapahar Tea Estate, Kaziranga National Park, down the hill called Elephant Corridor",
+    "Assam State, Morigaon District, Amsoi",
+    "Assam State, Nagaon District, Chapanalla",
+    "Auduinella dictyotae",
+    "Bear Creek ~1.4 miles above Canyon Creek, California, USA",
+    "Bulgaria",
+    "C. cascadensis",
+    "California",
+    "Canyon Creek",
+    "Caroline Islands"
+  ],
+  "resolution": 8.0
+}

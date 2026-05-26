@@ -1,0 +1,13 @@
+{
+  "community_id": 447,
+  "summary": "This cluster investigates the ecological and biotechnological significance of marine microalgae and their interactions, with a focus on species from Korean coastal waters. Research centered on the diatom *Stephanopyxis palmeriana* from Jaran Bay led to the isolation of a novel species-specific virus (SpalV), highlighting viral control over diatom populations. Concurrently, studies on the mixotrophic dinoflagellate *Gymnodinium smaydae* demonstrated its high docosahexaenoic acid (DHA) content (21 mg g⁻¹ dry weight, 43% of total fatty acids) and optimized semi-continuous cultivation with daily prey supply, positioning it as a promising candidate for commercial omega-3 production. Additionally, transcriptome analysis of the photosynthetic sea slug *Placida dendritica* revealed no evidence of horizontal gene transfer from its algal prey *Bryopsis* spp., except for a single actin gene, challenging traditional mechanisms of chloroplast retention. Collectively, these findings underscore the region’s role in advancing knowledge of algal-viral dynamics, sustainable aquaculture of high-value lipid producers, and the evolutionary complexity of kleptoplasty.",
+  "n_entities": 3,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Micromonas pusilla",
+    "Tubulin alpha chain",
+    "Zea mays"
+  ],
+  "resolution": 8.0
+}

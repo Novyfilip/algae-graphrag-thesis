@@ -1,0 +1,12 @@
+{
+  "community_id": 569,
+  "summary": "This cluster synthesizes research on the taxonomy, classification, and biogeographic distribution of marine algae along the Korean coastline. Studies employed morphological characterization and phylogenetic analyses to resolve taxonomic relationships within major phyla, including Chlorophyta and Chromophyta, with specific focus on species such as *Cladophora crystallina* and *Sphacelaria apicalis*. A key methodological pattern across the cluster was the integration of traditional morphological data with molecular phylogenetics to establish species boundaries and propose refined grouping methods. The geographic scope was exclusively centered on Korean coastal waters, resulting in detailed checklists and distributional records that clarify the regional marine algal flora.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "A. yagti",
+    "Monospora yagit"
+  ],
+  "resolution": 8.0
+}

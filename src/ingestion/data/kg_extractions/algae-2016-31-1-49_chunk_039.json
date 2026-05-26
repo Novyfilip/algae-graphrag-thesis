@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "U. pertusa", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "DOC"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "U. pertusa", "predicate": "PRODUCES", "object": "DOC", "confidence": 0.5}, {"subject": "DOC", "predicate": "AFFECTS", "object": "U. pertusa", "confidence": 0.5}]}

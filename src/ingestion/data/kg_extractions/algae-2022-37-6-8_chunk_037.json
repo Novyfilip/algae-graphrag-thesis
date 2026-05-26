@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "N. scintillans", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "predator culture tank"}], "markers": [], "applications": [], "relationships": [{"subject": "N. scintillans", "predicate": "FOUND_IN", "object": "predator culture tank", "confidence": 1.0}]}

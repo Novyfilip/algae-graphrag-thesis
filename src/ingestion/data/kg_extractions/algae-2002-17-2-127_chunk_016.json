@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Eucheuma serra", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "deep seawater"}], "markers": [], "applications": [], "relationships": [{"subject": "Eucheuma serra", "predicate": "FOUND_IN", "object": "deep seawater", "confidence": 1.0}]}

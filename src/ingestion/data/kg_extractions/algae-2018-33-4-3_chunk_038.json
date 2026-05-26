@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "rbcL"}], "applications": [], "relationships": [{"subject": "rbcL", "predicate": "IDENTIFIED_BY", "object": "99% sequence similarity", "confidence": 1.0}, {"subject": "rbcL", "predicate": "IDENTIFIED_BY", "object": "98% sequence similarity", "confidence": 1.0}]}

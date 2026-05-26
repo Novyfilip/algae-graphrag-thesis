@@ -1,0 +1,12 @@
+{
+  "community_id": 1093,
+  "summary": "This cluster focuses on the wound healing and regenerative biology of siphonous green algae, specifically the giant-celled species *Derbesia tenuissima* within the Caulerpales order. Using time-lapse video microscopy, the research documented cellular responses to mechanical wounding, demonstrating that the alga can survive and recover from puncture, cut, and crush injuries through distinct repair mechanisms. Key findings include the observation of explosive spore discharge, a skewed sex ratio in regenerated gametophytes producing more females, and the successful development of both gametangia and sporophytes within defined post-wounding timeframes. The study provides detailed insights into the life cycle and high survivability of this species, contributing to the broader understanding of cellular repair in coenocytic algae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Bryopsis maxima Okamura",
+    "sub-cellular fractionation"
+  ],
+  "resolution": 8.0
+}

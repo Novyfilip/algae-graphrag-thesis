@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. monilis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "G. monilis", "predicate": "STUDIED_WITH", "object": "microtubules", "confidence": 1.0}, {"subject": "G. monilis", "predicate": "STUDIED_WITH", "object": "actin", "confidence": 1.0}]}

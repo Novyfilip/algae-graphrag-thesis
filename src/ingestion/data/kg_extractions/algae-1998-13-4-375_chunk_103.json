@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Laminaria longipes", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Bering Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "Laminaria longipes", "predicate": "FOUND_IN", "object": "Bering Sea", "confidence": 1.0}]}

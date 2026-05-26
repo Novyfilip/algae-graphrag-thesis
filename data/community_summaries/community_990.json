@@ -1,0 +1,12 @@
+{
+  "community_id": 990,
+  "summary": "The papers in this cluster converge on the study of *Prochloron*, a unicellular prokaryotic alga found in warm tropical marine environments, including the coasts of Israel, the Caribbean, the Western Pacific, and the Great Barrier Reef. Phylogenetic analyses consistently place *Prochloron* within the eubacteria, correcting earlier misclassifications as a chloroplast, and highlight its obligate symbiotic relationship with didemnid ascidians. Key findings emphasize the alga’s role in host reproduction through free-swimming larvae and its ecological significance in coral reef ecosystems. The geographic scope is predominantly tropical and subtropical, with a specific call for further investigation into *Prochloron*’s ecological functions within the Great Barrier Reef.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "eukaryotic green alga",
+    "guts of some animal"
+  ],
+  "resolution": 8.0
+}

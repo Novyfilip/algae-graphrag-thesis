@@ -1,0 +1,20 @@
+{
+  "community_id": 115,
+  "summary": "This cluster of papers investigates the bioactivity, stress responses, and biotechnological applications of diverse marine algae from Korean coastal waters, particularly Jeju Island. Key species studied include the brown algae *Ecklonia cava*, *Sargassum horneri*, and *Hizikia fusiformis*, the red alga *Pyropia yezoensis*, and the microalgae *Haematococcus pluvialis* and *Nannochloropsis oculata*, with a strong focus on their antioxidant, anti-inflammatory, and hepatoprotective compounds such as phlorotannins (dieckol, phlorofucofuroeckol-A), fucoxanthin derivatives, and astaxanthin. Research consistently demonstrated that enzymatic or solvent-based extracts from these algae effectively scavenged reactive oxygen species, inhibited lipid peroxidation, and suppressed inflammatory pathways (NF-κB and MAPK) in vitro and in zebrafish models, while also enhancing thermal tolerance and asexual reproduction in *P. yezoensis* under aquaculture conditions. The geographic scope centered on the Korean Peninsula, with additional studies on harmful algal blooms (e.g., *Cochlodinium polykrikoides*, *Chattonella marina*) and their ecological impacts, alongside methodological advances in DNA extraction, culture isolation, and toxin detection.",
+  "n_entities": 142,
+  "n_papers": 86,
+  "n_papers_with_summaries": 86,
+  "entity_sample": [
+    "15-deoxy-delta(12,14)-prostaglandin J2",
+    "2-deoxyribose oxidation method",
+    "3-APA",
+    "3-APA*",
+    "AAPH",
+    "ABTS",
+    "ABTS-peroxidase assay",
+    "Actin staining",
+    "Arthospira maxima",
+    "BC"
+  ],
+  "resolution": 8.0
+}

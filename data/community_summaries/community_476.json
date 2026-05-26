@@ -1,0 +1,13 @@
+{
+  "community_id": 476,
+  "summary": "This cluster focuses on the taxonomic documentation and ecological assessment of desmid green algae in the Garhwal region of the Western Himalayas, India. Researchers identified 42 taxa across seven genera, including nine new species, collected from relatively pristine water bodies within a 2360 km² area. The findings emphasize the high biodiversity value of these foothill habitats and underscore the importance of preserving such environments from urban encroachment.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Karnataka State and Goa",
+    "Staurastrum agumbeyense",
+    "Staurastrum biwaensis Hirano var. sorabnum"
+  ],
+  "resolution": 8.0
+}

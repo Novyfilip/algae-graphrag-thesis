@@ -1,0 +1,12 @@
+{
+  "community_id": 659,
+  "summary": "This cluster examines the phylogeographic history and biogeographic distribution of the red macroalga *Callophyllis variegata*, focusing on its amphitropical presence between hemispheres. Using haplotype data and biogeographic analyses, the research traced the species’ origin to a refugial population during the late Pleistocene. Key findings indicate that *C. variegata* was likely transported across tropical regions via rafting, representing a rare case of non-native amphitropical distribution. The geographic scope centers on Chilean populations and their connection to other temperate regions, highlighting long-distance dispersal mechanisms in macroalgae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cryptonemia abyssalis",
+    "off the coast of Bermuda"
+  ],
+  "resolution": 8.0
+}

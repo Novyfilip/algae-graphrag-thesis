@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "EMSF6"}], "methods": [{"method_name": "western blot"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "EMSF6", "predicate": "STUDIED_WITH", "object": "western blot", "confidence": 1.0}]}

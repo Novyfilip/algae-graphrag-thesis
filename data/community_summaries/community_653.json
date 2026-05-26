@@ -1,0 +1,12 @@
+{
+  "community_id": 653,
+  "summary": "This cluster of research focuses on the industrial cultivation and commercialization of specific microalgae species, primarily *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis*, for their high-value bioproducts. The studies trace the historical transition of these organisms from basic scientific study to large-scale production, emphasizing the optimization of cultivation methods to enhance yields of compounds used in nutraceuticals, cosmetics, and biofuel sectors. Key findings across the cluster highlight a shared focus on overcoming production bottlenecks to unlock the commercial potential of these three species as sustainable resources.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cosmarium lundellii var. circular",
+    "Gyeongju/Gyeongbuk (35°46′04″ N, 129°13′25″ E), swamp, surface water"
+  ],
+  "resolution": 8.0
+}

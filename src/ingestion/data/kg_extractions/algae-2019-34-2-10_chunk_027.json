@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "PGE2"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "PGE2", "predicate": "AFFECTS", "object": "chronic inflammatory diseases", "confidence": 0.5}, {"subject": "PGE2", "predicate": "AFFECTS", "object": "cancers", "confidence": 0.5}]}

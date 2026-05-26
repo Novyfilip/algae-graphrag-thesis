@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "rock"}, {"environment_name": "coral rubble"}], "markers": [], "applications": [], "relationships": [{"subject": "Thallus", "predicate": "FOUND_IN", "object": "rock", "confidence": 1.0}, {"subject": "Thallus", "predicate": "FOUND_IN", "object": "coral rubble", "confidence": 1.0}]}

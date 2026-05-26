@@ -1,0 +1,12 @@
+{
+  "community_id": 604,
+  "summary": "This cluster investigates the impact of ultraviolet-B (UV-B) radiation on Antarctic marine diatoms, specifically *Chaetoceros neogracile*, *Stellarima microtrias*, *Fragilariopsis cylindrus*, and *Thalassiosira antarctica*. Across studies, exposure to UV-B consistently caused significant reductions in chlorophyll a concentration, photosynthetic activity, and nitrate uptake, with fluorescence declining rapidly within one hour of exposure. The findings demonstrate that high UV-B levels induce permanent physiological damage and decrease diatom survival, indicating a potential disruption to primary production in polar marine ecosystems. The geographic scope is exclusively Antarctic, with experiments conducted under controlled laboratory conditions simulating polar light regimes.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Antarctic environment",
+    "Phazocystis antarctica"
+  ],
+  "resolution": 8.0
+}

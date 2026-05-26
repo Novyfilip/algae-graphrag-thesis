@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. costatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "S. costatum", "predicate": "FOUND_IN", "object": "seagrass", "confidence": 0.5}]}

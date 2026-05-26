@@ -1,0 +1,13 @@
+{
+  "community_id": 477,
+  "summary": "This cluster of research focused on the phylogenetic reassessment of the desmid genus *Staurastrum* and its close relatives within the Chlorophyta, using mitochondrial coxIII gene sequence analysis as the primary methodological tool. The studies reevaluated the taxonomic boundaries of the genus *Staurodesmus* and compared its evolutionary distance to *Xanthidium* and *Arthrodesmus*, concluding that *Staurastrum* is more closely related to *Xanthidium* than to *Staurodesmus*. The geographic and ecological scope was not explicitly defined in the summaries, but the work centered on resolving the evolutionary relationships among these morphologically similar freshwater green algae.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AY553882",
+    "Seojije, Chungcheongnam-do",
+    "Staurodesmus affine"
+  ],
+  "resolution": 8.0
+}

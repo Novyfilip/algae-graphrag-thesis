@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chondrus", "taxonomic_rank": "genus"}, {"species_name": "Rhodophyta", "taxonomic_rank": "phylum"}], "compounds": [{"compound_name": "carrageenan"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chondrus", "predicate": "BELONGS_TO", "object": "Rhodophyta", "confidence": 0.5}]}

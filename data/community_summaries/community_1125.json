@@ -1,0 +1,12 @@
+{
+  "community_id": 1125,
+  "summary": "This cluster investigates eutrophication dynamics in freshwater systems, specifically the Nakdong River, by statistically linking environmental factors to algal bloom intensity. The research identified hypereutrophic conditions driven by the diatom species *Stephanodiscus* and *Aulacoseira*, with chlorophyll a concentration serving as the primary proxy for algal biomass. Key findings revealed positive correlations between chlorophyll a and BOD, pH, and conductivity, alongside negative correlations with phosphate levels and water level, leading to predictive models for eutrophication status. The geographic scope is limited to a single South Korean river system during the late 1990s and early 2000s, emphasizing local water quality management.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Sedgwick Rafter Chamber 사용",
+    "광학현미경 검경"
+  ],
+  "resolution": 8.0
+}

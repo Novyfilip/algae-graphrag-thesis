@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ulva mutabilis", "taxonomic_rank": "species"}, {"species_name": "Ulva", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ulva mutabilis", "predicate": "BELONGS_TO", "object": "Ulva", "confidence": 1.0}]}

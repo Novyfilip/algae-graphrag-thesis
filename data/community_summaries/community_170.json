@@ -1,0 +1,20 @@
+{
+  "community_id": 170,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, distribution, and ecological dynamics of freshwater and terrestrial algae, particularly in East Asia, with a pronounced emphasis on the Korean Peninsula and India. The research frequently documents new or previously unrecorded species and genera, such as *Dolichospermum hangangense*, *Cryptomonas marssonii*, and *Mayamaea vietnamica*, often employing morphological analysis and molecular phylogenetics (e.g., 16S rRNA, cpcBA-IGS) to resolve taxonomic ambiguities. A recurring theme is the investigation of phytoplankton community structure in relation to eutrophication, water quality, and harmful algal blooms, with specific attention to cyanobacteria (e.g., *Microcystis*, *Anabaena*, *Gymnodinium catenatum*) and their associated toxins (microcystins, anatoxin-a, saxitoxin) in reservoirs and rivers like the Nakdong, Han, and Geum. The geographic scope is predominantly regional, covering diverse habitats from Indian paddy fields and Himalayan foothills to Korean dam lakes, coastal waters, and even sub-aerial stoneworks, with studies also extending to Hong Kong, Vietnam, and the United States.",
+  "n_entities": 106,
+  "n_papers": 45,
+  "n_papers_with_summaries": 44,
+  "entity_sample": [
+    "Aewol/Jeju",
+    "Algal growth potential test (AGPT) bioassay",
+    "Anabaena circinalis",
+    "Aphanothece saxicula",
+    "Balticola capensis",
+    "Batrachospenecea sp. 1221",
+    "Carteria sp. 1203",
+    "Chromulina sp.",
+    "Chroococcus pallidus",
+    "Closterium acerosum"
+  ],
+  "resolution": 8.0
+}

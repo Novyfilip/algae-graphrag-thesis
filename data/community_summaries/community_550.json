@@ -1,0 +1,13 @@
+{
+  "community_id": 550,
+  "summary": "This cluster focuses on methodological advancements in reconstructing the evolutionary history of dinoflagellate protists, a group characterized by complex genomic sequences that challenge traditional phylogenetic approaches. The connecting theme is the application of phylotranscriptomic analysis, which leverages transcriptome data to build robust molecular phylogenies, thereby overcoming limitations of conventional single-gene markers. Key findings across the cluster include the development and standardization of a practical, step-by-step protocol designed to make these sophisticated analyses accessible to marine biologists and inexperienced phycologists. The geographic and ecological scope is broadly marine, targeting the evolutionary relationships of dinoflagellates within oceanic ecosystems.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "iqtree",
+    "phylotranscriptomic tree analysis",
+    "ultrafast bootstrap replication"
+  ],
+  "resolution": 8.0
+}

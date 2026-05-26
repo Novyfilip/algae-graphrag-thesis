@@ -1,0 +1,13 @@
+{
+  "community_id": 474,
+  "summary": "This cluster investigates the biodiversity and taxonomy of desmids, a group of green algae, specifically within the pristine freshwater habitats of the Garhwal region in the Western Himalayas, India. The research documented 42 taxa across seven genera, including the discovery of nine new species, distributed over a 2360 km² area. Key findings emphasize the ecological significance of these relatively undisturbed water bodies in the Himalayan foothills for preserving algal biodiversity. The geographic scope is narrowly focused on this specific Indian region, highlighting its role as a critical reservoir for novel and endemic desmid species.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cosmarium phaseolus Breb. var. omphalum",
+    "Cosmarium regnelli",
+    "Saung River, Doiwala, Dehradun"
+  ],
+  "resolution": 8.0
+}

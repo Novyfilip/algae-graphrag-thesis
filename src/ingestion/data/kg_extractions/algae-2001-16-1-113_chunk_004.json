@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Sokcho area"}, {"environment_name": "marine benthic"}], "markers": [], "applications": [], "relationships": [{"subject": "marine benthic algae", "predicate": "FOUND_IN", "object": "Sokcho area", "confidence": 1.0}]}

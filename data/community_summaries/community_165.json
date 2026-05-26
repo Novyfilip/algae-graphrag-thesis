@@ -1,0 +1,20 @@
+{
+  "community_id": 165,
+  "summary": "This cluster of papers is geographically centered on the Northwest Pacific, with a strong emphasis on the coastal waters of Korea and Japan, and includes studies from the Bering Sea, Aleutian Islands, New Zealand, and Antarctica. The research is unified by a focus on the taxonomy, phylogeography, and community ecology of red and brown macroalgae, frequently employing molecular markers such as rbcL, COI-5P, and ITS to resolve cryptic species complexes and revise taxonomic classifications. Key species investigated include *Chondrus ocellatus*, *Grateloupia jejuensis*, *Sargassum thunbergii*, *Undaria pinnatifida*, and *Ecklonia cava*, with recurring themes of vertical zonation, seasonal biomass variation, and the influence of ocean currents on genetic structure and species distribution. The cluster also addresses applied topics such as seaweed cultivation, carbon flux, and bioremediation, reflecting a dual focus on fundamental biodiversity and the sustainable utilization of algal resources.",
+  "n_entities": 109,
+  "n_papers": 94,
+  "n_papers_with_summaries": 92,
+  "entity_sample": [
+    "ARLEQUIN 3.5",
+    "Atlantic-shore sites",
+    "C. armatus",
+    "C. ocellatus",
+    "CG1",
+    "CN1",
+    "Chebogue Point",
+    "Chiba in Japan",
+    "Chondrus",
+    "Chondrus canaliculatus"
+  ],
+  "resolution": 8.0
+}

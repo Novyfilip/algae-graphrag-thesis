@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sargassum", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "loliolide"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "loliolide", "predicate": "PRODUCES", "object": "Sargassum", "confidence": 1.0}]}

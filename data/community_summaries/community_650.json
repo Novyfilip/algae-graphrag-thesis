@@ -1,0 +1,12 @@
+{
+  "community_id": 650,
+  "summary": "This cluster synthesizes the historical documentation and early taxonomic exploration of marine algae in the upper North Pacific and Bering Sea region, spanning the late 1730s to around 1900. The connecting theme is the foundational work of Russian and British expeditions, led by figures such as Steller, Chamisso, and Voznesenskii, who systematically collected and described diverse algal species from the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands. These efforts established the initial species inventories and biogeographic baselines for the region, highlighting the role of early naturalists in cataloging macroalgal diversity before modern phycological methods. The geographic scope is strictly confined to the cold-temperate and subarctic waters of the North Pacific rim, with no focus on specific compounds or contemporary ecological patterns.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Coilodesme linearis",
+    "Popof Island, Kukak Bay, Alaska"
+  ],
+  "resolution": 8.0
+}

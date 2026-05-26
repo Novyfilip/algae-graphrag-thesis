@@ -1,0 +1,13 @@
+{
+  "community_id": 492,
+  "summary": "This cluster investigates the antioxidant potential of diverse microalgae and diatoms, specifically examining freshwater species *Pediastrum duplex* and *Dactylococcopsis fascicularis* alongside benthic diatoms *Achnanthes longipes*, *Amphora coffeaeformis*, and *Navicula* sp. isolated from Jeju seabed sediments. Key findings revealed that enzymatic digests of *P. duplex* and *D. fascicularis*, particularly those using Termamyl and Kojizyme, exhibited high DPPH scavenging activity and inhibited lipid peroxidation, while chloroform and ethyl acetate fractions of *A. longipes* showed the strongest activity against hydrogen peroxide and hydroxyl radicals. Across the cluster, the research consistently identified these algae as promising sources of natural antioxidants, with applications proposed for the food and pharmaceutical industries. The geographic scope spanned both freshwater and marine benthic environments, highlighting a broad ecological and methodological approach to bioprospecting for bioactive compounds.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "DPPH free radical scavenging activity measurement",
+    "UV-VIS spectrophotometer (Opron 3000 Hanson Tech. Co. Ltd., Korea)",
+    "modified method of Brand-Williams et al. (1995)"
+  ],
+  "resolution": 8.0
+}

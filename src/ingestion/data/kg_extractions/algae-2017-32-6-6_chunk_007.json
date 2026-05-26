@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "wet chemistry"}, {"method_name": "Fourier Transform Infrared (FTIR) spectroscopy"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "wet chemistry", "predicate": "STUDIED_WITH", "object": "Fourier Transform Infrared (FTIR) spectroscopy", "confidence": 0.5}]}

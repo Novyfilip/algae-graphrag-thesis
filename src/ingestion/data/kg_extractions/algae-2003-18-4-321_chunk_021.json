@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "DMSO"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "DMSO", "predicate": "AFFECTS", "object": "survival of sporothallus cells", "confidence": 1.0}]}

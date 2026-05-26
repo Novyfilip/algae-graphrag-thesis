@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Phytoplankton", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Lake Daecheong"}], "markers": [], "applications": [], "relationships": [{"subject": "Phytoplankton", "predicate": "FOUND_IN", "object": "Lake Daecheong", "confidence": 1.0}]}

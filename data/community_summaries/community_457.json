@@ -1,0 +1,13 @@
+{
+  "community_id": 457,
+  "summary": "This cluster focuses on the taxonomic revision of red algal genera within the family Delesseriaceae, specifically *Cumathamnion*, *Delesseria*, *Membranoptera*, and *Pantoneura*, using molecular data to resolve evolutionary relationships. Key findings include the transfer of *Delesseria decipiens* and *D. serrulata* into *Cumathamnion*, resulting in the proposed name *C. platyphylla*, which highlights a close genetic relationship between North Pacific species. The research integrates molecular markers with morphological characteristics to revise existing taxonomic frameworks, with a geographic scope spanning the North Atlantic, Baltic Sea, and North Pacific regions.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "P. epiglossum",
+    "P. lancifolium",
+    "Paraglossum"
+  ],
+  "resolution": 8.0
+}

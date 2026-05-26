@@ -1,0 +1,12 @@
+{
+  "community_id": 603,
+  "summary": "This cluster investigates the potential of macroalgae, specifically brown and red species, as sources of bioactive compounds for managing metabolic and age-related conditions, with a particular geographic focus on Korea. Research on the brown alga *Laminaria japonica* (sea tangle) demonstrated that a fermented, γ-aminobutyric acid (GABA)-enriched extract could modulate the renin-angiotensin system by elevating serum angiotensin-converting enzyme (ACE) levels, alongside promoting muscle growth and lipolysis in middle-aged women. Concurrently, screening of twenty-six red algae species from Jeju Island identified potent in vitro ACE inhibitory activity, with *Lithophyllum okamurae* and *Lomentaria catenata* showing the strongest effects. Together, these studies highlight a shared thematic interest in the ACE-modulating properties of algal compounds, though the fermented brown alga product paradoxically increased ACE activity in vivo while the red algae extracts inhibited it in vitro, suggesting divergent mechanisms or physiological contexts. The cluster underscores the value of Korean algal biodiversity for developing functional foods or nutraceuticals targeting sarcopenic obesity and hypertension.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "ACE",
+    "Angiotensin I - Converting Enzyme"
+  ],
+  "resolution": 8.0
+}

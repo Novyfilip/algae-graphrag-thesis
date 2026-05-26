@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "phototrophic dinoflagellates", "taxonomic_rank": null}, {"species_name": "dinoflagellates", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "phototrophic dinoflagellates", "predicate": "BELONGS_TO", "object": "dinoflagellates", "confidence": 1.0}]}

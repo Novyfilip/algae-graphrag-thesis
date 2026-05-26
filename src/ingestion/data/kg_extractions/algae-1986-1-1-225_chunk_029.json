@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ectocarpus flocculiformis", "taxonomic_rank": "species"}, {"species_name": "Ulva pertusa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ectocarpus flocculiformis", "predicate": "BELONGS_TO", "object": "Ulva pertusa alliance", "confidence": 1.0}]}

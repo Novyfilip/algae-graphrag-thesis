@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bangia", "taxonomic_rank": "genus"}, {"species_name": "Bangiales", "taxonomic_rank": "order"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Bangia", "predicate": "BELONGS_TO", "object": "Bangiales", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "crustose coralline algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Jangho subtidal area"}], "markers": [], "applications": [], "relationships": [{"subject": "crustose coralline algae", "predicate": "FOUND_IN", "object": "Jangho subtidal area", "confidence": 1.0}]}

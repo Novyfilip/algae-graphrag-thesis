@@ -1,0 +1,12 @@
+{
+  "community_id": 802,
+  "summary": "This cluster of papers investigates the taxonomy and phylogenetic relationships of red algal species within the orders Ceramiales and Gelidiales, primarily using plastid and mitochondrial gene sequences (rbcL and cox1) combined with morphological data. Studies on *Polysiphonia pacifica* from Pacific Ocean isolates revealed that the rbcL sequences of its two varieties are identical, distinguishing them from the closely related *P. morrowii*, while research on *Gelidium zollingeri* demonstrated a well-resolved sister relationship between *Gelidium* and *Porphyroglossum* and indicated high genetic diversity in cox1 haplotypes. The geographic scope is centered on Pacific and East Asian marine environments, with a focus on clarifying species boundaries and evolutionary histories within these rhodophyte lineages.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Maximum parsimony (MP) tree",
+    "PAUP* version 4.0b.10 software"
+  ],
+  "resolution": 8.0
+}

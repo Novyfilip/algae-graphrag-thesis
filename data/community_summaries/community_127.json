@@ -1,0 +1,20 @@
+{
+  "community_id": 127,
+  "summary": "This cluster of research is geographically centered on the coastal waters of Korea, Japan, and the broader Northwest Pacific, with additional studies from the White Sea, Antarctica, and New Zealand. The papers are connected by a focus on the community structure, vertical zonation, and seasonal dynamics of benthic macroalgae, with species such as *Sargassum thunbergii*, *Corallina pilulifera*, *Hizikia fusiformis*, and *Ulva pertusa* recurring as dominant taxa across numerous intertidal and subtidal surveys. Key findings consistently documented shifts in species composition and biomass in response to environmental stressors, including thermal effluents from nuclear power plants, sea urchin grazing, and warming water currents, which often led to algal whitening or succession toward warm-tolerant and opportunistic species. The cluster also integrated taxonomic revisions and phylogeographic studies using molecular markers (e.g., *rbcL*, COI-5P) to resolve cryptic diversity and species boundaries within genera such as *Gloiopeltis*, *Chondrus*, *Hypnea*, and *Herposiphonia*, while applied research explored the bioactive potential of local seaweeds, including antioxidant, anti-inflammatory, and antibacterial compounds from *Ecklonia cava*, *Ishige okamurae*, and *Sargassum* species.",
+  "n_entities": 135,
+  "n_papers": 138,
+  "n_papers_with_summaries": 137,
+  "entity_sample": [
+    "15 uninhabited islands",
+    "Acrosortum yendot",
+    "Acrothamnion preissii",
+    "Agglutinin",
+    "Analysis of functional-form group",
+    "Antithamnion preissii",
+    "Ardissonula regularis",
+    "Asterionella kartana",
+    "C. tenue",
+    "Callithamnion corymbosum"
+  ],
+  "resolution": 8.0
+}

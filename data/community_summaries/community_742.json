@@ -1,0 +1,12 @@
+{
+  "community_id": 742,
+  "summary": "This cluster of research centers on the industrial cultivation and commercialization of three key microalgae species: *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis*. The studies collectively traced the historical evolution of microalgae culture from fundamental natural science into applied biotechnology, with a primary focus on optimizing production methods for nutraceuticals, cosmetics, and biofuel applications. A consistent pattern across the cluster was the emphasis on developing scalable cultivation strategies and commercialization pathways to transform these species into high-value industrial resources. The geographic and ecological scope was broad, reflecting global efforts to standardize and expand microalgae-based industries.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Jinhae/Gyeongnam reservoir",
+    "Oedogonium phachyandrium"
+  ],
+  "resolution": 8.0
+}

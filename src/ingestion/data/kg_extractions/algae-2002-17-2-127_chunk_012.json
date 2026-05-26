@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "E. serra", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "E. serra", "predicate": "CONTAINS", "object": "Type 1", "confidence": 1.0}, {"subject": "E. serra", "predicate": "CONTAINS", "object": "Type 2", "confidence": 1.0}]}

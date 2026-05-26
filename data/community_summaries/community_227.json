@@ -1,0 +1,20 @@
+{
+  "community_id": 227,
+  "summary": "This cluster of research is unified by a strong geographic focus on the Korean Peninsula and adjacent waters, with additional studies from India, Antarctica, and subtropical Asia, emphasizing the taxonomy, distribution, and ecological dynamics of diverse algal groups. Key connecting themes include the documentation of cyanobacteria and micro-algae on sub-aerial and stone cultural properties in Korea, the ecological succession and community structure of benthic marine algae in response to environmental perturbations such as thermal effluents and red tides, and the physiological responses of red algae like *Pyropia yezoensis* and *Gloiopeltis furcata* to light quality and nitrogen availability. Several papers employed polyphasic taxonomic approaches, combining morphological, molecular (e.g., 16S rRNA, rbcL, COI-5P), and pigment analyses to resolve species boundaries, particularly within cyanobacteria (e.g., *Violetonostoc minutum*, *Wilmottia* spp.) and red algal genera (e.g., *Herposiphonia*, *Polysiphonia*). The research collectively highlights the influence of temperature, salinity, turbidity, and nutrient gradients on algal community assembly, with specific attention to harmful algal bloom species such as *Cochlodinium polykrikoides* and the mixotrophic potential of dinoflagellates like *Gymnodinium smaydae*.",
+  "n_entities": 72,
+  "n_papers": 47,
+  "n_papers_with_summaries": 47,
+  "entity_sample": [
+    "Bakreswar geothermal area",
+    "C. minutus",
+    "CANOCO version 4.5",
+    "Calothrix",
+    "Calothrix braunii",
+    "Calothrix thermalis",
+    "Canonical Correspondence Analysis (CCA)",
+    "Chhotonagpur Gressic complex",
+    "Dudhkunda",
+    "Fischerella"
+  ],
+  "resolution": 8.0
+}

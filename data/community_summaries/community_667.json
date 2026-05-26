@@ -1,0 +1,12 @@
+{
+  "community_id": 667,
+  "summary": "This cluster focuses on the antioxidant and anti-lipid peroxidation properties of marine algae, specifically *Ecklonia cava* and *Pyropia yezoensis*, using both in vitro assays and in vivo zebrafish models. Key findings demonstrate that compounds such as phlorofucofuroeckol-A (PFF-A) from *E. cava* and crude extracts from specific Korean local strains of *P. yezoensis* effectively scavenge free radicals, inhibit reactive oxygen species (ROS), and reduce apoptosis and lipid peroxidation in a dose-dependent manner. The research highlights the significance of geographic origin, as the chemical composition and protective efficacy of *P. yezoensis* extracts varied among strains from different Korean coastal regions. Overall, these studies position brown and red algae as promising sources of natural antioxidants for mitigating oxidative stress-induced cellular damage.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "DPPP",
+    "zebrafish systems"
+  ],
+  "resolution": 8.0
+}

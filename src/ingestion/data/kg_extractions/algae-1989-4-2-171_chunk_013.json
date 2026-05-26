@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "brown algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "brown algae", "predicate": "AFFECTS", "object": "biomass", "confidence": 0.5}]}

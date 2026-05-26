@@ -1,0 +1,12 @@
+{
+  "community_id": 800,
+  "summary": "This cluster of research investigates the seasonal and spatial dynamics of benthic marine algae along the Korean coastline, specifically in the Yellow Sea and at Ohori. Both studies identified cyclical patterns in species abundance and community structure, with consistent peaks in species activity observed during July and winter months (January). The research highlights that environmental drivers, particularly temperature fluctuations and wave action, shape distinct seasonal groupings (spring, summer, winter) and strong vertical zonation in algal distribution. The geographic scope is narrowly focused on temperate intertidal and subtidal zones of Korea, with one study documenting 129 species of marine plants, predominantly algae, at Oeyondo Island.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Ohori, east coast of Korea",
+    "underwater observation"
+  ],
+  "resolution": 8.0
+}

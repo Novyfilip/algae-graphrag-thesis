@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "caeruleus", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "constantly thermally contaminated water ecosystems"}], "markers": [], "applications": [], "relationships": [{"subject": "caeruleus", "predicate": "FOUND_IN", "object": "constantly thermally contaminated water ecosystems", "confidence": 1.0}]}

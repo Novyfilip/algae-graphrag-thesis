@@ -1,0 +1,12 @@
+{
+  "community_id": 628,
+  "summary": "This cluster investigated the diversity and ecology of freshwater red algae in a specific Southeast Asian ecosystem, focusing on Khao Luang National Park in southern Thailand. A twelve-month survey across 22 stream segments identified sixteen algal species, including *Thorea clavata* and *Caloglossa beccarii*, with the former being the most common and the latter exhibiting the highest percent cover. Key findings demonstrated that species occurrence was influenced by water quality variables such as current velocity and turbidity. The research collectively characterized the ecological significance and distribution patterns of these algae within this unique tropical environment.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "C. bec-carii sensu lato",
+    "C. fluvaitilis"
+  ],
+  "resolution": 8.0
+}

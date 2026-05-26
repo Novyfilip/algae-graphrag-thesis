@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. polykrikoides", "taxonomic_rank": "species"}, {"species_name": "Polykrikos spp.", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. polykrikoides", "predicate": "AFFECTS", "object": "Polykrikos spp.", "confidence": 0.5}]}

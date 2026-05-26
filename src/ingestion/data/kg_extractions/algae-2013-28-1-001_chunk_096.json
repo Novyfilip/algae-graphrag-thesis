@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Micrasterias furcata", "taxonomic_rank": "species"}, {"species_name": "Micrasterias", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Micrasterias furcata", "predicate": "BELONGS_TO", "object": "Micrasterias", "confidence": 1.0}]}

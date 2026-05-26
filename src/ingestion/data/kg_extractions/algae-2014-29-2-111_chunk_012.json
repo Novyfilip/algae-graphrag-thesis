@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "tide pools"}, {"environment_name": "rock surfaces"}], "markers": [], "applications": [], "relationships": [{"subject": "Plants", "predicate": "FOUND_IN", "object": "tide pools", "confidence": 1.0}, {"subject": "Plants", "predicate": "FOUND_IN", "object": "rock surfaces", "confidence": 1.0}]}

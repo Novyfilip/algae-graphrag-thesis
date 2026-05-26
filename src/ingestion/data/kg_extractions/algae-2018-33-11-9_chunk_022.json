@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "T. hispida", "taxonomic_rank": "species"}, {"species_name": "T. hispida var. crenulatocollis", "taxonomic_rank": "variety"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "T. hispida var. crenulatocollis", "predicate": "BELONGS_TO", "object": "T. hispida", "confidence": 1.0}]}

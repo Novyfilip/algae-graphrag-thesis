@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "metagenomic functional annotation"}, {"method_name": "homology search"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "metagenomic functional annotation", "predicate": "STUDIED_WITH", "object": "homology search", "confidence": 1.0}]}

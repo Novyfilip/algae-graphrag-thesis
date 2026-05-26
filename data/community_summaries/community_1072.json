@@ -1,0 +1,12 @@
+{
+  "community_id": 1072,
+  "summary": "This cluster examines the biomineralization and morphological development of the lorica (envelope) in the euglenoid species *Trachelomonas hispida*. Studies utilized light microscopy, scanning electron microscopy, and X-ray spectrometry to trace envelope formation from a spine-less juvenile stage to a mature, ornamented structure, revealing a distinct mineralization pattern that initiates at the apical pore and proceeds posteriorly. Key findings identified iron (Fe) and manganese (Mn) as the primary mineral components of the lorica, with their concentrations and the resulting morphological variation—including spine development—suggesting an adaptive role for these structures in aquatic ecosystems. The research is primarily laboratory-based, focusing on the micro-scale processes of envelope development rather than a specific geographic or ecological field site.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "scanning electron microscopy (SEM) analysis",
+    "trachelomonad"
+  ],
+  "resolution": 8.0
+}

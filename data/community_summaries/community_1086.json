@@ -1,0 +1,12 @@
+{
+  "community_id": 1086,
+  "summary": "This cluster investigates the growth physiology of microalgae under varying salinity and temperature conditions, with a focus on species relevant to aquaculture and coastal ecosystems. Key species examined include *Nitzschia* sp., *Isochrysis galbana*, *Tetraselmis gracilis*, *Phaeodactylum tricornutum*, *Chaetoceros simplex*, *Amphora coffeaeformis*, and *Pavlova lutheri*, which were isolated from Jeju Island and hatchery stock strains. The studies found that most species exhibited optimal growth at salinities between 20-35 psu, with *Amphora coffeaeformis* and *Pavlova lutheri* specifically adapted to higher salinity (30-35 psu), while growth was generally inhibited at low salinity and at temperatures below 10°C. A consistent pattern across the cluster was that Jeju coast microalgae populations thrive in relatively high salinity and elevated water temperatures, demonstrating adaptation to extreme environmental changes. The geographic scope is centered on Jeju Island, South Korea, with ecological implications for hatchery management and understanding coastal microalgal community responses to climate-driven salinity and temperature shifts.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Changjean (Yangtze) River",
+    "southern coast of the island"
+  ],
+  "resolution": 8.0
+}

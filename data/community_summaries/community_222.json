@@ -1,0 +1,20 @@
+{
+  "community_id": 222,
+  "summary": "This cluster of research primarily focuses on the phytoplankton and macroalgal communities of Korean coastal and freshwater ecosystems, with a strong emphasis on species composition, trophic state assessment, and environmental drivers of bloom dynamics. Key connecting elements include the cyanobacterium *Microcystis* and diatoms such as *Stephanodiscus hantzschii* and *Aulacoseira granulata*, which frequently dominate eutrophic waters in rivers, reservoirs, and estuaries across the Korean Peninsula. Studies consistently documented seasonal shifts in community structure, with diatoms prevailing in spring and winter, while cyanobacteria and dinoflagellates increased during summer, often linked to nutrient loading from watershed runoff and hydrological modifications. The geographic scope was predominantly South Korea, encompassing the Han, Nakdong, and Dong Rivers, as well as coastal sites like Jeju Island, Jinhae Bay, and the Yellow Sea, with additional comparative work in Japan, the Eastern Pacific, and Antarctic waters. Methodologically, the cluster relied heavily on molecular phylogenetics (e.g., 16S rRNA, rbcL, COI-5P barcoding), qPCR for species-specific quantification, and multivariate analyses to link phytoplankton standing crops to physicochemical factors such as nitrogen, phosphorus, and temperature.",
+  "n_entities": 75,
+  "n_papers": 94,
+  "n_papers_with_summaries": 94,
+  "entity_sample": [
+    "Ammonium",
+    "Balandra beach",
+    "Chuksan Harbor",
+    "Coast of Mara-do and U-do, Jeju Island, Korea",
+    "Coastal Sea",
+    "Coastal Water of Baegyado Island",
+    "Coastal Waters",
+    "Coastal Waters of Power Plant",
+    "Coasts of Aomori Prefecture, Japan",
+    "Dam Lakes in Korea"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Rhizosolenia robusta", "taxonomic_rank": "species"}, {"species_name": "Calyptrella robusta", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Calyptrella robusta", "predicate": "BELONGS_TO", "object": "Rhizosolenia robusta", "confidence": 1.0}]}

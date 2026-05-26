@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "rope-hanging method"}, {"method_name": "relative growth rates estimation"}], "environments": [{"environment_name": "Ihoijin aquafarm"}], "markers": [], "applications": [], "relationships": [{"subject": "rope-hanging method", "predicate": "STUDIED_WITH", "object": "Ihoijin aquafarm", "confidence": 1.0}]}

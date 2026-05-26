@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "polysaccharide"}], "methods": [{"method_name": "RB3LYP/6-31G(d,p)"}, {"method_name": "FTIR"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "FTIR", "predicate": "STUDIED_WITH", "object": "polysaccharide", "confidence": 1.0}]}

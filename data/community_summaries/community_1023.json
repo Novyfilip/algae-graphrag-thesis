@@ -1,0 +1,12 @@
+{
+  "community_id": 1023,
+  "summary": "Research on the halotolerant green alga *Dunaliella salina* focused on the characterization of newly isolated strains from hypersaline environments, such as the OH214 strain from a Korean saltpan, to assess their industrial potential. These studies consistently demonstrated that the alga exhibits high adaptability to fluctuating salinity levels and significantly enhances its production of valuable carotenoids, particularly β-carotene and lutein, when subjected to high-light and nitrogen-deficient stress conditions. The findings established a clear pattern where environmental stressors, rather than optimal growth conditions, were key drivers for maximizing pigment yields. This work underscores the geographic and ecological scope of hypersaline habitats as promising sources for robust *Dunaliella salina* strains suited for the commercial co-production of carotenoid supplements.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "OH214 strain",
+    "microscopic images"
+  ],
+  "resolution": 8.0
+}

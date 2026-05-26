@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Palmaria palmata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Digby Neck, Nova Scotia, Canada"}], "markers": [], "applications": [], "relationships": [{"subject": "Palmaria palmata", "predicate": "FOUND_IN", "object": "Digby Neck, Nova Scotia, Canada", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Vertebrata", "taxonomic_rank": null}, {"species_name": "Ascophyllum", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Vertebrata", "predicate": "BELONGS_TO", "object": "Ascophyllum", "confidence": 0.5}]}

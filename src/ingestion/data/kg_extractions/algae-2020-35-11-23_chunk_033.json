@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "M. vietnamica sp. nov.", "taxonomic_rank": "species"}, {"species_name": "Mayamaea fossalis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "M. vietnamica sp. nov.", "predicate": "BELONGS_TO", "object": "Mayamaea fossalis", "confidence": 0.5}]}

@@ -1,0 +1,14 @@
+{
+  "community_id": 332,
+  "summary": "This cluster of papers is unified by a focus on diatom ecology, taxonomy, and community dynamics, particularly within freshwater and coastal environments of East Asia. Studies conducted in Korean reservoirs and rivers, such as the Togyo Reservoir and Kumho River, as well as coastal waters around Jeju Island, consistently highlight the dominance of Bacillariophyceae (diatoms) and the role of pennate diatoms in periphyton and epipelic communities. Key findings include the identification of seasonal succession patterns in phytoplankton and epilithic diatom communities, with species like *Nitzschia longissima* and *Leptocylindrus danicus* contributing significantly to biomass, and the discovery of a new diatom species, *Mayamaea vietnamica* sp. nov., in Vietnam. The research collectively emphasizes the influence of environmental factors—such as nutrient concentrations, water temperature, and substrate type—on diatom community structure and succession, with implications for ecosystem health and bioindication.",
+  "n_entities": 4,
+  "n_papers": 5,
+  "n_papers_with_summaries": 5,
+  "entity_sample": [
+    "Caloneis",
+    "Caloneis sp.",
+    "Caloneis ventricosa v. minuta",
+    "Caloneis ventricosa v. truncatula"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,14 @@
+{
+  "community_id": 352,
+  "summary": "This cluster focuses on the taxonomic revision and phylogenetic characterization of Antarctic lichen phycobionts, specifically the green algal genus *Astrochloris*. Researchers identified six distinct species, including three new species, from samples collected on King George Island and Morro Chico, using a combination of microscopy, morphological data, and phylogenetic analyses of nuclear and plastid genes. The findings established three distinct clades within *Astrochloris*, each defined by unique molecular signatures, highlighting the cryptic diversity of these photobionts in the Antarctic region.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Myrmecia biatorellae",
+    "Trebouxia erici",
+    "Trebouxia magna",
+    "nuclear small subunit and large subunit (LSU) rDNA sequence data"
+  ],
+  "resolution": 8.0
+}

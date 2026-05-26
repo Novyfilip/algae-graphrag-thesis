@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Cook Strait region"}, {"environment_name": "upwelling zone"}], "markers": [], "applications": [], "relationships": [{"subject": "Cook Strait region", "predicate": "CONTAINS", "object": "upwelling zone", "confidence": 0.5}]}

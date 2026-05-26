@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Antarctic Diatom", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Antarctic"}], "markers": [], "applications": [], "relationships": [{"subject": "Antarctic Diatom", "predicate": "FOUND_IN", "object": "Antarctic", "confidence": 0.5}]}

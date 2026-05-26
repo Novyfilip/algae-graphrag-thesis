@@ -1,0 +1,13 @@
+{
+  "community_id": 387,
+  "summary": "This cluster of research focuses on the taxonomic revision of the diatom genus *Amphora sensu lato*, integrating molecular phylogenetics with detailed morphological analysis to resolve evolutionary relationships. The studies confirmed that *Halamphora Levkov* represents a distinct lineage, supporting its reclassification as a separate genus from *Amphora*, and led to the formal description of a new species, *Amphora terroris*. A key finding across the cluster is the critical role of morphological data in validating molecular-based phylogenetic placements, particularly for distinguishing closely related taxa within this globally distributed group. The geographic scope of the research encompasses diverse marine and estuarine environments worldwide, reflecting the broad ecological range of *Amphora* species.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "CCMP1693",
+    "EF585586",
+    "Entomoneis sp."
+  ],
+  "resolution": 8.0
+}

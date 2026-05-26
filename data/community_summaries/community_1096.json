@@ -1,0 +1,12 @@
+{
+  "community_id": 1096,
+  "summary": "This cluster investigates the trophic interactions and top-down control of red-tide forming ciliates, specifically focusing on the predation of *Mesodinium rubrum* by heterotrophic protists such as *Gyrodiniellum shiwhaense* and *Strombidium sp.* Key findings demonstrate that *Gyrodiniellum shiwhaense* exhibits significant positive growth and ingestion rates on *M. rubrum*, with a maximum growth rate of 0.48 d⁻¹ and grazing coefficients reaching 0.236 h⁻¹, underscoring the critical role of protist grazing in regulating red tide populations. The research is ecologically centered on cosmopolitan bloom dynamics, highlighting how predator-prey relationships among marine microzooplankton can influence the formation and decline of harmful algal blooms.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "cyclopoid copepod",
+    "temperate estuary"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,13 @@
+{
+  "community_id": 401,
+  "summary": "This cluster synthesizes historical phycological exploration in the North Pacific and Bering Sea, documenting the discovery and collection of marine algae from the late 1730s to 1900. The research is unified by the contributions of Russian and British expeditions led by figures such as Steller, Chamisso, and Voznesenskii, who focused on the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands. These expeditions recorded diverse algal species and established foundational taxonomic knowledge for the region, reflecting a shared geographic and ecological scope centered on subarctic and boreal marine environments.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cystoseria crassipes",
+    "Fucus crassipes",
+    "sea near Japan"
+  ],
+  "resolution": 8.0
+}

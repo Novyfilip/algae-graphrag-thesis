@@ -1,0 +1,12 @@
+{
+  "community_id": 1119,
+  "summary": "This cluster focused on the ecological dynamics of green tide events in the Yellow Sea, specifically reevaluating the taxonomic identification and dominance of bloom-forming *Ulva* species. Researchers analyzed the morphology and chloroplast genes of *Ulva linza* and *Ulva prolifera*, concluding that *U. linza* exhibiting a distinct procera-morphology was the dominant species driving the blooms, while *U. prolifera* was only a rare component of the drift mats. The studies established a direct connection between nutrient conditions in the southeastern Yellow Sea and the occurrence of these macroalgal blooms, emphasizing the critical role of *U. linza* in the phenomenon.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "green macroalgal patches",
+    "west of Ieodo Ocean Research Station"
+  ],
+  "resolution": 8.0
+}

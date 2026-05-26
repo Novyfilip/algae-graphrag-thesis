@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Agar"}, {"compound_name": "Agarose"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Agarose", "predicate": "PRODUCES", "object": "Agar", "confidence": 0.5}]}

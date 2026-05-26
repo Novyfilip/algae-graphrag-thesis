@@ -1,0 +1,12 @@
+{
+  "community_id": 788,
+  "summary": "This cluster of research focuses on the spatial and temporal dynamics of marine algal communities along the Korean coastline, with a strong emphasis on the influence of environmental gradients such as water movement, turbidity, depth, and ocean currents. Studies investigated both benthic macroalgae, including the kelp *Ecklonia cava*, and phytoplankton communities, employing methods such as quadrat surveys, RAPD genetic analysis, and cluster/DCA ordination to quantify species composition and biomass. Key findings reveal that algal distribution is shaped by distinct environmental factors, including a north-south floristic gradient linked to turbidity and a genetic separation among *E. cava* populations driven by ocean currents rather than simple geographic distance. The geographic scope is exclusively coastal Korea, spanning sites from the eastern (Chuckdo) and western (Tonghori, Pijakto) coasts to southern waters near Namhae Island, with seasonal surveys documenting shifts in species diversity and community structure.",
+  "n_entities": 2,
+  "n_papers": 4,
+  "n_papers_with_summaries": 4,
+  "entity_sample": [
+    "Nei’s genetic distances",
+    "dendrogram"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,14 @@
+{
+  "community_id": 318,
+  "summary": "This cluster focuses on the characterization and monitoring of harmful algal bloom (HAB) species in Korean coastal waters, specifically within hypoxic zones. Research in Jinhae Bay and Masan Bay employed metabarcoding to document a significant increase in heterotrophic dinoflagellate abundance, identifying 36 species across multiple trophic modes. Concurrently, a droplet digital PCR (ddPCR) assay was developed to quantify the ichthyotoxic raphidophyte *Chattonella marina* complex, revealing a consistent range of 25 to 112 ITS copies per cell. Together, these studies establish a methodological and ecological foundation for understanding how hypoxic conditions drive shifts in protist community structure and for improving HAB monitoring and management strategies in these impacted marine environments.",
+  "n_entities": 4,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "AccuPrep genomic DNA extraction kit",
+    "Quant-IT PicoGreen",
+    "Qubit fluorometer",
+    "eDNA"
+  ],
+  "resolution": 8.0
+}

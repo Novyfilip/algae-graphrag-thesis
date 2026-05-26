@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "TNF-\u03b1"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "UP-F", "predicate": "PRODUCES", "object": "TNF-\u03b1", "confidence": 1.0}, {"subject": "FV-F", "predicate": "PRODUCES", "object": "TNF-\u03b1", "confidence": 1.0}]}

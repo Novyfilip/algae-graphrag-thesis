@@ -1,0 +1,20 @@
+{
+  "community_id": 153,
+  "summary": "This cluster of research is geographically centered on the North Pacific, with a strong emphasis on the coastal waters of Korea, Japan, the Russian Far East (Kamchatka and the Commander Islands), and Baja California, Mexico. A unifying theme is the investigation of how environmental stressors—particularly temperature shifts, wave exposure, and thermal effluents from power plants—drive changes in the physiology, morphology, and community structure of key macroalgal species, including *Pyropia yezoensis*, *Eisenia arborea*, *Sargassum* spp., and *Ulva pertusa*. Studies frequently employed field surveys and controlled experiments to document species composition, biomass, and vertical zonation patterns, revealing that warm-tolerant species like *Padina arborescens* and *Amphiroa zonata* often dominate in disturbed or heated habitats. Additionally, the cluster includes taxonomic revisions and descriptions of new species (e.g., *Capillus* spp., *Erythrolobus australicus*, *Umbraulva yunseulla*) and applied research on algal biostimulants, heavy metal accumulation, and the bioremediation potential of seaweeds in aquaculture settings.",
+  "n_entities": 117,
+  "n_papers": 82,
+  "n_papers_with_summaries": 82,
+  "entity_sample": [
+    "10 m long waterways",
+    "80% Et-OH extraction",
+    "Acanthophora spinifera Boergs",
+    "Acrosorium polyneurum Okamura",
+    "Ahnfeltia paradoxa Okamura",
+    "Amphiroa zonata Yendo",
+    "Anin, Kangwon, Korea",
+    "Argentinian",
+    "Asparagopsis armata Harvey",
+    "Bangia fuscopurpurea Lyngbye"
+  ],
+  "resolution": 8.0
+}

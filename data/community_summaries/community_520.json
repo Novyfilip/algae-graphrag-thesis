@@ -1,0 +1,13 @@
+{
+  "community_id": 520,
+  "summary": "This cluster focuses on the ecological and applied roles of cyanobacteria in soil stabilization and substrate remediation, particularly in erosion-prone environments. The research centers on cyanobacterial crusts, with specific attention to species such as non-heterocystous and heterocystous forms, including unicellular and filamentous types, identified in Hong Kong. Key findings indicate that these crusts remain relatively stable over one-year measurements, with species abundance varying seasonally and spatially in response to macro-environmental factors like soil characteristics, rainfall, and pH. The geographic scope is limited to a single erosion management site in Hong Kong, where the crusts show potential for stabilizing cut slopes and accelerating natural plant succession.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "grow crusts in cups on known soil substrates",
+    "test for various rainfall regimes in a rain-chamber",
+    "wet sieving"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,13 @@
+{
+  "community_id": 525,
+  "summary": "During the late Austral summer of 2006 in Prydz Bay, East Antarctica, researchers utilized a submersible fluorescence probe to measure phytoplankton concentration, revealing a maximum chlorophyll concentration of 14.87 μg L⁻¹. The microalgal community was dominated by diatoms, with a low concentration of cryptophytes and a notable abundance of blue-green algae relative to green algae, influenced by Antarctic meltwater. Key findings attributed the high phytoplankton biomass to subsurface upwelling, increased photosynthetically active radiation (PAR), and nutrient availability from coastal waters, driven by local wind forcing and melting water. The study highlighted the ecological significance of macro- and micro-nutrient contributions in shaping the distribution and composition of Antarctic phytoplankton communities.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "in vivo studies",
+    "light emitting diodes",
+    "submersible fluorometer"
+  ],
+  "resolution": 8.0
+}

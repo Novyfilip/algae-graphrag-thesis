@@ -1,0 +1,20 @@
+{
+  "community_id": 46,
+  "summary": "This cluster of papers is geographically centered on the Korean Peninsula and its adjacent waters, with significant extensions into the Pacific, including Japan, the tropical western Atlantic, and Antarctica, and focuses heavily on the taxonomy, distribution, and community ecology of benthic marine macroalgae, particularly red algae (Rhodophyta) and brown algae (Phaeophyceae). Key findings across the cluster include the frequent documentation of new species and cryptic diversity through molecular phylogenetic analyses (e.g., using *rbcL* and COI-5P barcodes), as seen in genera such as *Haraldiophyllum*, *Herposiphonia*, and *Centroceras*, alongside detailed studies of community structure and vertical zonation driven by environmental factors like thermal effluents, light intensity, and salinity. Dominant species recurring across multiple studies include *Corallina pilulifera*, *Sargassum* spp., *Ecklonia cava*, and *Hizikia fusiformis*, with research also addressing the impacts of anthropogenic stressors, such as heated effluents from nuclear power plants, on algal biomass and succession, as well as the invasive potential of species like *Kappaphycus alvarezii* and *Codium fragile*.",
+  "n_entities": 217,
+  "n_papers": 116,
+  "n_papers_with_summaries": 115,
+  "entity_sample": [
+    "2-5 m depth",
+    "A. beauvoisii",
+    "AA reefs",
+    "ACS",
+    "ACS reefs",
+    "Abrolhos",
+    "Abrolhos Archipelago",
+    "Abrolhos Bank",
+    "Abrolhos Bank reef communities",
+    "Abrolhos Bank, Brazil"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,13 @@
+{
+  "community_id": 367,
+  "summary": "This cluster focuses on the taxonomic revision and phylogenetic characterization of red algal species, specifically within the genus *Griffithsia*. The research established *Griffithsia okiensis* as a distinct species from Korea through detailed morphological analysis of thallic dimensions and cell ratios, corroborated by genetic sequencing of the psbA and rbcL markers. Key findings confirmed its separation from the closely related *G. japonica*, highlighting the utility of molecular phylogenetics in resolving cryptic species boundaries. The geographic scope was centered on the Korean peninsula, contributing to the broader understanding of ceramiaceous algal diversity in the Northwest Pacific region.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AY295152",
+    "AY295170",
+    "G. teges"
+  ],
+  "resolution": 8.0
+}

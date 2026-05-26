@@ -1,0 +1,12 @@
+{
+  "community_id": 1128,
+  "summary": "This cluster of research investigates the impact of anthropogenic nutrient pollution on freshwater algal growth, specifically within the Nakdong River Basin in South Korea. The studies are connected by their focus on sewage and wastewater treatment plant effluents as primary drivers of eutrophication, with key findings demonstrating that these effluents significantly elevate algal growth potential (AGP) compared to natural river water. The highest AGP values were recorded at the confluence of the Kumho River (42.8%) and the middle Nakdong River (22.7%), correlating with elevated concentrations of phosphorus and ammonium. The research also employed luminescent bacterial toxicity testing to assess effluent quality, linking chemical nutrient loading directly to biological response and trophic state deterioration.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "상주 축산 폐수 처리장",
+    "액상 부식법"
+  ],
+  "resolution": 8.0
+}

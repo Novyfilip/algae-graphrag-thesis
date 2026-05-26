@@ -1,0 +1,12 @@
+{
+  "community_id": 781,
+  "summary": "This cluster synthesizes research on the diversity and distribution of cyanobacteria and micro-algae in distinct ecological and geographic contexts, specifically freshwater systems in Korea and sub-aerial habitats in India. The Korean study documented 43 taxa of freshwater Cyanophyceae across 193 stations in Chol La Nam Do, identifying six species and one variety new to the country, while the Indian study recorded 57 cyanobacterial and 15 chlorophyte taxa on building facades and monuments, highlighting species such as *Chroococcidiopsis kashayi* and *Scytonema geitleri*. Both investigations employed qualitative sampling methods to characterize local algal flora, with the Korean work focusing on epiphytic and floating algae in temperate freshwater environments and the Indian research emphasizing the role of warm, humid tropical climates in supporting diverse sub-aerial communities. Key patterns across the cluster include the prevalence of cyanobacteria in both regions and the identification of taxa adapted to extreme conditions, such as desiccation and temperature fluctuations in Indian monuments. The geographic scope spans the Korean peninsula and tropical India, contributing to a broader understanding of regional cyanobacterial and micro-algal biodiversity.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Myxosarcina",
+    "Myxosarcina spectabilis"
+  ],
+  "resolution": 8.0
+}

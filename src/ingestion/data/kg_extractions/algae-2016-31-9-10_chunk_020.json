@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Synechococcus", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "Chlorophyll a"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Synechococcus", "predicate": "CONTAINS", "object": "Chlorophyll a", "confidence": 0.5}]}

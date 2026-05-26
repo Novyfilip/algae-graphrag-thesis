@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bryopsis plumosa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "seawater"}], "markers": [], "applications": [{"application_name": "drug delivery systems"}], "relationships": [{"subject": "Bryopsis plumosa", "predicate": "FOUND_IN", "object": "seawater", "confidence": 1.0}]}

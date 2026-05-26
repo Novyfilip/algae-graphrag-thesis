@@ -1,0 +1,12 @@
+{
+  "community_id": 1013,
+  "summary": "This cluster investigates the feasibility of intensive, land-based cultivation of specific macroalgae species for human consumption in the Pacific Northwest, focusing on seasonal growth dynamics and nutritional quality. Research conducted at the Manchester Research Station in the USA from August 2013 to September 2014 utilized a tumble-aerated tank culture system to grow Turkish towel, Pacific dulse, and sea lettuce. Key findings revealed that all three species exhibited peak specific growth rates during summer and minimal growth near the winter solstice, with sea lettuce showing significant seasonal variation in protein and lipid content. The study demonstrated that these species could achieve estimated annual yields of 50-70 metric tons dry weight per hectare, surpassing conventional terrestrial crops, while maintaining low levels of contaminants and persistent organic pollutants.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "land-based finfish systems",
+    "macroalgal culture"
+  ],
+  "resolution": 8.0
+}

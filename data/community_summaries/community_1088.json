@@ -1,0 +1,12 @@
+{
+  "community_id": 1088,
+  "summary": "This cluster focuses on the biomass dynamics and community structure of macroalgae along the coasts of Jeju Island, Korea, with a particular emphasis on the dominant brown alga *Ecklonia cava*, which constituted up to 58% of total biomass in one study. Researchers employed nondestructive and quadrat sampling methods to document seasonal and temporal variations, recording mean biomass values ranging from 2,393 g to 4,217 g wet weight per square meter. Key associated species included *Codium minus*, *Sargassum* spp., *S. coreanum*, *S. hemiphyllum*, articulated corallines, and *Plocamium telfairiae*, with community composition shifting between thick-leathery forms in the low-intertidal zone and turf forms in the upper zone. The geographic scope is confined to the Korean coastal zones of Munseom and Udo, Jeju Island, where the seaweed communities were assessed as stable based on diversity and dominance indices.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "coastal regions in Korea",
+    "species composition comparison"
+  ],
+  "resolution": 8.0
+}

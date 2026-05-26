@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlorophyta", "taxonomic_rank": "phylum"}], "compounds": [{"compound_name": "phenolic compounds"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chlorophyta", "predicate": "PRODUCES", "object": "phenolic compounds", "confidence": 0.5}]}

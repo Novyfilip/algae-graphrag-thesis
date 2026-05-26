@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "SEM fixation"}], "environments": [{"environment_name": "Caribbean Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "P. bei", "predicate": "FOUND_IN", "object": "Caribbean Sea", "confidence": 1.0}, {"subject": "P. bei", "predicate": "STUDIED_WITH", "object": "SEM fixation", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Gangneung"}, {"environment_name": "Gangwon Province"}], "markers": [], "applications": [], "relationships": [{"subject": "Gangneung", "predicate": "FOUND_IN", "object": "Gangwon Province", "confidence": 1.0}]}

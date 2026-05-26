@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pseudopirsonia mucosa", "taxonomic_rank": "species"}, {"species_name": "Pirsonia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Pseudopirsonia mucosa", "predicate": "BELONGS_TO", "object": "Pirsonia", "confidence": 0.5}]}

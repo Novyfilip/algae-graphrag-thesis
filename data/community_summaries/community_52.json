@@ -1,0 +1,20 @@
+{
+  "community_id": 52,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, morphology, biogeography, and ecological physiology of macroalgae and microalgae, with a particular emphasis on species from the North Pacific, including the Sea of Okhotsk, the Bering Sea, the Aleutian Islands, Kamchatka, Korea, and Japan. Key findings revealed significant morphological plasticity and genetic divergence in brown algae such as *Carpophyllum*, *Ecklonia cava*, *Alaria paradisea*, and *Saccharina sessilis*, often linked to wave exposure, temperature, and geographic isolation, leading to the identification of cryptic species and new taxa like *Tauya basicrassa* and *Haraldiophyllum udoensis*. Red algal studies, including those on *Campylaephora*, *Gracilaria*, and *Pyropia*, demonstrated seasonal and environmental drivers of morphological variation and reproductive output, while dinoflagellate research (e.g., *Alexandrium*, *Cochlodinium*, *Scrippsiella*) focused on bloom dynamics, thermal plasticity, and trophic interactions in Korean and East China Sea waters. The geographic scope was predominantly cold-temperate and Arctic-influenced regions, with additional studies on Antarctic diatoms and invasive species, highlighting the role of environmental gradients, ocean currents, and historical refugia in shaping algal distribution and community structure.",
+  "n_entities": 206,
+  "n_papers": 132,
+  "n_papers_with_summaries": 130,
+  "entity_sample": [
+    "0.2 μm filtered seawater rinsing",
+    "ANOVA",
+    "Adak I.",
+    "Agarum clathratum",
+    "Akkesiphycaceae",
+    "Alaska",
+    "Alaska's rocky coastline",
+    "Alaskan",
+    "Alaskan Sublittoral",
+    "Alaskan sublittoral zone"
+  ],
+  "resolution": 8.0
+}

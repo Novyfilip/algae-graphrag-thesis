@@ -1,0 +1,15 @@
+{
+  "community_id": 308,
+  "summary": "This cluster examines the ecological and taxonomic diversity of marine algae across distinct geographic and ecological contexts. In the oligotrophic northwestern Pacific Ocean, research on picocyanobacteria revealed significant niche partitioning between *Synechococcus* and *Prochlorococcus*, with over 20 and 10 clades identified, respectively, and *Prochlorococcus* dominating warm, stratified waters while specific *Synechococcus* clades (e.g., Clade II) proliferated in the upper euphotic zone under the influence of temperature, nutrient availability, and iron levels. Concurrently, a separate study documented the first records of two novel *Polysiphonia* species—*Polysiphonia scopulorum* and *P. flaccidissima*—in Korean coastal waters, characterized by small, slender morphologies, erect filaments, and spiral spore arrangements. Together, these works highlight how both molecular (16S rRNA gene sequencing) and morphological approaches are used to resolve algal diversity and distribution, spanning open-ocean picocyanobacteria in the Pacific to benthic macroalgae in Korean intertidal zones.",
+  "n_entities": 5,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Synechococcus SC-5.3",
+    "area near the KC",
+    "high-latitude boundary of oceanic gyre",
+    "subtropical and temperate waters",
+    "subtropical oligotrophic waters"
+  ],
+  "resolution": 8.0
+}

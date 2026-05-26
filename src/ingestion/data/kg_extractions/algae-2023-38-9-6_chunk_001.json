@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Griffithsia monilis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Griffithsia monilis", "predicate": "STUDIED_WITH", "object": "microtubules", "confidence": 0.5}]}

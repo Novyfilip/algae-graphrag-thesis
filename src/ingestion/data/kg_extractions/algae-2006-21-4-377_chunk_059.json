@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gomphonema telographicum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "stream"}], "markers": [], "applications": [], "relationships": [{"subject": "Gomphonema telographicum", "predicate": "FOUND_IN", "object": "stream", "confidence": 1.0}]}

@@ -1,0 +1,13 @@
+{
+  "community_id": 363,
+  "summary": "This cluster of research focuses on the taxonomic revision of the diatom genus *Amphora sensu lato*, integrating molecular phylogenetics with detailed morphological analysis to resolve species boundaries and evolutionary relationships. The studies specifically supported the distinction of the subgenus *Halamphora* as a separate taxonomic group and led to the formal description of *Amphora terroris* as a new species. By combining DNA sequence data with comparative morphological traits, the research underscores the necessity of a polyphasic approach for accurate classification within this globally distributed group. The geographic scope of the work encompasses diverse marine and estuarine environments, reflecting the broad ecological range of *Amphora* species worldwide.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AF123595",
+    "Bolidomonas pacifica",
+    "OLI31SE3"
+  ],
+  "resolution": 8.0
+}

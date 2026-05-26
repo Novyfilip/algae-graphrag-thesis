@@ -1,0 +1,20 @@
+{
+  "community_id": 207,
+  "summary": "This cluster of research focuses on the ecology, physiology, and harmful algal bloom dynamics of dinoflagellates and other phytoplankton in Korean coastal waters and the Yellow Sea, with a strong emphasis on red-tide-forming species. Key organisms studied include *Cochlodinium polykrikoides*, *Karenia* species, *Chattonella antiqua*, *Microcystis aeruginosa*, and the mixotrophic dinoflagellates *Yihiella yeosuensis* and *Gymnodinium smaydae*, the latter investigated for its high DHA content as a potential omega-3 source. Researchers employed methods such as quantitative PCR, rDNA sequencing, and morphological analysis to characterize species distributions, phylogenetic relationships, and feeding interactions, revealing that temperature, prey concentration, and nutrient availability (particularly nitrogen and phosphorus) critically regulate growth rates and bloom formation. The geographic scope was predominantly Korean coastal waters, including Masan-Jinhae Bay, Jeju Island, and the South Sea, with additional studies on the Yellow Sea’s dinoflagellate resting cysts and a red tide event of *Karenia brevis* in Florida. Across the cluster, findings highlighted the prevalence of mixotrophy among dinoflagellates, the role of copepod grazing in bloom termination, and the potential of algal treatments like blue-min for growth inhibition, while also documenting new species records and the use of eelgrass tissue nitrogen as an indicator of eutrophication.",
+  "n_entities": 80,
+  "n_papers": 28,
+  "n_papers_with_summaries": 28,
+  "entity_sample": [
+    "Amelia Island",
+    "Cape Canaveral (Brevard County)",
+    "Crassostrea virginica",
+    "Fernandina Beach",
+    "Florida east coast",
+    "Florida west coast",
+    "Florida's Keys",
+    "Florida’s waters",
+    "Gulf of México",
+    "Gymnodinium breve"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. galapagense", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Gal\u00e1pagos Islands"}], "markers": [], "applications": [], "relationships": [{"subject": "G. galapagense", "predicate": "FOUND_IN", "object": "Gal\u00e1pagos Islands", "confidence": 1.0}]}

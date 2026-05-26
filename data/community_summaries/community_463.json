@@ -1,0 +1,13 @@
+{
+  "community_id": 463,
+  "summary": "This cluster of research focuses on the biodiversity and ecological dynamics of macroalgae in the coastal waters of Korea and Japan, with an emphasis on species identification and community responses to environmental stress. Studies employed both morphological analysis and molecular barcoding (e.g., plastid *rbcL* sequences) to resolve taxonomic ambiguities, exemplified by the description of the new red algal species *Grateloupia jejuensis* from the Halymeniales. Ecological monitoring at sites impacted by thermal effluents from the Wolseong Nuclear Power Plant revealed shifts in community structure, with warm-tolerant and annual species such as *Ulva pertusa* and *Enteromorpha linza* becoming dominant, while species richness, biomass, and diversity indices varied significantly across discharge zones. The geographic scope is centered on the temperate Northwest Pacific, specifically the Korean Peninsula and Japan, where these studies collectively underscore how anthropogenic thermal pollution and precise taxonomic resolution are critical for understanding macroalgal distribution patterns.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Prionitis elata",
+    "Shirahama, Chiba Prefecture, Pacific side of Japan",
+    "Wonsan on the northeast coast of the Korean peninsula"
+  ],
+  "resolution": 8.0
+}

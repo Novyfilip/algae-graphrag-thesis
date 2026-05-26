@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Hormotila gelatinosa", "taxonomic_rank": "species"}, {"species_name": "Hormotila mucigena", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Hormotila gelatinosa", "predicate": "BELONGS_TO", "object": "Hormotila mucigena", "confidence": 0.5}]}

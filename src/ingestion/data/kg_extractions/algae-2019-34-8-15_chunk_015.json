@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Phaeostroma pustulosum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Phaeostroma pustulosum", "predicate": "BELONGS_TO", "object": "epiphyte", "confidence": 1.0}]}

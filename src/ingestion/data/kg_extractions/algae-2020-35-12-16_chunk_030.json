@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "MrBayes 3.6"}, {"method_name": "Metropolis-coupled Markov chain Monte Carlo"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "MrBayes 3.6", "predicate": "STUDIED_WITH", "object": "Metropolis-coupled Markov chain Monte Carlo", "confidence": 1.0}]}

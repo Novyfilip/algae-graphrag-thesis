@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "blotting"}, {"method_name": "reimmersing"}], "environments": [{"environment_name": "culture medium"}], "markers": [], "applications": [], "relationships": [{"subject": "blotting", "predicate": "STUDIED_WITH", "object": "reimmersing", "confidence": 0.5}]}

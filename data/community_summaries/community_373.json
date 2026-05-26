@@ -1,0 +1,13 @@
+{
+  "community_id": 373,
+  "summary": "This cluster investigates the phenomenon of kleptoplasty in sacoglossan sea slugs, focusing on the retention and photosynthetic activity of stolen algal chloroplasts. Research on Korean species, including *Elysia nigrocapitata*, demonstrated that certain slugs can maintain functional chloroplasts for months, while others, such as *P. dendritica* and *E. boodleae*, exhibit only limited or short-term photosynthetic activity. The studies collectively examine the feeding specificity that enables the incorporation of foreign chloroplasts into slug cells, highlighting interspecies variation in the duration and efficiency of this endosymbiotic-like relationship. Geographically, the work centers on the marine ecosystems of Korea, providing a regional perspective on the ecological and physiological dynamics of kleptoplast acquisition and retention.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Alderia modesta",
+    "Alderia spp.",
+    "Alderia willowi"
+  ],
+  "resolution": 8.0
+}

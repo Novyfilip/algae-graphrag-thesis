@@ -1,0 +1,12 @@
+{
+  "community_id": 1131,
+  "summary": "This cluster investigates the physiological tolerances of the brown alga *Sargassum fulvellum* and its associated epifauna to acute environmental stressors, specifically extreme pH and salinity. Experiments demonstrated that pH levels outside the 4–10 range and salinities below 7 psu or above 10 psu caused over 80% mortality in the associated amphipods *Caprella scaura* and *Grandidierella utinomi* within minutes, with lethal time (LT50) values as low as 20 seconds for *C. scaura* under hyposaline conditions. In contrast, the alga’s photosynthetic quantum yield remained stable within the pH 4–10 and salinity 7–10 psu ranges, indicating a broader physiological tolerance for the seaweed than for its associated animals. The research highlights how coastal acidification and freshwater influx events could differentially impact cultivated *Sargassum* beds and their invertebrate communities, with implications for aquaculture management in temperate marine ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "모자반 양식 산업",
+    "해적구제"
+  ],
+  "resolution": 8.0
+}

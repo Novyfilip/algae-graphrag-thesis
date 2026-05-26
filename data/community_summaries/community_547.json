@@ -1,0 +1,13 @@
+{
+  "community_id": 547,
+  "summary": "This cluster focuses on the discovery, distribution, and ecological characterization of the dinoflagellate species *Heterocapsa minima* in the Pacific Ocean, specifically within Korean waters. Researchers established a clonal culture of the Korean strain and used quantitative real-time polymerase chain reaction (qPCR) to compare its morphology with an Irish strain, identifying five pores around the pore plate as a key taxonomic feature. The study documented the first occurrence of *H. minima* in the Pacific Ocean, finding it widespread across 26 of 28 surveyed stations under a broad temperature range of 10.9–25.0°C and salinity of 17.5–34.1. These findings highlight the species' broad ecological tolerance and previously unrecognized geographic range in temperate coastal ecosystems.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Research Facility at School of Biological Science, Seoul National University, Korea",
+    "aligned and manually edited using ContigExpress",
+    "sequenced with an ABI PRISM 3700 DNA Analyzer"
+  ],
+  "resolution": 8.0
+}

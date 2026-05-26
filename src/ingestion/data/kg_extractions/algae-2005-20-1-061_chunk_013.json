@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "agar"}, {"compound_name": "agarose"}, {"compound_name": "sulfate"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "agar", "predicate": "CONTAINS", "object": "sulfate", "confidence": 1.0}, {"subject": "agarose", "predicate": "CONTAINS", "object": "sulfate", "confidence": 1.0}]}

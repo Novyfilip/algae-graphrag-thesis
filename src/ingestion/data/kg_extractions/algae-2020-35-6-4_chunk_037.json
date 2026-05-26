@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pythium porphyrae", "taxonomic_rank": "species"}, {"species_name": "Pythium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Pythium porphyrae", "predicate": "BELONGS_TO", "object": "Pythium", "confidence": 1.0}]}

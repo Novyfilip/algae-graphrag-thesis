@@ -1,0 +1,13 @@
+{
+  "community_id": 471,
+  "summary": "This cluster of research focuses on the biodiversity and biogeography of marine macroalgae, particularly red algae (Rhodophyta), in the Northern Hemisphere. Studies on Jejudo Island, Korea, documented 62 algal species across intertidal and subtidal zones, with crustose coralline algae (melobesioidean algae) dominating the entire rocky shore alongside key species such as *Sargassum thunbergii*, *Hizikia fusiformis*, *Ulva pertusa*, and *Undaria pinnatifida*. Concurrently, phylogenetic analyses of the red algal genus *Halopeltis*—previously thought to be restricted to the Southern Hemisphere—identified three novel species (*H. adnata*, *H. pellucida*, and *H. willisii*) from Korea and North Carolina, revealing significant genetic divergence and expanding the known geographic range of this group into warm temperate Northern Hemisphere waters. Together, these findings highlight the ecological importance of crustose coralline algae in structuring temperate rocky shores and underscore the underappreciated diversity of red algae in the North Pacific and Atlantic.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Galaxaura hystrix",
+    "Halichrysis micans",
+    "Samyang, Jejudo Island"
+  ],
+  "resolution": 8.0
+}

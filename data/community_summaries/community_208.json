@@ -1,0 +1,20 @@
+{
+  "community_id": 208,
+  "summary": "Research in this cluster focused extensively on the ecology, physiology, and biotechnological applications of marine and freshwater algae, predominantly within Korean coastal and riverine ecosystems. Key species investigated included the seagrass *Zostera marina*, the red alga *Pyropia yezoensis*, the brown kelp *Undaria pinnatifida*, and the bloom-forming cyanobacterium *Microcystis aeruginosa*, with studies examining their responses to environmental stressors such as salinity, temperature, elevated CO₂, and nutrient limitation. A recurring pattern was the use of chlorophyll a fluorescence and photosynthetic performance as rapid indicators of physiological status, applied to assess transplant success, heavy metal toxicity, and thermal tolerance across diverse taxa. The geographic scope was heavily centered on Korean waters, including the Nakdong River, Jeju Island, and the southern coast, though comparative work extended to Antarctic diatoms, tropical red algae in Europe, and green tides in the Yellow Sea.",
+  "n_entities": 79,
+  "n_papers": 104,
+  "n_papers_with_summaries": 103,
+  "entity_sample": [
+    "Biomass measurement",
+    "Changjiang River",
+    "Chlorophyll a",
+    "Chlorophyll a fluorescence measurement",
+    "Chlorophyll a measurements",
+    "Chlorophyll fluorescence measurements",
+    "Cu-Cd reduction",
+    "DMF extraction",
+    "Diving-PAM Chlorophyll a Fluorometer",
+    "Fluorescence"
+  ],
+  "resolution": 8.0
+}

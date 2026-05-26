@@ -1,0 +1,12 @@
+{
+  "community_id": 744,
+  "summary": "This cluster investigates the short-term dynamics of summer phytoplankton communities in the coastal waters of Korea, specifically around Namhae Island, using a high-resolution 39-station survey conducted in July and August. The research connects through a shared focus on the taxonomic composition of phytoplankton, identifying 121 taxa with diatoms and dinoflagellates as the dominant groups, and employs cluster analysis to delineate distinct community shifts. Key findings indicate that a decrease in water temperature and concentrations of nitrate and ammonia, coupled with increased water transparency after mid-August, drove these community reorganizations. The geographic scope is confined to the temperate, coastal ecosystem of the South Sea of Korea, with the ecological focus on how physicochemical parameters like nutrient availability and temperature structure phytoplankton assemblages over short temporal scales.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "31-37psu",
+    "K. breve"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 905,
+  "summary": "This cluster investigates the composition, distribution, and community structure of benthic marine algae along the Korean coastline, specifically at the Chumunjin intertidal zone on the East Coast. The research identified a total of 76 algal species, comprising 10 Chlorophyta, 22 Phaeophyta, and 44 Rhodophyta, with key species including *Sargassum thunbergii* and *Corallina pilulifera*. A central finding was significant seasonal biomass variation, with maximum biomass recorded in summer and minimum in autumn, while *Sargassum thunbergii* exhibited seasonal cover ranging from 20 to 23%. The studies employed UPGMA clustering and detrended correspondence analysis to delineate distinct vertical distribution zones for green and brown algae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "UPGMA cluster analysis",
+    "detrended correspondence analysis ordination"
+  ],
+  "resolution": 8.0
+}

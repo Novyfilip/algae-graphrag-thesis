@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "hand-cut sections"}, {"method_name": "transmission electron microscopy"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "hand-cut sections", "predicate": "STUDIED_WITH", "object": "transmission electron microscopy", "confidence": 0.5}]}

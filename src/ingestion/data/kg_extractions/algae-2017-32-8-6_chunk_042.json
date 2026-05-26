@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. rubescens", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "DW"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. rubescens", "predicate": "PRODUCES", "object": "DW", "confidence": 1.0}]}

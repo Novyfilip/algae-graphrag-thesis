@@ -1,0 +1,12 @@
+{
+  "community_id": 1004,
+  "summary": "This cluster of papers investigates the summer marine algal distribution along the western coast of Korea, focusing on six localities surveyed in 1988 and 1989. Researchers identified 85 algal species, including two newly recorded species, and quantified overall biomass per unit area. Cluster analysis grouped the sites into two categories based on turbidity levels, while DCA ordination revealed a north-south floristic gradient, indicating that variations in turbidity significantly influence vegetation patterns. The studies employed spectral analysis and spatial data to assess relationships between algal bloom characteristics and environmental factors, highlighting the ecological role of turbidity gradients in shaping coastal macroalgal communities.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "intertidal algal community in Muchangpo, western coast of Korea",
+    "structure analysis"
+  ],
+  "resolution": 8.0
+}

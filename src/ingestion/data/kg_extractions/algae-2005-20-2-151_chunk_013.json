@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Laminaria japonica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "sea"}], "markers": [], "applications": [], "relationships": [{"subject": "Laminaria japonica", "predicate": "FOUND_IN", "object": "sea", "confidence": 1.0}]}

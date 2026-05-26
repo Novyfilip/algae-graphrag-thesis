@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Alexandrium spp.", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "PSP toxin"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Alexandrium spp.", "predicate": "PRODUCES", "object": "PSP toxin", "confidence": 1.0}]}

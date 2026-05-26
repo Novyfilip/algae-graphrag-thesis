@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cochlodinium", "taxonomic_rank": "genus"}, {"species_name": "Haliotis discus hannai", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Cochlodinium", "predicate": "AFFECTS", "object": "Haliotis discus hannai", "confidence": 0.5}]}

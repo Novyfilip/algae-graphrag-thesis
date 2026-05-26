@@ -1,0 +1,12 @@
+{
+  "community_id": 848,
+  "summary": "This cluster focuses on the taxonomic revision and phylogenetic reclassification of red algal genera within the family Delesseriaceae, specifically merging the cryptic genera *Radicilingua* and *Calonitophyllum*. Using molecular phylogenetic analysis of the rbcL-5P gene sequence alongside morphological data, the research established the genetic distinctiveness of these taxa and proposed the transfer of *Calonitophyllum medium* to *Radicilingua* to reflect evolutionary relationships. A new species, *Radicilingua mediterranea*, was described from the Mediterranean Sea, incorporating previously recognized specimens from that region. The findings highlight the utility of molecular markers in resolving long-standing taxonomic ambiguities among morphologically similar, geographically restricted marine algae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Rhizoglossum",
+    "Rhizoglossum thysanorhizans"
+  ],
+  "resolution": 8.0
+}

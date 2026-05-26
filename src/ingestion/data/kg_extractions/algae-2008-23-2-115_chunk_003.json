@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Peridinium umbonatum", "taxonomic_rank": "species"}, {"species_name": "dinoflagellate", "taxonomic_rank": "class"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Peridinium umbonatum", "predicate": "BELONGS_TO", "object": "dinoflagellate", "confidence": 1.0}]}

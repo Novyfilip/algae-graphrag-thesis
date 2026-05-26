@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Erythrolobus", "taxonomic_rank": "genus"}, {"species_name": "Gymnodinium", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "food source"}], "relationships": [{"subject": "Erythrolobus", "predicate": "PRODUCES", "object": "food source", "confidence": 0.5}]}

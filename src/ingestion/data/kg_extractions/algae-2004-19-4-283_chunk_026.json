@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "siliculosa", "taxonomic_rank": "species"}, {"species_name": "Rhodocallideae", "taxonomic_rank": "tribe"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "siliculosa", "predicate": "BELONGS_TO", "object": "Rhodocallideae", "confidence": 1.0}]}

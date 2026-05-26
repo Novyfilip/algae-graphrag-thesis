@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Microcystis", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "NO3"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "NO3", "predicate": "AFFECTS", "object": "Microcystis", "confidence": 0.5}]}

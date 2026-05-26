@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. costatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "S. costatum", "predicate": "AFFECTS", "object": "solar PAR or UVR", "confidence": 0.5}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 952,
+  "summary": "This cluster investigates the molecular physiology of dinoflagellates, specifically focusing on their complex signaling and ion transport systems. Through transcriptomic analysis of 27 samples, researchers reconstructed a consensus channelome comprising 36 ion channel families, revealing homologs of both animal and plant proteins alongside unique protist-specific channels. The findings highlight the organisms’ remarkable physiological adaptability, driven by extensive G-protein coupled receptor and calcium-dependent signaling pathways. This work establishes a foundational genomic resource for understanding how these marine protists integrate environmental cues, though the geographic scope of the analyzed transcriptomes was not specified.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "cyclic nucleotides",
+    "secondary messengers"
+  ],
+  "resolution": 8.0
+}

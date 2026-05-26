@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Acrosiphonia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Barkley Sound, British Columbia"}], "markers": [], "applications": [], "relationships": [{"subject": "Acrosiphonia", "predicate": "FOUND_IN", "object": "Barkley Sound, British Columbia", "confidence": 1.0}]}

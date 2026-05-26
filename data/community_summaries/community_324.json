@@ -1,0 +1,14 @@
+{
+  "community_id": 324,
+  "summary": "This cluster of papers investigates the ecological impact of thermal effluents from nuclear power plants on intertidal macroalgal communities along the coast of South Korea, specifically at the Gori and Uljin sites. The studies consistently document shifts in species composition and biomass, with warm-tolerant or opportunistic algae such as *Corallina pilulifera*, *Sargassum* species, *Enteromorpha* (now *Ulva*) species, and *Chondria crassicaulis* becoming dominant in discharge canals, while reference sites retained higher abundances of brown and red algae. Seasonal biomass patterns were observed, with peaks in winter and spring, and the discharge canals often exhibited altered species diversity and richness compared to intake areas. Over time, the research indicates a process of ecological succession driven by heated effluents, including a decline in brown and red algae and an increase in blue-green algae at Uljin, highlighting localized environmental factors such as water velocity and temperature as key determinants of algal distribution.",
+  "n_entities": 4,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "discharge canal of power plants",
+    "regions influenced by thermal effluents",
+    "southeastern Florida",
+    "thermal effluents"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cosmarium granatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Gola River, Kathgodam"}], "markers": [], "applications": [], "relationships": [{"subject": "Cosmarium granatum", "predicate": "FOUND_IN", "object": "Gola River, Kathgodam", "confidence": 1.0}]}

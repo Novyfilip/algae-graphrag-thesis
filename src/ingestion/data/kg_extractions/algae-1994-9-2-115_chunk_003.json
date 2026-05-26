@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Schroederia spiralis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean fresh-water algal flora"}], "markers": [], "applications": [], "relationships": [{"subject": "Schroederia spiralis", "predicate": "FOUND_IN", "object": "Korean fresh-water algal flora", "confidence": 0.5}]}

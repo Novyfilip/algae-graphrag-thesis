@@ -1,0 +1,20 @@
+{
+  "community_id": 17,
+  "summary": "This cluster of research is unified by a focus on the biodiversity, taxonomy, and ecological dynamics of microalgae and macroalgae across Korean coastal and freshwater ecosystems, with particular emphasis on diatoms, dinoflagellates, and cyanobacteria. Key species such as *Chaetoceros debilis*, *Skeletonema costatum*, *Stephanodiscus hantzschii*, and *Microcystis aeruginosa* were frequently identified as dominant or bloom-forming taxa, while studies on *Thalassiosira*, *Rhizosolenia*, and *Cocconeis* advanced morphological and molecular taxonomic classifications. The research consistently linked phytoplankton community structure to environmental drivers including salinity gradients, nutrient loading (nitrogen and phosphorus), water temperature, and trophic state, with many investigations conducted in reservoirs, estuaries, and coastal waters of South Korea, as well as hypersaline ponds and Antarctic waters. Patterns across the cluster revealed seasonal succession, eutrophication-driven blooms, and the influence of anthropogenic factors such as aquaculture effluent and power plant cooling systems on algal community composition.",
+  "n_entities": 310,
+  "n_papers": 98,
+  "n_papers_with_summaries": 96,
+  "entity_sample": [
+    "A. alata",
+    "AF525671",
+    "AJ535160",
+    "AY485497",
+    "AY534908",
+    "Acanthoceras",
+    "Acanthoceras zachariasii",
+    "Achnanthaceae",
+    "Achnanthales",
+    "Achnanthes crenulata"
+  ],
+  "resolution": 8.0
+}

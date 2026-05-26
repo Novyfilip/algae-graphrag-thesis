@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Neosiphonia ramirezii", "taxonomic_rank": "species"}, {"species_name": "Grateloupia turuturu", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Neosiphonia ramirezii", "predicate": "BELONGS_TO", "object": "Neosiphonia", "confidence": 1.0}]}

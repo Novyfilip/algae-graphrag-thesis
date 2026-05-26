@@ -1,0 +1,15 @@
+{
+  "community_id": 295,
+  "summary": "This cluster of research focuses on the antimicrobial properties of marine algae, specifically examining the volatile and lipid fractions from species across the Chlorophyceae, Phaeophyceae, and Rhodophyceae classes. Key findings demonstrated that Chlorophyceae exhibited the strongest activity against *Bacillus subtilis*, while the brown algae *Sargassum sagamianum* and *Laminaria religiosa* were particularly effective against *Staphylococcus aureus*. The neutral fractions of the volatiles showed notable antimicrobial effects, whereas the phenolic and acidic fractions displayed variable activity depending on the target bacterial or fungal strain. The studies also characterized the biochemical composition of these algae, highlighting significant variations in amino acid profiles, particularly in aspartic and glutamic acid, alongside measurements of carbohydrate, protein, lipid, ash, and calcium levels.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Dictyopteris zonarioides",
+    "fungitoxic",
+    "hydroquinones",
+    "isozonarol",
+    "zonarol"
+  ],
+  "resolution": 8.0
+}

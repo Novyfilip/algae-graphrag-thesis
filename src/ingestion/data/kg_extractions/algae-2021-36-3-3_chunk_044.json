@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. furcata s.l.", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "phylogeographic studies"}], "environments": [{"environment_name": "HOK of Japan"}], "markers": [], "applications": [], "relationships": [{"subject": "G. furcata s.l.", "predicate": "FOUND_IN", "object": "HOK of Japan", "confidence": 0.5}]}

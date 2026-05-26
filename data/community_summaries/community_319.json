@@ -1,0 +1,14 @@
+{
+  "community_id": 319,
+  "summary": "This cluster focuses on the molecular biology and genetic manipulation of freshwater green algae, specifically within the class Zygnematophyceae and the model organism *Chlamydomonas reinhardtii*. Key connecting themes include the development of methods to study gene expression and function, such as RNA isolation from pigment-rich algae like *Zygnema cruciatum* and the identification of stress-responsive genes like *SVCR2* in *Spirogyra varians* under cold and light stress. A parallel line of research used insertional mutagenesis in *C. reinhardtii* to generate high-biomass mutants linked to mitochondrial dysfunction, demonstrating a shared interest in genetic tools for strain improvement. Geographically, the studies are laboratory-based with no specific field location, but they address fundamental physiological processes—cold acclimation and biomass productivity—relevant to freshwater ecosystems.",
+  "n_entities": 4,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "RNase-free DNaseI treatment",
+    "RNeasy mini kit",
+    "column purification",
+    "total RNA"
+  ],
+  "resolution": 8.0
+}

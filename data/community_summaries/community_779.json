@@ -1,0 +1,12 @@
+{
+  "community_id": 779,
+  "summary": "This cluster examines the environmental physiology of the toxic dinoflagellate *Gymnodinium catenatum*, specifically a strain isolated from Yeosuhae Bay, Korea, to understand its bloom dynamics in coastal waters. Key findings demonstrated that the species achieved a maximum growth rate of 0.5 day⁻¹ at 25°C and 30 psu, with temperature above 18°C being a critical driver for growth, while salinity showed no significant effect. Irradiance strongly influenced growth, with a half-saturation constant (Ks) of 42.6 μmol/m²/s at 18°C, indicating a preference for sub-surface light conditions. The research collectively highlights how temperature and light, rather than salinity, are the primary factors controlling the proliferation of this harmful algal species in Korean coastal ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Mytilus corsucus",
+    "coastal waters near Koje Island, Korea"
+  ],
+  "resolution": 8.0
+}

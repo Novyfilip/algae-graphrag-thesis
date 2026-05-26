@@ -1,0 +1,12 @@
+{
+  "community_id": 746,
+  "summary": "This cluster investigates the vulnerability of early life-history stages of canopy-forming kelps to sedimentation, specifically focusing on the spores of *Nereocystis luetkeana* and *Eualaria fistulosa* in Alaskan waters. Laboratory experiments demonstrated that elevated sediment loads, particularly at concentrations of 420 mg/L, significantly reduced spore attachment rates for both species, indicating a shared physiological bottleneck during recruitment. While the findings confirm that high sedimentation can impair spore success, the research concluded that sediment stress alone does not primarily dictate the broader distribution patterns of these kelps. The geographic scope is centered on Alaskan nearshore ecosystems, with implications for how increased turbidity from natural or anthropogenic sources may impact kelp forest resilience.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Kasitsna Bay Laboratory",
+    "southern shore of Kachemak Bay"
+  ],
+  "resolution": 8.0
+}

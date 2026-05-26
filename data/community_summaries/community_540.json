@@ -1,0 +1,13 @@
+{
+  "community_id": 540,
+  "summary": "This cluster investigates the physiological and enzymatic responses of cyanobacteria and red algae to abiotic stressors, with a focus on metal ion effects and cold acclimation. Studies on blue-green algae such as *Synechocystis*, *Anabaena*, and *Rivularia* examined the enzymatic activity of 5-aminolevulinic acid dehydratase (ALAD) in chlorophyll biosynthesis, revealing that *Synechocystis* exhibited the highest activity and that magnesium chloride differentially inhibited ALAD across species. Concurrently, research on the marine red alga *Pyropia yezoensis* explored its acclimatory response to cold stress through physiological and transcriptomic analyses, identifying shifts in photosynthetic activity, pigment content, and gene expression related to carbohydrate, energy, and lipid metabolism. Both lines of inquiry underscore species-specific regulatory mechanisms in pigment metabolism and stress tolerance, with implications for understanding primary production in aquatic ecosystems and improving cultivation of economically valuable algae.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Arum",
+    "Pisum sativum",
+    "porphyrin"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 219,
+  "summary": "This cluster of research is unified by a strong focus on the taxonomy, phylogeny, and biogeography of red algae (Rhodophyta) and brown algae (Phaeophyceae), with frequent use of molecular markers such as *rbcL*, *cox1*, and *psbA* to resolve cryptic species and revise generic classifications. Key findings include the discovery of new species and genera—such as *Psilothallia dentata*, *Radicilingua mediterranea*, *Haraldiophyllum hawaiiense*, and *Pseudothrix borealis*—and the reclassification of taxa like *Gracilariopsis chorda* and *Calonitophyllum medium* based on genetic divergence. Geographically, the studies span the North Pacific (Aleutian Islands, Korea, Japan, Alaska), the Mediterranean Sea, the Gulf of California, and the tropical western Atlantic, with a recurring emphasis on endemic or newly documented species in Korean and Japanese coastal waters. Additionally, several papers address the ecological physiology and aquaculture of economically important seaweeds, including *Gracilaria*, *Pyropia*, *Undaria pinnatifida*, and *Saccharina japonica*, focusing on growth responses to temperature, salinity, and sedimentation, as well as disease management in Korean *Pyropia* farms.",
+  "n_entities": 75,
+  "n_papers": 71,
+  "n_papers_with_summaries": 70,
+  "entity_sample": [
+    "Actinomonas mirabilis",
+    "Aewol/Jeju (33°27′15″ N, 126°20′49″ E), pond, surface water",
+    "Ankistrodesmus westii",
+    "Baltic",
+    "Bicosoeca",
+    "Bicosoeca conica",
+    "Bicosoeca epiphytica",
+    "Bicosoeca gracilipes",
+    "Bicosoeca vacillans",
+    "Bicosoecaceae"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 57,
+  "summary": "This cluster of papers is unified by a strong focus on the molecular phylogenetic revision and taxonomic discovery of algae, primarily using DNA barcoding markers such as rbcL, COI-5P, ITS, and coxIII to resolve cryptic species complexes and redefine generic boundaries across diverse lineages. Key findings include the identification of numerous new species and genera—such as *Capillus*, *Ramipedicella*, *Tsunamia transpacifica*, and *Viator vitreocola*—from both marine and freshwater habitats, with a pronounced geographic emphasis on the Northwest Pacific, particularly Korea and Japan, as well as significant contributions from Antarctica, the Hawaiian mesophotic zone, and the Atlantic. The research consistently demonstrates that morphological plasticity often obscures true diversity, necessitating integrated molecular and morphological approaches to clarify evolutionary relationships, as seen in the reclassification of *Sargassum*, *Polysiphonia*, *Centroceras*, and *Grateloupia* species.",
+  "n_entities": 196,
+  "n_papers": 171,
+  "n_papers_with_summaries": 170,
+  "entity_sample": [
+    "18S gene locus sequencing",
+    "23S rRNA",
+    "454 platform sequencing",
+    "5.85 region",
+    "5.88 gene",
+    "5.8S coding region",
+    "AGBD",
+    "Alternaria alternata",
+    "Alternaria tenuissima",
+    "Alveolata"
+  ],
+  "resolution": 8.0
+}

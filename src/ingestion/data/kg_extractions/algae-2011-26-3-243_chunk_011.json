@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. angustifolium", "taxonomic_rank": "species"}, {"species_name": "C. maschalocarpum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. angustifolium", "predicate": "STUDIED_WITH", "object": "C. maschalocarpum", "confidence": 1.0}]}

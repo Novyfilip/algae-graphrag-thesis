@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. sanguinea", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "f/2-Si medium"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "A. sanguinea", "predicate": "STUDIED_WITH", "object": "f/2-Si medium", "confidence": 1.0}]}

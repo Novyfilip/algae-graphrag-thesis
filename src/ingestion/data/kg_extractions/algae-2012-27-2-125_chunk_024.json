@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Germanium dioxide"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Germanium dioxide", "predicate": "AFFECTS", "object": "rETRmax", "confidence": 1.0}, {"subject": "Germanium dioxide", "predicate": "AFFECTS", "object": "Photosynthetic efficiency (\u03b1ETR)", "confidence": 1.0}]}

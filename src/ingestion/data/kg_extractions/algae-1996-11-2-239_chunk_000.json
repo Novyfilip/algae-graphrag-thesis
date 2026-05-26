@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Microcystis flos-aquae", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Lake around Reclaimed Area of Seosan"}], "markers": [], "applications": [], "relationships": [{"subject": "Microcystis flos-aquae", "predicate": "FOUND_IN", "object": "Lake around Reclaimed Area of Seosan", "confidence": 1.0}]}

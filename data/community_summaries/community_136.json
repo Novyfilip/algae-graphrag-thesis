@@ -1,0 +1,20 @@
+{
+  "community_id": 136,
+  "summary": "This cluster of papers investigates the diversity, ecology, and taxonomy of marine microalgae and macroalgae, with a strong emphasis on Korean coastal waters, the Yellow Sea, and the East China Sea. Key connecting themes include the dynamics of harmful algal blooms (HABs) caused by dinoflagellates such as *Cochlodinium polykrikoides*, *Alexandrium* species, and *Gymnodinium catenatum*, alongside the ecological roles of diatoms like *Skeletonema costatum* and *Chaetoceros* species in structuring phytoplankton communities. Studies frequently employed molecular phylogenetic methods (e.g., rDNA sequencing, qPCR) to resolve cryptic species and track bloom-forming taxa, while also examining environmental drivers such as salinity, temperature, nutrient loading, and sedimentation. The research collectively highlighted the impacts of eutrophication, climate change, and coastal infrastructure on species composition, toxin production, and trophic interactions, including grazing by heterotrophic protists and the role of algicidal bacteria.",
+  "n_entities": 124,
+  "n_papers": 124,
+  "n_papers_with_summaries": 123,
+  "entity_sample": [
+    "AF260391",
+    "AF276818",
+    "AY154959",
+    "Alexandrium spp.",
+    "Alexandrium spp. (ellipsoidal)",
+    "Alexandrium spp. (ovoidal)",
+    "Alexandrium spp. (spherical)",
+    "Amylax",
+    "Amylax diacantha",
+    "Beach No. 3"
+  ],
+  "resolution": 8.0
+}

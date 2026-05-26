@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Scytosiphon lomentaria", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "littoral"}], "markers": [], "applications": [], "relationships": [{"subject": "Scytosiphon lomentaria", "predicate": "FOUND_IN", "object": "littoral", "confidence": 1.0}]}

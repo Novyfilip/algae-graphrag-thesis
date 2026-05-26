@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "PRF"}], "methods": [{"method_name": "zebrafish model"}], "environments": [], "markers": [], "applications": [{"application_name": "commercial utilization"}], "relationships": [{"subject": "PRF", "predicate": "STUDIED_WITH", "object": "zebrafish model", "confidence": 1.0}]}

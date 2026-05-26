@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Chl-a"}], "methods": [], "environments": [{"environment_name": "surface"}, {"environment_name": "bottom"}], "markers": [], "applications": [], "relationships": [{"subject": "Chl-a", "predicate": "FOUND_IN", "object": "surface", "confidence": 1.0}, {"subject": "Chl-a", "predicate": "FOUND_IN", "object": "bottom", "confidence": 1.0}]}

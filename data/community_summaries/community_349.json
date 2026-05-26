@@ -1,0 +1,14 @@
+{
+  "community_id": 349,
+  "summary": "This cluster investigates the phylogeny and ecology of heterotrophic stramenopile flagellates, connecting their evolutionary origins to modern deep-sea habitats. The papers establish a speculative phylogeny linking these organisms to photosynthetic lineages, with golden algae placed within the stramenopile clade and dinoflagellates within the alveolate clade, based on mitochondrial cristae architecture. A field study in the Gippsland Basin, southeastern Australia, documented ten species of free-living heterotrophic stramenopiles from deep-sea sediments, including *Cafeteria roenbergensis*, *Pseudobodo tremulans*, and *Developayella elegans*, classified across three orders. These findings provided morphological descriptions and distribution data for these flagellates, reinforcing their ecological role in benthic marine environments and their phylogenetic position within the broader stramenopile lineage.",
+  "n_entities": 4,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Histiona",
+    "Jakoba",
+    "Reclinomonas",
+    "jakobids"
+  ],
+  "resolution": 8.0
+}

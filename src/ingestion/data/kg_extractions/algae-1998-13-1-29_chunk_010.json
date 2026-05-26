@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gelidium divaricatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Gelidium divaricatum", "predicate": "FOUND_IN", "object": "Korea", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Hypoglossum", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "subtidal zone"}], "markers": [], "applications": [], "relationships": [{"subject": "Hypoglossum", "predicate": "FOUND_IN", "object": "subtidal zone", "confidence": 1.0}]}

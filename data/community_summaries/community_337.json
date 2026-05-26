@@ -1,0 +1,14 @@
+{
+  "community_id": 337,
+  "summary": "This cluster investigates the evolutionary genomics of red algae, specifically focusing on mitochondrial genome architecture within the order Ceramiales (Rhodophyta). By analyzing 42 mitogenomes, including 19 newly sequenced specimens, researchers identified four distinct structural architectures (A, B, C, and D) representing the first documented instances of such variation in red algae. Phylogenetic analyses of protein-coding genes supported the current familial classification of Ceramiales, indicating that mitogenome architecture predates phylogenetic relationships and that palindromic and inverted repeat patterns likely drive these rearrangements. The findings underscore the role of genomic structural variation in understanding the diversity and evolutionary history of this species-rich group, which comprises 2,669 species.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Illumina NovaSeq 6000",
+    "Trimmomatic v0.39",
+    "TruSeq Nano DNA Prep Kit",
+    "Whole genome sequencing"
+  ],
+  "resolution": 8.0
+}

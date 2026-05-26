@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "D. hangangense", "taxonomic_rank": "species"}, {"species_name": "TAC472", "taxonomic_rank": "strain"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "D. hangangense", "predicate": "CONTAINS", "object": "TAC472", "confidence": 0.3}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Grateloupia turuturu", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "littoral"}], "markers": [], "applications": [], "relationships": [{"subject": "Grateloupia turuturu", "predicate": "FOUND_IN", "object": "littoral", "confidence": 1.0}]}

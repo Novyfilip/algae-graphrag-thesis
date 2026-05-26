@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "haptophytes", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "marine"}], "markers": [], "applications": [], "relationships": [{"subject": "haptophytes", "predicate": "FOUND_IN", "object": "marine", "confidence": 1.0}]}

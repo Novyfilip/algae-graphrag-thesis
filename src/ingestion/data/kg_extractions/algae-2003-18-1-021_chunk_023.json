@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. vietnamensis", "taxonomic_rank": "species"}, {"species_name": "Porphyra lacerata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. vietnamensis", "predicate": "BELONGS_TO", "object": "Porphyra lacerata type", "confidence": 1.0}]}

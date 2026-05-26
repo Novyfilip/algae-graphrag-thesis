@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "marginal ice zone"}, {"environment_name": "Scotia-Weddell Sea"}, {"environment_name": "Antarctica"}], "markers": [], "applications": [], "relationships": [{"subject": "marginal ice zone", "predicate": "FOUND_IN", "object": "Scotia-Weddell Sea", "confidence": 1.0}]}

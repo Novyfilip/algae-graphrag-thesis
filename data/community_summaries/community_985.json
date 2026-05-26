@@ -1,0 +1,12 @@
+{
+  "community_id": 985,
+  "summary": "This cluster investigates the mechanisms of protoplast formation and hybridization in marine coenocytic green algae, specifically focusing on species such as *Bryopsis* spp. and *Microdictyon umbilicatum*. Through experimental in vitro protoplast mixing, the research identified strong incompatibility barriers that prevent the incorporation of foreign cellular components, leading to cytotoxicity and limiting the potential for new species formation via this method. The findings suggest that protoplast formation in these algae may have evolved primarily as a dispersal strategy rather than a means of genetic exchange, with the incompatibility barrier serving as a protective mechanism. The geographic and ecological scope is marine, centered on coenocytic green algae from coastal environments.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "cellular and genetic manipulation techniques",
+    "fusion techniques"
+  ],
+  "resolution": 8.0
+}

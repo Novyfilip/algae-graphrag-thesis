@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Microcystis", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "chl-a"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Microcystis", "predicate": "PRODUCES", "object": "chl-a", "confidence": 1.0}]}

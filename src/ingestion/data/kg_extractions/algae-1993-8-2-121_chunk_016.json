@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "ulvaceous algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "South-eastern Australian temperate waters"}], "markers": [], "applications": [], "relationships": [{"subject": "ulvaceous algae", "predicate": "FOUND_IN", "object": "South-eastern Australian temperate waters", "confidence": 1.0}]}

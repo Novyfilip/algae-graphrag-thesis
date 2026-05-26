@@ -1,0 +1,12 @@
+{
+  "community_id": 736,
+  "summary": "This cluster of research focuses on the taxonomic revision of the diatom genus *Amphora sensu lato*, integrating molecular phylogenetics with detailed morphological analysis to resolve evolutionary relationships. The studies established that the subgenus *Halamphora* is phylogenetically distinct, supporting its reclassification as a separate genus, and formally described *Amphora terroris* as a new species. A key pattern across the cluster is the reliance on comparative morphological data to validate molecular findings, particularly for distinguishing cryptic species within this globally distributed group. The geographic scope of the work spans diverse marine and estuarine environments worldwide, reflecting the broad ecological range of *Amphora* species.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "FM164375",
+    "Hyalosira delicatula"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Red Algae", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "DNA extraction"}, {"method_name": "A Simple Method for DNA Extraction"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "A Simple Method for DNA Extraction", "predicate": "STUDIED_WITH", "object": "Red Algae", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 1133,
+  "summary": "This cluster of research focused on the fluorescence characteristics of freshwater bloom-forming cyanobacteria and algae, specifically targeting species such as *Microcystis aeruginosa*, *M. viridis*, *Anabaena flos-aquae*, and the diatom *Synedra* sp. The studies employed in vivo fluorescence spectroscopy to measure chlorophyll *a* concentration and estimate blue-green algal cell numbers, comparing these fluorescence properties to absorption spectra for monitoring purposes. Key findings demonstrated that this method could serve as an early detection strategy for harmful algal blooms, with field validation conducted on wild phytoplankton communities in the lower Naktong River. The geographic scope was centered on this South Korean riverine ecosystem, and the work collectively advanced the application of fluorescence-based monitoring for freshwater bloom management.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "형광측정",
+    "흡광 측정"
+  ],
+  "resolution": 8.0
+}

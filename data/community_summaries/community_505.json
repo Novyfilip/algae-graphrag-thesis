@@ -1,0 +1,13 @@
+{
+  "community_id": 505,
+  "summary": "This cluster centers on methodological advancements in the isolation and cultivation of microalgae from natural aquatic environments, specifically through the development of a micropipette technique. The research successfully obtained unialgal cultures of 30 distinct species spanning Chlorophyceae, Cyanophyceae, Bacillariophyceae, and Rhodophyceae from geographically diverse sources, including rice paddies and rivers. A key finding across the cluster is the emphasis on nitrogen-fixing cyanobacteria, highlighting their ecological role in supporting rice cultivation and mitigating eutrophication. The work underscores the foundational importance of refined culture collection methods for advancing plant physiology studies and managing nutrient dynamics in freshwater ecosystems.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "capillary suction method",
+    "use of a capillary of optimum diameter",
+    "use of an epifluorescence microscope"
+  ],
+  "resolution": 8.0
+}

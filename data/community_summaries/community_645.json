@@ -1,0 +1,12 @@
+{
+  "community_id": 645,
+  "summary": "This cluster of research focuses on the biodiversity and community structure of benthic marine algae in Korean coastal waters, specifically near the Taean Thermal Power Plant. The studies documented a total of 100 algal species, with a strong dominance of Rhodophyta (65 species) over Chlorophyta (14), Phaeophyta (18), and Cyanophyta (3). A key finding was the highest species richness at the power plant’s intake area (78 species), compared to lower counts at the discharge site and nearby islands, indicating thermal or environmental gradients. Notably, the green alga *Caulerpa okamurae* was recorded for the first time on the west coast of Korea, expanding the known geographic range of this species.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Coast of Taean Thermal Power Plant, Korea",
+    "태안화력발전소 주변 해조군집"
+  ],
+  "resolution": 8.0
+}

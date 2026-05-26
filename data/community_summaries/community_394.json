@@ -1,0 +1,13 @@
+{
+  "community_id": 394,
+  "summary": "This cluster focuses on the cultivation and economic optimization of the red alga *Gracilaria chorda*, a species valued for agar production. Research was conducted in Korea and examined both vegetative regeneration from cuttings and land-based cultivation systems. Key findings demonstrated that successful vegetative propagation significantly increased thallus length and biomass, while land-based trials showed that combining CO₂ injection with commercial fertilizers like Jack’s Special, alongside elevated stocking densities and photosynthetically active radiation (PAR), enhanced productivity more effectively than traditional methods. The cluster collectively addresses challenges in species identification and the economic viability of sustainable, scalable cultivation practices for this agarophyte.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Chanos chanos",
+    "Mugil cephalus",
+    "south reef of Molokai"
+  ],
+  "resolution": 8.0
+}

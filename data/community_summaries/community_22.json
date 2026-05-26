@@ -1,0 +1,20 @@
+{
+  "community_id": 22,
+  "summary": "This cluster of research is geographically centered on Korean coastal waters, with additional studies from the Northwest Pacific, Atlantic Canada, and the Mediterranean, and focuses on the ecophysiology, cultivation, and bioactive compound production of diverse marine algae and seagrasses. Key species investigated include the red alga *Pyropia yezoensis*, the brown kelps *Undaria pinnatifida* and *Saccharina japonica*, the green macroalga *Ulva pertusa*, and the seagrass *Zostera marina*, with studies examining their responses to environmental stressors such as salinity, temperature, light quality, and nutrient availability. A major pattern across the cluster was the optimization of growth and biochemical composition—such as lipid, pigment, and phycoerythrin content—for applications in aquaculture, bioremediation, and nutraceutical extraction, often using methods like vegetative regeneration, protoplast culture, and LED-based light manipulation. The research also addressed harmful algal blooms, including those caused by *Cochlodinium polykrikoides* and *Microcystis aeruginosa*, and the taxonomic revision of cryptic or newly described species such as *Radicilingua mediterranea* and *Umbraulva yunseulla*, highlighting the region's high macroalgal biodiversity and the importance of molecular phylogenetics for accurate species identification.",
+  "n_entities": 263,
+  "n_papers": 152,
+  "n_papers_with_summaries": 151,
+  "entity_sample": [
+    "3rd Yuchang, Qingdao",
+    "5% acrylamide gels",
+    "5S rDNA spacer",
+    "5S rDNA spacer sequence analysis",
+    "ABI 3730XL Genetic Analyzer",
+    "AFLP",
+    "AFLP analyses",
+    "AFLP genome scanning",
+    "AFLP-based dendrogram topology",
+    "AMOVA analysis"
+  ],
+  "resolution": 8.0
+}

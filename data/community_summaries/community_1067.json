@@ -1,0 +1,12 @@
+{
+  "community_id": 1067,
+  "summary": "This cluster investigates the taxonomic classification of green macroalgae, specifically within the families Ulvaceae, Monostromataceae, and Percursariaceae, with a focus on resolving species boundaries in the genera *Enteromorpha* and *Ulvaria*. Researchers in Australia employed extensive field sampling and culture-based observations to analyze morphological characteristics, but encountered significant difficulties due to phenotypic plasticity. To overcome these challenges, the studies utilized molecular analysis of the internal transcribed spacer regions, finding this genetic marker particularly useful for delineating genera and species. The work underscores the necessity of integrating molecular data with traditional morphology to achieve accurate taxonomic classification in this ecologically widespread group.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "rDNA cistron",
+    "restriction fragment patterns of the rDNA cistron"
+  ],
+  "resolution": 8.0
+}

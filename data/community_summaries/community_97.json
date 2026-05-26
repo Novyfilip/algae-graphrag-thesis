@@ -1,0 +1,20 @@
+{
+  "community_id": 97,
+  "summary": "This cluster of papers is unified by a strong focus on taxonomic revision, species discovery, and phylogenetic characterization of marine and freshwater algae, primarily red algae (Rhodophyta), brown algae (Phaeophyceae), and dinoflagellates, often using molecular markers such as rbcL, COI-5P, and SSU rDNA alongside morphological analysis. Key findings include the description of numerous new species and genera—such as *Capillus*, *Tsunamia transpacifica*, *Erythrolobus australicus*, *Sheathia assamica*, and *Ansanella granifera*—and the revision of problematic complexes like *Laurencia*, *Palisada*, *Polysiphonia*, and *Centroceras*, often revealing cryptic diversity and previously unrecognized biogeographic patterns. Geographically, the research spans a wide range of ecosystems, including Korean coastal waters, the Kurile Islands, the Sea of Okhotsk, the Gulf of California, the Mediterranean Sea, Antarctic and New Zealand environments, and the tropical western Atlantic, with particular emphasis on the Northwest Pacific and Eastern Pacific regions. The studies collectively underscore the importance of integrating molecular phylogenetics, ultrastructural analysis, and chemotaxonomy to resolve taxonomic uncertainties and document algal biodiversity in understudied habitats such as mesophotic reefs, mangrove ecosystems, and drift plastic substrates.",
+  "n_entities": 159,
+  "n_papers": 123,
+  "n_papers_with_summaries": 122,
+  "entity_sample": [
+    "Armação dos Búzios, Rio de Janeiro State, Brazil",
+    "Bulboplastis apyrenoidosa",
+    "C. kurilensis",
+    "C15-acetogenin",
+    "Cape Upstart",
+    "Chondrophycus",
+    "Chondrophycus (Tokida et Saito) Garbary et Harper",
+    "Chondrophycus gemmiferus",
+    "DNA polymorphism analysis",
+    "E. tristella"
+  ],
+  "resolution": 8.0
+}

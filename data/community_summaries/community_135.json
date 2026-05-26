@@ -1,0 +1,20 @@
+{
+  "community_id": 135,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogenetics, and biogeography of red algae (Rhodophyta), with frequent use of molecular markers such as *rbcL* and COI-5P to resolve cryptic species, revise genera, and document new species across the Northwest Pacific, particularly around Korea, Japan, and Jeju Island. Key findings include the discovery of numerous new species (e.g., *Haraldiophyllum udoensis*, *Symphyocladia glabra*, *Erythroglossum hyacinthinum*) and the identification of cryptic diversity within genera such as *Plocamium*, *Centroceras*, and *Grateloupia*, often revealing shallow phylogeographic structure and high gene flow in some taxa. The geographic scope extends from temperate and Arctic regions (Kamchatka, Bering Sea, White Sea) to tropical and subtropical waters (Hawaii, Brazil, Malaysia, Mediterranean), with several studies also addressing invasive species, ecological community structure, and the application of advanced methods like droplet digital PCR and organelle-enriched metagenomics for biodiversity assessment.",
+  "n_entities": 126,
+  "n_papers": 86,
+  "n_papers_with_summaries": 86,
+  "entity_sample": [
+    "Adriatic",
+    "Aleutian Islands of Alaska",
+    "Amplification of the rbcL-5P gene fragment",
+    "Augophyllum S. M. Lin, Fredericq & Hommersand",
+    "BLAST program",
+    "Bahia de Kino, Las Cruces, Sonora, Mexico",
+    "Bogue Beach, Beaufort, North Carolina",
+    "C. codii",
+    "CO10",
+    "Cabo San Lucas, Baja California Sur, Mexico"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 125,
+  "summary": "This cluster of papers is united by a strong focus on molecular phylogenetics and taxonomy, using DNA markers such as 16S rRNA, rbcL, COI-5P, ITS, and cox1 to resolve species boundaries, discover cryptic diversity, and revise taxonomic classifications across diverse algal groups, including red algae (e.g., *Pyropia yezoensis*, *Centroceras*, *Plocamium*), green algae (e.g., *Spirogyra varians*, *Ulva*), brown algae (e.g., *Sargassum*, *Endoplura*, *Ramipedicella*), and cyanobacteria (e.g., *Microcystis*, *Dolichospermum*, *Capillus*). Key findings include the identification of novel species and genera (e.g., *Tsunamia transpacifica*, *Violetonostoc minutum*, *Fissipedicella orientalis*), the characterization of intron structures and gene expression under stress (e.g., cold stress in *Pyropia yezoensis*, heat tolerance via PyHRG1), and the application of advanced molecular tools such as droplet digital PCR for quantifying harmful algae (e.g., *Cochlodinium polykrikoides*, *Chattonella marina*). Geographically, the studies span Korean coastal waters, the Northwest Pacific, the Aleutian Islands, Antarctica, Bermuda, and New Zealand, with a recurring emphasis on the Korean Peninsula and Jeju Island as biodiversity hotspots. Methodologically, the cluster highlights the integration of traditional morphology with polyphasic approaches, including metabarcoding, phylogenomics, and the development of new barcoding markers, to address taxonomic challenges and improve aquaculture strain management.",
+  "n_entities": 137,
+  "n_papers": 101,
+  "n_papers_with_summaries": 100,
+  "entity_sample": [
+    "1-deoxy-D-xylulose 5-phosphate reductoisomerase (DXR)",
+    "1-deoxy-D-xylulose 5-phosphate synthase (DXS)",
+    "1-deoxy-D-xylulose-5-phosphate",
+    "18 SrRNA",
+    "2-C-methyl-D-erythritol 4-phosphate",
+    "2-ΔΔCt relative quantitative method (Livak method)",
+    "4-hydroxy-3-methylbut-2-enyl diphosphate reductase (HDR)",
+    "5′-RACE",
+    "AOX",
+    "Allophycocyanin"
+  ],
+  "resolution": 8.0
+}

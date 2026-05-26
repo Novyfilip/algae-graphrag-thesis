@@ -1,0 +1,12 @@
+{
+  "community_id": 1066,
+  "summary": "This cluster of papers investigates the summer marine algal distribution along the western coast of Korea, utilizing qualitative and quantitative surveys conducted in 1988 and 1989 across six localities. The research identified 85 algal species, including two newly recorded species, and quantified overall biomass per unit area. Cluster analysis grouped the six sites into two categories based on turbidity levels, while DCA ordination revealed a north-south floristic gradient, indicating that variations in turbidity significantly influence vegetation patterns. The studies employed spectral analysis and spatial data to assess the relationship between algal bloom characteristics and environmental factors, highlighting the ecological role of turbidity in shaping coastal algal communities.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Korean side of the Yellow Sea",
+    "remotely sensed water turbidity pattern"
+  ],
+  "resolution": 8.0
+}

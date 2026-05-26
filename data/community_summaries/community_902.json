@@ -1,0 +1,12 @@
+{
+  "community_id": 902,
+  "summary": "This cluster of research focuses on the isolation and characterization of novel alkaliphilic microalgae from Lake Okeechobee, Florida, specifically the strains *Chloroidium sp. 154-1*, *Chlorella sp. 154-2*, and *Fustulifera sp. 154-3*, for biofuel applications. A key finding across the studies was the high lipid accumulation in *Fustulifera sp. 154-3*, reaching 20-30% of dry weight, with a fatty acid profile dominated by palmitoleic acid (52%) and palmitic acid (17%), alongside a significant proportion of eicosapentaenoic acid (15%). The work underscores the potential of these alkaliphilic diatoms as feedstocks for sustainable biofuel production, linking specific fatty acid compositions to biomass quality.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Triolein",
+    "lipid standard curve"
+  ],
+  "resolution": 8.0
+}

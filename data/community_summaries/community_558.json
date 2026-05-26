@@ -1,0 +1,12 @@
+{
+  "community_id": 558,
+  "summary": "This cluster investigates the enzymatic activity of 5-aminolevulinic acid dehydratase (ALAD), a critical enzyme in chlorophyll biosynthesis, across multiple cyanobacterial genera. The research focused on crude enzyme solutions prepared from *Synechocystis*, *Anabaena*, *Chlorogloea*, *Oscillatoria*, *Lyngbya*, and *Rivularia*, revealing that *Synechocystis* exhibited the highest ALAD activity. A key finding was the species-specific response to metal ions, with 6 mM MgCl₂ significantly inhibiting ALAD in *Synechocystis*, *Anabaena*, and *Rivularia*, while activity in *Microcoleus* remained relatively unaffected. The study highlights subtle differences in metal-binding properties among these cyanobacteria, suggesting *Synechocystis* as the primary driver of ALAD activity in the group, though the geographic or ecological scope of the sampling was not specified.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "& aminolevulinic acid",
+    "greening maize leaves"
+  ],
+  "resolution": 8.0
+}

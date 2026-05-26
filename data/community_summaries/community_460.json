@@ -1,0 +1,13 @@
+{
+  "community_id": 460,
+  "summary": "This cluster focuses on the taxonomic revision and discovery of species within the red algal family Delesseriaceae (Rhodophyta), primarily using molecular data to resolve evolutionary relationships and refine classification. Key findings include the recognition of a new species, *Hypoglossum sabahense*, from Sabah, Malaysia, identified through morphological analysis and the Germling Emergence Method, and the transfer of *Delesseria decipiens* and *D. serrulata* into the genus *Cumathamnion* based on genetic markers from North Pacific and North Atlantic populations. The geographic scope spans tropical Southeast Asia and temperate North American and European waters, highlighting the utility of laboratory cultures and molecular phylogenetics in uncovering hidden diversity and correcting taxonomic frameworks across remote and well-studied regions alike.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Australia (Victoria)",
+    "Phitymophora amansioides",
+    "Phitymophora linearis"
+  ],
+  "resolution": 8.0
+}

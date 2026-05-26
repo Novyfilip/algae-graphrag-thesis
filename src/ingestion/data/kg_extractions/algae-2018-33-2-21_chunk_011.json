@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "AOAC Method 952.08"}, {"method_name": "drying temperature of 105\u00b0C"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "AOAC Method 952.08", "predicate": "STUDIED_WITH", "object": "drying temperature of 105\u00b0C", "confidence": 0.5}]}

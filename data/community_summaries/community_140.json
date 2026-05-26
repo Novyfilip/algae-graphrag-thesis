@@ -1,0 +1,20 @@
+{
+  "community_id": 140,
+  "summary": "This cluster of research is geographically centered on the Northwest Pacific, with a strong emphasis on the coastal waters of Korea and Japan, and focuses heavily on the taxonomy, phylogeny, and biodiversity of red algae (Rhodophyta). Key species such as *Griffithsia okiensis*, *Psilothallia dentata*, *Gracilariopsis chorda*, and *Grateloupia jejuensis* were delineated using molecular markers like *rbcL*, *cox1*, and *psbA*, often revealing cryptic diversity and necessitating taxonomic revisions, including the reclassification of *Psilothallia* into the Ptiloteae tribe and the reinstatement of *Gracilariopsis chorda*. The studies also investigated the ecological dynamics of macroalgal communities, including succession on artificial reefs in Japan and seasonal zonation on Korean shores, while exploring the bioactive potential of species like *Grammatophora marina* and *Achnanthes longipes* for antioxidants and ACE inhibition. Additionally, the cluster addressed the impacts of environmental stressors, such as oil spills on intertidal vegetation and the role of mycosporine-like amino acids as UV protectants in Antarctic rhodophytes, alongside the phylogeographic patterns of economically important genera like *Chondrus* and *Gloiopeltis*.",
+  "n_entities": 123,
+  "n_papers": 65,
+  "n_papers_with_summaries": 65,
+  "entity_sample": [
+    "5′ region of cytochrome c oxidase subunit I (COI-5P)",
+    "ASAP",
+    "CM05",
+    "COI-5P data analysis",
+    "COI-5P haplotype network",
+    "Donghae (DH)",
+    "EAK of Korea",
+    "East Sea (Sea of Japan) coasts",
+    "Eastern Korea",
+    "G. angusta (Okamura) Kawaguchi et Wang"
+  ],
+  "resolution": 8.0
+}

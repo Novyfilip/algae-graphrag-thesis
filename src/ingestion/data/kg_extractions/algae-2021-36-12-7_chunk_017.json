@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "Samtools"}, {"method_name": "Bowtie"}, {"method_name": "Trinity"}, {"method_name": "TransDecoder"}, {"method_name": "BLAST+"}, {"method_name": "CD-hit"}, {"method_name": "OrthoFinder"}, {"method_name": "DIAMOND"}], "environments": [], "markers": [], "applications": [], "relationships": []}

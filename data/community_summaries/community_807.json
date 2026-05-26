@@ -1,0 +1,12 @@
+{
+  "community_id": 807,
+  "summary": "This cluster focuses on the discovery and characterization of a novel cyanobacterium, *Dolichospermum hangangense*, isolated from the Han River in Korea. Researchers employed morphological characterization using light and scanning electron microscopy, alongside molecular phylogenetic analysis of the 16S rRNA gene, to distinguish this species from related taxa within the *Anabaena* genus. Key differentiating features included its thin cylindrical akinetes and solitary, distant heterocytes. The study also addressed the ecological context of this freshwater species, particularly its potential role in algal bloom dynamics.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cyptomonas ovata",
+    "Pal’tang Reservoir"
+  ],
+  "resolution": 8.0
+}

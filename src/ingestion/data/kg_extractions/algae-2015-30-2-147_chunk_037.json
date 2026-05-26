@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "FCP"}, {"compound_name": "sulphated fucans"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "FCP", "predicate": "CONTAINS", "object": "sulphated fucans", "confidence": 0.5}]}

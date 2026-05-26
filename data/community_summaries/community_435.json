@@ -1,0 +1,13 @@
+{
+  "community_id": 435,
+  "summary": "This cluster is united by the application of next-generation sequencing (NGS) technologies, specifically Illumina and Ion Torrent platforms, to analyze organelle genomes and metagenomic data. The research focuses on the development and challenges of bioinformatic pipelines for processing high-throughput sequence data, tracing the historical impact of these methods on biological discovery. The geographic and ecological scope is broad, encompassing any environment where NGS is applied to genomic or metagenomic samples, without a specific regional or taxonomic limitation.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ion Torrent personal genome machine (PGM)",
+    "organelle genome sequencing",
+    "prokaryote genome sequencing"
+  ],
+  "resolution": 8.0
+}

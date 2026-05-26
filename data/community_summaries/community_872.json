@@ -1,0 +1,12 @@
+{
+  "community_id": 872,
+  "summary": "This cluster connects through the study of microalgae and phytoplankton in both applied and ecological contexts, with a shared focus on species such as *Chlorella vulgaris*, *Spirulina platensis*, *Haematococcus pluvialis*, and various bloom-forming taxa like *Anabaena circinalis* and *Scenedesmus* species. Research themes span from the commercial cultivation and industrial application of microalgae in nutraceuticals, cosmetics, and biofuels to the assessment of phytoplankton community structure as indicators of trophic state in freshwater systems. Geographically, the studies range from global commercial production strategies to localized field surveys in Suwon-si, South Korea, where reservoirs and streams were classified as mesotrophic or eutrophic based on phytoplankton abundance. Key findings across the cluster highlight the dual role of algae as valuable biotechnological resources and as sensitive bioindicators of water quality and nutrient enrichment.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Phormidium valderianum var. tenuis",
+    "Seogwipo/Jeju (33°22′08″ N, 126°41′36″ E), marshy land, surface water"
+  ],
+  "resolution": 8.0
+}

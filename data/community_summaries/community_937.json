@@ -1,0 +1,12 @@
+{
+  "community_id": 937,
+  "summary": "This cluster investigates the spatial distribution and ecological drivers of cold-adapted picocyanobacteria, specifically *Synechococcus* clades I and II, in the seas adjacent to Korea during the spring season. Using barcoded amplicon sequencing and flow cytometry, the research identified that clade I dominated shelf areas of the East China Sea and the northern East Sea, whereas clade II was associated with waters influenced by the warm Kuroshio Current. The findings collectively emphasize that water physicochemical properties, such as temperature and current dynamics, are critical in shaping the biogeography of these *Synechococcus* lineages. The geographic scope is confined to the temperate and subarctic waters of the East China Sea and East Sea, highlighting the role of oceanographic features in structuring microbial communities.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "areas affected by coastal water",
+    "clade I Synechococcus"
+  ],
+  "resolution": 8.0
+}

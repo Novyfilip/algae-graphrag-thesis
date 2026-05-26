@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "peptide"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "therapeutic agent"}], "relationships": [{"subject": "peptide", "predicate": "PRODUCES", "object": "therapeutic agent", "confidence": 0.5}]}

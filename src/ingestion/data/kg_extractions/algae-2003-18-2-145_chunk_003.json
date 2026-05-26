@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cryptophyceae", "taxonomic_rank": "class"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Pyeongtaek Reservoir"}, {"environment_name": "watershed streams"}], "markers": [], "applications": [], "relationships": [{"subject": "Cryptophyceae", "predicate": "FOUND_IN", "object": "Pyeongtaek Reservoir", "confidence": 0.5}]}

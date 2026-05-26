@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "F. vesiculosus", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "steady-state fluorescence"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "steady-state fluorescence", "predicate": "STUDIED_WITH", "object": "F. vesiculosus", "confidence": 1.0}]}

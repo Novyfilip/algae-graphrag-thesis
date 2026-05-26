@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "toxins"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "toxins", "predicate": "AFFECTS", "object": "competitive interactions", "confidence": 0.5}]}

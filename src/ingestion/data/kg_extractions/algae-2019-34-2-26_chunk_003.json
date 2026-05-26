@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "DNA metabarcoding"}, {"method_name": "metagenomics"}, {"method_name": "next-generation sequencing"}], "environments": [], "markers": [{"marker_name": "COI"}, {"marker_name": "COI-5P"}, {"marker_name": "ITS"}, {"marker_name": "rbcL"}, {"marker_name": "tufA"}], "applications": [], "relationships": []}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chattonella", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chattonella", "predicate": "PRODUCES", "object": "Blooms", "confidence": 1.0}]}

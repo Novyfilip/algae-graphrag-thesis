@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Dunaliella tertiolecta", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "aquaculture production"}], "relationships": [{"subject": "Dunaliella tertiolecta", "predicate": "AFFECTS", "object": "aquaculture production", "confidence": 0.5}]}

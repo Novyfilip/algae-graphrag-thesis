@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chloroidium sp. 154-1", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "lipid"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chloroidium sp. 154-1", "predicate": "PRODUCES", "object": "lipid", "confidence": 1.0}]}

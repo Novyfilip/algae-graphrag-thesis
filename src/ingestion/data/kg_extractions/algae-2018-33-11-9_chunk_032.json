@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Trachelomonas", "taxonomic_rank": "genus"}, {"species_name": "Strombomonas", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Trachelomonas", "predicate": "BELONGS_TO", "object": "Strombomonas", "confidence": 0.3}]}

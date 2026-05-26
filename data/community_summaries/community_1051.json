@@ -1,0 +1,12 @@
+{
+  "community_id": 1051,
+  "summary": "This cluster investigates the ecological niche partitioning of picocyanobacteria, specifically *Synechococcus* and *Prochlorococcus*, in the oligotrophic northwestern Pacific Ocean. Through 16S rRNA gene sequencing, researchers identified over 20 clades of *Synechococcus* and multiple *Prochlorococcus* lineages, revealing that *Prochlorococcus* dominates the warm pool while both genera exhibit distinct depth-based distributions in the open ocean. Key findings demonstrated that temperature, nutrient availability, and iron levels drive spatial patterns, with *Synechococcus* Clade II being particularly prominent in the upper euphotic zone. The work collectively underscores how environmental gradients shape the biogeography and competitive dynamics of these foundational marine primary producers.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "oligotrophic northwestern Pacific Ocean",
+    "picocyanobacterial lineages"
+  ],
+  "resolution": 8.0
+}

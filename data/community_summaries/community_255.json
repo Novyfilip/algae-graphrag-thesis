@@ -1,0 +1,20 @@
+{
+  "community_id": 255,
+  "summary": "This cluster of research, primarily focused on Korean coastal and estuarine ecosystems, investigates the ecological dynamics of key phytoplankton and macroalgae species in relation to nutrient availability and environmental stressors. Studies on the diatom *Skeletonema costatum* and the mixotrophic ciliate *Myrionecta rubra* in the Keum River Estuary and Sagami Bay revealed that spring blooms and community structure are strongly influenced by freshwater discharge, salinity fluctuations, and nutrient limitations, particularly phosphate and silicate. In the Nakdong River, *Stephanodiscus* growth was found to be primarily limited by phosphate, while in Sagami Bay, centric diatoms like *Guinardia* spp. showed negative correlations with nutrient concentrations and Si/N ratios. Concurrently, research on the green macroalga *Ulva pertusa* in intertidal habitats demonstrated that substrate type (sandy vs. rocky shores) significantly affects photosynthetic performance and nutrient uptake, with growth rates positively correlated with nitrate and phosphate levels. Additionally, studies on the seagrass *Zostera marina* and the red alga *Porphyra* highlighted the roles of heavy metal toxicity (tributyltin, cadmium) and genetic distinctiveness in natural populations, respectively, underscoring the multifaceted ecological pressures shaping Korean marine flora.",
+  "n_entities": 33,
+  "n_papers": 8,
+  "n_papers_with_summaries": 8,
+  "entity_sample": [
+    "Automated cadmium reduction method",
+    "Fucus vesiculosus forma mytili",
+    "Grapher",
+    "SPSS",
+    "eelgrass beds, Haenam, southwestern coast of Korea",
+    "paired Student T-test",
+    "quantum yield measurement",
+    "갈파래",
+    "갯벌 조간대",
+    "광합성 색소"
+  ],
+  "resolution": 8.0
+}

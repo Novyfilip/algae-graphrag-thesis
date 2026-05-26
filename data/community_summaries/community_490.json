@@ -1,0 +1,13 @@
+{
+  "community_id": 490,
+  "summary": "This cluster synthesizes research on the taxonomy, morphology, and population dynamics of marine macroalgae and diatoms, with a focus on species-level differentiation and environmental influences. Studies on *Amphora sensu lato* employed molecular phylogenetics and morphological comparisons to propose the reclassification of *Halamphora* and describe the new species *Amphora terroris*, while investigations into *Campylaephora borealis* and *C. crassa* used statistical character analysis to reveal significant seasonal and taxonomic differences in branchlet number and tetrasporangial size. Research on *Ascophyllum nodosum* in Nova Scotia analyzed annual growth increments, finding that frond age explained minimal variation in length and that segment mass was age-independent, with no significant correlation to regional water or air temperatures. Geographically, the cluster spans global marine and estuarine environments for *Amphora*, temperate Asian coasts for *Campylaephora*, and the rocky intertidal shores of Nova Scotia for *Ascophyllum*, collectively emphasizing the role of morphological and environmental data in resolving taxonomic boundaries and growth patterns.",
+  "n_entities": 3,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "95% confidence intervals",
+    "ANOVA tests",
+    "Tukey HSD multiple comparison tests"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "rbcL"}, {"marker_name": "psbA"}], "applications": [], "relationships": [{"subject": "Culture 4835 (CCMP 3416)", "predicate": "IDENTIFIED_BY", "object": "rbcL", "confidence": 1.0}, {"subject": "Culture 4835 (CCMP 3416)", "predicate": "IDENTIFIED_BY", "object": "psbA", "confidence": 1.0}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 126,
+  "summary": "This cluster of research focuses on the biodiversity, cultivation, bioactive compound extraction, and ecological roles of macroalgae and microalgae, with a strong geographic emphasis on Northeast Asia, particularly Korea, Japan, and coastal China, as well as India and the Northwest Pacific. Key species studied include brown algae such as *Ecklonia cava*, *Sargassum horneri*, *Undaria pinnatifida*, and *Saccharina japonica*, red algae like *Pyropia yezoensis*, *Pterocladiella capillacea*, and *Gracilaria* species, and microalgae including *Chlorella*, *Spirulina*, *Haematococcus pluvialis*, and dinoflagellates like *Cochlodinium polykrikoides*. Common themes across the cluster include the use of enzymatic and ultrasonic extraction methods to isolate antioxidant, anti-inflammatory, and anti-melanogenic compounds such as phlorotannins, fucoidans, and polyphenols; investigations into population genetics, phylogeography, and cryptic diversity using molecular markers like rbcL, cox1, and 16S rRNA; and applied research on seaweed aquaculture, including disease management (e.g., oomycete pathogens in *Pyropia* farms), seedling production, and bioremediation in integrated multi-trophic aquaculture systems. The cluster also addresses ecological monitoring of seaweed community structure, biomass estimation, and the impacts of environmental stressors such as temperature, light, heavy metals, and oil spills on algal physiology and distribution.",
+  "n_entities": 136,
+  "n_papers": 116,
+  "n_papers_with_summaries": 115,
+  "entity_sample": [
+    "70% ethanol extraction",
+    "Alteromonas",
+    "Arabian Gulf region",
+    "East Asian countries",
+    "Fucus fulvellus",
+    "GABA",
+    "Germling Emergence",
+    "Goseong (Aya Port)",
+    "Gracilaria / Gracilariopsis spp.",
+    "HDL"
+  ],
+  "resolution": 8.0
+}

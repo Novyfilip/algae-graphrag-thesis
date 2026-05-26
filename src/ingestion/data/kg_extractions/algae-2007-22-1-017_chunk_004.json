@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sargassum muticum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Pacific coast of North America"}], "markers": [], "applications": [], "relationships": [{"subject": "Sargassum muticum", "predicate": "FOUND_IN", "object": "Pacific coast of North America", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 971,
+  "summary": "The cluster synthesizes research on the biogeography and floristic composition of marine benthic algae in the North Pacific, with a specific focus on the Kamchatka Peninsula and Commander Islands. A shared theme is the analysis of 271 species to delineate floristic variation across three distinct areas, identifying amphipacific species as dominant on the Commander Islands and Arctic-temperate species in the Russian Far East. The studies emphasize the role of these regions as migration corridors and centers of endemism, particularly within the Russian Far East, and address the phenomenon of biological asymmetry in algal formation. Geographically, the work spans the Bering Sea and Pacific Ocean, incorporating historical collections dating to 1743 to trace species distribution patterns and the influence of the Commander Islands on regional flora.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Far Eastern algal flora",
+    "electronic database analysis"
+  ],
+  "resolution": 8.0
+}

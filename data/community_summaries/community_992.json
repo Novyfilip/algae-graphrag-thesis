@@ -1,0 +1,12 @@
+{
+  "community_id": 992,
+  "summary": "This cluster of research focuses on the occurrence and environmental dynamics of microcystin toxins produced by the cyanobacterium *Microcystis* in freshwater systems of South Korea, specifically the Naktong River basin. Studies documented that microcystin concentrations peaked in September and October, with the variant microcystin-RR being most prevalent, and were correlated with algal standing crops and physicochemical parameters. Key findings indicated that toxin levels were highest in Hapchon Lake and the Hagueon Site, while microcystins were largely absent from the water column except during late summer and autumn blooms. The geographic scope is limited to temperate East Asian river and lake systems, with a particular emphasis on the seasonal decomposition of *Microcystis* blooms as a driver of toxin release.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "hepatotoxin microcystin-LR",
+    "hypereutrophic drinking water lakes"
+  ],
+  "resolution": 8.0
+}

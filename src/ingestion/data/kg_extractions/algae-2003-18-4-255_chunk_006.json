@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Anabaena cylindrica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "\ub0a8\uac15\ubb3c"}], "markers": [], "applications": [], "relationships": [{"subject": "Anabaena cylindrica", "predicate": "FOUND_IN", "object": "\ub0a8\uac15\ubb3c", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pleuropterum paradiseum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Urup Island"}], "markers": [], "applications": [], "relationships": [{"subject": "Pleuropterum paradiseum", "predicate": "FOUND_IN", "object": "Urup Island", "confidence": 1.0}]}

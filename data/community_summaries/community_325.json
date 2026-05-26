@@ -1,0 +1,14 @@
+{
+  "community_id": 325,
+  "summary": "This cluster investigates the toxicological impacts of anthropogenic pollutants, specifically Tributyltin (TBT) and heavy metals such as Cadmium (Cd), Copper (Cu), and Zinc (Zn), on the seagrass species *Zostera marina*. Laboratory experiments demonstrated that TBT and heavy metals significantly disrupted photosynthetic processes, notably by increasing chlorophyll a fluorescence and impairing rapid light curve (RLC) parameters, with uptake rates inversely related to pollutant concentration and plant biomass. The findings position *Zostera marina* as a potential biomonitor for TBT contamination in coastal waters, highlighting its ecological relevance for assessing pollution stress in temperate marine environments.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "electron transport rate calculation",
+    "nonlinear regression fitting",
+    "photosynthesis-irradiance curve estimation",
+    "rapid light-response curve measurement"
+  ],
+  "resolution": 8.0
+}

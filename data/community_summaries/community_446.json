@@ -1,0 +1,13 @@
+{
+  "community_id": 446,
+  "summary": "This cluster of research focuses on the spatiotemporal dynamics of freshwater phytoplankton communities in riverine systems, specifically the Naktong River in South Korea. The studies are connected by their investigation of how seasonal variation and anthropogenic nutrient loading, particularly elevated total phosphorus and total nitrogen, drive shifts in species composition and abundance. Key species identified across the work include the diatoms *Achnanthes minutissima*, *Nitzschia fonticola*, *Navicula cryptotenella*, and *Stephanodiscus hantzschii*, as well as the cyanobacterium *Microcystis aeruginosa*. The findings establish strong correlations between phytoplankton standing crops and environmental factors such as biochemical oxygen demand (BOD) and conductivity, with a notable eutrophication impact observed at a specific sampling station (st. 4).",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Microcystis aeruginosa (Kütz.) Kütz.",
+    "Stephanodiscus hantzschii Grun.",
+    "lower reaches"
+  ],
+  "resolution": 8.0
+}

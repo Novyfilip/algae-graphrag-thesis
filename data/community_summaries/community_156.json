@@ -1,0 +1,20 @@
+{
+  "community_id": 156,
+  "summary": "This cluster is unified by a strong focus on the taxonomic discovery and phylogenetic characterization of novel algal and cyanobacterial species, primarily from under-explored geographic regions. Researchers employed polyphasic approaches—integrating 16S rRNA, rbcL, and ITS gene sequencing with morphological and chemotaxonomic analyses—to delineate new taxa such as *Violetonostoc minutum* from subtropical China, *Nodosilinea* species from Okinawa, and *Amazonocrinis thailandica* from Thai rice fields, as well as new red algal genera like *Tsunamia transpacifica* from Pacific drift plastics. A recurring pattern across the cluster is the identification of cryptic diversity and the revision of taxonomic boundaries, as seen in the merging of *Radicilingua* and *Calonitophyllum*, the reclassification of *Pythium porphyrae* as a single species infecting *Pyropia*, and the discovery of distinct *Astrochloris* lichen phycobionts in Antarctica. Geographically, the research spans a wide ecological scope, from Antarctic and New Zealand ecosystems to Korean coastal waters, Indian monuments, and Mediterranean tide pools, with a particular emphasis on tropical and subtropical terrestrial and marine habitats.",
+  "n_entities": 115,
+  "n_papers": 41,
+  "n_papers_with_summaries": 41,
+  "entity_sample": [
+    "16S rRNA gene phylogeny",
+    "16S-23S ITS region",
+    "16S-23S rRNA ITS",
+    "16S-23S rRNA ITS region",
+    "16S-23S rRNA ITS region analysis",
+    "16S-23S rRNA ITS region phylogeny",
+    "16S-23S rRNA ITS region sequencing",
+    "16S-23S rRNA ITS sequence analysis",
+    "Arembepe Beach",
+    "Arembepe Beach, Camaçari municipality, Bahia State"
+  ],
+  "resolution": 8.0
+}

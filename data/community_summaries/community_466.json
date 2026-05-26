@@ -1,0 +1,13 @@
+{
+  "community_id": 466,
+  "summary": "This cluster investigates the cryptic species diversity and genetic fragmentation within the red algal genus *Portieria* (Gigartinales, Rhodophyta) from the northwest Pacific, specifically in Korea, Japan, and Taiwan. Researchers analyzed *rbcL* sequences to resolve phylogenetic relationships, identifying five distinct lineages and confirming cryptic species such as *Portieria japonica* within the *P. hornemannii* complex. The findings reveal that genetic variation is partitioned into geographically distinct subgroups, with microhabitats playing a key role in shaping the evolution of secondary metabolites like ochtodenes. The work underscores the need for further genetic studies to clarify species boundaries and the biogeographic drivers of chemical diversity in this region.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Contarinia peyssonneliaeformis",
+    "Ochtodes secundiramea",
+    "Rhizophyllidaceae"
+  ],
+  "resolution": 8.0
+}

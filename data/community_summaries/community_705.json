@@ -1,0 +1,12 @@
+{
+  "community_id": 705,
+  "summary": "This cluster examines the increasing prevalence and ecological threat of toxic benthic dinoflagellates in Korean waters, driven by rising coastal temperatures. The research focuses on species from the genera *Amphidinium*, *Coolia*, *Ostreopsis*, *Gambierdiscus*, and *Prorocentrum*, which are known to produce potent toxins. Key findings highlight a growing risk to public health and coastal industries, particularly the Korean diet, due to the expansion of these harmful algal species. The geographic scope is specifically centered on the coastal ecosystems of South Korea.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cape Fear, North Carolina",
+    "Gambierdiscus carolinianus"
+  ],
+  "resolution": 8.0
+}

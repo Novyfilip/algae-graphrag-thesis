@@ -1,0 +1,12 @@
+{
+  "community_id": 651,
+  "summary": "This cluster investigates the biodeterioration of stone cultural heritage in Korea, specifically focusing on the role of aerial algae as bio-pollutants. The research identified and characterized newly recorded species, including *Haplaosiphon fontinalis* and *Stigonema turfaceum*, as part of a broader survey of 29 algal taxa across five distinct stone cultural properties. A key finding was a significant increase in average chlorophyll concentration on stones classified as class 4 compared to class 5, indicating that higher algal biomass correlates with more advanced deterioration. The studies consistently documented a notable prevalence of algal infestation at all sites, establishing a direct link between specific cyanobacterial and algal species and the degradation of these culturally significant stone surfaces.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Color measurement",
+    "quantifying surface biofouling"
+  ],
+  "resolution": 8.0
+}

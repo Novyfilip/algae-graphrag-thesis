@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "H. erosum", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "western Australia"}], "markers": [], "applications": [], "relationships": [{"subject": "H. erosum", "predicate": "FOUND_IN", "object": "western Australia", "confidence": 1.0}]}

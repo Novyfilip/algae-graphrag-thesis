@@ -1,0 +1,12 @@
+{
+  "community_id": 948,
+  "summary": "This cluster synthesizes research on the advancement of sustainable seaweed aquaculture, specifically focusing on the seedling production of commercially valuable eucheumatoid species. The papers are connected by their use of micropropagation techniques—including tissue culture, callus culture, and protoplast culture—alongside biostimulants to improve seedling quality and scalability. Key findings emphasize the critical role of acclimatization protocols in reducing disease and herbivory, as well as the optimization of conditions for transitioning from land-based nurseries to open-sea grow-out systems. The geographic and ecological scope is global, addressing the need for scalable, disease-resistant seedstock to support the intensification of seaweed farming.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "cultivated seaweed farming",
+    "mechanical movement to the culture lines"
+  ],
+  "resolution": 8.0
+}

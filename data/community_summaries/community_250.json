@@ -1,0 +1,20 @@
+{
+  "community_id": 250,
+  "summary": "This cluster of papers is united by a focus on the cultivation, molecular analysis, and bioactive compound extraction of diverse algal species, with a strong emphasis on red and brown seaweeds from Korean and East Asian coastal waters. Key species include *Porphyra tenera*, *Undaria pinnatifida*, *Ecklonia cava*, *Chondrus crispus*, and *Gracilaria*, with studies frequently addressing methods for DNA/RNA extraction (e.g., using CTAB, diatomaceous earth, or DEAE-cellulose) and axenic culture techniques to overcome challenges posed by polysaccharides and polyphenols. A major pattern across the cluster is the investigation of sulfated polysaccharides—such as fucoidans and carrageenans—for their anti-inflammatory, anticoagulant, and antioxidant activities, often demonstrated through in vitro assays with RAW 264.7 macrophages or human cell lines. Additionally, several papers explore stress-induced carotenogenesis, lipid accumulation for biofuel potential, and the effects of CO₂ concentration on carbon concentrating mechanisms, reflecting a broad interest in both fundamental algal physiology and applied biotechnology for nutraceutical, pharmaceutical, and aquaculture industries.",
+  "n_entities": 44,
+  "n_papers": 50,
+  "n_papers_with_summaries": 48,
+  "entity_sample": [
+    "3,5-dinitrosalicylic acid method",
+    "ANE",
+    "Analysis of mono-sugar and sulfate group contents",
+    "Arabinose",
+    "EMSF",
+    "Ethanol",
+    "Extraction of crude polysaccharides",
+    "FTIR spectroscopy",
+    "Fourier transform infrared spectroscopy",
+    "Fucose"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,13 @@
+{
+  "community_id": 442,
+  "summary": "This cluster of research focuses on the biodiversity and ecological adaptation of micro-algae and cyanobacteria in sub-aerial, man-made environments, specifically building facades and monuments in tropical regions of India. The studies document a high diversity of taxa, with cyanobacteria such as *Chroococcidiopsis kashayi*, *Pseudophormidium indicum*, *Plectonema puteale*, and *Scytonema geitleri* being prevalent alongside green algae like *Chlorococcum infusionum* and *Trentepholia aurea*. A key finding is that the warm, humid tropical climate supports a distinct community composition, contrasting with temperate regions where genera such as *Klebsormidium*, *Stichococcus*, *Trebouxia*, and *Gloeocapsa* dominate. The research emphasizes the geographic scope of these organisms across Indian sub-aerial habitats, particularly their ability to withstand extreme temperature fluctuations and desiccation during summer months.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Lyngbya polysiphoniae",
+    "Oscillatoria autumnalis",
+    "limestone quarry, Shillong, Meghalaya"
+  ],
+  "resolution": 8.0
+}

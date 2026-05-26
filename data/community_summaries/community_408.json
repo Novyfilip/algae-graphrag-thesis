@@ -1,0 +1,13 @@
+{
+  "community_id": 408,
+  "summary": "This cluster investigates biotic stress in red algae, specifically the formation of abnormal tissue growths and the suppression of host growth by endophytic organisms. Research on *Bostrychia* species documented persistent gall production in unialgal cultures, with virus-like particles observed via electron microscopy suggesting a potential viral etiology for these rarely reported structures. Concurrently, studies on *Chondrus ocellatus* demonstrated that the endophytes *Mikrosyphar zosterae* and *Ulvella ramosa* significantly inhibit host growth, with *U. ramosa* particularly affecting apical meristems while inducing compensatory lateral branching. The geographic scope is not explicitly defined, but the work collectively advances understanding of pathological interactions and developmental anomalies in cultured Rhodophyta.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Endophyton sp.",
+    "Iridaea laminarioides",
+    "Pleurocapsa sp."
+  ],
+  "resolution": 8.0
+}

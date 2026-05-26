@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Lithothamnion", "taxonomic_rank": "genus"}, {"species_name": "Melobesioideae", "taxonomic_rank": "subfamily"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Lithothamnion", "predicate": "BELONGS_TO", "object": "Melobesioideae", "confidence": 1.0}]}

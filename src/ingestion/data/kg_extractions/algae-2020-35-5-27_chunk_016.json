@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. macrocarpum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "nature"}], "markers": [], "applications": [], "relationships": [{"subject": "S. macrocarpum", "predicate": "FOUND_IN", "object": "nature", "confidence": 1.0}]}

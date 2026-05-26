@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Closterium moniliferum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Gola River, Pantnagar"}], "markers": [], "applications": [], "relationships": [{"subject": "Closterium moniliferum", "predicate": "FOUND_IN", "object": "Gola River, Pantnagar", "confidence": 1.0}]}

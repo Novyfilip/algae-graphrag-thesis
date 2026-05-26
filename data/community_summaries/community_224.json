@@ -1,0 +1,20 @@
+{
+  "community_id": 224,
+  "summary": "This cluster of research is unified by a strong focus on the biodiversity, taxonomy, and biogeography of marine algae, particularly in the North Pacific, Arctic, and Korean coastal waters. Key connecting themes include the phylogenetic revision of the family Scytosiphonaceae using molecular markers such as *psaA*, *rbcL*, and *cox3*, and the discovery of cryptic and new species (e.g., *Rosenvingea orientalis*, *Soranthera ulvoidea*, *Platysiphon verticillatus*) across the Bering Sea, Kamchatka, and the Aleutian Islands. The studies also emphasize the ecological and economic significance of cold-tolerant and temperate macroalgae, including *Pyropia yezoensis*, *Undaria pinnatifida*, and *Chondrus ocellatus*, with investigations into endophytic interactions, antioxidant activities, and cultivation for food and biofuel. Geographically, the research spans high-latitude Arctic and subarctic regions (Svalbard, White Sea, King George Island) to temperate and subtropical zones (Korea, Gulf of California, Hawaii), highlighting both historical expedition data and modern molecular techniques to resolve taxonomic uncertainties and document algal diversity.",
+  "n_entities": 74,
+  "n_papers": 56,
+  "n_papers_with_summaries": 56,
+  "entity_sample": [
+    "5′-cytochrome oxidase (COI) barcoding",
+    "Acinetosporaceae",
+    "Adenocystaceae",
+    "Asperococcaceae",
+    "Boiler Bay, Oregon, USA",
+    "Canadian Arctic",
+    "Cape Arago",
+    "Cape Arago, Oregon, USA",
+    "Chordariaceae s.l.",
+    "Chordariaceae sensu lato"
+  ],
+  "resolution": 8.0
+}

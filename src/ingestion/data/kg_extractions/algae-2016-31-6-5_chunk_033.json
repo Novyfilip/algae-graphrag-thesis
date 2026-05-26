@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "Sanger sequencing"}, {"method_name": "NGS run"}, {"method_name": "read mapping"}, {"method_name": "blastn"}, {"method_name": "blastx"}], "environments": [], "markers": [], "applications": [], "relationships": []}

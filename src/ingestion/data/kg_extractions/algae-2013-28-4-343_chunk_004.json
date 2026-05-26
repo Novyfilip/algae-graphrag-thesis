@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "phototrophic dinoflagellates", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "marine planktonic food webs"}], "markers": [], "applications": [], "relationships": [{"subject": "phototrophic dinoflagellates", "predicate": "FOUND_IN", "object": "marine planktonic food webs", "confidence": 1.0}]}

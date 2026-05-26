@@ -1,0 +1,12 @@
+{
+  "community_id": 1012,
+  "summary": "This cluster investigates phytoplankton community dynamics in river systems, with a shared focus on the ecological roles of key species such as the diatom *Stephanodiscus hantzschii* and the cyanobacteria *Microcystis aeruginosa* and *Aphanizomenon flos-aquae*. Studies consistently linked seasonal shifts in dominant phytoplankton to variations in nutrient concentrations, particularly nitrogen and phosphorus, and water quality parameters like pH, dissolved oxygen, and temperature. The research was geographically centered on the lower Nakdong River, with data collected over a two-year period from 2002 to 2003, revealing that *Stephanodiscus hantzschii* frequently dominated during late fall and spring. Across the cluster, findings emphasized how nutrient dynamics directly drive phytoplankton succession and water quality changes in this temperate river ecosystem.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Keumho River",
+    "lower Nakdong hydrosphere"
+  ],
+  "resolution": 8.0
+}

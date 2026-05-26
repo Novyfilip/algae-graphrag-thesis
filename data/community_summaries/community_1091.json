@@ -1,0 +1,12 @@
+{
+  "community_id": 1091,
+  "summary": "This cluster investigates the toxicity and ecological impact of the red tide dinoflagellate *Cochlodinium polykrikoides*, particularly its role in fish kill events. Researchers screened extracts using HPLC and identified hemolytic activity but found no evidence of ichthyotoxicity, nor effects on fish growth or mitochondrial respiration. The studies concluded that the ichthyotoxic effects of *C. polykrikoides* are distinct from ROS-mediated oxidative damage, characterizing it as a non-toxic dinoflagellate. The geographic scope focuses on harmful algal bloom events, likely in coastal waters where this species forms red tides.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "HPLC systems",
+    "standard toxins"
+  ],
+  "resolution": 8.0
+}

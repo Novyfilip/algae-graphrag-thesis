@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "U. pertusa", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "Chl a"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "U. pertusa", "predicate": "CONTAINS", "object": "Chl a", "confidence": 1.0}]}

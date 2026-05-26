@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Nodosilinea", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Okinawa"}], "markers": [], "applications": [], "relationships": [{"subject": "Nodosilinea", "predicate": "FOUND_IN", "object": "Okinawa", "confidence": 1.0}]}

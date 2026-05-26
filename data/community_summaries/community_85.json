@@ -1,0 +1,20 @@
+{
+  "community_id": 85,
+  "summary": "This cluster of research is heavily centered on the biodiversity, taxonomy, and ecology of marine macroalgae (seaweeds) and phytoplankton in Korean coastal waters, with a particular emphasis on Jeju Island and the South Sea. A core connecting theme is the frequent study of brown algae species such as *Hizikia fusiformis*, *Sargassum horneri*, *Ecklonia cava*, and *Undaria pinnatifida*, alongside red algae like *Corallina pilulifera*, *Grateloupia* spp., and *Pyropia yezoensis*, often in the context of community structure, vertical zonation, and biomass surveys. Key findings across the cluster included the identification of numerous new species and taxonomic revisions based on molecular phylogenetics (e.g., using rbcL, cox1, and ITS sequences), as well as investigations into the physiological responses of algae to environmental stressors such as temperature, salinity, and nutrient loading. The geographic scope was predominantly centered on the Korean Peninsula, including the Yellow Sea, East Sea, and the southern coast, with a significant number of studies also documenting the distribution of these species in Japan, the Northwest Pacific, and, to a lesser extent, the Eastern Pacific and Atlantic Oceans.",
+  "n_entities": 169,
+  "n_papers": 350,
+  "n_papers_with_summaries": 349,
+  "entity_sample": [
+    "AJ287851",
+    "Alexandrium leei",
+    "Alnus japonica",
+    "Ankistrodesmus braunii",
+    "Ankyra",
+    "Ankyra judayi",
+    "Auduznella dictyotae",
+    "Auduznella humilis",
+    "Auduznella plumosa",
+    "Aulosira"
+  ],
+  "resolution": 8.0
+}

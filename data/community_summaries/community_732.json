@@ -1,0 +1,12 @@
+{
+  "community_id": 732,
+  "summary": "This cluster focuses on the physiological and molecular acclimation mechanisms of the marine red alga *Pyropia yezoensis* to cold stress, a key environmental challenge for this economically important species. Through integrated physiological and transcriptome analyses, researchers identified that prolonged cold exposure depresses photosynthetic activity, pigment content, and growth rate, while triggering a complex network of differentially expressed genes. These genes are primarily associated with carbohydrate and energy metabolism, ribosomal biogenesis, and lipid metabolism, collectively underpinning a systemic acquired acclimation response. The findings provide specific genetic markers and metabolic pathways that could be targeted for improving cold tolerance in *P. yezoensis* cultivation, with implications for the seaweed aquaculture industry in temperate marine regions.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Heterochlorella luteoviridis",
+    "ω3-fatty acids"
+  ],
+  "resolution": 8.0
+}

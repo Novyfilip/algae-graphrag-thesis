@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "prymnesiophyte algae", "taxonomic_rank": "group"}, {"species_name": "golden algae", "taxonomic_rank": "group"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "prymnesiophyte algae", "predicate": "BELONGS_TO", "object": "nonphotosynthetic phagotroph", "confidence": 0.5}]}

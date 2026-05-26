@@ -1,0 +1,20 @@
+{
+  "community_id": 43,
+  "summary": "This cluster of papers is unified by a strong geographic focus on the marine algal flora of the Korean Peninsula, particularly its eastern, southern, and western coasts, including specific islands such as Jeju, Ulleungdo, and Dokdo. A core set of brown and red algal species—*Sargassum thunbergii*, *Corallina pilulifera*, *Hizikia fusiformis*, *Ulva pertusa*, and *Gloiopeltis furcata*—recurred as dominant or subdominant taxa across numerous studies, which consistently examined vertical zonation, seasonal biomass fluctuations, and community succession in intertidal and subtidal zones. Several investigations also assessed anthropogenic impacts, such as thermal effluents from nuclear power plants (e.g., at Kori, Wolseong, and Uljin) and eutrophication, documenting shifts toward warm-tolerant or opportunistic species like *Enteromorpha compressa* and *Padina arborescens*. Taxonomic and phylogenetic work within the cluster employed molecular markers (e.g., *rbcL*, COI-5P, ITS) to resolve cryptic diversity and describe new species, particularly within the genera *Polysiphonia*, *Grateloupia*, and the Ralfsiaceae, while a smaller subset of papers extended the geographic scope to freshwater habitats in India, the Northwest Pacific, and the Arctic.",
+  "n_entities": 224,
+  "n_papers": 188,
+  "n_papers_with_summaries": 186,
+  "entity_sample": [
+    "15-keto-prostaglandins",
+    "AJ287852",
+    "AUSTRALIA",
+    "American Atlantic",
+    "Andaman and Nicobar islands",
+    "Andongho",
+    "Anjuna coast",
+    "Ankistrodesmus gracilis",
+    "Baga (Goa)",
+    "Baga Beach (Goa)"
+  ],
+  "resolution": 8.0
+}

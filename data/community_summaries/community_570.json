@@ -1,0 +1,12 @@
+{
+  "community_id": 570,
+  "summary": "This cluster focuses on the taxonomic revision and phylogenetic characterization of algal species from Korea and neighboring East Asian regions, specifically the newly identified marine brown alga *Cladosiphon umezakii Ajisaka* and the freshwater green alga *Prasiola formosana var. coreana*. Researchers employed morphological analysis and molecular markers, including plastid genes such as *rbcL*, to resolve species boundaries and evolutionary relationships, revealing that *P. japonica* is the most widespread *Prasiola* species across limestone bedrock areas in Korea, Japan, and China. The studies highlight the economic and medicinal significance of *Cladosiphon umezakii*, prompting calls for mass culture studies, while also revising the taxonomic status of *Prasiola* species to account for previously unrecognized diversity. Geographically, the research spans the south coast of Korea for the marine species and freshwater limestone habitats across Korea, Japan, and China for the *Prasiola* genus.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "ABI PRISM 3730XL Analyzer",
+    "Terminator Cycle Sequencing Kits"
+  ],
+  "resolution": 8.0
+}

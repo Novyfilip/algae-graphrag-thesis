@@ -1,0 +1,12 @@
+{
+  "community_id": 975,
+  "summary": "This cluster of research focuses on the brown alga *Ecklonia cava* as a source of bioactive compounds, specifically investigating advanced extraction methods to maximize yield and efficacy. A key finding is that ultrasound-assisted extraction significantly outperforms conventional techniques by increasing total polyphenolic content and enhancing radical-scavenging activity, with extracts showing superior protection against hydrogen peroxide-induced DNA damage. The studies collectively highlight the potential of this cost-effective, scalable technology for industrial applications in antioxidant production, though the geographic and ecological scope is not explicitly defined in the provided summaries.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "extraction industry of seaweeds",
+    "sonication method"
+  ],
+  "resolution": 8.0
+}

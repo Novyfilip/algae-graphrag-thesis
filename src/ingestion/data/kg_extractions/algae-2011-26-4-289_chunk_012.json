@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gracilaria", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Vegetative plants", "predicate": "FOUND_IN", "object": "Gracilaria", "confidence": 1.0}]}

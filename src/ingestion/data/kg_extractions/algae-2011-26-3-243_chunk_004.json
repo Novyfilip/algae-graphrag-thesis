@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Phaeophyceae", "taxonomic_rank": "class"}], "compounds": [], "methods": [], "environments": [{"environment_name": "wave-exposure regimes"}], "markers": [], "applications": [], "relationships": [{"subject": "Phaeophyceae", "predicate": "AFFECTS", "object": "wave-exposure regimes", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Audouinella botryocarpa", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "floridean starch"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Audouinella botryocarpa", "predicate": "PRODUCES", "object": "floridean starch", "confidence": 1.0}]}

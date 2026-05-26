@@ -1,0 +1,12 @@
+{
+  "community_id": 771,
+  "summary": "This cluster investigates the mechanisms of chloroplast retention in photosynthetic sea slugs, specifically focusing on *Placida dendritica* and its symbiotic relationship with the green alga *Bryopsis* spp. Transcriptome analysis of *P. dendritica* found no evidence of widespread horizontal gene transfer (HGT), with the exception of a single actin gene, PdActin04, which showed high identity to the algal gene BpActin03. Phylogenetic incongruence with known algal phylogenies challenged the traditional explanation that HGT is the primary driver of long-term chloroplast maintenance in this system. The findings suggest an alternative, non-HGT-based mechanism for sustaining the symbiosis, emphasizing the ecological and evolutionary significance of this specific host-alga pairing for studying chloroplast transfer.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Alpha tubulin 2",
+    "Micromonas sp."
+  ],
+  "resolution": 8.0
+}

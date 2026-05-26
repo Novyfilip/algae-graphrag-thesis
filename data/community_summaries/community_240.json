@@ -1,0 +1,20 @@
+{
+  "community_id": 240,
+  "summary": "This cluster is unified by a strong focus on taxonomic discovery and phylogenetic characterization of algae, primarily from the Northwest Pacific region, with a particular emphasis on Korea, Japan, China, and Vietnam. Researchers employed molecular markers such as 16S rRNA, rbcL, tufA, and LSU rDNA, often combined with morphological analysis, to identify and delineate new species and genera, including *Violetonostoc minutum*, *Ulva pseudo-ohnoi*, *Tauya basicrassa*, *Haraldiophyllum udoensis*, *Dolichospermum hangangense*, and *Umbraulva yunseulla*. A recurring pattern across the cluster was the use of polyphasic approaches to resolve cryptic diversity and evolutionary relationships, as seen in studies of *Plocamium*, *Bostrychia*, and *Parvilucifera*, while several papers addressed the ecological and economic implications of algal blooms, such as those caused by *Ulva* and *Gonyaulax polygramma* in Korean coastal waters. The geographic scope was heavily concentrated on temperate and subtropical Asian marine and freshwater ecosystems, with additional contributions from the Sea of Okhotsk, Svalbard, Florida, and the Hawaiian Islands, highlighting both regional biodiversity hotspots and the global distribution of algal research.",
+  "n_entities": 53,
+  "n_papers": 32,
+  "n_papers_with_summaries": 32,
+  "entity_sample": [
+    "18S V4",
+    "Craste de Louley River at Lacanau, France",
+    "Cát Tiên National Park",
+    "Cát Tiên National Park, Đồng Nai Province",
+    "Eolimna",
+    "Ho Chi Minh City",
+    "M. atomusa",
+    "M. crassistriataa",
+    "M. excelsa",
+    "M. lacunolaciniata"
+  ],
+  "resolution": 8.0
+}

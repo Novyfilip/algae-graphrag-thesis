@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "LMW fucoidan"}, {"compound_name": "dalteparin"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "antithrombotic activity"}], "relationships": [{"subject": "LMW fucoidan", "predicate": "PRODUCES", "object": "antithrombotic activity", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "Linear regressions"}, {"method_name": "Microsoft EXCEL"}], "environments": [{"environment_name": "Sinclair Inlet"}], "markers": [], "applications": [], "relationships": [{"subject": "Linear regressions", "predicate": "STUDIED_WITH", "object": "Microsoft EXCEL", "confidence": 1.0}]}

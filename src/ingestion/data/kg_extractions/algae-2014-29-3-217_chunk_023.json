@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "C"}, {"compound_name": "N"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C", "predicate": "CONTAINS", "object": "N", "confidence": 0.5}]}

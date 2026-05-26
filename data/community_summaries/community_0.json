@@ -1,0 +1,20 @@
+{
+  "community_id": 0,
+  "summary": "This cluster of papers is unified by a strong focus on the biodiversity, community structure, and ecological dynamics of marine and freshwater algae in Korean coastal waters, estuaries, and inland reservoirs. Key species frequently studied include the diatoms *Skeletonema costatum*, *Chaetoceros debilis*, *Stephanodiscus hantzschii*, and *Aulacoseira granulata*, the dinoflagellates *Cochlodinium polykrikoides* and *Alexandrium tamarense*, and the macroalgae *Hizikia fusiformis*, *Corallina pilulifera*, and *Ulva pertusa*. Across the cluster, researchers consistently documented seasonal succession patterns, shifts in dominant phytoplankton groups (e.g., from diatoms to cyanobacteria or dinoflagellates), and the influence of environmental drivers such as salinity gradients, nutrient loading (nitrogen and phosphorus), water temperature, and turbidity on algal blooms and community composition. Geographically, the studies were predominantly conducted in South Korea, spanning the South Sea, East Sea, Yellow Sea, and major river systems like the Nakdong and Han Rivers, with additional work in Antarctic, Indian, and Pacific locations.",
+  "n_entities": 735,
+  "n_papers": 211,
+  "n_papers_with_summaries": 210,
+  "entity_sample": [
+    "15°C",
+    "A. aponina",
+    "AA",
+    "AY485457",
+    "Achnanthes sp.",
+    "Achnanthidium sp.",
+    "Actinastrum hantzschii var. fluviatile",
+    "Actinocyclus normanii",
+    "Actinocyclus octonarius",
+    "Actinocyclus octonarius Ehrenberg"
+  ],
+  "resolution": 8.0
+}

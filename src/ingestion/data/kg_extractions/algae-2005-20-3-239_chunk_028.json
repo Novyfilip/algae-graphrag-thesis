@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bryopsis", "taxonomic_rank": "genus"}, {"species_name": "Microdictyon boergesenii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Bryopsis", "predicate": "STUDIED_WITH", "object": "Microdictyon boergesenii", "confidence": 0.5}]}

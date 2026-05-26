@@ -1,0 +1,20 @@
+{
+  "community_id": 21,
+  "summary": "This cluster of research is geographically centered on the North Pacific, particularly the coastal waters of Korea, Japan, the Russian Far East (including the Sea of Okhotsk and Bering Sea), and the Northwest Atlantic (Nova Scotia), with a strong emphasis on the ecology, taxonomy, and cultivation of macroalgae. Key connecting themes include the use of molecular markers (such as rbcL, COI-5P, and ITS) for species identification and phylogenetic analysis, as seen in studies on *Chondrus*, *Gracilaria*, *Hypnea*, and *Neosiphonia*, alongside investigations into the physiological responses of species like *Ascophyllum nodosum*, *Pyropia yezoensis*, and *Corallina officinalis* to environmental stressors such as light, temperature, and salinity. The cluster also features applied research on seaweed aquaculture and bioremediation, focusing on genera like *Pyropia*, *Gracilaria*, and *Sargassum*, and includes studies on algal pathogens (*Pythium* spp.) and symbiotic relationships, such as the *Ascophyllum-Mycophycias-Verebrata* complex. A notable pattern across the cluster is the integration of historical floristic surveys with modern molecular and physiological techniques to address questions of biodiversity, biogeography, and sustainable resource management.",
+  "n_entities": 280,
+  "n_papers": 124,
+  "n_papers_with_summaries": 123,
+  "entity_sample": [
+    "Acrochaete heteroclada",
+    "Acrochaete operculata",
+    "Akaike's information criterion (AICc)",
+    "Alaria esculenta",
+    "Annapolis County",
+    "Antigonish Harbour",
+    "Antigonish Harbour (inner harbour)",
+    "Antigonish Harbour (outer harbour)",
+    "Arthrothamnus radicans",
+    "Ascophylllum"
+  ],
+  "resolution": 8.0
+}

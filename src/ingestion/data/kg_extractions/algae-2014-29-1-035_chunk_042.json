@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. palmata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "halibut effluent"}], "markers": [], "applications": [], "relationships": [{"subject": "P. palmata", "predicate": "FOUND_IN", "object": "halibut effluent", "confidence": 1.0}]}

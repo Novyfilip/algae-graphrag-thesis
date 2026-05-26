@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "E. arborea", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Isla Natividad"}], "markers": [], "applications": [], "relationships": [{"subject": "E. arborea", "predicate": "FOUND_IN", "object": "Isla Natividad", "confidence": 1.0}]}

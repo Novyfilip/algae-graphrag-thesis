@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "chlorophyll a"}], "methods": [{"method_name": "Imaging-PAM fluorometry"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Imaging-PAM fluorometry", "predicate": "STUDIED_WITH", "object": "chlorophyll a", "confidence": 1.0}]}

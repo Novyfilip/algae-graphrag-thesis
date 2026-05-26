@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. catenatum", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "sub-surface"}], "markers": [], "applications": [], "relationships": [{"subject": "G. catenatum", "predicate": "FOUND_IN", "object": "sub-surface", "confidence": 0.5}]}

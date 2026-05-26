@@ -1,0 +1,16 @@
+{
+  "community_id": 279,
+  "summary": "This cluster focuses on the taxonomic revision and phylogenetic characterization of cyanobacteria, specifically within the family Geminocystaceae. Researchers employed a polyphasic approach, integrating 16S rRNA gene sequencing with morphological and genetic analyses, to describe the novel species *Geminocystis urbisnovae* from the CALU culture collection. Key findings include the identification of complementary chromatic adaptation and small cell size as distinguishing traits, alongside a re-evaluation of the family's phylogenetic placement that highlights its historical underrepresentation. The work is primarily laboratory-based, utilizing cultured strains rather than field samples, and contributes to resolving evolutionary relationships within the Chroococcales order.",
+  "n_entities": 6,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Alkaline Lake Grande, Brazil",
+    "Bay Kurta, Lake Balkhash, Republik of Kasakhstan",
+    "Cyanobacterium sp.",
+    "Sakamoto hot spring",
+    "Thermal Spring Thermo-piles, Greece",
+    "Thermal spring in Lefkada, Greece"
+  ],
+  "resolution": 8.0
+}

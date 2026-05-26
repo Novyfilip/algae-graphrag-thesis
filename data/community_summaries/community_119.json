@@ -1,0 +1,20 @@
+{
+  "community_id": 119,
+  "summary": "This cluster of papers is united by a focus on the cultivation, physiology, and bioactive compound production of diverse algae and cyanobacteria, with a strong emphasis on species from Korean and Northwest Pacific coastal waters. Key findings include the optimization of growth conditions for commercially valuable species such as *Eucheuma serra*, *Gracilaria chorda*, *Pyropia yezoensis*, and *Ecklonia cava*, often through manipulation of nutrients, CO₂ levels, salinity, and light. A recurring theme is the characterization of anti-inflammatory, antioxidant, and anti-cancer metabolites, including phlorotannins (dieckol, eckol), fucoidans, and sterols from brown and red seaweeds, as well as the enhancement of lipid and carotenoid (astaxanthin, β-carotene) production in microalgae like *Haematococcus pluvialis*, *Dunaliella salina*, and *Tetraselmis* sp. for nutraceutical and biofuel applications. The research also addresses harmful algal bloom dynamics, particularly for *Cochlodinium polykrikoides* and *Chattonella* species, and the ecological impacts of heavy metals and biocides, while several studies employ molecular and phylogenetic methods to resolve taxonomic ambiguities in genera such as *Plocamium*, *Portieria*, and *Coolia*.",
+  "n_entities": 139,
+  "n_papers": 112,
+  "n_papers_with_summaries": 111,
+  "entity_sample": [
+    "3N-BBM+V",
+    "AFCg",
+    "B-carotene",
+    "C. pyrenoidosa",
+    "CaCl2",
+    "CaCl2·2H2O",
+    "CaCl2‧2H2O",
+    "Characterization techniques of SPs",
+    "Chlorella marina",
+    "Chlorophyll fluorescence measurement"
+  ],
+  "resolution": 8.0
+}

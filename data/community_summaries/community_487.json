@@ -1,0 +1,13 @@
+{
+  "community_id": 487,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally reshaped over the past half-century by the integration of DNA barcoding and phylogenetic analysis, which revealed extensive cryptic diversity and led to the systematic division of previously recognized genera. These molecular techniques, combined with increased field access via SCUBA, have dramatically expanded the known species richness across this geographic region, highlighting a pattern of hidden biodiversity that was previously underestimated. The cluster underscores a shift from morphology-based taxonomy to genetic identification as the primary method for resolving species boundaries in marine algal communities.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Tricleocarpa",
+    "Tricleocarpa cylindrica",
+    "Tricleocarpa fragilis"
+  ],
+  "resolution": 8.0
+}

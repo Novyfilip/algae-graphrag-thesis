@@ -1,0 +1,12 @@
+{
+  "community_id": 738,
+  "summary": "This cluster focuses on the taxonomic revision and biogeographic documentation of freshwater red algae from the Indian subcontinent, specifically addressing the nomenclatural complexities within the *Acrochaetium*-*Audouinella*-*Chantransia* complex and *Batrachospermum* sensu lato. The research synthesizes over 150 years of bibliographic records to identify nine endemic Indian species requiring formal taxonomic updates. The geographic scope is exclusively India, with the work providing a critical roadmap for resolving long-standing taxonomic ambiguities in these freshwater algal groups.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Indian freshwater red algal taxa",
+    "molecular sequence data studies"
+  ],
+  "resolution": 8.0
+}

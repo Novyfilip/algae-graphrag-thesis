@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Murrayella periclados", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "Video-microscopy"}, {"method_name": "time-lapse observations"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Murrayella periclados", "predicate": "BELONGS_TO", "object": "Rhodomelaceae", "confidence": 1.0}]}

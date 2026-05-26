@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "epiphytic diatoms", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "estuary lake"}], "markers": [], "applications": [], "relationships": [{"subject": "epiphytic diatoms", "predicate": "FOUND_IN", "object": "estuary lake", "confidence": 0.5}]}

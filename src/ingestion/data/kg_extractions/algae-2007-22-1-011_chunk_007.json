@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "peridinine"}], "methods": [{"method_name": "differential interference contrast optics"}, {"method_name": "DAPI staining"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "peridinine", "predicate": "PRODUCES", "object": "brownish pigmentation", "confidence": 0.5}]}

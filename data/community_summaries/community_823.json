@@ -1,0 +1,12 @@
+{
+  "community_id": 823,
+  "summary": "This cluster investigates the phylogeography and genetic diversity of cryptic species within the red alga *Bostrychia tenella* (Rhodomelaceae, Rhodophyta), specifically focusing on species B and C across the Thai-Malay Peninsula. Using RuBisCo spacer gene sequences, the research revealed that cryptic species B is more prevalent and exhibits higher genetic diversity than species C, indicating distinct historical population dynamics. These patterns were linked to the region’s geological history and sea surface current circulation, with samples collected from both the Andaman Sea and the Gulf of Thailand. The findings highlight how oceanographic barriers and historical events shape gene flow and dispersal in marine macroalgae across this biogeographically complex peninsula.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "PopART v1.7",
+    "median joining"
+  ],
+  "resolution": 8.0
+}

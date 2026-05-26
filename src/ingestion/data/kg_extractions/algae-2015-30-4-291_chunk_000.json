@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Laurencia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [{"method_name": "diverse microscopy approaches"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Laurencia", "predicate": "STUDIED_WITH", "object": "diverse microscopy approaches", "confidence": 1.0}]}

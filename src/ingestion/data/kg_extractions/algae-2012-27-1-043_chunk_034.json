@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Palmaria palmata", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "Mathematical Model of Harvest"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Palmaria palmata", "predicate": "STUDIED_WITH", "object": "Mathematical Model of Harvest", "confidence": 1.0}]}

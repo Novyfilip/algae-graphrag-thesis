@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ditylum brightwellii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "coastal waters of Yellow Sea, Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Ditylum brightwellii", "predicate": "FOUND_IN", "object": "coastal waters of Yellow Sea, Korea", "confidence": 1.0}]}

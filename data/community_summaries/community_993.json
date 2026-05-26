@@ -1,0 +1,12 @@
+{
+  "community_id": 993,
+  "summary": "Research in this cluster focused on the genetic regulation of heterocyst differentiation in filamentous cyanobacteria, specifically examining the antagonistic interaction between the *patS* and *hetR* genes. Through gene expression analysis, studies demonstrated that these genes establish a mutually inhibitory regulatory pathway critical for balancing cell fates, ensuring the proper spatial patterning of heterocysts among vegetative cells. The findings were based on laboratory-based molecular characterization rather than field studies, with no specific geographic or ecological scope reported. This work collectively advanced the understanding of how cyanobacterial developmental patterns are controlled at the transcriptional level.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "blunted with T4 polymerase",
+    "hetR promoter"
+  ],
+  "resolution": 8.0
+}

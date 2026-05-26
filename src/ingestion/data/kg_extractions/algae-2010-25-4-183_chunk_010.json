@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Calcium oxalate crystals"}, {"compound_name": "brown pigment"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Calcium oxalate crystals", "predicate": "CONTAINS", "object": "brown pigment", "confidence": 0.5}]}

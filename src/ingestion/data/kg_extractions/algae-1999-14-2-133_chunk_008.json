@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "B. radicans", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "mangrove"}], "markers": [], "applications": [], "relationships": [{"subject": "B. radicans", "predicate": "FOUND_IN", "object": "mangrove", "confidence": 1.0}]}

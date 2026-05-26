@@ -1,0 +1,12 @@
+{
+  "community_id": 1003,
+  "summary": "This cluster investigates the limnology and phytoplankton dynamics of a eutrophic Bolivian pond, studied from July 1989 to June 1990. The research focused on the relationship between high concentrations of nitrate, phosphate, and sulfate, a stable alkaline pH of around 10 maintained by a carbonate-bicarbonate buffering system, and the dominance of cyanobacteria, specifically *Anabaena*, *Spirulina*, and *Oscillatoria*. A key finding was a strong correlation between nitrate levels and the distribution of these blue-green algal species, with the eutrophic condition confirmed through seasonal analysis of water level fluctuations and environmental factors using the Shannon species diversity index.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Hemiptera",
+    "insects"
+  ],
+  "resolution": 8.0
+}

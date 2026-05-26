@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bangiales", "taxonomic_rank": "order"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Aleutian Islands"}], "markers": [], "applications": [], "relationships": [{"subject": "Bangiales", "predicate": "FOUND_IN", "object": "Aleutian Islands", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "coral reef region of Xisha Islands"}, {"environment_name": "South China Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "coral reef region of Xisha Islands", "predicate": "FOUND_IN", "object": "South China Sea", "confidence": 1.0}]}

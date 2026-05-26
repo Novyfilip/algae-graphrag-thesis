@@ -1,0 +1,12 @@
+{
+  "community_id": 611,
+  "summary": "This cluster of research centers on the industrial cultivation and commercialization of specific microalgae species, particularly *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis*, for their high-value bioproducts. Key findings across the corpus detailed the historical transition of these organisms from basic scientific study to large-scale production, with a focus on optimizing cultivation methods to enhance yields for diverse applications. The studies consistently highlighted the economic potential of these algae in the nutraceutical, cosmetic, and biofuel sectors, driven by their production of valuable compounds such as astaxanthin and proteins. The geographic and ecological scope of this work was broad, reflecting a global interest in leveraging these species as sustainable commercial resources.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Asteromphalus heptactis (Brébisson) Ralfs in Pritchard",
+    "Spatangidium heptactis Brébisson"
+  ],
+  "resolution": 8.0
+}

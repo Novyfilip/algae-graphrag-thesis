@@ -1,0 +1,20 @@
+{
+  "community_id": 122,
+  "summary": "This cluster of papers is united by a strong focus on the discovery, taxonomic revision, and phylogenetic characterization of diverse algal species, with a particular emphasis on molecular and morphological methods to resolve cryptic diversity and evolutionary relationships. Key findings include the identification of numerous new species and genera—such as *Capillus*, *Tsunamia transpacifica*, *Ansanella granifera*, and *Erythrolobus australicus*—across a wide range of lineages, including red algae, dinoflagellates, cyanobacteria, and green algae, often using markers like rbcL, cox1, and SSU rDNA. Geographically, the research spans a broad scope, with significant contributions from Korean coastal waters, the Pacific Ocean (including Japan, Australia, and the Kurile Islands), the Antarctic, and the Mediterranean, highlighting both temperate and tropical ecosystems. A recurring pattern is the use of polyphasic approaches—combining ultrastructural analysis, chemotaxonomy, and molecular phylogenetics—to clarify taxonomic boundaries, as seen in studies of *Polysiphonia*, *Coolia*, *Bostrychia*, and *Sheathia*, while several papers also address ecological interactions such as symbiosis, parasitism, and wound healing.",
+  "n_entities": 137,
+  "n_papers": 134,
+  "n_papers_with_summaries": 134,
+  "entity_sample": [
+    "AY865147",
+    "AY865148",
+    "AY865149",
+    "AY865150",
+    "AY865151",
+    "AY865152",
+    "Auduinella",
+    "Auduinella codicola",
+    "Auduinella hermanni",
+    "Bangio-Florideophyceae"
+  ],
+  "resolution": 8.0
+}

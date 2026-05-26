@@ -1,0 +1,12 @@
+{
+  "community_id": 1127,
+  "summary": "This cluster investigates phytoplankton community structure in freshwater wetlands, specifically the Beopsu Marsh in Gyeongsangnam-do, Korea, with a focus on how anthropogenic pollution drives shifts in species composition. Key findings reveal that sewage and treated water runoff caused peak phytoplankton blooms in November, with the lowest species diversity index (0.66) recorded at the most polluted stations. Indicator species such as *Cyclotella* sp. and *Euglena* sp. were associated with polluted waters, while *Fragilaria* sp., *Pinnularia* sp., and Xanthophyta sp. characterized cleaner sites. The research underscores the need for localized institutional management to preserve wetland biodiversity and mitigate eutrophication impacts.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "농경지",
+    "법수늪지"
+  ],
+  "resolution": 8.0
+}

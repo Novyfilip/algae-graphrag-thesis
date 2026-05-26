@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Marine dinoflagellates", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "marine ecosystems"}], "markers": [], "applications": [], "relationships": [{"subject": "Marine dinoflagellates", "predicate": "FOUND_IN", "object": "marine ecosystems", "confidence": 1.0}]}

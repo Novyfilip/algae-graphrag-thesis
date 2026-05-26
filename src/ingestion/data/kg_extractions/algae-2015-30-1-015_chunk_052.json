@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "tropical zones in the Atlantic, Pacific and Indian Oceans"}, {"environment_name": "Bermuda"}], "markers": [], "applications": [], "relationships": [{"subject": "tropical zones in the Atlantic, Pacific and Indian Oceans", "predicate": "CONTAINS", "object": "Bermuda", "confidence": 0.5}]}

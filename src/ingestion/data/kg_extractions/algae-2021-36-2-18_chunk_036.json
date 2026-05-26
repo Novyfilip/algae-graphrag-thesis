@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Kappaphycus", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "crop improvement"}], "relationships": [{"subject": "Kappaphycus", "predicate": "BELONGS_TO", "object": "Kappaphycus gene pool", "confidence": 0.5}]}

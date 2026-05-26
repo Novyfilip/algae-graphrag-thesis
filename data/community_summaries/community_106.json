@@ -1,0 +1,20 @@
+{
+  "community_id": 106,
+  "summary": "This cluster of research focuses on the taxonomy, ecology, and physiology of marine microalgae and macroalgae, with a strong geographic emphasis on Korean coastal waters, including Jinhae Bay, Masan Bay, Jeju Island, and the South Sea. Key connecting themes include the classification and phylogenetic analysis of diatoms (e.g., *Skeletonema costatum*, *Thalassiosira* spp.) and dinoflagellates (e.g., *Cochlodinium polykrikoides*, *Alexandrium* spp.), as well as the impacts of environmental stressors such as elevated CO₂, temperature, salinity, and nutrient limitation on photosynthetic performance, growth, and bloom dynamics. Studies frequently employed molecular tools (e.g., LSU rDNA, rbcL, COI-5P barcoding) and physiological assays (e.g., PAM fluorometry, pigment analysis) to resolve cryptic species, characterize harmful algal blooms, and assess responses to ocean acidification and eutrophication. The cluster also addresses applied aspects, including algal cultivation for aquaculture, bioremediation of nutrients, and the bioactivity of compounds like phlorotannins and carotenoids, reflecting a broad integration of fundamental phycology with regional environmental management and biotechnology.",
+  "n_entities": 151,
+  "n_papers": 119,
+  "n_papers_with_summaries": 116,
+  "entity_sample": [
+    "A. sanguinea",
+    "Acrocarpia paniculata",
+    "Akashiwo",
+    "Akashiwo sanguinea",
+    "American isolates",
+    "Aulacaseriales",
+    "Aulacosiraceae",
+    "BACILLARIOPHYCEAE",
+    "Biddulphiales",
+    "Bomok tidepools"
+  ],
+  "resolution": 8.0
+}

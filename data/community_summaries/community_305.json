@@ -1,0 +1,15 @@
+{
+  "community_id": 305,
+  "summary": "This cluster of research centers on the establishment and utility of the Korea Marine Microalgae Culture Center (KMMCC), which was founded in 1995 to systematically collect and maintain marine microalgal strains. The collection, comprising approximately 1,400 strains with 84% originating from Korean waters and 48% maintained in an axenic state, was initially developed to supply live food for aquaculture before expanding to support broader taxonomic and research applications. The geographic scope is firmly rooted in Korean coastal waters, reflecting a national effort to preserve and leverage local biodiversity for both applied and fundamental scientific purposes.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Amphora coffeaeformis var. acustiuscula",
+    "Hwajinpo, lagoon, surface water",
+    "Incheon (Oido), salt farm, surface water",
+    "Mokpo, salt farm, surface water",
+    "Wando, coast, surface water"
+  ],
+  "resolution": 8.0
+}

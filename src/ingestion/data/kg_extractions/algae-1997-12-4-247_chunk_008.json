@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Haptophyta", "taxonomic_rank": "taxon"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Haptophyta", "predicate": "CONTAINS", "object": "haptonema", "confidence": 1.0}]}

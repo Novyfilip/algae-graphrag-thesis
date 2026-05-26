@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Neopyropia yezoensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "Transcriptome analysis"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Transcriptome analysis", "predicate": "STUDIED_WITH", "object": "Neopyropia yezoensis", "confidence": 1.0}]}

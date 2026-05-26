@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sphacelaria", "taxonomic_rank": "genus"}], "compounds": [], "methods": [{"method_name": "cultivation in PES medium"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Sphacelaria", "predicate": "STUDIED_WITH", "object": "cultivation in PES medium", "confidence": 0.5}]}

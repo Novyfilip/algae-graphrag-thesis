@@ -1,0 +1,20 @@
+{
+  "community_id": 50,
+  "summary": "This cluster of research predominantly investigates phytoplankton and macroalgal communities in Korean aquatic ecosystems, with a strong emphasis on species composition, bloom dynamics, and environmental stressors. Key connecting themes include the dominance of diatoms such as *Stephanodiscus hantzschii*, *Aulacoseira granulata*, and *Chaetoceros* species, alongside cyanobacteria like *Microcystis aeruginosa* and *Anabaena flos-aquae*, particularly in eutrophic rivers and reservoirs such as the Nakdong River and Lake Paldang. Studies frequently examined the impacts of thermal effluents from nuclear power plants, nutrient loading, and heavy metal toxicity on algal community structure, photosynthetic performance, and toxin production. The geographic scope was overwhelmingly centered on South Korea, including the Han, Nakdong, and Geum Rivers, coastal waters of Jeju Island, and reservoirs like Togyo and Unmun, with additional work on Antarctic diatoms and tropical coral reef phytoplankton.",
+  "n_entities": 212,
+  "n_papers": 181,
+  "n_papers_with_summaries": 180,
+  "entity_sample": [
+    "-E+40 배지",
+    "-E+50 배지",
+    "0.5-m depth",
+    "1.0-m depth",
+    "2-0-(α-Glucopyranosyl) glycerol",
+    "90% acetone extraction",
+    "ALAD",
+    "ALAD activity assay",
+    "AOAC (1990) method",
+    "ASS"
+  ],
+  "resolution": 8.0
+}

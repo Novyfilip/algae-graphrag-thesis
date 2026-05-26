@@ -1,0 +1,20 @@
+{
+  "community_id": 257,
+  "summary": "This cluster examines the ecological roles of *Ulva* species, specifically *Ulva australis* and *Ulva pertusa*, in Korean intertidal and coastal habitats. Research demonstrated that *U. australis* frond perforation was positively correlated with resident animal diversity and was more pronounced in sheltered, low-wave-energy environments, while studies on *U. pertusa* revealed its species-specific influence on community recovery after disturbance, with rapid regrowth dominating summer recovery but having a weaker effect in winter. Both investigations were conducted on Korean rocky shores and highlighted how physical factors, such as wave exposure and disturbance timing, mediate the ecological functions of these green macroalgae. The findings collectively underscore the importance of *Ulva* species as key structural and dynamic components in temperate intertidal ecosystems.",
+  "n_entities": 22,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Acanthopleura japonica",
+    "Anomura sp.",
+    "Assiminea sp.",
+    "Asteroidea sp.",
+    "Brachyura sp.",
+    "Cantharidus sp.",
+    "Cerithiidae sp.",
+    "Chlorostoma sp.",
+    "Columbellidae sp.",
+    "Exposed shore"
+  ],
+  "resolution": 8.0
+}

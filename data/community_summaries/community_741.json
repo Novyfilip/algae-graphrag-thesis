@@ -1,0 +1,12 @@
+{
+  "community_id": 741,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been transformed over the past half-century by the integration of DNA barcoding and gene-sequencing technologies, which have revealed numerous cryptic species and prompted the division of previously recognized genera. This molecular phylogenetic approach has significantly expanded the known species diversity in the region, driven by increased field collection efforts using SCUBA and a growing community of phycologists. The cluster underscores a pattern of taxonomic revision across the western Atlantic, where traditional morphological identifications have been superseded by genetic evidence, leading to a more accurate understanding of algal biodiversity in these warm-water ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Itaparica Island, Bahía, Brazil",
+    "Rhipilia fungiformis"
+  ],
+  "resolution": 8.0
+}

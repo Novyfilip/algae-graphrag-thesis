@@ -1,0 +1,20 @@
+{
+  "community_id": 49,
+  "summary": "This cluster of papers is united by a focus on the taxonomy, phylogeny, and evolutionary relationships of diverse algal groups, primarily utilizing molecular markers such as rbcL, psbA, COI-5P, and SSU rDNA to resolve species boundaries and revise classifications. Key findings include the discovery of numerous novel species and genera across red, brown, green, and cryptophyte algae, such as *Erythrolobus australicus*, *Tsunamia transpacifica*, *Ramipedicella*, and *Halopeltis* species from the Northern Hemisphere, often identified through integrative approaches combining molecular phylogenetics with detailed morphological and ultrastructural analysis. The geographic scope was broad, encompassing studies from Korean and Japanese coasts, the Pacific Ocean (including Hawaii and the Gulf of California), the Arctic White Sea, Antarctic regions, and tropical ecosystems like the Abrolhos Bank in Brazil and mangrove habitats in Australia. A recurring pattern was the use of phylogenetic analyses to challenge existing taxonomic frameworks, leading to reclassifications (e.g., *Psilothallia* moved to Ptiloteae, *Pachydictyon* merged into *Dictyota*) and the identification of cryptic diversity, particularly within genera like *Herposiphonia*, *Coolia*, and *Spirogyra*.",
+  "n_entities": 213,
+  "n_papers": 75,
+  "n_papers_with_summaries": 75,
+  "entity_sample": [
+    "AY865136",
+    "AY865153",
+    "Adobe Illustrator",
+    "Ancylonema",
+    "Ancylonema nordenskioeldii",
+    "Anmok, KR",
+    "Bamfield, CA",
+    "Bayesian tree",
+    "Bodipy FL phallacidin",
+    "Bodipy FL phallacidin staining"
+  ],
+  "resolution": 8.0
+}

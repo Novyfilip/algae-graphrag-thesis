@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "K.aureolum", "taxonomic_rank": "species"}, {"species_name": "Gymnodinium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "K.aureolum", "predicate": "BELONGS_TO", "object": "Gymnodinium", "confidence": 1.0}]}

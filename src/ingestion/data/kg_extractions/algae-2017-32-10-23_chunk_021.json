@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "M. aeruginosa", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "PO4 3-"}, {"compound_name": "TN"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "PO4 3-", "predicate": "AFFECTS", "object": "M. aeruginosa", "confidence": 1.0}]}

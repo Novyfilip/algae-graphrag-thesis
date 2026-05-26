@@ -1,0 +1,12 @@
+{
+  "community_id": 929,
+  "summary": "This cluster investigates the taxonomy and phylogenetics of marine holocarpic oomycete pathogens, specifically focusing on the genus *Olpidiopsis saprolegniae*. The research is united by the use of 18S rRNA sequence data to challenge existing classifications, revealing that current taxonomic frameworks may require significant revision. Key findings across the cluster indicate that reanalysis of molecular data suggests a need for temporary retention of established names until more robust phylogenetic analyses are completed. The geographic scope is marine environments, with implications for understanding the evolutionary relationships and classification of related parasitic oomycetes.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Saprolegnia parasitica",
+    "barcoded"
+  ],
+  "resolution": 8.0
+}

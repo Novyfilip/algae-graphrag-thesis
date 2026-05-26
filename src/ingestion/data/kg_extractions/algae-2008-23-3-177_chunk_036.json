@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Staurastrum punctulatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Asan Bairaj, Dehradun"}], "markers": [], "applications": [], "relationships": [{"subject": "Staurastrum punctulatum", "predicate": "FOUND_IN", "object": "Asan Bairaj, Dehradun", "confidence": 1.0}]}

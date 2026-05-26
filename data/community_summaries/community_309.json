@@ -1,0 +1,15 @@
+{
+  "community_id": 309,
+  "summary": "This cluster of research focuses on the restoration and resource establishment of the brown alga *Laminaria japonica* in coastal waters, specifically examining the physical and mechanical factors that influence transplant success. Key findings demonstrate that longer initial blade lengths (30 cm) significantly improve survival rates and drag force stability compared to shorter transplants, with optimal plate weights (508.2 g per 18.11 cm blade width) identified for concrete substrates. The studies collectively emphasize the critical role of blade length and transplanting plate drag force in determining the viability of *L. japonica* establishment, providing quantitative benchmarks for restoration efforts. The geographic and ecological scope is centered on temperate coastal ecosystems, where this species is a target for marine resource enhancement.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "artificial fish reef throwing",
+    "concrete application",
+    "formation of submerged underwater forests",
+    "rock blasting",
+    "stone casting"
+  ],
+  "resolution": 8.0
+}

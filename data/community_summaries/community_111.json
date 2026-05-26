@@ -1,0 +1,20 @@
+{
+  "community_id": 111,
+  "summary": "This cluster of papers is unified by a focus on the biodiversity, taxonomy, and ecophysiology of algae across diverse habitats, with a strong emphasis on Korean coastal and freshwater ecosystems, as well as comparative studies from the Indo-Pacific, Arctic, and Antarctic regions. Key themes include the identification of new species and cryptic diversity through molecular phylogenetics (e.g., *Bostrychia*, *Plocamium*, *Erythrolobus*, *Halopeltis*), the physiological responses of algae to environmental stressors such as salinity, temperature, and ocean acidification (e.g., *Ulva pertusa*, *Sargassum horneri*, *Pyropia yezoensis*), and the biotechnological potential of algae for bioactive compounds, pigments, and bioremediation. The research also highlights the ecological roles of algae in seagrass beds, tidepools, and artificial substrates, and addresses applied topics such as disease management in seaweed aquaculture and the use of deep seawater for cultivation.",
+  "n_entities": 146,
+  "n_papers": 141,
+  "n_papers_with_summaries": 139,
+  "entity_sample": [
+    "18S SSU phylogeny",
+    "18S SSU rDNA V9 Helix 49",
+    "3-genome phylogeny",
+    "Achang Bay Resort, Guam",
+    "Akashiwo san-guinea",
+    "Avicennia",
+    "Avicennia marina",
+    "B. anomola",
+    "B. tangatensis",
+    "B. vaga"
+  ],
+  "resolution": 8.0
+}

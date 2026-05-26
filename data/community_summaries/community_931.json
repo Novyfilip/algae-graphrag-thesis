@@ -1,0 +1,12 @@
+{
+  "community_id": 931,
+  "summary": "This cluster of research focuses on the brown alga *Ecklonia cava* as a source of bioactive compounds, specifically investigating the efficacy of ultrasound-assisted extraction (UE) to enhance the recovery of antioxidant polyphenols. Key findings demonstrate that UE significantly increases total polyphenolic content and radical-scavenging activity compared to conventional methods, with extracts showing superior protection against hydrogen peroxide-induced DNA damage. The studies highlight UE as a cost-effective, scalable technique for industrial applications, centering on the biochemical characterization and optimized extraction of *E. cava*’s antioxidant potential. The geographic and ecological scope is implicitly tied to marine environments where *Ecklonia cava* is native, such as the temperate coastal waters of East Asia.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "CE extraction",
+    "bio-compounds"
+  ],
+  "resolution": 8.0
+}

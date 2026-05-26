@@ -1,0 +1,20 @@
+{
+  "community_id": 138,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogenetics, and biogeography of marine and freshwater algae, with a particular emphasis on the Northwest Pacific region, especially Korea and Japan. Researchers extensively utilized molecular markers such as rbcL, COI-5P, and ITS sequences to resolve species boundaries and phylogenetic relationships within problematic genera, including *Sargassum* subgenus *Bactrophycus*, *Polysiphonia*, *Grateloupia*, and *Gelidium*, often revealing cryptic diversity and new species. The studies documented the distribution and community structure of intertidal and subtidal macroalgae, with dominant species such as *Sargassum yezoense*, *Hizikia fusiformis*, *Corallina pilulifera*, and *Ulva pertusa* recurring across multiple biomass surveys along the Korean coast. Additionally, the cluster includes investigations into algal pathogens like *Pythium chondricola* affecting *Pyropia yezoensis* aquaculture, as well as the discovery of novel taxa from diverse habitats, including freshwater streams in India, drift plastics in the Pacific, and Antarctic cyanobacteria, highlighting a broad geographic and ecological scope from the Arctic White Sea to tropical western Atlantic coral reefs.",
+  "n_entities": 123,
+  "n_papers": 103,
+  "n_papers_with_summaries": 103,
+  "entity_sample": [
+    "2-9 m depth",
+    "AY396035",
+    "Achnanthes hauckiana",
+    "Bokke",
+    "Briopsis",
+    "Caribbean Panama",
+    "Carmel Beach, Monterey County, California",
+    "Centroceras clavullatum",
+    "Cladophora columbiana",
+    "Corallina vancouveriensis"
+  ],
+  "resolution": 8.0
+}

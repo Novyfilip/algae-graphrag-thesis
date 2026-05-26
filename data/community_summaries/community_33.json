@@ -1,0 +1,20 @@
+{
+  "community_id": 33,
+  "summary": "This cluster of papers is unified by a strong focus on the ecology, taxonomy, and physiology of diatoms and dinoflagellates in Korean coastal waters, with particular emphasis on species such as *Chaetoceros debilis*, *Skeletonema costatum*, *Cochlodinium polykrikoides*, and *Thalassiosira* spp. Key findings across the cluster include the identification of salinity thresholds (~300 psu) and nutrient gradients (nitrate, phosphate) as primary drivers of community structure, as well as the documentation of harmful algal blooms and their environmental triggers, such as temperature and eutrophication. The geographic scope is predominantly centered on the Korean Peninsula, including sites like Jaran Bay, Jeju Island, and the Seomjin River estuary, with additional studies extending to Antarctic and Arctic regions, hypersaline ponds, and tropical coral reefs. Methodologically, the papers frequently employ molecular techniques (qPCR, rDNA sequencing), pigment analysis, and experimental approaches (UV-B exposure, nutrient limitation, viral infection) to characterize species distribution, physiological responses, and biotechnological applications.",
+  "n_entities": 237,
+  "n_papers": 129,
+  "n_papers_with_summaries": 127,
+  "entity_sample": [
+    "15°C incubator",
+    "20 m depth",
+    "3-5 m depths",
+    "3-7 m depths",
+    "5-10 m depth",
+    "5-6 m depth zone",
+    "7-10 m depth",
+    "7-15 m depth",
+    "8-15 m substratum",
+    "A. mirabilis"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 763,
+  "summary": "This cluster of research focused on the long-term monitoring of phytoplankton community structure and biomass dynamics in the coastal waters of Tongyeong, Korea, from 2000 to 2007. The studies identified five key diatom species—*Chaetoceros curvisetus*, *Chaetoceros socialis*, *Skeletonema costatum*, *Asterionellopsis glacialis*, and *Ditylum brightwellii*—as the dominant taxa driving biomass fluctuations. A central finding was that *Skeletonema costatum* exerted a particularly significant influence on the nanophytoplankton fraction and overall standing crop patterns. The geographic scope was restricted to a single temperate coastal ecosystem, with the work emphasizing the role of specific species in shaping interannual biomass variability.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Marine Ranching Ground of Tongyeong Coastal Waters",
+    "Phytoplankton Dominant Species"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "Local Alignment Search Tool (BLAST)"}, {"method_name": "DNAsp 5.10"}, {"method_name": "DAMBE5 v5.3.27"}, {"method_name": "Phylogenetic analysis"}], "environments": [], "markers": [{"marker_name": "rbcL"}, {"marker_name": "ITS"}], "applications": [], "relationships": []}

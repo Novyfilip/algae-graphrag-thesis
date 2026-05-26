@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. ellipsospora", "taxonomic_rank": "species"}, {"species_name": "S. koreana", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "S. koreana", "predicate": "BELONGS_TO", "object": "S. ellipsospora", "confidence": 1.0}]}

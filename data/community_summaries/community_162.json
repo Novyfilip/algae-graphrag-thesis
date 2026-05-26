@@ -1,0 +1,20 @@
+{
+  "community_id": 162,
+  "summary": "Research across this cluster focused heavily on the taxonomy, distribution, and ecology of coralline and macroalgal species in tropical and subtropical coastal ecosystems, particularly in the western Atlantic (Brazil’s Abrolhos Bank), the Gulf of California, the Korean Peninsula, and the Indian Ocean. Key species included crustose calcareous algae (CCA) such as *Pneophyllum conicum*, *Lithophyllum kaiseri*, and *Melyvonnea erubescens*, as well as brown macroalgae like *Ecklonia cava*, *Padina* spp., and *Sargassum* spp., with studies documenting their abundance, succession on artificial reefs, and responses to environmental stressors such as warming waters and power plant cooling systems. Molecular and morpho-anatomical methods, including DNA barcoding and phylogenetic analysis, were commonly employed to resolve cryptic species complexes and reassess taxonomic boundaries, as seen in the genera *Alsidium*, *Polysiphonia*, and *Amphidinium*. The studies collectively highlighted the importance of rhodolith beds, artificial substrates, and depth-stratified zonation in shaping algal community structure, while also emphasizing the role of these algae in reef building, carbon cycling, and potential biotechnological applications.",
+  "n_entities": 110,
+  "n_papers": 34,
+  "n_papers_with_summaries": 34,
+  "entity_sample": [
+    "American continent",
+    "Archaeolithothamnion mirabile",
+    "Australia and New Zealand: Queensland",
+    "Bahía Virador",
+    "Ballena Island",
+    "Basilan Is., Basilan",
+    "Big Sta. Cruz Is., Zamboanga City, Zamboanga del Sur",
+    "Black Beach Anchorage, Isla Santa Maria, Galapagos, Ecuador",
+    "Brazilian shores",
+    "Cabo San Lucas, B.C.S."
+  ],
+  "resolution": 8.0
+}

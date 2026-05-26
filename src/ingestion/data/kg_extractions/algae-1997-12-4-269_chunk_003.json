@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Alexandrium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Chinhae Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "Alexandrium", "predicate": "FOUND_IN", "object": "Chinhae Bay", "confidence": 1.0}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 209,
+  "summary": "This cluster of papers is united by a strong focus on the biodiversity, taxonomy, and community ecology of marine algae, particularly red algae (Rhodophyta) and brown algae (Phaeophyta), along the coasts of Korea and neighboring regions. Key species such as *Corallina officinalis*, *Chondrus ocellatus*, *Pyropia koreana*, and various *Sargassum* species were frequently studied, with researchers employing molecular sequencing, scanning electron microscopy (SEM), and field-based quadrat surveys to resolve taxonomic ambiguities and assess community structure. A recurring pattern across the cluster was the investigation of anthropogenic impacts, including thermal effluents from nuclear power plants and cooling systems, which were shown to alter algal species composition, biomass, and diversity, often favoring warm-tolerant or opportunistic taxa like *Ulva pertusa* and *Enteromorpha linza*. Additionally, studies on photoacclimation, endophyte-host interactions, and mycosporine-like amino acids (MAAs) as UV protectants highlighted physiological and ecological adaptations of temperate and Antarctic rhodophytes. Geographically, the research was concentrated on the Korean Peninsula (including Jejudo Island and the east, west, and south coasts), with additional records from New Zealand, the United States, Mexico, and India, underscoring a broad but regionally focused effort to document algal distribution, invasive species, and community dynamics in response to environmental stressors.",
+  "n_entities": 79,
+  "n_papers": 18,
+  "n_papers_with_summaries": 17,
+  "entity_sample": [
+    "Aglaothamnion uruguayense",
+    "Ahnfeltiopsis flabeliformis",
+    "Arthrocardia sp.",
+    "Bang atr",
+    "Brasil",
+    "Bryothamnion sp.",
+    "Bunjeom",
+    "Caul ust",
+    "Centroceros clavulatum",
+    "Cera kon"
+  ],
+  "resolution": 8.0
+}

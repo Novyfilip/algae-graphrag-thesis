@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ulvaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [{"environment_name": "discharge canal of Uljin nuclear power plant"}], "markers": [], "applications": [], "relationships": [{"subject": "Ulvaceae", "predicate": "FOUND_IN", "object": "discharge canal of Uljin nuclear power plant", "confidence": 1.0}]}

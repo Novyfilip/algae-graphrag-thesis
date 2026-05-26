@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Lingu-lodinium polyedra", "taxonomic_rank": "species"}, {"species_name": "Ectocarpus siliculosus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Lingu-lodinium polyedra", "predicate": "PRODUCES", "object": "bloom", "confidence": 1.0}]}

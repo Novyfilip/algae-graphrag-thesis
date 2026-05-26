@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Haptophyte Algae", "taxonomic_rank": "group"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Asia-Pacific Waters"}], "markers": [], "applications": [], "relationships": [{"subject": "Haptophyte Algae", "predicate": "FOUND_IN", "object": "Asia-Pacific Waters", "confidence": 1.0}]}

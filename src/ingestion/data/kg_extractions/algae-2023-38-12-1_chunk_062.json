@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "nitric oxide"}, {"compound_name": "NO"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "hemiphyllum", "predicate": "PRODUCES", "object": "nitric oxide", "confidence": 0.5}, {"subject": "hemiphyllum", "predicate": "PRODUCES", "object": "NO", "confidence": 0.5}]}

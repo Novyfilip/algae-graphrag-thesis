@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gymnodinium smaydae", "taxonomic_rank": "species"}, {"species_name": "Gymnodiniaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Gymnodinium smaydae", "predicate": "BELONGS_TO", "object": "Gymnodiniaceae", "confidence": 1.0}]}

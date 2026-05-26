@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "antibiotics treatment"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "antibiotics treatment", "predicate": "STUDIED_WITH", "object": "axenic cultures", "confidence": 0.5}]}

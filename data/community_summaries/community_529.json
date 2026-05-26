@@ -1,0 +1,13 @@
+{
+  "community_id": 529,
+  "summary": "This cluster investigates the physiological responses of harmful algal bloom-forming raphidophytes, specifically *Chattonella marina* and *Chattonella ovata*, to the combined stressors of elevated pCO2 and temperature. Research focused on how future climate scenarios alter thermal performance curves (TPCs), revealing that elevated CO2 did not significantly shift critical thermal minima or maximum photosynthetic rates for either species. Notably, *Chattonella marina* demonstrated a potential expansion of its thermal tolerance range under these conditions, suggesting a competitive advantage in a warming, high-CO2 ocean. The findings collectively indicate that climate change may alter the distribution and bloom dynamics of these species, with implications for coastal ecosystem health.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "CCM genes",
+    "de novo assembled transcriptomes",
+    "marine raphidophyte algae"
+  ],
+  "resolution": 8.0
+}

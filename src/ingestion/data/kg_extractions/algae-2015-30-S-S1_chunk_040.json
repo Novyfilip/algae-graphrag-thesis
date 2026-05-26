@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "dimethysulfoxide"}, {"compound_name": "DMSO"}], "methods": [{"method_name": "Low temperature incubators"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "dimethysulfoxide", "predicate": "IDENTIFIED_BY", "object": "DMSO", "confidence": 1.0}]}

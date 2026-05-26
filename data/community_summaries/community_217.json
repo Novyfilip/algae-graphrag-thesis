@@ -1,0 +1,20 @@
+{
+  "community_id": 217,
+  "summary": "This cluster of papers is united by a strong focus on the discovery, taxonomic revision, and phylogenetic characterization of algal biodiversity, particularly red algae (Rhodophyta) and green algae (Chlorophyta), across a broad geographic scope spanning Korea, India, Japan, the western Pacific, and the Atlantic. Key findings consistently emerged from the use of molecular markers such as *rbcL*, COI-5P, and *tufA* to resolve cryptic species complexes and delineate new taxa, including *Haraldiophyllum udoensis*, *Polysiphonia ulleungensis*, *Pterosiphonia arenosa*, and multiple new *Herposiphonia* and *Centroceras* species from Korean and Bermudian waters. The research also emphasized the ecological and economic significance of these algae, with studies on bloom-forming *Ulva* species in the Yellow Sea, the invasive *Codium fragile* in the Mediterranean, and the bioactive potential of *Turbinaria ornata* and *Gracilaria chorda* for anti-inflammatory and anti-obesity applications. Freshwater habitats were also a focus, with surveys of Chlorococcales and cyanophytes in India and Korea, as well as new freshwater red algal species like *Sheathia assamica* and *Lemanea manipurensis* from the Eastern Himalayas, highlighting underexplored regional floras.",
+  "n_entities": 75,
+  "n_papers": 67,
+  "n_papers_with_summaries": 67,
+  "entity_sample": [
+    "6-deoxy-6-sulfo-α-D-glucopyrose",
+    "Biyangdo, Cheju Island",
+    "COSY",
+    "Chakpi River",
+    "Chakpi river",
+    "Codium",
+    "Codium bursa",
+    "Codium decorticatum",
+    "Codium effusum",
+    "Codium intricatum"
+  ],
+  "resolution": 8.0
+}

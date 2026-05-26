@@ -1,0 +1,12 @@
+{
+  "community_id": 988,
+  "summary": "This cluster investigates the radioprotective potential of bioactive compounds derived from marine algae, specifically phlorotannins, polysaccharides, and carotenoids. Preclinical studies demonstrated that these phytochemicals effectively mitigate radiation-induced damage, positioning algae as a promising natural source for novel radioprotective therapeutics. The research reflects a broader interest in harnessing marine biodiversity for medical applications, though it does not specify a particular geographic or ecological scope.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "ethyl acetate extract",
+    "gastroprotective effects"
+  ],
+  "resolution": 8.0
+}

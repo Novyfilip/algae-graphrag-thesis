@@ -1,0 +1,13 @@
+{
+  "community_id": 482,
+  "summary": "This cluster focuses on the discovery and characterization of a novel red algal alloparasite, *Symphyocolax koreana* gen. et sp. nov., from Korea, which is defined by its polysiphonous upright axis, pericentral cells, and reproductive trichoblasts. The research establishes this parasite as a new genus within the Rhodomelaceae tribe, specifically linking it to the Pterosiphonieae lineage through morphological and reproductive strategies. The geographic scope is limited to Korean coastal waters, and the key finding is the identification of a unique parasitic relationship within the Rhodophyta, expanding the known diversity of alloparasitic red algae.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Stromatocarpus Falkenberg",
+    "Tayloriella Kylin",
+    "southwestern coast of South Africa"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 62,
+  "summary": "This cluster of research is unified by a focus on the ecological dynamics, taxonomy, and environmental responses of phytoplankton and macroalgae in Korean coastal and freshwater ecosystems, with particular emphasis on harmful algal blooms (HABs) and eutrophication. Key species connecting the studies include the diatoms *Chaetoceros debilis*, *Skeletonema costatum*, and *Stephanodiscus hantzschii*, the dinoflagellates *Cochlodinium polykrikoides* and *Alexandrium* spp., and the cyanobacterium *Microcystis aeruginosa*, which were frequently identified as dominant or bloom-forming taxa across sites such as the Nakdong River, Youngsan River, and coastal waters near nuclear power plants and dam reservoirs. Investigations into environmental drivers—such as nutrient loading (nitrogen, phosphorus, silicate), water temperature, salinity, and irradiance—revealed consistent patterns linking eutrophic conditions, seasonal succession, and physiological responses like photoadaptation, carbon fixation, and mixotrophy. Geographically, the research concentrated on South Korean inland waters (e.g., Lake Daecheong, Lake Unmun, Togyo Reservoir) and surrounding seas (e.g., Jeju Island, South Sea, East Sea), with additional comparative studies from Japan, Antarctica, and tropical regions, underscoring a regional emphasis on monitoring and managing water quality and red tide events.",
+  "n_entities": 193,
+  "n_papers": 127,
+  "n_papers_with_summaries": 125,
+  "entity_sample": [
+    "13 sampling sites",
+    "14C technique",
+    "APHA (1992)",
+    "Andong sewage discharge area",
+    "Ang-Kaew reservoir",
+    "Bacillariophyceans",
+    "Baealdo, Gwangyang-si",
+    "Baltic eutrophication gradient",
+    "Bellinger (1992)",
+    "British Isles"
+  ],
+  "resolution": 8.0
+}

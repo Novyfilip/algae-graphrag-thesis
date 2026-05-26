@@ -1,0 +1,20 @@
+{
+  "community_id": 229,
+  "summary": "This cluster of research is geographically centered on the coastal waters of Korea and Japan, with additional sites in the Pacific Northwest and Kuwait, and focuses heavily on the ecology, physiology, and cultivation of macroalgae and harmful algal bloom (HAB)-forming dinoflagellates. Key macroalgal species studied include *Eucheuma serra*, *Undaria pinnatifida*, *Pyropia yezoensis*, *Kappaphycus* spp., *Ecklonia cava*, and *Ulva pertusa*, with investigations into their growth optimization, genetic diversity, and responses to environmental factors such as light quality, temperature, and nutrient availability. Concurrently, significant attention was given to toxic and bloom-forming dinoflagellates like *Cochlodinium polykrikoides*, *Gymnodinium catenatum*, and *Alexandrium* spp., examining their life cycles, toxin profiles, and the role of viruses and heterotrophic protists in regulating their populations. The studies consistently identified nutrient concentrations—particularly nitrogen and phosphorus—as primary drivers of phytoplankton community structure and macroalgal productivity, while also addressing applied outcomes such as bioremediation, carbon flux, and the economic impacts of diseases on seaweed farms.",
+  "n_entities": 68,
+  "n_papers": 52,
+  "n_papers_with_summaries": 52,
+  "entity_sample": [
+    "10-35 psu",
+    "19.6 psu",
+    "200 psu",
+    "22.0 psu",
+    "30 psu",
+    "34.8 psu",
+    "Bohso Peninsula",
+    "Buzen Sea",
+    "C. atomus var. marina",
+    "Chroomonas spp."
+  ],
+  "resolution": 8.0
+}

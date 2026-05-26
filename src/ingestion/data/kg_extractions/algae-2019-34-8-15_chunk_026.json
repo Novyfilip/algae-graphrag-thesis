@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. glacialis", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "adhesive material"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "A. glacialis", "predicate": "PRODUCES", "object": "adhesive material", "confidence": 0.5}]}

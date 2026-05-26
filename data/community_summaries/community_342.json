@@ -1,0 +1,14 @@
+{
+  "community_id": 342,
+  "summary": "This cluster synthesizes research on the taxonomic revision and classification of freshwater algae, specifically focusing on the Conjugatophyceae (Zygnematophyceae) and diatoms in South Korea. The studies share a methodological emphasis on re-evaluating nomenclature and hierarchical systems, with key species such as *Mougeotia*, *Mougeotiopsis*, and *Transeauina* serving as taxonomic anchors for the Conjugatophyceae. Across the cluster, findings reveal significant reclassification events, including the elevation of Conjugatophyceae to a new class and the adoption of Simonsen’s diatom classification system, which reorganized 7,800 genera into 2 orders and 21 families. Geographically, the work spans global taxonomic references like AlgaeBase and a specific regional focus on South Korea, where diatoms were renamed “dolmal” to reflect their silicified nature.",
+  "n_entities": 4,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Debarya glyptosperma (De Bary) Wittrock",
+    "Meridion Agardh",
+    "Mougeotia De Bary",
+    "Mougeotia glyptosperma De Bary"
+  ],
+  "resolution": 8.0
+}

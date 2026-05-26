@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. sculpera", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "aquaculture"}], "relationships": [{"subject": "aquaculture", "predicate": "AFFECTS", "object": "S. sculpera", "confidence": 0.5}]}

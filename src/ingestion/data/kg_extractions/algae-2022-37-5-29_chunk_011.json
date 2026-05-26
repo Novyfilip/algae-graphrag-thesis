@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. nipponicus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. nipponicus", "predicate": "BELONGS_TO", "object": "congeneric species", "confidence": 1.0}]}

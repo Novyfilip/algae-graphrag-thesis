@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Jindong Bay"}, {"environment_name": "Gamak Bay"}, {"environment_name": "coastal and estuarine ecosystems"}], "markers": [], "applications": [], "relationships": [{"subject": "seagrass habitats", "predicate": "FOUND_IN", "object": "coastal and estuarine ecosystems", "confidence": 1.0}]}

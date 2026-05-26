@@ -1,0 +1,12 @@
+{
+  "community_id": 964,
+  "summary": "This cluster of research investigates the bioactivity and biotechnological applications of marine and microalgae, focusing on their antimicrobial properties and environmental remediation potential. Studies on marine macroalgae, including species such as *Sargassum sagamianum* and *Laminaria religiosa* from the Chlorophyceae, Phaeophyceae, and Rhodophyceae classes, demonstrated that volatile and lipid fractions exhibit significant antimicrobial activity, particularly against *Bacillus subtilis* and *Staphylococcus aureus*. Concurrently, research on microalgae explored their three distinct growth regimes—autotrophic, heterotrophic, and mixotrophic—to enhance bioremediation of carbon-rich waste streams, specifically targeting the removal of nitrates and dissolved organic nitrogen. The cluster is united by a focus on algal metabolite production and the manipulation of metabolic pathways, with an emphasis on identifying extremophilic strains to improve efficiency in both antimicrobial compound extraction and wastewater treatment.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "antimicrobial compounds",
+    "domestic wastewater"
+  ],
+  "resolution": 8.0
+}

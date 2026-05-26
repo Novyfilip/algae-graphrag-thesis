@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "enzymatic extracts"}], "environments": [], "markers": [], "applications": [{"application_name": "antioxidant activities"}], "relationships": [{"subject": "enzymatic extracts", "predicate": "STUDIED_WITH", "object": "antioxidant activities", "confidence": 0.5}]}

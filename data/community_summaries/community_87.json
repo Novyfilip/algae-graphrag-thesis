@@ -1,0 +1,20 @@
+{
+  "community_id": 87,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and biogeography of red algae (Rhodophyta), with significant attention to the revision of genera and species through molecular markers such as *rbcL*, *COI-5P*, and *psbA*. Key findings include the description of numerous new species and genera—such as *Psilothallia dentata*, *Radicilingua*, *Calonitophyllum*, *Centroceras arcii*, *C. illaqueans*, *Neosiphonia japonica*, *Symphyocladia glabra*, and *Erythrolobus australicus*—often resolving cryptic diversity and reclassifying taxa into new clades or tribes. Geographically, the research spans the Pacific Ocean extensively, with particular emphasis on Korea, Japan, the Kurile Islands, the Bering Sea, Australia, New Zealand, and the tropical western Atlantic, while also including studies from the Mediterranean, Gulf of California, and the Thai-Malay Peninsula. Methodologically, the cluster relies heavily on DNA barcoding and phylogenetic analysis to disentangle morphologically similar species, revealing widespread cryptic speciation and refining the evolutionary relationships within orders such as Ceramiales and Gelidiales.",
+  "n_entities": 167,
+  "n_papers": 134,
+  "n_papers_with_summaries": 131,
+  "entity_sample": [
+    "Acanthophora J. V. Lamouroux",
+    "Acrosymphytales",
+    "Alsidieae",
+    "Alsidium",
+    "Alsidium corallinum",
+    "Alsidium cymatophilum",
+    "Alsidium helminthochorton",
+    "Alsidium helminthocorton",
+    "Alsidium notarisium",
+    "Alsidium oliveiranum"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 970,
+  "summary": "This cluster of research focuses on the quantification of coastal carbon dynamics, specifically examining the role of submerged aquatic vegetation in carbon flux and sequestration. The studies center on the high primary productivity of key autotrophs, particularly eelgrass (Zostera marina) beds and macroalgae, which were found to drive significantly greater net ecosystem production (NEP) and gross ecosystem production (GEP) compared to unvegetated sediments. Investigations conducted in Gwangyang Bay, Korea, during the summer of 2007 demonstrated that these vegetated habitats exhibit a high efficiency in absorbing inorganic carbon, with eelgrass beds achieving the highest daily GEP and macroalgal vegetation the highest daily NEP. The collective findings underscore the critical ecological function of coastal vegetated ecosystems as significant carbon sinks within temperate bay environments.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "electrochemical and optical oxygen probes",
+    "oxygen meters"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. cornu-cervi", "taxonomic_rank": "species"}, {"species_name": "S. alsidii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "S. cornu-cervi", "predicate": "STUDIED_WITH", "object": "S. alsidii", "confidence": 1.0}]}

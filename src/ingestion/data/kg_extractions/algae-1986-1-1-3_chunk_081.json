@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Polysiphonia decumbens", "taxonomic_rank": "species"}, {"species_name": "P. grateloupeoides", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Polysiphonia decumbens", "predicate": "BELONGS_TO", "object": "P. grateloupeoides", "confidence": 0.5}]}

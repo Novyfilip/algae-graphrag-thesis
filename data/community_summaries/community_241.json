@@ -1,0 +1,20 @@
+{
+  "community_id": 241,
+  "summary": "This cluster of papers is unified by a focus on the ecology, distribution, and physiological responses of phytoplankton and microalgae in Korean coastal and estuarine waters, with particular emphasis on harmful algal bloom (HAB) dynamics. Key species investigated include the red-tide forming dinoflagellates *Cochlodinium polykrikoides*, *Alexandrium* spp., *Prorocentrum* spp., and *Scrippsiella lachrymosa*, as well as diatoms such as *Skeletonema costatum*, *Chaetoceros debilis*, and *Stephanodiscus hantzschii*, and cyanobacteria like *Microcystis aeruginosa*. Studies consistently examined the influence of environmental drivers—salinity gradients, nutrient loading (nitrogen, phosphorus), temperature, and light—on phytoplankton community structure, bloom initiation, and succession, with several papers reporting the role of mixotrophy and heterotrophic grazing by protists in regulating bloom populations. Geographically, the research concentrated on Korean waters, including the South Sea, Yellow Sea, Nakdong and Seomjin River estuaries, and islands such as Dokdo and Cheju, with additional comparative studies from hypersaline salterns, aquaculture ponds, and ballast water. Methodologically, the cluster employed a combination of field surveys, molecular phylogenetics (e.g., LSU and SSU rDNA, 18S rDNA barcoding), pigment analysis via HPLC, and laboratory experiments on photoadaptation, lipid quantification, and algicidal bacterial interactions, collectively advancing understanding of red-tide ecology and microalgal biodiversity in temperate Asian marine ecosystems.",
+  "n_entities": 52,
+  "n_papers": 53,
+  "n_papers_with_summaries": 52,
+  "entity_sample": [
+    "Apra (Guam)",
+    "EF613366",
+    "Korean southwestern coastal waters",
+    "Merismopedia",
+    "Merismopedia warminginiana",
+    "Microcrocis",
+    "Mokpo and Jindo coastal waters",
+    "Mokpo-Jindo coastal area",
+    "Mokpo·Jindo coastal area",
+    "Pearl Harbor (Hawaii)"
+  ],
+  "resolution": 8.0
+}

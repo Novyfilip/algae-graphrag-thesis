@@ -1,0 +1,12 @@
+{
+  "community_id": 782,
+  "summary": "This cluster investigates the taxonomy and phylogenetics of the red algal genus *Psilothallia*, specifically *Psilothallia dentata*, using molecular and morphological methods. The studies employed phylogenetic analysis of the plastid *psbA* gene to resolve taxonomic ambiguities, leading to the reclassification of the species from the tribe Rhodocallideae to the Ptiloteae within a new clade. Key morphological features, including compressed thalli, branchlet arrangement, and reproductive structures such as cystocarps and tetrasporangia, were documented to support the revised phylogeny. The geographic scope of this research centered on the Pacific Ocean, with specimens collected from Japan and Australia.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Nagasaki, JP",
+    "P, dentata"
+  ],
+  "resolution": 8.0
+}

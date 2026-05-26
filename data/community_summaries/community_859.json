@@ -1,0 +1,12 @@
+{
+  "community_id": 859,
+  "summary": "This cluster synthesizes taxonomic and phylogenetic research on the order Sphacelariales (Phaeophyceae), focusing on the delimitation and relationships of its five constituent families: Cladostephaceae, Sphacelariaceae, Stypocaulaceae, Choristocarpaceae, and the genus *Alethocladus*. The studies emphasized that the family Choristocarpaceae is now recognized as belonging within Sphacelariales, and they identified a critical need for further molecular analysis combined with morphological study to resolve generic boundaries. Geographically, the research documented that Sphacelariales species are predominantly distributed in temperate regions, with notable concentrations in tropical areas and limited representation in cold environments, particularly within the subgenera *Propagulifera* and *Tribuloides*.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Clarion Island, Revilla Gigedo Islands, Pacific Mexico",
+    "S. masonii"
+  ],
+  "resolution": 8.0
+}

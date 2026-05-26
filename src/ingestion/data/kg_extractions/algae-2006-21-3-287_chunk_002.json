@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Rhodophytes", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "cpeA/B gene"}], "applications": [], "relationships": [{"subject": "cpeA/B gene", "predicate": "STUDIED_WITH", "object": "Rhodophytes", "confidence": 1.0}]}

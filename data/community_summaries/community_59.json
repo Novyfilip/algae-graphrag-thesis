@@ -1,0 +1,20 @@
+{
+  "community_id": 59,
+  "summary": "This cluster of research is geographically centered on Korean coastal and freshwater ecosystems, with additional studies from India, Japan, and the Arctic, and focuses heavily on the biotechnological and ecological applications of diverse algal species. A major theme is the characterization and utilization of microalgae and cyanobacteria for high-value compound production, including lipids, pigments (astaxanthin, fucoxanthin, β-carotene), omega-3 fatty acids, and bioactive molecules with anti-inflammatory, antioxidant, and anticancer properties, as seen in species such as *Tetraselmis* sp., *Haematococcus pluvialis*, *Nannochloropsis oculata*, and *Gymnodinium smaydae*. Concurrently, a significant body of work investigated the ecological roles of algae in nutrient dynamics, bioremediation, and harmful algal bloom (HAB) formation, examining species like *Microcystis*, *Cochlodinium polykrikoides*, and various *Ulva* species for their capacity to remove nitrogen and phosphorus from wastewater or mitigate red tides. The research also encompassed taxonomic and phylogenetic studies of both macroalgae (e.g., *Ecklonia cava*, *Sargassum* spp., *Pyropia yezoensis*) and microalgae (e.g., *Dolichospermum hangangense*, *Lemanea manipurensis*), alongside methodological advancements in cultivation techniques, genetic analysis (cytochrome P450, RuBisCo spacer), and compound quantification, collectively underscoring a dual focus on fundamental phycology and applied algal biotechnology.",
+  "n_entities": 195,
+  "n_papers": 106,
+  "n_papers_with_summaries": 104,
+  "entity_sample": [
+    "ABDON",
+    "Antarctic polar waters",
+    "Antarctic water",
+    "Bligh and Dyer",
+    "Botryococcus",
+    "CO2 mitigation",
+    "CO2-air mixture supply",
+    "Crassostrea gigas",
+    "DON",
+    "ETRmax evaluation"
+  ],
+  "resolution": 8.0
+}

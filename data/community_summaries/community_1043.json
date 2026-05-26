@@ -1,0 +1,12 @@
+{
+  "community_id": 1043,
+  "summary": "This cluster focused on methodological optimization for the molecular quantification of marine protists, specifically using droplet digital PCR (ddPCR) with the harmful algal bloom species *Chattonella marina* as a case study. The research systematically evaluated six filter types—cellulose acetate, mixed cellulose ester, nylon, polycarbonate, polyethersulfone, and polyvinylidene fluoride—for their DNA extraction efficiency and reproducibility. Key findings demonstrated that cellulose acetate filters produced the highest determination coefficients (R² = 0.92–0.96) and lowest variance, while nylon, polycarbonate, and polyvinylidene fluoride filters yielded significantly lower DNA yields. The geographic and ecological scope centered on marine environments, with the work establishing cellulose acetate as the most suitable filter material for reliable ddPCR-based quantification of protist communities.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "eDNA recovery",
+    "on-site filtration"
+  ],
+  "resolution": 8.0
+}

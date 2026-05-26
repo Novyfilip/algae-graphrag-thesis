@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "iodine"}, {"compound_name": "iodide"}, {"compound_name": "iodate"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "iodate", "predicate": "CONTAINS", "object": "iodine", "confidence": 0.5}, {"subject": "iodide", "predicate": "CONTAINS", "object": "iodine", "confidence": 0.5}]}

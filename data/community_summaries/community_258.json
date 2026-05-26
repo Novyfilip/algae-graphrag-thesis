@@ -1,0 +1,20 @@
+{
+  "community_id": 258,
+  "summary": "This cluster of research focuses on the physiological ecology, cultivation, and environmental roles of marine algae in Korean coastal waters, with a strong emphasis on species from Jeju Island, the South Sea, and the Yellow Sea. Key findings reveal that microalgae such as *Nitzschia* sp., *Isochrysis galbana*, and *Grammatophora marina* exhibit optimal growth at specific salinities (20-35 psu) and temperatures above 20°C, while harmful algal bloom-forming dinoflagellates like *Cochlodinium polykrikoides* and *Gonyaulax polygramma* were studied for their phylogenetic relationships, mixotrophic carbon uptake, and grazing impacts. The research also highlights the high carbon sequestration potential of vegetated coastal habitats, including eelgrass beds and macroalgae like *Undaria pinnatifida* and *Saccharina japonica*, with studies measuring net ecosystem production and stable isotope dynamics. Additionally, the cluster explores biotechnological applications, including astaxanthin biosynthesis in *Haematococcus pluvialis*, antimicrobial activity of algal lipid fractions, and the use of cryopreservation and photobioreactors for strain development, underscoring the region's focus on aquaculture, bioremediation, and climate change resilience.",
+  "n_entities": 19,
+  "n_papers": 29,
+  "n_papers_with_summaries": 29,
+  "entity_sample": [
+    "C. simplex",
+    "Chlorophylla",
+    "Gangjung",
+    "Jeju Island coastal waters",
+    "Jeju coast",
+    "P. tricornutum",
+    "Phosphorus",
+    "Saccharina latissima forma angustissima",
+    "T. gracilis",
+    "Tetraselmis gracilis"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "TIF"}, {"marker_name": "ACTB"}, {"marker_name": "EF-1\u03b1"}, {"marker_name": "60S"}, {"marker_name": "30S"}], "applications": [], "relationships": [{"subject": "60S", "predicate": "STUDIED_WITH", "object": "30S", "confidence": 0.5}]}

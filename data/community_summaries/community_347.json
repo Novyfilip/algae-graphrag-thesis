@@ -1,0 +1,14 @@
+{
+  "community_id": 347,
+  "summary": "This cluster focuses on the taxonomy and systematics of the freshwater algal class Conjugatophyceae (Zygnematophyceae), with a shared emphasis on resolving its classification and nomenclature. The research centers on key genera such as *Mougeotia*, *Mougeotiopsis*, and *Transeauina*, tracing the historical evolution of the group and its redefinition as a distinct class. A common pattern across the cluster is the reliance on comprehensive databases like AlgaeBase to quantify species diversity and document distributional changes. The geographic and ecological scope is primarily freshwater systems, reflecting the habitat of these conjugating green algae.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Tetmemorus",
+    "Tetmemorus brebissonii",
+    "Tetmemorus granulatus",
+    "Tetmemorus laevis"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Franceia ovalis", "taxonomic_rank": "species"}, {"species_name": "Diacanthos", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Franceia ovalis", "predicate": "BELONGS_TO", "object": "Diacanthos", "confidence": 0.5}]}

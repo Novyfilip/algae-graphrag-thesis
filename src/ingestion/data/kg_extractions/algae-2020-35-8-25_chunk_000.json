@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gymnodinium smaydae", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean coastal waters"}], "markers": [], "applications": [], "relationships": [{"subject": "Gymnodinium smaydae", "predicate": "FOUND_IN", "object": "Korean coastal waters", "confidence": 1.0}]}

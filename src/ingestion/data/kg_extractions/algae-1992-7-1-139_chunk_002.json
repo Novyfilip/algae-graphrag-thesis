@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "macroalgae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Yellow Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "macroalgae", "predicate": "FOUND_IN", "object": "Yellow Sea", "confidence": 0.5}]}

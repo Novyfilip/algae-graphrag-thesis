@@ -1,0 +1,16 @@
+{
+  "community_id": 276,
+  "summary": "This cluster focuses on the restoration and establishment of the brown alga *Laminaria japonica* in coastal environments, specifically examining the mechanical and biological factors that influence transplant success. The research demonstrates that longer initial blade lengths (30 cm) significantly improve survival rates and drag force stability compared to shorter transplants, with an optimal plate weight of 508.2 g per 18.11 cm blade width identified for concrete substrates. These findings provide quantitative guidelines for the physical design of transplanting plates to ensure secure attachment and resource establishment in coastal waters. The geographic and ecological scope is centered on temperate coastal ecosystems, addressing practical methods for enhancing seaweed population recovery.",
+  "n_entities": 6,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "environmental improvement",
+    "formation of kelp forests",
+    "lower hanging method",
+    "reverse blind method",
+    "seed and seedling transplanting method",
+    "sinking establishment fixing method"
+  ],
+  "resolution": 8.0
+}

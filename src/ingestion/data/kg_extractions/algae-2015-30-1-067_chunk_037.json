@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "MANOVA"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "algal genus composition", "predicate": "AFFECTS", "object": "diversity", "confidence": 1.0}]}

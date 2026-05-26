@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "E. arborea", "taxonomic_rank": "species"}, {"species_name": "Macrocystis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "E. arborea", "predicate": "AFFECTS", "object": "Macrocystis", "confidence": 1.0}]}

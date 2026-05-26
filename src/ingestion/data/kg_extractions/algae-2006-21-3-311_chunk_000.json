@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cochlodinium polykrikoides", "taxonomic_rank": "species"}, {"species_name": "Dinophyceae", "taxonomic_rank": "class"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Cochlodinium polykrikoides", "predicate": "BELONGS_TO", "object": "Dinophyceae", "confidence": 1.0}]}

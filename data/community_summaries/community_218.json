@@ -1,0 +1,20 @@
+{
+  "community_id": 218,
+  "summary": "This cluster synthesizes research on red algal biodiversity, taxonomy, and biogeography, with a strong emphasis on the Rhodophyta phylum across freshwater and marine ecosystems in the Indo-Pacific region, particularly India, Korea, Thailand, and the western Pacific islands. Studies employed molecular markers such as rbcL, 18S, 28S rDNA, ITS, and cox1 to resolve cryptic species, revise genera (e.g., *Sheathia*, *Pterocladiella*, *Bostrychia*), and describe new taxa including *Sheathia assamica*, *Lemanea manipurensis*, *Porphyra pulchella*, and *Sonderophycus copusii*, while also documenting seasonal reproduction and population dynamics in species like *Catenella impudica* and *Myagropsis myagroides*. Key findings highlighted the role of low temperature and salinity in carpospore shedding, the utility of 28S rDNA over 18S for diatom taxonomy in *Chaetoceros*, and the discovery of manganese-rich deposits in mangrove-associated algae from Guam to Pohnpei. The geographic scope spanned tropical and subtropical western Atlantic biodiversity reassessments, Japanese kelp and *Sargassum* photosynthetic performance, and freshwater red algal surveys in Thai and Indian hotspots, collectively underscoring the importance of wide geographic sampling and polyphasic approaches for understanding algal evolution, speciation, and ecological adaptation.",
+  "n_entities": 75,
+  "n_papers": 28,
+  "n_papers_with_summaries": 28,
+  "entity_sample": [
+    "18S gene",
+    "B. arcuatum",
+    "B. atrum",
+    "Batra chospermum ambiguum",
+    "Batracho-spermales",
+    "Bhiravapalem",
+    "Bhiravapalem mangroves",
+    "Bhiravapalem mangroves of Godavari estuary",
+    "Bhiravapalem of Godavari estuary",
+    "Bhiravapalem, India"
+  ],
+  "resolution": 8.0
+}

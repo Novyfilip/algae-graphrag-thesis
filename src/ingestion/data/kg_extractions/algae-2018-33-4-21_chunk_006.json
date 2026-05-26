@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "E. huxleyi", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "E. huxleyi", "predicate": "PRODUCES", "object": "calcification", "confidence": 1.0}]}

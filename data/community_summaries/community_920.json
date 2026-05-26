@@ -1,0 +1,12 @@
+{
+  "community_id": 920,
+  "summary": "This cluster investigates the evolutionary origins and phylogenetic placement of charophyte algae, with a specific focus on the Chlorokybus lineage. By analyzing chloroplast genome architecture, particularly the psbB operon and intron distribution patterns, the research reveals that Chlorokybus possesses a unique gene cluster that distinguishes it from other charophytes like Spirogyra. The findings demonstrate that Chlorokybus is more closely related to embryophytes (land plants) than previously understood, marking a significant divergence point in charophyte evolution. The study is molecular and phylogenetic in scope, with no specific geographic or ecological focus, instead centering on comparative genomics across charophyte lineages.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Nitella mucronata",
+    "Zurich Botanical Garden culture, Switzerland"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 1054,
+  "summary": "This cluster investigates the aldose reductase inhibitory potential of marine plant extracts, with a specific focus on species including *Enteromorpha prolifera*, *Ecklonia cava*, *Pelvetia siliquosa*, and *Salicornia herbacea*. The research demonstrated significant in vitro inhibitory activity across these species, with *Enteromorpha prolifera* exhibiting the highest potency, characterized by an IC₉₀ value of 3.04. The studies employed comparative biochemical analysis of crude extracts to evaluate their efficacy against aldose reductase, an enzyme linked to diabetic complications. The geographic scope centered on marine flora from coastal regions, highlighting these species as promising natural sources for therapeutic development.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "plasmin",
+    "transformation growth factor B1-like molecule"
+  ],
+  "resolution": 8.0
+}

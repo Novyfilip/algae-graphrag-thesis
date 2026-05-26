@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "cytochalasin B"}], "methods": [{"method_name": "actin polymerization inhibition"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "cytochalasin B", "predicate": "STUDIED_WITH", "object": "actin polymerization inhibition", "confidence": 1.0}]}

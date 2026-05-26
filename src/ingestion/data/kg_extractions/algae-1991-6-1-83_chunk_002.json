@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "M. aeruginosa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "eutrophic waters"}], "markers": [], "applications": [], "relationships": [{"subject": "M. aeruginosa", "predicate": "FOUND_IN", "object": "eutrophic waters", "confidence": 1.0}]}

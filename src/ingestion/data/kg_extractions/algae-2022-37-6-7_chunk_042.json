@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "brown seaweed", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "dichromatic light", "predicate": "AFFECTS", "object": "brown seaweed", "confidence": 1.0}]}

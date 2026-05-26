@@ -1,0 +1,14 @@
+{
+  "community_id": 359,
+  "summary": "This cluster investigates the toxicological impacts of anthropogenic pollutants on the seagrass species *Zostera marina*, focusing on the uptake kinetics and physiological effects of Tributyltin (TBT) and heavy metals such as Cadmium (Cd), Copper (Cu), and Zinc (Zn). Laboratory experiments demonstrated that TBT significantly disrupted photosynthetic quantum yield by increasing chlorophyll a fluorescence, while metal uptake rates were inversely related to concentration and plant biomass. The research identified differential sensitivity in the rapid light curve (RLC) of the seagrass, with adverse effects observed from both TBT and heavy metal exposure. Geographically and ecologically, the studies position *Zostera marina* as a potential biomonitor for TBT contamination in coastal waters, emphasizing its role in assessing the ecological health of marine environments.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "연안환경",
+    "인공적인 오염물질",
+    "하구생태계",
+    "해산 현화식물"
+  ],
+  "resolution": 8.0
+}

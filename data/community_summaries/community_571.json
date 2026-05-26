@@ -1,0 +1,12 @@
+{
+  "community_id": 571,
+  "summary": "This cluster focuses on the discovery and characterization of a novel dinoflagellate species, *Ansanella granifera*, isolated from Korean coastal waters. The research is unified by the use of morphological and molecular methods, specifically SSU rDNA sequencing and ultrastructural analysis, to distinguish this species from other members of the family Suessiaceae. Key findings include the identification of unique traits such as 10-14 horizontal rows of amphiesmal vesicles, a grana-like thylakoid structure, and a peridinin-based pigmentation system. The geographic scope is limited to the temperate coastal waters of Korea, where this species was first described.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AF260260",
+    "Symbiodinium sp. (clade F)"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Emiliania huxleyi", "taxonomic_rank": "species"}, {"species_name": "Haptophyta", "taxonomic_rank": "phylum"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Emiliania huxleyi", "predicate": "BELONGS_TO", "object": "Haptophyta", "confidence": 1.0}]}

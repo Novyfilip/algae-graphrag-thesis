@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Haematococcus", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "ITS-2 ribosomal spacer"}], "applications": [], "relationships": [{"subject": "Haematococcus", "predicate": "CONTAINS", "object": "ITS-2 ribosomal spacer", "confidence": 1.0}]}

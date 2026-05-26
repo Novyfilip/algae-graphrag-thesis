@@ -1,0 +1,12 @@
+{
+  "community_id": 883,
+  "summary": "This cluster synthesizes historical and taxonomic research on marine macroalgae from the North Pacific and Bering Sea, with a primary geographic focus on the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands. The papers are connected by their reliance on data from early Russian and British expeditions (led by Steller, Krasheninnikov, Litke, and others) spanning the late 1730s to 1900, which documented the discovery and collection of diverse algal species. A key finding across the cluster is the taxonomic revision and cataloging of over 600 species of marine macroalgae, with particular emphasis on resolving previously uncertain classifications within ten distinct distributional regions along the Northwest Coast of the Bering Sea and Southeast Kamchatka. Together, these works establish a foundational floristic baseline for the region, informing subsequent ecological and evolutionary studies of its algal biodiversity.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Laminaria bullata",
+    "St. Lawrence Island, Bering Sea"
+  ],
+  "resolution": 8.0
+}

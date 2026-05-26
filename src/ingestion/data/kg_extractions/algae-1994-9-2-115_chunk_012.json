@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ankistrodesmus densus", "taxonomic_rank": "species"}, {"species_name": "Monoraphidium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ankistrodesmus densus", "predicate": "BELONGS_TO", "object": "Monoraphidium", "confidence": 0.3}]}

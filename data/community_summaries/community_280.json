@@ -1,0 +1,16 @@
+{
+  "community_id": 280,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally reshaped over the past half-century by the integration of gene sequencing, DNA barcoding, and phylogenetic analysis, which have revealed extensive cryptic diversity and driven the division of previously recognized genera into multiple new species. This cluster of studies documents a marked increase in the number of recognized algal taxa across this geographic region, facilitated by enhanced field collection methods such as SCUBA and a growing community of phycologists. Key findings include the identification of numerous cryptic species that were morphologically indistinguishable, underscoring the limitations of traditional taxonomy and the critical role of molecular tools in resolving evolutionary relationships. The geographic scope remains focused on the tropical and subtropical western Atlantic, with a particular emphasis on how molecular approaches have expanded the known biodiversity and refined systematic classifications within this ecologically significant marine realm.",
+  "n_entities": 6,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "G. dendroideum",
+    "G. megagynum",
+    "G. norrisiae",
+    "G. pinnatum",
+    "Ganonema",
+    "Ganonema farinosum"
+  ],
+  "resolution": 8.0
+}

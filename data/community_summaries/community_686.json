@@ -1,0 +1,12 @@
+{
+  "community_id": 686,
+  "summary": "This cluster focuses on the morphotaxonomic and phylogenetic characterization of the brown alga *Botrytella parvus* within the family Ectocarpaceae, primarily using Korean specimens. Key findings were derived from controlled laboratory experiments that demonstrated the species' developmental plasticity, showing rapid germination and erect axis formation under higher light and temperature conditions, contrasted with slower growth at lower temperatures. The research integrated field observations with cultured materials and employed phenetic morphometrics and ontogenetic analysis to resolve phylogenetic relationships, ultimately concluding that *B. parvus* represents a distinct lineage within the Ectocarpaceae. The geographic scope is centered on the Korean peninsula, with ecological implications for understanding how light and temperature gradients influence the life history and distribution of this filamentous brown alga.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ectocarpus siliculosus B, uvaeformis",
+    "Hafmansgave"
+  ],
+  "resolution": 8.0
+}

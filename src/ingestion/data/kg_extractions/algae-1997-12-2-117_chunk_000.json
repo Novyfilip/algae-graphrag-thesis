@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "intertidal benthic marine"}, {"environment_name": "Chumunjin on the East Coast of Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "intertidal benthic marine", "predicate": "FOUND_IN", "object": "Chumunjin on the East Coast of Korea", "confidence": 1.0}]}

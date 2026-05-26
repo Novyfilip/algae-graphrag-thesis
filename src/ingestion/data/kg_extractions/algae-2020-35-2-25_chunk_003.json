@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pythium Pringsheim", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "COI"}, {"marker_name": "ITS"}, {"marker_name": "rbcL"}], "applications": [], "relationships": [{"subject": "Pythium Pringsheim", "predicate": "BELONGS_TO", "object": "Chromista", "confidence": 1.0}]}

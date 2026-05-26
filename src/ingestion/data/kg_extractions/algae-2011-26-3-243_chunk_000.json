@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Carpophyllum", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "wave-exposure gradient"}], "markers": [], "applications": [], "relationships": [{"subject": "Carpophyllum", "predicate": "FOUND_IN", "object": "wave-exposure gradient", "confidence": 1.0}]}

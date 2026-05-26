@@ -1,0 +1,16 @@
+{
+  "community_id": 270,
+  "summary": "This cluster synthesizes research on the taxonomy and ecology of macroalgae in Northeast Asia, specifically focusing on the Rhodophyta genus *Polysiphonia* and Phaeophyta species. Studies on *Polysiphonia* from Korea employed morphological traits, particularly rhizoid shape and branching, to distinguish seven species including *P. morrowi* and *P. japonica* from herbarium specimens collected between 1980 and 1986. Concurrently, ecological surveys in Aomori Prefecture, Japan, examined the vertical distribution of fourteen brown algae species along transects influenced by the Tsushima and Kurile Currents, finding that warm-water taxa like *Ecklonia stolonifera* dominated shallower depths (5–10 m) while cold-water species such as *Agarum cribrosum* occurred deeper (10–20 m). Together, these works highlight how morphological systematics and depth-stratified sampling across Korean and Japanese coastlines reveal species-specific habitat preferences and biogeographic patterns driven by regional current systems.",
+  "n_entities": 6,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Mutsu Bay",
+    "Polysiphonia violacea",
+    "Polystphonia violacea",
+    "adjacent Waters",
+    "island of Yonakuni",
+    "vicinity of the Akkeshi Marine Biological Station"
+  ],
+  "resolution": 8.0
+}

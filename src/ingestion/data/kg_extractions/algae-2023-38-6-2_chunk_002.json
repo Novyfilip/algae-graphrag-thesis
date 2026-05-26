@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. turuturu", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "salinity", "predicate": "AFFECTS", "object": "G. turuturu", "confidence": 0.5}, {"subject": "irradiance", "predicate": "AFFECTS", "object": "G. turuturu", "confidence": 0.5}]}

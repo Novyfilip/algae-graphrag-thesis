@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Rhodophyllis parasitica", "taxonomic_rank": "species"}, {"species_name": "Rhodophyllis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Rhodophyllis parasitica", "predicate": "BELONGS_TO", "object": "Rhodophyllis", "confidence": 1.0}]}

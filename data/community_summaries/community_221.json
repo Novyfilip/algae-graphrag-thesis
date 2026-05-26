@@ -1,0 +1,20 @@
+{
+  "community_id": 221,
+  "summary": "This cluster of papers is unified by a strong focus on the biodiversity, taxonomy, and ecology of marine macroalgae in the coastal waters of Korea and adjacent regions of the Northwest Pacific. A central theme is the use of molecular phylogenetic markers, particularly *rbcL* and COI-5P, to resolve taxonomic relationships and discover cryptic or new species, as seen in studies of *Sargassum* subgenus *Bactrophycus*, *Herposiphonia*, *Symphyocladia*, *Pterosiphonia*, and the red algal genera *Radicilingua*, *Erythroglossum*, and *Martensia*. Ecologically, many papers document the vertical zonation, seasonal biomass variation, and community structure of intertidal and subtidal algal assemblages, with *Hizikia fusiformis*, *Sargassum thunbergii*, *Corallina pilulifera*, *Ecklonia cava*, and *Ulva pertusa* frequently reported as dominant or keystone species across Korean sites including Jeju Island, Yongil Bay, and the South Sea. The geographic scope is predominantly the Korean Peninsula, with additional contributions from Japan, the Yellow Sea, the Bering Sea, and the Aleutian Islands, and several studies address applied topics such as kelp aquaculture, heavy metal accumulation, green tide dynamics, and the economic impact of algal diseases on *Pyropia* farms.",
+  "n_entities": 75,
+  "n_papers": 63,
+  "n_papers_with_summaries": 62,
+  "entity_sample": [
+    "10-30 m depth",
+    "ASK006",
+    "Acanthopeltis longiramulosa",
+    "Biyangdo",
+    "Branchioglossum",
+    "Cladia sp.",
+    "Cryptopleureae",
+    "Daesambudo, Yeosu",
+    "Dasyclonium flaccidum",
+    "Dueokdo, Wando"
+  ],
+  "resolution": 8.0
+}

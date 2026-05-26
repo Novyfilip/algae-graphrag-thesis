@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "H. edulis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Philippines"}], "markers": [], "applications": [], "relationships": [{"subject": "H. edulis", "predicate": "FOUND_IN", "object": "Philippines", "confidence": 1.0}]}

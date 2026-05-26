@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gymnodinium catenatum", "taxonomic_rank": "species"}, {"species_name": "Alexandrium", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "PSP"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Gymnodinium catenatum", "predicate": "PRODUCES", "object": "PSP", "confidence": 1.0}]}

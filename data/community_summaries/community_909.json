@@ -1,0 +1,12 @@
+{
+  "community_id": 909,
+  "summary": "This cluster focuses on the taxonomic description and phylogenetic placement of newly identified red algal species, specifically within the genus *Polysiphonia*. The research centers on *Polysiphonia ulleungensis*, a diminutive species from Korea characterized by four pericentral cells, open rhizoid connections, and straight tetrasporangial series, with morphological and molecular analyses confirming its divergence from *P. atlantica*. The geographic scope is restricted to the coastal waters of Ulleung, Korea, highlighting the region's endemic algal biodiversity.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ulleung",
+    "ulleungensis"
+  ],
+  "resolution": 8.0
+}

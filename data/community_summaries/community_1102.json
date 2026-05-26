@@ -1,0 +1,12 @@
+{
+  "community_id": 1102,
+  "summary": "This cluster of research focused on the biotechnological exploitation of seaweeds, specifically through the molecular characterization and genetic manipulation of various species to identify and produce biologically active compounds. Key methods connecting the papers included enzymatic reduction assays for tissue viability, RNA and DNA extraction with differential display for genetic analysis, and particle bombardment for gene transfer into young thalli. A central finding was the demonstration that advanced molecular techniques could be effectively applied to seaweed to unlock their potential as a source of valuable chemical substances. The geographic and ecological scope was broad, encompassing general marine environments where these macroalgae are harvested or cultivated.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Lactuca",
+    "tracheary element differentiation"
+  ],
+  "resolution": 8.0
+}

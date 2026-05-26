@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "cyanobacteria", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "specialised habitats"}], "markers": [], "applications": [], "relationships": [{"subject": "cyanobacteria", "predicate": "FOUND_IN", "object": "specialised habitats", "confidence": 1.0}]}

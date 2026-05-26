@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "T. furca", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "coast of the South Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "T. furca", "predicate": "FOUND_IN", "object": "coast of the South Sea", "confidence": 1.0}]}

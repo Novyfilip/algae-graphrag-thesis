@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Discosporangium mesarthrocarpum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "southern Australia"}], "markers": [], "applications": [], "relationships": [{"subject": "Discosporangium mesarthrocarpum", "predicate": "FOUND_IN", "object": "southern Australia", "confidence": 1.0}]}

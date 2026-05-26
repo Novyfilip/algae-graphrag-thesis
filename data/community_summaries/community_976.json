@@ -1,0 +1,12 @@
+{
+  "community_id": 976,
+  "summary": "This cluster focuses on the biotechnological exploitation of marine microalgae for the production of high-value bioactive compounds. Research centered on *Nannochloropsis oculata* and *Dunaliella salina* investigated their sterol and carotenoid biosynthesis pathways, respectively, to identify and enhance compounds with therapeutic potential. Key findings included the anti-inflammatory and anti-cancer activities of a sterol-rich fraction from *N. oculata*, while studies on *D. salina* leveraged genomic and metabolic engineering to improve its stress tolerance and isoprenoid production. The geographic scope was primarily laboratory-based, with an emphasis on cultured strains and genetic manipulation rather than field collection.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "farnesyl diphosphate",
+    "squalene"
+  ],
+  "resolution": 8.0
+}

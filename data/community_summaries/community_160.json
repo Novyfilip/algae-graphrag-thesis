@@ -1,0 +1,20 @@
+{
+  "community_id": 160,
+  "summary": "This cluster of papers is unified by a strong geographic focus on Korean coastal waters, with significant attention to the South Sea, Cheju Island, and the Han and Naktong Rivers, alongside comparative studies from Antarctica, India, Kuwait, and the Americas. The research predominantly employs molecular phylogenetic methods—including DNA barcoding with markers such as rbcL, cox1, ITS, and 16S rRNA—to resolve taxonomic ambiguities and describe new species, such as *Alsidium oliveiranum*, *Polysiphonia ulleungensis*, and *Dolichospermum hangangense*, as well as novel cyanobacterial and microalgal strains. Key findings include the identification of dominant macroalgae like *Hizikia fusiformis* and *Ecklonia cava* in Korean intertidal zones, the role of environmental factors (salinity, turbidity, UV-B radiation) in shaping phytoplankton and benthic community dynamics, and the discovery of chemotaxonomic markers like sorbitol and sucrose in *Stichococcus*-like organisms. The cluster also highlights applied themes, including the antibacterial potential of microalgae from extreme environments, cryopreservation techniques, and the use of cyanobacterial crusts for substrate remediation, reflecting a synthesis of taxonomic, ecological, and biotechnological research.",
+  "n_entities": 111,
+  "n_papers": 45,
+  "n_papers_with_summaries": 45,
+  "entity_sample": [
+    "A. pesudoirregularis",
+    "Amphora Ehrenberg ex Kützing sensu lato",
+    "Asan Bay",
+    "Asterochloris",
+    "Asterochloris excentrica",
+    "Asterochloris glomerata",
+    "Asterochloris irregularis",
+    "Asterochloris pseudoirregularis",
+    "Asterochloris streocaulonicola",
+    "Baffins Bay in Davis Strait"
+  ],
+  "resolution": 8.0
+}

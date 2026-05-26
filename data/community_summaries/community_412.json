@@ -1,0 +1,13 @@
+{
+  "community_id": 412,
+  "summary": "This cluster focuses on the ecological dynamics of benthic macroalgae in the coastal waters of Dokdo Island, South Korea, during the summer of 2003. The research identified 45 algal species, with green algae comprising 11% of the total abundance and the dominant taxa being *Enteromorpha linza*, *Cladophora* spp., and *Codium fragile*. A key finding was a documented decline in species richness compared to earlier surveys, which was linked to a potential whitening phenomenon on the rocky shores. The geographic scope is narrowly confined to the Dokdo Island coastline, and the studies collectively suggest a shift in community composition possibly driven by environmental stressors.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Freshwater ecosystem (MulKol)",
+    "Periphytic algae",
+    "Tok Island"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "iodide"}], "methods": [], "environments": [{"environment_name": "euphotic zone"}], "markers": [], "applications": [], "relationships": [{"subject": "iodide", "predicate": "FOUND_IN", "object": "euphotic zone", "confidence": 1.0}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 27,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, phylogenetics, and ecological dynamics of diverse algal groups, particularly dinoflagellates, red algae, and cyanobacteria, often in Korean and broader Northwest Pacific coastal waters. Key findings include the discovery and molecular characterization of numerous new species and cryptic diversity, such as *Capillus* spp., *Centroceras arcii*, *Amphidinium stirisquamtum*, and *Dolichospermum hangangense*, using genetic markers like rbcL, COI-5P, and SSU rDNA. The research extensively examines harmful algal bloom (HAB) dynamics, including toxin production (e.g., PSP toxins in *Alexandrium* spp., microcystins, and neurotoxins like anatoxin-a and saxitoxin), mixotrophic and heterotrophic feeding interactions (e.g., *Oxyrrhis marina*, *Gyrodinium dominans*, and *Polykrikos kofoidii*), and the physiological responses of species to environmental stressors such as temperature, irradiance, and ocean acidification. Geographically, the studies span temperate and tropical regions, with a heavy emphasis on Korean coastal ecosystems (e.g., Jeju Island, Jinhae Bay, Masan Bay, and the East China Sea), alongside contributions from India, Brazil, the Atlantic, and the Antarctic.",
+  "n_entities": 250,
+  "n_papers": 155,
+  "n_papers_with_summaries": 153,
+  "entity_sample": [
+    "0.2 μm-filtered seawater",
+    "A. carterae",
+    "A. rhynchocephalum",
+    "AY443011",
+    "Amphidinium",
+    "Amphidinium cupulatisquama",
+    "Amphidinium fijiensis",
+    "Amphidinium incoloratum",
+    "Amphidinium klebsii",
+    "Amphidinium operculatum"
+  ],
+  "resolution": 8.0
+}

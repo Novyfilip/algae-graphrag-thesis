@@ -1,0 +1,20 @@
+{
+  "community_id": 252,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, phylogeny, and biodiversity of algae, with particular emphasis on the genera *Staurastrum* and *Staurodesmus* (Zygnematophyceae). Multiple studies employed molecular markers, including *atpB*, 18S rDNA, and mitochondrial coxIII sequences, to resolve phylogenetic relationships, revealing a close affinity between *Staurastrum* and *Xanthidium* while suggesting that *Staurodesmus* may be distinct or warrant taxonomic revision. Geographically, the research spans diverse habitats, from the Arctic White Sea and Korean coastal ecosystems to tropical hot springs in India and sub-aerial building facades, highlighting a broad ecological scope from marine macroalgae to freshwater and terrestrial microalgae. Key findings include the documentation of over 250 algal species in the Keret Archipelago, the identification of bioactive compounds from freshwater microalgae like *Sphaerocystis schroeteri*, and the characterization of cyanobacterial pigment responses to temperature in Indian hot springs.",
+  "n_entities": 42,
+  "n_papers": 15,
+  "n_papers_with_summaries": 14,
+  "entity_sample": [
+    "Bambusina",
+    "Bambusina borreri",
+    "Bambusina brebissonii",
+    "Cleve",
+    "Closterium trabecula",
+    "Conferva ericetorum Roth",
+    "Cosmarium cucumis",
+    "Cryptomonas lima",
+    "Ehrenberg",
+    "Euastrum margaritiferum"
+  ],
+  "resolution": 8.0
+}

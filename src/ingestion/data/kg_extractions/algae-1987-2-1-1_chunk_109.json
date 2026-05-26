@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ceramium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Devonshore, England"}], "markers": [], "applications": [], "relationships": [{"subject": "Ceramium", "predicate": "FOUND_IN", "object": "Devonshore, England", "confidence": 1.0}]}

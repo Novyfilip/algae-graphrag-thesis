@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Grateloupia spp.", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Grateloupia spp.", "predicate": "CONTAINS", "object": "endophytes", "confidence": 1.0}, {"subject": "endophytes", "predicate": "AFFECTS", "object": "Grateloupia spp.", "confidence": 1.0}]}

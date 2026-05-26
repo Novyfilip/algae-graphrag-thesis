@@ -1,0 +1,12 @@
+{
+  "community_id": 1027,
+  "summary": "Research in this cluster investigated the use of acoustic reflectivity from a digital echosounder to assess the canopy cover and biomass of eelgrass (Zostera marina) beds in Kwangyang Bay, South Korea. The method effectively mapped patch sizes and vegetation density over large areas, measuring a total dry weight biomass of 4.1 tons across an area of 4.05 km². The findings demonstrated that acoustic surveying is a valuable technique for large-scale monitoring of submerged aquatic vegetation, providing a non-destructive alternative to traditional sampling in coastal ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Biomass techniques",
+    "monitoring and assessing control of aquatic vegetation"
+  ],
+  "resolution": 8.0
+}

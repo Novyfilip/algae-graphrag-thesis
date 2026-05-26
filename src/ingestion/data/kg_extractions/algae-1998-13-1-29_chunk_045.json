@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. nodulosum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Oeyondo Islands"}], "markers": [], "applications": [], "relationships": [{"subject": "C. nodulosum", "predicate": "FOUND_IN", "object": "Oeyondo Islands", "confidence": 0.5}]}

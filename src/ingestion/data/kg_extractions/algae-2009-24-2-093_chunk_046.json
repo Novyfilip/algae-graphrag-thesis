@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "O2"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "fucoid bladders", "predicate": "CONTAINS", "object": "O2", "confidence": 1.0}, {"subject": "photosynthesis", "predicate": "PRODUCES", "object": "O2", "confidence": 0.5}]}

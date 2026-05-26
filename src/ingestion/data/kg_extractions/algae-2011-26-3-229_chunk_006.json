@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "expressed sequence tag (EST) sequencing"}], "environments": [], "markers": [{"marker_name": "dinoSL"}], "applications": [], "relationships": [{"subject": "dinoSL", "predicate": "IDENTIFIED_BY", "object": "expressed sequence tag (EST) sequencing", "confidence": 0.5}]}

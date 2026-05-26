@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cryptosporidium parvum", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "phylogenomic analysis"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Cryptosporidium parvum", "predicate": "STUDIED_WITH", "object": "phylogenomic analysis", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "phenolic compounds"}], "methods": [{"method_name": "Confocal Laser Scanning Microscopy (CLSM)"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Confocal Laser Scanning Microscopy (CLSM)", "predicate": "STUDIED_WITH", "object": "phenolic compounds", "confidence": 1.0}]}

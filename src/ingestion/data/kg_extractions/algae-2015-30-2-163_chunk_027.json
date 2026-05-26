@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "eckol"}, {"compound_name": "melanin"}, {"compound_name": "arbutin"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "eckol", "predicate": "AFFECTS", "object": "melanin", "confidence": 1.0}, {"subject": "eckol", "predicate": "PRODUCES", "object": "melanin", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "SOD Assay Kit-WST"}, {"method_name": "ELISA reader"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "SOD Assay Kit-WST", "predicate": "STUDIED_WITH", "object": "ELISA reader", "confidence": 0.5}]}

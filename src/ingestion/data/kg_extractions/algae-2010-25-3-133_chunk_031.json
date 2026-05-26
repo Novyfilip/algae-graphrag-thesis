@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "diatoms", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "sediment"}], "markers": [], "applications": [], "relationships": [{"subject": "diatoms", "predicate": "AFFECTS", "object": "sediment", "confidence": 0.5}, {"subject": "sediment", "predicate": "AFFECTS", "object": "diatoms", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 1090,
+  "summary": "In this cluster, research centered on the effects of nutrient loading on freshwater phytoplankton communities, specifically within managed fish pond ecosystems in Mason County, Illinois, USA. Studies quantified shifts in species composition, noting that higher inorganic fertilizer loads led to increased overall phytoplankton density but a decline in the relative abundance of Chlorophyta, while Bacillariophyta and overall species diversity rose. A key pattern observed was secondary succession within the phytoplankton community, where lower nutrient levels were associated with more stable growth and higher fish production. The geographic and ecological scope was narrowly focused on temperate, human-managed aquaculture ponds, linking nutrient management directly to primary producer dynamics and aquaculture yield.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "continuous flow plankton centrifuge",
+    "standard references"
+  ],
+  "resolution": 8.0
+}

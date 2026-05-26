@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "polycyclic aromatic hydrocarbons"}], "methods": [], "environments": [{"environment_name": "Huang He (Yellow River) system"}], "markers": [], "applications": [], "relationships": [{"subject": "polycyclic aromatic hydrocarbons", "predicate": "FOUND_IN", "object": "Huang He (Yellow River) system", "confidence": 0.5}]}

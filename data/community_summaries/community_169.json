@@ -1,0 +1,20 @@
+{
+  "community_id": 169,
+  "summary": "This cluster of research focuses on the biodiversity, ecology, and harmful algal bloom dynamics of dinoflagellates and diatoms in Korean coastal waters and adjacent regions, with particular emphasis on species such as *Cochlodinium polykrikoides*, *Alexandrium tamarense*, *Chaetoceros debilis*, and *Skeletonema costatum*. Key findings include the identification of new and cryptic dinoflagellate species (e.g., *Ansanella granifera*, *Coolia malayensis*, *Gymnodinium smaydae*), the role of mixotrophy and heterotrophic feeding in bloom formation, and the influence of environmental factors such as temperature, nutrient availability, and light quality on phytoplankton community structure. The geographic scope is predominantly the Korean Peninsula, including the East Sea, Yellow Sea, and Jeju Island, with additional studies extending to the Mediterranean, Gulf of California, and Antarctic waters. Methodologically, the cluster integrates morphological taxonomy, molecular phylogenetics (LSU and SSU rDNA), pigment analysis, and quantitative PCR to characterize species distributions, toxin profiles, and trophic interactions, highlighting the ecological and economic significance of red-tide-forming dinoflagellates in temperate and subtropical marine ecosystems.",
+  "n_entities": 106,
+  "n_papers": 76,
+  "n_papers_with_summaries": 76,
+  "entity_sample": [
+    "AY277647",
+    "AY571375",
+    "Actiniscaceae",
+    "Alexandrium monilata",
+    "Alexandrium tamarensis",
+    "Ceratoperidinium",
+    "Coastal Waters off Korea",
+    "Cyanidium caldrium",
+    "DQ444226",
+    "DSP"
+  ],
+  "resolution": 8.0
+}

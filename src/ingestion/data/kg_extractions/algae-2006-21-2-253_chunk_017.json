@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "dissolved organic carbon"}, {"compound_name": "DOC"}, {"compound_name": "total carbohydrate"}, {"compound_name": "polysaccharide"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "total carbohydrate", "predicate": "CONTAINS", "object": "polysaccharide", "confidence": 0.5}]}

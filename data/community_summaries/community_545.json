@@ -1,0 +1,13 @@
+{
+  "community_id": 545,
+  "summary": "This cluster focuses on the polyphasic taxonomic characterization of cyanobacteria, specifically within the family Geminocystaceae, using strains from the CALU culture collection. The research integrates 16S rRNA gene sequencing, morphological analysis, and assessments of physiological traits like complementary chromatic adaptation to resolve phylogenetic relationships and propose new taxa, such as *Geminocystis urbisnovae*. A key finding is the historical underrepresentation of Geminocystaceae within cyanobacterial phylogeny, necessitating a re-evaluation of its placement and genetic diversity. The geographic and ecological scope is defined by the cultured strains, with no specific natural habitat or geographic region explicitly emphasized in the summary.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Geminocystis sp. CENA526",
+    "Geminocystis sp. CHAB 6541",
+    "salt lakes"
+  ],
+  "resolution": 8.0
+}

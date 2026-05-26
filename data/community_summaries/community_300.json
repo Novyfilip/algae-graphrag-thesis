@@ -1,0 +1,15 @@
+{
+  "community_id": 300,
+  "summary": "This cluster of research focuses on the long-term dynamics of phytoplankton primary production (PP) in the territorial seas of the Republic of Korea, specifically analyzing data from 2005 to 2021. The studies consistently link rising sea surface temperatures (SST) with declining nutrient concentrations across five regions, identifying the western South Sea as the most productive area. The maximum PP for the Korean territorial sea, covering 76,450 km², was estimated at 11,227 Gg C y⁻¹, which represents 0.03% of the global PP. These findings contribute to understanding the regional carbon cycle and trophic energy flow within the Korean marine ecosystem.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Chl-a concentration",
+    "depth profiles of photosynthetic active radiation (PAR)",
+    "depth-integrated PP",
+    "hourly primary productivity",
+    "photosynthesis-irradiance parameters"
+  ],
+  "resolution": 8.0
+}

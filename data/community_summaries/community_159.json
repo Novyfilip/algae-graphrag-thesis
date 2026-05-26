@@ -1,0 +1,20 @@
+{
+  "community_id": 159,
+  "summary": "This cluster of research is geographically centered on the North Pacific, with a strong emphasis on the Korean Peninsula, the Bering Sea, and the Aleutian Islands, and it focuses on the taxonomy, distribution, ecology, and physiology of macroalgae and microalgae. Key connecting themes include the identification and revision of species, such as *Pyropia*, *Sargassum*, *Corallina*, and *Coolia*, using morphological and molecular methods like rbcL and ITS sequencing, alongside investigations into their responses to environmental stressors like light, temperature, salinity, and eutrophication. Studies consistently documented patterns of vertical zonation, seasonal biomass fluctuations, and community dynamics, often driven by dominant species like *Ecklonia cava*, *Sargassum thunbergii*, and *Undaria pinnatifida*, while also exploring applied aspects such as biofiltration, antioxidant potential, and heavy metal bioaccumulation. The research collectively underscores the high biodiversity and ecological complexity of temperate and subarctic coastal ecosystems, with a particular focus on the roles of these algae in primary production, carbon flux, and as indicators of environmental change.",
+  "n_entities": 112,
+  "n_papers": 99,
+  "n_papers_with_summaries": 98,
+  "entity_sample": [
+    "0-6 m depth",
+    "40 m depth",
+    "7-12 m depth",
+    "Antarctic coastal ecosystem",
+    "Aomori Prefecture",
+    "C : N ratio analysis",
+    "Campo",
+    "Campo Kennedy, Punta Banda near Bahía Todos Santos, México",
+    "Caribbean coral reefs",
+    "Deogjeog archipelago"
+  ],
+  "resolution": 8.0
+}

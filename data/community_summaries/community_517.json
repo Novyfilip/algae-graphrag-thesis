@@ -1,0 +1,13 @@
+{
+  "community_id": 517,
+  "summary": "This cluster investigates carbon flux dynamics in temperate coastal ecosystems, specifically focusing on the roles of seagrass and macroalgal vegetation in carbon capture. Research conducted in Gwangyang Bay, Korea, during the summer of 2007 demonstrated that vegetated habitats, particularly eelgrass beds and macroalgal communities, exhibited significantly higher rates of gross and net ecosystem production compared to unvegetated sediments. Eelgrass beds achieved the highest daily gross ecosystem production (6.97 ± 0.02 g C m⁻² d⁻¹), while macroalgal vegetation showed the highest net ecosystem production (3.31 ± 0.45 g C m⁻² d⁻¹). These findings collectively highlight the high efficiency of coastal autotrophs in absorbing inorganic carbon and underscore the critical role of these vegetated habitats in local carbon sequestration.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Fibox 3",
+    "fiber optic connection",
+    "optical oxygen sensor spot"
+  ],
+  "resolution": 8.0
+}

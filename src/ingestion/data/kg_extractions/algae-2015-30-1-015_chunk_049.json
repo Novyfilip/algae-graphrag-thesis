@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Centroceras gasparrinii", "taxonomic_rank": "species"}, {"species_name": "Ceramium gasparrinii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Centroceras gasparrinii", "predicate": "BELONGS_TO", "object": "Ceramium gasparrinii", "confidence": 1.0}]}

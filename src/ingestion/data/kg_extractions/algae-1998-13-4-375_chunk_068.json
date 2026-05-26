@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Alaria fistulosa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Kamchatka"}], "markers": [], "applications": [], "relationships": [{"subject": "Alaria fistulosa", "predicate": "FOUND_IN", "object": "Kamchatka", "confidence": 1.0}]}

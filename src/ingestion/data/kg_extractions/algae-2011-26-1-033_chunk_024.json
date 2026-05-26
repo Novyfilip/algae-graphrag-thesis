@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Porphyroglossum zollingeri", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "SE Java near Malang"}], "markers": [], "applications": [], "relationships": [{"subject": "Porphyroglossum zollingeri", "predicate": "FOUND_IN", "object": "SE Java near Malang", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 910,
+  "summary": "The cluster focuses on the floristic composition and biogeographic patterns of benthic macroalgae in Yongil Bay, South Korea, with a specific emphasis on the diversity and distribution of green, brown, and red algae. The research documented 168 species, including the previously recorded cyanobacterium *Calothrix codicola*, and identified a comparatively poorer algal flora in the inner coastal area relative to the outer coast. Key common species connecting the studies include *Ulva pertusa*, *Desmarestia viridis*, *Gelidium amansti*, *Grateloupia prolongata*, *G. turuturu*, *Pachymeniopsis lanceolata*, *Schizymenia dubyi*, *Gymnogongrus flabelliformis*, *Chondrus ocellatus*, *Lomentaria catenata*, and *L. hakodatensis*. The findings collectively characterize the local benthic algal community structure and highlight spatial heterogeneity in species richness within a temperate East Asian coastal ecosystem.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Marine algal flora",
+    "Ulreung and Dogdo islands"
+  ],
+  "resolution": 8.0
+}

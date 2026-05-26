@@ -1,0 +1,13 @@
+{
+  "community_id": 493,
+  "summary": "This cluster investigates the biodiversity of macroalgae in the Arabian Gulf, specifically along the Kuwait coastline, using the Germling Emergence Method to isolate and culture 120 clonal isolates from natural substrata. The studies employed DNA barcoding with RuBisCO spacer markers to identify species across the three major algal phyla—Chlorophyta, Phaeophyceae, and Rhodophyta—resulting in the discovery of three new species and several previously undocumented records for the region. The research highlights the utility of culture-based isolation combined with molecular identification for uncovering cryptic diversity in understudied, arid-zone marine ecosystems.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Al-Doha",
+    "Ulva Linnaeus spp.",
+    "Ulvellaceae"
+  ],
+  "resolution": 8.0
+}

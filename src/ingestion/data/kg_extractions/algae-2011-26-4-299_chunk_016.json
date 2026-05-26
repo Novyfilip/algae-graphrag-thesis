@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pseudoneochloris", "taxonomic_rank": "genus"}, {"species_name": "Neochloris", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Pseudoneochloris", "predicate": "BELONGS_TO", "object": "Neochloris", "confidence": 0.5}]}

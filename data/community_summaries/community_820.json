@@ -1,0 +1,12 @@
+{
+  "community_id": 820,
+  "summary": "This cluster focuses on the historical and phylogenetic study of brown algae (Phaeophyceae) endemic to the North Pacific and Bering Sea region, particularly the Kamchatka Peninsula, Aleutian Islands, and Alaska. Early Russian and British expeditions from the late 18th to 19th centuries documented the initial discovery and collection of diverse algal species in this subarctic zone, establishing a foundational taxonomic record. Modern molecular analysis of the monotypic genus *Soranthera ulvoidea*, using rbcL and ITS sequences, later resolved its phylogenetic placement within the Chordariaceae s.l., revealing a closer relationship to *Botrytella* than to *Punctaria* or *Asperococcus*. Together, these works connect historical exploration with contemporary systematics to characterize the unique, endemic brown algal flora of the Bering Sea and adjacent waters.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Pleurophycus gardneri",
+    "San Juan Island, Washington"
+  ],
+  "resolution": 8.0
+}

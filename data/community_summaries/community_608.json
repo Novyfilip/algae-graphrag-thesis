@@ -1,0 +1,12 @@
+{
+  "community_id": 608,
+  "summary": "This cluster synthesizes research on the taxonomy, classification, and biogeography of marine algae along the Korean coastline. Studies employed morphological characterization and phylogenetic analyses to resolve taxonomic relationships and identify species, including *Cladophora crystallina* and *Sphacelaria apicalis*, within divisions such as Chlorophyta and Chromophyta. A key pattern across the cluster was the development of systematic methods for grouping morphologically similar algae and updating regional species checklists. The geographic scope was narrowly focused on the Korean peninsula, emphasizing the distribution and ecological placement of local macroalgal flora.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Antithamnion miharae",
+    "Antithamnionella mtharae"
+  ],
+  "resolution": 8.0
+}

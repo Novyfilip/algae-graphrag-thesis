@@ -1,0 +1,13 @@
+{
+  "community_id": 404,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally reshaped over the past half-century by the integration of molecular techniques, particularly DNA barcoding and gene sequencing, which have revealed extensive cryptic diversity and driven the taxonomic revision of genera. These methods have led to the recognition of numerous new species and the division of previously unified genera, significantly expanding the known algal species richness in this geographic region. The advances have been facilitated by increased field collection via SCUBA and a growing community of phycologists, resulting in a more phylogenetically accurate understanding of tropical and subtropical western Atlantic macroalgal biodiversity.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Dasya brasiliensis",
+    "Dasya rigidula",
+    "Praia da Figueira, São Francisco, State of São Paulo, Brazil"
+  ],
+  "resolution": 8.0
+}

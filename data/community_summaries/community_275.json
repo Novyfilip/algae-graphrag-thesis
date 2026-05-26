@@ -1,0 +1,16 @@
+{
+  "community_id": 275,
+  "summary": "This cluster investigates eutrophication dynamics in freshwater systems, specifically the Nakdong River, where hypereutrophic conditions were linked to blooms of the diatoms *Stephanodiscus* and *Aulacoseira*. Statistical modeling of environmental data from 1999 to 2001 revealed that chlorophyll *a* concentration, a proxy for algal biomass, was positively correlated with biochemical oxygen demand (BOD), pH, and conductivity, while negatively correlated with phosphate (PO₄) levels and water level. The research developed predictive statistical models to forecast eutrophication status based on these interacting physicochemical factors, highlighting the role of specific diatom species as indicators of nutrient-driven degradation in a temperate Asian river system.",
+  "n_entities": 6,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "남강댐",
+    "수량조절",
+    "수력발전",
+    "안동댐",
+    "임하댐",
+    "합천댐"
+  ],
+  "resolution": 8.0
+}

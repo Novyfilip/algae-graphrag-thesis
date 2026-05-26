@@ -1,0 +1,19 @@
+{
+  "community_id": 260,
+  "summary": "This cluster of research is united by a focus on the molecular characterization, taxonomic classification, and ecological impact of eukaryotic microalgae, with a particular emphasis on genetic diversity and bloom dynamics. Studies utilized DNA sequence analysis of the ITS and 5.8S rDNA regions to reveal significant interspecies divergence in *Cosmarium* species, challenging traditional morphological taxonomy, while another investigation catalogued 217 eukaryotic algal genes from 60 species across seven phyla, including Rhodophyta and Chlorophyta, to advance molecular biology. Ecologically, a study in Bangladesh identified that blooms of *Euglena*, *Phacus*, and *Trachelomonas* in fish ponds were driven by high temperatures and acidic conditions, which suppressed chlorophytes and bacillariophytes and negatively impacted fish growth. The cluster also addresses the commercial cultivation of *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis* for nutraceuticals and biofuels, though this applied work is linked to the broader theme of understanding algal biology through molecular and ecological lenses.",
+  "n_entities": 9,
+  "n_papers": 4,
+  "n_papers_with_summaries": 4,
+  "entity_sample": [
+    "Volvox",
+    "calcium-dependent glycosylated extracellular phosphatase",
+    "extensin family",
+    "extracellular matrix (ECM)",
+    "hydroxyproline-rich glycoproteins (HRGPs)",
+    "pherophorin",
+    "pherophorins",
+    "sex-inducing pheromone",
+    "sulphated glycoprotein ISG"
+  ],
+  "resolution": 8.0
+}

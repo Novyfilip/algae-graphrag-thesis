@@ -1,0 +1,13 @@
+{
+  "community_id": 552,
+  "summary": "This cluster synthesizes research on the taxonomic and morphological diversity of gymnodinioid dinoflagellates in the open Pacific Ocean. Key findings centered on the reclassification of *Pseliodinium vaubanii* and *G. fusus* as morphotypes of a single species, *G. falcatum*, characterized by long, curly extensions and bifurcated hyposomes. The studies documented the first record of *G. falcatum* with exceptionally long extensions and provided tentative micrographs of a new genus, *Berghiella*, alongside descriptions of *Gyrodinium falcatum*, *G. caudatum*, and *G. sugashimanii*. Collectively, the research emphasized the understudied nature of these dinoflagellates in the open Pacific and highlighted the potential for further taxonomic discoveries within this group.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Histioneis Stein",
+    "Ornithocercus Stein",
+    "warm open ocean"
+  ],
+  "resolution": 8.0
+}

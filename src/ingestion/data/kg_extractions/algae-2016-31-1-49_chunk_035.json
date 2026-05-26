@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "U. pertusa", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "Tukey's multiple comparison"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "U. pertusa", "predicate": "STUDIED_WITH", "object": "Tukey's multiple comparison", "confidence": 0.5}]}

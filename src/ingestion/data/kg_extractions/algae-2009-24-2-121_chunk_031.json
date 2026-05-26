@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "chlorophylls"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "high-density photoautotrophic cultures"}], "relationships": [{"subject": "chlorophylls", "predicate": "CONTAINS", "object": "absorption spectra", "confidence": 0.5}]}

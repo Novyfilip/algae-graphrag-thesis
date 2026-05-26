@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Botrytella", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "northern Atlantic"}], "markers": [], "applications": [], "relationships": [{"subject": "Botrytella", "predicate": "FOUND_IN", "object": "northern Atlantic", "confidence": 0.5}]}

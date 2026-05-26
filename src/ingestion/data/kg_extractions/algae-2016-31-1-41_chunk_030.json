@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. crispus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. crispus", "predicate": "AFFECTS", "object": "algae", "confidence": 1.0}, {"subject": "algae", "predicate": "AFFECTS", "object": "C. crispus", "confidence": 1.0}]}

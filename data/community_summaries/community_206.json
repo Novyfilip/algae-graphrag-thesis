@@ -1,0 +1,20 @@
+{
+  "community_id": 206,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, phylogeny, and biogeography of marine algae, primarily red (Rhodophyta) and green (Chlorophyta) species, across the Asia-Pacific region. Key species investigated include *Prochloron*, *Haraldiophyllum udoensis*, *Gracilariaceae*, *Coolia malayensis*, *Ulva pertusa*, *Caulerpa okamurae*, and *Polysiphonia*, with phylogenetic analyses frequently relying on the *rbcL* gene and ITS2 rDNA sequences to resolve species boundaries and evolutionary relationships. Geographically, the research spans warm tropical and temperate coastal zones, including the Great Barrier Reef, Jeju Island (Korea), Hainan (China), the Mediterranean Sea (Tunisia), Mikawa Bay (Japan), the Yellow Sea, and the Pacific coast of South America, with several studies documenting new species and first records for specific regions. A recurring pattern is the use of molecular data to revise taxonomic classifications, often revealing cryptic diversity or correcting previous misidentifications, while also exploring ecological factors such as substrate type, turbidity, and ocean acidification that influence algal distribution and growth.",
+  "n_entities": 81,
+  "n_papers": 23,
+  "n_papers_with_summaries": 23,
+  "entity_sample": [
+    "16-s rRNA",
+    "Asia-Pacific region",
+    "Australian Great Barrier Reef",
+    "Bantayan Beach, Dumaguete",
+    "Culasian Pt., Negros Oriental",
+    "Danjugan Island, Cauayan, Negros Occidental",
+    "Donggyeo-gryeolbido",
+    "Donggyeogryeolbido",
+    "Dumaguete City, Negros Oriental",
+    "Estancia, Iloilo"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cuspidothrix", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "16S rRNA"}], "applications": [], "relationships": [{"subject": "Cuspidothrix", "predicate": "IDENTIFIED_BY", "object": "16S rRNA", "confidence": 0.5}]}

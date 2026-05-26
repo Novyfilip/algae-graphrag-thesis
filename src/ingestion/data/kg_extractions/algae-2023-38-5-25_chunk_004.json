@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "red alga", "taxonomic_rank": null}], "compounds": [{"compound_name": "pigments"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "red alga", "predicate": "PRODUCES", "object": "pigments", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Synechococcus", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "seas adjacent to Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Synechococcus", "predicate": "FOUND_IN", "object": "seas adjacent to Korea", "confidence": 1.0}]}

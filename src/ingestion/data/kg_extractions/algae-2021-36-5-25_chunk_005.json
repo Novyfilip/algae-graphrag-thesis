@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "dinoflagellates", "taxonomic_rank": "group"}, {"species_name": "algae", "taxonomic_rank": "group"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "dinoflagellates", "predicate": "BELONGS_TO", "object": "algae", "confidence": 0.5}]}

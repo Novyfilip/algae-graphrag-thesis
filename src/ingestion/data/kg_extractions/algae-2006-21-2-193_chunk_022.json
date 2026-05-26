@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Conchocelis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Conchocelis", "predicate": "CONTAINS", "object": "Conchosporangia", "confidence": 1.0}, {"subject": "Conchocelis", "predicate": "CONTAINS", "object": "Conchosporae", "confidence": 1.0}]}

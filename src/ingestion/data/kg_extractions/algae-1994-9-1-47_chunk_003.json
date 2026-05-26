@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "scuba dives"}], "environments": [{"environment_name": "Antarctic"}, {"environment_name": "South Shetland"}], "markers": [], "applications": [], "relationships": [{"subject": "scuba dives", "predicate": "STUDIED_WITH", "object": "Antarctic", "confidence": 1.0}]}

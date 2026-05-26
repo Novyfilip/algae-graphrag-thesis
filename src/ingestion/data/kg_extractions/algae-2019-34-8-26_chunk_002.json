@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. oliveiranum", "taxonomic_rank": "species"}, {"species_name": "Alsidieae", "taxonomic_rank": "tribe"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "A. oliveiranum", "predicate": "BELONGS_TO", "object": "Alsidieae", "confidence": 1.0}]}

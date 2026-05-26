@@ -1,0 +1,12 @@
+{
+  "community_id": 1058,
+  "summary": "This cluster investigates the role of marine algae in biogeochemical iodine cycling within coastal ocean systems, focusing on the mechanisms by which both microalgae and macroalgae influence iodine speciation. Key findings demonstrate that cellular senescence during phytoplankton decline, particularly in species like *Lingulodinium*, contributes to the reduction of iodate to iodide, a process potentially mediated by cell surface reductases. The research also examines the role of macroalgae, such as *Macrocystis pyrifera*, in driving variations in coastal iodide concentrations, linking algal physiological states to broader marine geochemical patterns.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Niskin casts",
+    "pressure-triggered auto-fire module"
+  ],
+  "resolution": 8.0
+}

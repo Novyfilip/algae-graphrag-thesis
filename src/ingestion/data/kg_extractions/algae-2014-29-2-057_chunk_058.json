@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "measurement methods"}, {"method_name": "striae counts"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "striae counts", "predicate": "STUDIED_WITH", "object": "measurement methods", "confidence": 0.5}]}

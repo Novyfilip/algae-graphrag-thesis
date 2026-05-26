@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Chl-a"}, {"compound_name": "Chl-b"}, {"compound_name": "Chl-c"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chl-a", "predicate": "CONTAINS", "object": "Chl-b", "confidence": 0.5}, {"subject": "Chl-a", "predicate": "CONTAINS", "object": "Chl-c", "confidence": 0.5}]}

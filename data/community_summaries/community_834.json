@@ -1,0 +1,12 @@
+{
+  "community_id": 834,
+  "summary": "This cluster of research focuses on the industrial cultivation and commercial application of specific microalgae species, primarily *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis*. The studies traced the historical progression of microalgae culture from fundamental natural science into commercial production, emphasizing the optimization of cultivation methods to enhance yield. Key findings across the cluster highlighted the diverse utility of these species in the nutraceutical, cosmetic, and biofuel sectors, driven by their valuable biochemical compounds. The geographic and ecological scope was broad, reflecting a global interest in developing these algae as scalable, high-value biological resources.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Chroococcus turgidus (Kützing) Nägeli",
+    "Protococcus turgidus Kützing"
+  ],
+  "resolution": 8.0
+}

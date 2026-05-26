@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. projecta", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Jeju Island"}], "markers": [], "applications": [], "relationships": [{"subject": "P. projecta", "predicate": "FOUND_IN", "object": "Jeju Island", "confidence": 0.5}]}

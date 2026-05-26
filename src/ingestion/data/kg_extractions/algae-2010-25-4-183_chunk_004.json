@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "calcium oxalate"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "calcium oxalate", "predicate": "CONTAINS", "object": "lens-shaped crystals", "confidence": 1.0}, {"subject": "calcium oxalate", "predicate": "CONTAINS", "object": "globular shaped crystals", "confidence": 1.0}]}

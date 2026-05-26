@@ -1,0 +1,12 @@
+{
+  "community_id": 1132,
+  "summary": "This cluster of research focuses on the distribution and ecological drivers of dinoflagellate cysts in the coastal waters of the Southwestern Sea of Korea. The studies employed principal component analysis (PCA) to delineate distinct regional groupings based on cyst density and dominant species, revealing a clear spatial division between western, central, and coastal zones. Key environmental factors identified as influencing cyst formation and distribution included eutrophication, sea current flow, sediment facies, and the presence of motile cells. The findings underscore the role of these interconnected physical and chemical parameters in shaping cyst assemblages in this temperate marine ecosystem.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "목포∙진도 연안 서쪽",
+    "황해냉수"
+  ],
+  "resolution": 8.0
+}

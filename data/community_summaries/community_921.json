@@ -1,0 +1,12 @@
+{
+  "community_id": 921,
+  "summary": "This cluster investigates the evolutionary origins of land plants (embryophytes) through comparative genomic analysis of charophyte green algae, with a specific focus on the Chlorokybus lineage. By examining the chloroplast genome, particularly the psbB operon and its associated introns, the research identifies a unique gene cluster arrangement in Chlorokybus that distinguishes it from other charophytes like Spirogyra. Key findings reveal that Chlorokybus shares a closer phylogenetic relationship with embryophytes than previously understood, marking a significant divergence point in charophyte evolution. The studies are primarily molecular and phylogenetic in scope, with no specific geographic or ecological focus, instead centering on deep evolutionary patterns across algal lineages.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Nitellopsis obtusa",
+    "Zurich lake, Switzerland"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 1099,
+  "summary": "This cluster of research focuses on the advancement of seaweed aquaculture, emphasizing the cultivation of brown kelps, red seaweeds, and *Kappaphycus* species across Asia and Europe. Key findings highlight the sector's economic significance, valued at an estimated US$6.7 billion in 2013, while identifying critical challenges such as developing thermo-tolerant and disease-resistant strains, managing biofouling, and engineering more robust farming systems. The studies collectively underscore the need to quantify the ecosystem services provided by seaweed farms, linking biological improvements in cultivated strains to broader ecological and economic sustainability.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "seedspools",
+    "the West"
+  ],
+  "resolution": 8.0
+}

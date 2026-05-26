@@ -1,0 +1,13 @@
+{
+  "community_id": 551,
+  "summary": "This cluster of research focuses on the ecophysiological and biochemical roles of phenolic compounds, particularly phloroglucinol derivatives, in brown algae. A central theme is the investigation of physodes, the specialized membrane-bound vesicles that store these phlorotannins, and their demonstrated functions in cell wall construction, UV protection, and rapid sperm immobilization following phenolic release. The findings establish a clear link between these vesicle structures and anti-herbivory defense mechanisms, while also highlighting the potential biotechnological applications of these compounds in pharmaceuticals and skincare. The geographic and ecological scope is broadly marine, centered on the adaptive strategies of brown algae in coastal environments.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "staining with Calcofluor White",
+    "staining with Toluidine Blue",
+    "wall polysaccharides"
+  ],
+  "resolution": 8.0
+}

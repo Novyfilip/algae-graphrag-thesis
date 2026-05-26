@@ -1,0 +1,13 @@
+{
+  "community_id": 544,
+  "summary": "A shared research theme across this cluster involves the discovery and characterization of novel dormant or stress-resistant life stages in green algae, specifically within the genus *Chlorella* and related Chlorococcales, from culturally or ecologically significant substrates. The studies focus on the morphological novelty of ornamented resting spores, such as those exhibiting regular pentagonal patterns, which were revived from a historical stone Buddha statue in Korea. Key findings highlight the potential for extreme drought resistance and unique adaptation mechanisms to harsh, subaerial environments. The geographic and ecological scope is centered on East Asian cultural heritage sites, emphasizing the role of lithic surfaces as reservoirs for previously undocumented algal biodiversity.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Tolypothrix byssoidea",
+    "rock surfaces of Indian temples",
+    "triphenyl tetrazolium chloride hydrolysis"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 925,
+  "summary": "This cluster investigates oxylipin signaling and oxidative stress responses in brown algae, specifically focusing on the elicitor activity of prostaglandin A2 (PGA2) in *Laminaria digitata*. The research demonstrates that PGA2 triggers a potent, dose-dependent oxidative burst distinct from other chemical elicitors, with the response showing insensitivity to diphenylene iodonium inhibition. The studies further characterize the specificity of this defense pathway by noting the upregulation of a single oxylipin and the absence of lipolytic effects in *Ectocarpus siliculosus*, suggesting a targeted signaling mechanism. Geographically and ecologically, the work centers on temperate North Atlantic brown macroalgae, advancing the understanding of eicosanoid-mediated immunity in non-vascular marine plants.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "aminated eicosanoids",
+    "peptidolipids"
+  ],
+  "resolution": 8.0
+}

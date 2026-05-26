@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Laminarionema elsbetiae", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "culture conditions"}], "markers": [], "applications": [], "relationships": [{"subject": "Laminarionema elsbetiae", "predicate": "STUDIED_WITH", "object": "culture conditions", "confidence": 1.0}]}

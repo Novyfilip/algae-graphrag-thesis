@@ -1,0 +1,12 @@
+{
+  "community_id": 1046,
+  "summary": "This cluster investigates the evolutionary origins of algal plastids through molecular phylogenetic analyses, focusing on the endosymbiotic events that shaped modern algal diversity. The research supports a model of a single primary endosymbiosis involving a cyanobacterium, which gave rise to the three primary algal lineages—Chlorophyta, Rhodophyta, and Glaucocystophyta—as evidenced by nuclear and organellar gene phylogenies. Subsequent secondary endosymbioses independently produced complex plastids in Cryptophyta, Haptophyta, and Heterokonta, with 16S rDNA sequences tracing these plastid lineages back to the initial cyanobacterial symbiont. The findings establish a unified evolutionary framework for plastid acquisition across diverse algal groups, with a global phylogenetic scope rather than a specific geographic or ecological focus.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "heterokonts",
+    "parsimony method"
+  ],
+  "resolution": 8.0
+}

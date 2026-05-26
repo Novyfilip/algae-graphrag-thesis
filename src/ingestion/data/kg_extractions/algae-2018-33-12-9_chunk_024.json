@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "N : P ratio", "predicate": "AFFECTS", "object": "algae growth", "confidence": 1.0}, {"subject": "algal cultivation", "predicate": "AFFECTS", "object": "water quality", "confidence": 1.0}]}

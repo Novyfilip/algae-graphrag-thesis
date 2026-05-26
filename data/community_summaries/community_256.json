@@ -1,0 +1,20 @@
+{
+  "community_id": 256,
+  "summary": "This cluster of papers is predominantly centered on the biodiversity, distribution, and ecology of marine benthic algae in Korean coastal waters, with a strong emphasis on vertical zonation, seasonal succession, and community structure. Key species such as *Corallina pilulifera*, *Sargassum thunbergii*, and *Hizikia fusiformis* recur across multiple studies as dominant or characteristic taxa, often in relation to wave exposure, tidal elevation, or thermal pollution from nuclear power plants. The research spans a broad geographic scope across the Korean Peninsula, including the east coast (e.g., Ohori, Chumunjin, Youngil Bay, Uljin), the west coast, and Cheju Island, with several studies also documenting new species or genera (e.g., *Fissipedicella orientalis*, *Ramipedicella*) and novel endophytic or epilithic algal associations. Methodologically, the cluster relies heavily on quadrat and transect surveys, biomass measurements, and multivariate analyses (e.g., cluster analysis, DCA ordination) to characterize community patterns, while molecular phylogenetics (rbcL, COI-5P) is employed for taxonomic reassessments and discovery of cryptic diversity. Overall, the findings underscore the influence of environmental gradients—particularly temperature, wave action, and turbidity—on algal community assembly and succession in temperate Korean marine ecosystems.",
+  "n_entities": 27,
+  "n_papers": 21,
+  "n_papers_with_summaries": 20,
+  "entity_sample": [
+    "Amathia sp.",
+    "Bugula neritina",
+    "Membraniporopsis tubigera",
+    "Micro-filamentous green algae",
+    "Ohori",
+    "This species",
+    "Vigia Beach rocky shore",
+    "algal communities",
+    "bryozoan matrices",
+    "drifting algae"
+  ],
+  "resolution": 8.0
+}

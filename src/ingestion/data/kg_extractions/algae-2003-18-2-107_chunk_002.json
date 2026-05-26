@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Neosiphonia", "taxonomic_rank": "genus"}, {"species_name": "Polysiphonia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Neosiphonia", "predicate": "BELONGS_TO", "object": "Polysiphonia", "confidence": 0.5}]}

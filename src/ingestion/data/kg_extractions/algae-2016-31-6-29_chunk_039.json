@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "N. oculata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "anti-inflammatory drugs"}], "relationships": [{"subject": "N. oculata", "predicate": "PRODUCES", "object": "anti-inflammatory drugs", "confidence": 0.5}]}

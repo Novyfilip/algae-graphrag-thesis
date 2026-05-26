@@ -1,0 +1,12 @@
+{
+  "community_id": 942,
+  "summary": "This cluster of research focuses on the distribution and ecological drivers of dinoflagellate cysts in the Southwestern Sea of Korea, with a specific emphasis on how environmental factors shape their spatial patterns. The studies employed principal component analysis (PCA) to delineate distinct regional groupings—western Mokpo and Jindo, the central South Sea, and coastal areas near the Archipelago—based on cyst density and dominant species. Key findings indicate that eutrophication, sea current flow, sediment facies, and the appearance of motile cells collectively influence cyst formation and distribution in this temperate marine ecosystem. The geographic scope is confined to the coastal and offshore waters of the South Sea of Korea, highlighting a regionally specific interplay between hydrographic conditions and dinoflagellate life cycles.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "coastal areas of Mokpo and Jindo",
+    "cold Yellow Sea water"
+  ],
+  "resolution": 8.0
+}

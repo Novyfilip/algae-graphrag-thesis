@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "neutral lipids"}], "methods": [{"method_name": "confocal microscopy"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "confocal microscopy", "predicate": "STUDIED_WITH", "object": "neutral lipids", "confidence": 1.0}]}

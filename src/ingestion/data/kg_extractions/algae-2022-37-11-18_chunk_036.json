@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Compsopogon caeruleus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Liche\u0144skie Lake"}], "markers": [], "applications": [], "relationships": [{"subject": "Compsopogon caeruleus", "predicate": "FOUND_IN", "object": "Liche\u0144skie Lake", "confidence": 1.0}]}

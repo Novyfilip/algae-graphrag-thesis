@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Nereocystis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Aleutians"}], "markers": [], "applications": [], "relationships": [{"subject": "Nereocystis", "predicate": "FOUND_IN", "object": "Aleutians", "confidence": 1.0}]}

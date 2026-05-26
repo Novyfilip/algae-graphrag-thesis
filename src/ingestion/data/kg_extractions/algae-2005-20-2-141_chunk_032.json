@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gracilaria", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "seawater"}], "markers": [], "applications": [], "relationships": [{"subject": "Gracilaria", "predicate": "FOUND_IN", "object": "seawater", "confidence": 1.0}]}

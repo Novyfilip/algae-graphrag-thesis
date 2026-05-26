@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ascophyllum nodosum", "taxonomic_rank": "species"}, {"species_name": "Fucus vesiculosus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ascophyllum nodosum", "predicate": "STUDIED_WITH", "object": "Fucus vesiculosus", "confidence": 1.0}]}

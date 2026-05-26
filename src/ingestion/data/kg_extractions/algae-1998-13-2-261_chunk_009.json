@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pelvetia siliquosa", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "culture"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Pelvetia siliquosa", "predicate": "STUDIED_WITH", "object": "culture", "confidence": 1.0}]}

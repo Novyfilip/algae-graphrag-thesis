@@ -1,0 +1,12 @@
+{
+  "community_id": 932,
+  "summary": "This cluster of research focuses on the bioactive phenolic compounds found in brown macroalgae, particularly phloroglucinol and related phlorotannins stored in specialized vesicles called physodes. The studies collectively investigate the dual role of these compounds in both the ecological physiology of algae—such as cell wall construction, UV protection, and herbivore deterrence—and their potential applications in human health as natural antioxidants. Key findings across the cluster demonstrate that these seaweed-derived antioxidants can mitigate oxidative stress and address cardiovascular disease, as evidenced by laboratory and clinical trials. The geographic and ecological scope is broad, encompassing diverse macroalgal species, though the research acknowledges challenges in standardizing antioxidant assay methodologies and the economic hurdles of large-scale seaweed utilization.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Ecklonia sp.",
+    "brown algal polyphenols"
+  ],
+  "resolution": 8.0
+}

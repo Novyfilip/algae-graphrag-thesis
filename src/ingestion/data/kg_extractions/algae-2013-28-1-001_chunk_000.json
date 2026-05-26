@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Conjugatophyceae", "taxonomic_rank": "class"}, {"species_name": "Zygnematophyceae", "taxonomic_rank": "class"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Conjugatophyceae", "predicate": "BELONGS_TO", "object": "Zygnematophyceae", "confidence": 1.0}]}

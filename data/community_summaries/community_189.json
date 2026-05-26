@@ -1,0 +1,20 @@
+{
+  "community_id": 189,
+  "summary": "Research within this cluster predominantly focused on the biodiversity, community structure, and distribution of marine macroalgae along the Korean Peninsula and adjacent waters, with a strong emphasis on the temperate and subtropical flora of Jeju Island and the southern and eastern coasts. Key connecting species included the brown algae *Sargassum thunbergii*, *Hizikia fusiformis*, and *Ecklonia cava*, alongside the red alga *Corallina pilulifera*, which were frequently identified as dominant or foundation species in intertidal and subtidal zones. Studies consistently documented vertical zonation patterns, seasonal biomass fluctuations (typically peaking in spring and summer), and the influence of environmental factors such as water temperature, wave exposure, and thermal effluents from power plants on community composition. The geographic scope was heavily concentrated on Korean coastal ecosystems, with additional investigations into the phylogeography and cryptic diversity of specific taxa like *Gloiopeltis furcata*, *Plocamium*, and *Bostrychia*, revealing high genetic diversity and distinct lineages in the Northwest Pacific region.",
+  "n_entities": 94,
+  "n_papers": 131,
+  "n_papers_with_summaries": 130,
+  "entity_sample": [
+    "Alaska, USA",
+    "Amchitka Island, the Aleutians",
+    "Bold's Basal medium culture",
+    "Carpophyllum",
+    "Carpophyllum angustifolium",
+    "Carpophyllum flexulosum",
+    "Carpophyllum maschalocarpum",
+    "Chujado, Jeju, Korea",
+    "DNA analyses",
+    "Daesambudo, Yeosu, Korea"
+  ],
+  "resolution": 8.0
+}

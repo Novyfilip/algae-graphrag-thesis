@@ -1,0 +1,12 @@
+{
+  "community_id": 824,
+  "summary": "Research on foliose Bangiales in the Aleutian Islands, based on rbcL gene sequencing of over 100 collections, revealed significant cryptic diversity and endemism, identifying ten previously undescribed species including the endemic *Boreophyllum aleuticum* and *B. ambiguum*, as well as *Pyropia taeniata* and *Py. unabbottiae*. The study documented the distribution of twelve additional species across the region, such as *Fuscifolium tasa*, *Pyropia fallax*, *Py. fucicola*, and *Py. gardneri*, while notably failing to confirm the presence of several historically recorded species like *Porphyra ochotensis* and *Pyropia perforata*. This work underscores the Aleutian archipelago as a hotspot for undiscovered macroalgal biodiversity and highlights the utility of molecular barcoding in resolving taxonomic uncertainties within the North Pacific marine flora.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Kamchatka region of Russia",
+    "Porphyra inaequicrassa"
+  ],
+  "resolution": 8.0
+}

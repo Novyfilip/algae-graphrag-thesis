@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlorella ellipsoidea", "taxonomic_rank": "species"}, {"species_name": "Nannochloris oculata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chlorella ellipsoidea", "predicate": "STUDIED_WITH", "object": "Nannochloris oculata", "confidence": 1.0}]}

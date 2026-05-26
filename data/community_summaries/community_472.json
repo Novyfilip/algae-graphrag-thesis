@@ -1,0 +1,13 @@
+{
+  "community_id": 472,
+  "summary": "This cluster of research focuses on the ecology and cultivation of macroalgae, particularly brown seaweeds such as *Ecklonia cava* and *Sargassum* species, alongside red algae like eucheumatoids. Studies conducted around Jeju Island, Korea, documented depth-stratified seasonal biomass patterns, identifying 144 species and noting peak biomass in spring, while separate work reviewed advancements in seedling production using micropropagation and tissue culture to improve scalability and disease resistance. The geographic scope spans both natural assemblage surveys in unpolluted Korean waters and global efforts to optimize land-based and open-sea grow-out systems for sustainable farming.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Sargassum aquifolium",
+    "bottom-fixed method",
+    "rope-fixed process"
+  ],
+  "resolution": 8.0
+}

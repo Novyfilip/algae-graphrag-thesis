@@ -1,0 +1,13 @@
+{
+  "community_id": 368,
+  "summary": "This cluster is united by research on the biology and ecological significance of marine algae, with a specific focus on the genus *Acetabularia* and coccolithophorids. Studies on *Acetabularia calyculus* used indirect immunofluorescence to detail the role of microtubule bundles in the spatial organization of cytoplasm and cyst formation, revealing a mechanism of radial expansion and ring contraction that partitions nuclei into spores. A separate review documented a dramatic increase in recognized algal species across the tropical and subtropical western Atlantic over the last fifty years, driven by gene sequencing and the discovery of cryptic species. Additionally, research on coccolithophorid algae estimated their substantial annual fixation of atmospheric CO₂ (0.62–6.2 x 10⁹ tons) and proposed a \"coral reef eco-factory\" concept for utilizing these organisms to capture excess carbon dioxide from industrial exhaust.",
+  "n_entities": 3,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Acetabularia",
+    "Acicularia",
+    "Parvocaulis"
+  ],
+  "resolution": 8.0
+}

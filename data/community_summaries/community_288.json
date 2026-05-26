@@ -1,0 +1,15 @@
+{
+  "community_id": 288,
+  "summary": "This cluster of papers investigates the physiological and ecological responses of diverse algal species to nutrient limitation, particularly phosphorus and nitrogen, with a strong geographic focus on Korean aquatic ecosystems. Key species examined include the freshwater cyanobacterium *Microcystis aeruginosa*, the green algae *Ankistrodesmus convolutus* and *Scenedesmus quadricauda*, the diatom *Frustulia vulgaris*, and the harmful bloom-forming raphidophyte *Chattonella antiqua* from Korean coastal waters. Across studies, phosphorus limitation consistently reduced photosynthetic efficiency and carbon fixation rates, though sensitivity varied by species, with *M. aeruginosa* showing the greatest impairment while *S. quadricauda* maintained linear relationships between growth rate and photosynthetic parameters. Research on *C. antiqua* revealed that bloom dynamics are driven by preferences for nitrate and phosphate, with optimal growth occurring at low N:P ratios, while benthic microalgae in Kwangyang Bay tidal flats showed chlorophyll-a concentrations linked to sediment ammonium and silicate levels. Additionally, algal communities associated with the bryozoan *Pectinatella magnifica* in South Korean rivers were dominated by *Oscillatoria kawamurae* and *Pseudanabaena catenata*, with community composition shaped by total nitrogen and orthophosphate concentrations.",
+  "n_entities": 5,
+  "n_papers": 5,
+  "n_papers_with_summaries": 5,
+  "entity_sample": [
+    "dissolved silica",
+    "nitrite+nitrate",
+    "nutrient autoanalyzer (Bran Luebbe)",
+    "orthophosphate",
+    "phosphomolybdate method"
+  ],
+  "resolution": 8.0
+}

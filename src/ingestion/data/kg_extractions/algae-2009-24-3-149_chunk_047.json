@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Benthic Microalgae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Tidal Flats"}], "markers": [], "applications": [], "relationships": [{"subject": "Benthic Microalgae", "predicate": "FOUND_IN", "object": "Tidal Flats", "confidence": 1.0}]}

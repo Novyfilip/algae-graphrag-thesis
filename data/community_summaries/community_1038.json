@@ -1,0 +1,12 @@
+{
+  "community_id": 1038,
+  "summary": "This cluster of research is united by methodological advancements in the isolation and cultivation of microalgae from natural aquatic environments, specifically through the development and application of a refined micropipette technique. The studies demonstrate that this technique enabled the successful isolation of 30 distinct algal species spanning the classes Chlorophyceae, Cyanophyceae, Bacillariophyceae, and Rhodophyceae from diverse geographic sources, including rice paddies and rivers. A key finding across the cluster is the ecological significance of these isolates, particularly the nitrogen-fixing capabilities of certain cyanobacteria, which are critical for understanding nutrient dynamics in rice cultivation and for developing strategies to control eutrophication in freshwater ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "N-free RA medium",
+    "nitrogen-fixing organisms"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Wilmottia murrayi", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "lichen and moss"}], "markers": [], "applications": [], "relationships": [{"subject": "Wilmottia murrayi", "predicate": "FOUND_IN", "object": "lichen and moss", "confidence": 1.0}]}

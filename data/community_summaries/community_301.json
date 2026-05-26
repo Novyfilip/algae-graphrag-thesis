@@ -1,0 +1,15 @@
+{
+  "community_id": 301,
+  "summary": "This cluster focuses on the taxonomy and systematics of the freshwater algal class Conjugatophyceae (formerly Zygnematophyceae), with a particular emphasis on the genera *Mougeotia*, *Mougeotiopsis*, and *Transeauina*. The research synthesizes historical nomenclature and classification changes, documenting the group’s redefinition as a distinct class and tracing the evolutionary relationships among its orders and species. Key findings include a revised understanding of species diversity and distribution, supported by data from AlgaeBase, which highlights the ecological scope of these algae in freshwater environments. The work establishes a foundational taxonomic framework for this lineage, which is critical for studies on streptophyte algae evolution and terrestrial plant origins.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Docidium",
+    "Docidium asperum",
+    "Docidium baculum Brébisson ex Ralfs",
+    "Docidium nodulosum",
+    "Docidium truncatum"
+  ],
+  "resolution": 8.0
+}

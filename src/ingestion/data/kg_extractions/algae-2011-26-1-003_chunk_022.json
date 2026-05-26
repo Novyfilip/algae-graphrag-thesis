@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "salt-works"}], "markers": [], "applications": [], "relationships": [{"subject": "this alga", "predicate": "FOUND_IN", "object": "salt-works", "confidence": 1.0}]}

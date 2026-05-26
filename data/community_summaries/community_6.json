@@ -1,0 +1,20 @@
+{
+  "community_id": 6,
+  "summary": "This cluster of papers is heavily centered on Korean coastal waters, with a strong focus on the ecology, physiology, and taxonomy of dinoflagellates, particularly those involved in harmful algal blooms (HABs). Key species studied include *Cochlodinium polykrikoides*, *Alexandrium* spp., *Gymnodinium catenatum*, and the mixotrophic *Biecheleriopsis adriatica*, with research frequently examining their growth responses to environmental factors like temperature, salinity, and nutrient availability. A significant sub-theme involves the quantification of feeding interactions and grazing impacts among heterotrophic and mixotrophic protists, such as *Oxyrrhis marina*, *Gyrodinium dominans*, and *Mesodinium rubrum*, to understand bloom dynamics and trophic roles. Methodologically, the cluster is unified by the use of advanced molecular tools, including quantitative PCR (qPCR) and droplet digital PCR (ddPCR), for species-specific detection and abundance quantification, alongside traditional morphological and pigment analyses.",
+  "n_entities": 349,
+  "n_papers": 152,
+  "n_papers_with_summaries": 150,
+  "entity_sample": [
+    "6-well plate chambers",
+    "6-well tissue culture plates",
+    "A. cf. poporum",
+    "A. frater",
+    "A. tamarense blooms",
+    "AF260387",
+    "AY112746",
+    "Aduncodinium glandula",
+    "Akashiowo sanguinea",
+    "Alexandrium minutum"
+  ],
+  "resolution": 8.0
+}

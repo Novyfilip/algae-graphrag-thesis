@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Zostera marina", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "transplant site"}], "markers": [], "applications": [], "relationships": [{"subject": "Zostera marina", "predicate": "FOUND_IN", "object": "transplant site", "confidence": 1.0}]}

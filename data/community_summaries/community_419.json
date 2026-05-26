@@ -1,0 +1,13 @@
+{
+  "community_id": 419,
+  "summary": "This cluster focuses on the taxonomy, phylogeny, and cellular biology of filamentous red algae within the order Ceramiales, particularly the genus *Griffithsia*. Research combined morphological analysis with molecular markers, specifically the *psbA* and *rbcL* genes, to delineate species boundaries, resulting in the identification of *Griffithsia okiensis* as a distinct species from *G. japonica* in Korean waters. A parallel line of investigation characterized three distinct wound-healing patterns—Fusion, Non-fusion, and Elongation—in related Ceramiales species, detailing the formation of repair cells. The geographic scope centered on Northeast Asia, with studies conducted on specimens from Korea.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "AY295150",
+    "AY295168",
+    "G. pacifica"
+  ],
+  "resolution": 8.0
+}

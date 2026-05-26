@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "CHN elemental analyzer"}, {"method_name": "Flash EA1112"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "CHN elemental analyzer", "predicate": "STUDIED_WITH", "object": "Flash EA1112", "confidence": 1.0}]}

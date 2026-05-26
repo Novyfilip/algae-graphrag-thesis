@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Radicilingua", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "DNA sequences"}], "applications": [], "relationships": [{"subject": "Radicilingua", "predicate": "IDENTIFIED_BY", "object": "DNA sequences", "confidence": 0.5}]}

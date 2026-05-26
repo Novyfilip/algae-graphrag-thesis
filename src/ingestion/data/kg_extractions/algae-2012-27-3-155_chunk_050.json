@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "D. sanguinea", "taxonomic_rank": "species"}, {"species_name": "D. decipiens", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "D. sanguinea", "predicate": "STUDIED_WITH", "object": "D. decipiens", "confidence": 1.0}]}

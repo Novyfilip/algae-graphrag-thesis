@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Skeletonema", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Coastal Waters of South Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Skeletonema", "predicate": "FOUND_IN", "object": "Coastal Waters of South Korea", "confidence": 1.0}]}

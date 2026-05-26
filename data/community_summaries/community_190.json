@@ -1,0 +1,20 @@
+{
+  "community_id": 190,
+  "summary": "This cluster of research is predominantly centered on the taxonomic classification, ecological dynamics, and physiological responses of phytoplankton and benthic algae in Korean aquatic environments, with a strong emphasis on diatoms and cyanobacteria. Key connecting themes include the use of morphological and molecular methods to revise taxonomic frameworks, as seen in the reclassification of diatoms using Simonsen’s system and the description of new genera like *Capillus* and *Ansanella granifera* from Korean coastal waters. Studies consistently document shifts in phytoplankton community composition—such as increased diatom and cyanobacterial blooms—driven by nutrient loading, thermal effluents from nuclear power plants, and hydrological factors in rivers and reservoirs like the Han, Naktong, and Geum Rivers. Geographically, the research is heavily concentrated in South Korea, with additional comparative work in Antarctic, Australian, and tropical waters, and it frequently addresses applied concerns such as harmful algal blooms, biostimulant effects on aquaculture species like *Pyropia yezoensis*, and the ecological impacts of environmental stressors including UV-B radiation and eutrophication.",
+  "n_entities": 92,
+  "n_papers": 93,
+  "n_papers_with_summaries": 93,
+  "entity_sample": [
+    "65-85 m depth",
+    "Alaskan Arctic",
+    "Allen (AL) medium",
+    "Antarctosaccion applanatum",
+    "Aspergillus",
+    "Bacillariophyceace",
+    "CHROMOPHYTA",
+    "Characiopsidaceae",
+    "Characiopsis acuta",
+    "Characiopsis pyriformis"
+  ],
+  "resolution": 8.0
+}

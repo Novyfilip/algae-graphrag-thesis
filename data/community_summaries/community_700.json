@@ -1,0 +1,12 @@
+{
+  "community_id": 700,
+  "summary": "This cluster investigates the molecular and physiological acclimation mechanisms of the marine red alga *Pyropia yezoensis* to abiotic stress, specifically cold stress. Studies employed physiological assays and transcriptomic profiling to characterize the depression of photosynthetic activity, pigment content, and growth rate during prolonged cold exposure. Key findings identified differentially expressed genes involved in carbohydrate, energy, and lipid metabolism, as well as ribosomal biogenesis, revealing a complex gene regulatory network underlying systemic acquired acclimation. The research focuses on an economically important species cultivated in coastal regions of East Asia, with the goal of identifying genetic markers to improve cold tolerance and crop resilience.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "5°C low-temperature treatment",
+    "G. lemaneiformis"
+  ],
+  "resolution": 8.0
+}

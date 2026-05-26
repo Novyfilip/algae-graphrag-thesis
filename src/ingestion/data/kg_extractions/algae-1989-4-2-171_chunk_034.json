@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cre-nomytilus", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Tr. A"}, {"environment_name": "Tr. B"}, {"environment_name": "Tr. C"}], "markers": [], "applications": [], "relationships": [{"subject": "Cre-nomytilus", "predicate": "FOUND_IN", "object": "Tr. C", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 1078,
+  "summary": "This cluster focuses on the ecology of periphytic algae, particularly diatoms, in freshwater reservoir systems, with a specific geographic scope centered on the Togyo Reservoir in Chulwon, Korea. Research involved the use of artificial substrates, such as vinyl sheets with slide glasses, to examine seasonal colonization patterns and standing crop dynamics. Key findings indicated that peak standing crop values occurred in September, with higher densities recorded outside the mesocosm (306,849 cells/cm²) compared to inside (166,849 cells/cm²), and that the number of dominant algal species varied between the two environments (9 outside versus 12 inside). The studies consistently observed that the largest differences in algal establishment occurred during the initial stages of colonization, while the overall establishment period remained consistent across both sides of the mesocosm.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "periphytic diatoms",
+    "simple surface peel technique using adhesive tape"
+  ],
+  "resolution": 8.0
+}

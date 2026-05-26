@@ -1,0 +1,15 @@
+{
+  "community_id": 287,
+  "summary": "This cluster of research focuses on the genetic manipulation and analysis of the model green alga *Chlamydomonas reinhardtii*, specifically through the development and application of novel diploid strain generation techniques. The studies employed self-mating and induced haploid mutant strains to create homozygous diploids and tetraploids, enabling complementation analysis and the identification of essential genes that are lethal in the haploid state. A key methodological pattern across the cluster was the use of large insertional mutant libraries to systematically uncover mutations in essential genes, expanding the understanding of the *Chlamydomonas* genome. The geographic scope of this work is primarily laboratory-based, with no specific field or ecological context, as the research centered on advancing fundamental genetic tools for this unicellular organism.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "freezing stocks in liquid nitrogen",
+    "long-term storage in desiccated states",
+    "long-term storage in frozen states",
+    "long-term storage of mutant libraries",
+    "robotics-assisted periodic transfers to new cultures"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Codium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Jeju, Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Codium", "predicate": "FOUND_IN", "object": "Jeju, Korea", "confidence": 1.0}]}

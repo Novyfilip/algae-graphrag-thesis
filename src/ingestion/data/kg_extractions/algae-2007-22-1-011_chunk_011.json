@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gynogonadinium aequatoriale", "taxonomic_rank": "species"}, {"species_name": "Gymnodiniales", "taxonomic_rank": "order"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Gynogonadinium aequatoriale", "predicate": "BELONGS_TO", "object": "Gymnodiniales", "confidence": 1.0}]}

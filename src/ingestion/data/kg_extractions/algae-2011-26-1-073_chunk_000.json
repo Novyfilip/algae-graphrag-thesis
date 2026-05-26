@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Mallomonas elongata", "taxonomic_rank": "species"}, {"species_name": "Synurophyceae", "taxonomic_rank": "class"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Mallomonas elongata", "predicate": "BELONGS_TO", "object": "Synurophyceae", "confidence": 1.0}]}

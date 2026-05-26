@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Griffithsia japonica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "Histone H2A genes"}], "applications": [], "relationships": [{"subject": "Griffithsia japonica", "predicate": "PRODUCES", "object": "Histone H2A genes", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 694,
+  "summary": "This cluster of research focuses on the use of marine primary producers, specifically the kelp *Undaria pinnatifida* and the seagrass *Zostera marina*, as bioindicators of coastal nutrient conditions and environmental health in Korean coastal waters, including Gijang, Kosung Bay, Koje Bay, and Jindong Bay. Across these studies, stable isotope analysis (δ13C and δ15N) and tissue nitrogen content were key methods used to assess growth dynamics, seasonal nutrient availability, and eutrophication status. A consistent finding was that tissue nitrogen content in both species exhibited strong seasonal variation, peaking in winter and early spring, and was negatively correlated with growth metrics such as leaf productivity and area-normalized leaf mass. The research collectively demonstrates that morphological and biochemical traits of these macroalgae and seagrasses can serve as robust, predictive indicators for monitoring anthropogenic nitrogen loading and heavy metal accumulation in temperate coastal ecosystems.",
+  "n_entities": 2,
+  "n_papers": 4,
+  "n_papers_with_summaries": 4,
+  "entity_sample": [
+    "CHN elemental analyzer",
+    "Flash EA1112"
+  ],
+  "resolution": 8.0
+}

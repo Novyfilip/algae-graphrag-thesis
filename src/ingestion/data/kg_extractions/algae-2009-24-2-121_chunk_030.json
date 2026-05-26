@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Haematococcus pluvialis", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "astaxanthin"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "production of astaxanthin"}], "relationships": [{"subject": "Haematococcus pluvialis", "predicate": "PRODUCES", "object": "astaxanthin", "confidence": 1.0}]}

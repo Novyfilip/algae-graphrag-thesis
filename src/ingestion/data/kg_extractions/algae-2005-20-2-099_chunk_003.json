@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Padina", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "tropics"}], "markers": [], "applications": [], "relationships": [{"subject": "Padina", "predicate": "FOUND_IN", "object": "tropics", "confidence": 1.0}]}

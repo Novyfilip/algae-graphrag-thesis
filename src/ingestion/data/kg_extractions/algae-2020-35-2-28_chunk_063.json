@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Polykrikos kofoidii", "taxonomic_rank": "species"}, {"species_name": "Prorocentrum spp.", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Polykrikos kofoidii", "predicate": "AFFECTS", "object": "Prorocentrum spp.", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ceramiales", "taxonomic_rank": "order"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ceramiales", "predicate": "BELONGS_TO", "object": "red algae", "confidence": 1.0}]}

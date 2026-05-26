@@ -1,0 +1,13 @@
+{
+  "community_id": 553,
+  "summary": "This cluster examines the phenotypic plasticity of brown algae in the genus *Carpophyllum* in response to hydrodynamic forces, specifically wave exposure, along the East Cape of New Zealand. Researchers quantified morphological traits such as total length, stipe thickness, and vesicle presence across different exposure zones, using fetch and barnacle composition as proxies for wave energy. Key findings revealed that *C. angustifolium* developed longer fronds and thinner stipes in exposed sites, while *C. maschalocarpum* exhibited shorter lengths, thinner stipes, and fewer vesicles under similar conditions. These patterns indicate that both phenotypic plasticity and underlying genetic variability drive morphological divergence within the genus, highlighting a need for further investigation into these adaptive mechanisms in Phaeophyceae.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Berula erecta",
+    "Mentha aquatica",
+    "water flow gradient"
+  ],
+  "resolution": 8.0
+}

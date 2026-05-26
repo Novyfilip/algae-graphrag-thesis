@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gonatozygon brebissoni", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean freshwater"}], "markers": [], "applications": [], "relationships": [{"subject": "Gonatozygon brebissoni", "predicate": "FOUND_IN", "object": "Korean freshwater", "confidence": 1.0}]}

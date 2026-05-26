@@ -1,0 +1,20 @@
+{
+  "community_id": 213,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomic discovery, phylogenetic characterization, and biogeographic distribution of diverse algal species, primarily from freshwater and marine environments across East Asia, the Pacific, and polar regions. Researchers frequently employed molecular markers such as rbcL, COI-5P, ITS, and 16S rRNA, often in combination with morphological analysis, to delineate new species and resolve cryptic diversity, as seen in the description of novel taxa like *Haraldiophyllum udoensis*, *Nodosilinea* species, and multiple *Sheathia* and *Coolia* species from Korea, Japan, and the Gulf of California. A recurring pattern was the identification of previously unrecognized genetic lineages and range expansions, such as the first records of *Pyropia koreana* in New Zealand and *Ulva pertusa* in Mexico, highlighting the role of ocean currents and anthropogenic introduction in shaping phylogeographic structure. The geographic scope was heavily concentrated in the northwest Pacific (Korea, Japan, China, Philippines) and extended to the Antarctic, Mediterranean, and Indian Ocean, with several studies emphasizing the importance of glacial refugia and gene flow in maintaining genetic diversity in species like *Chondrus*, *Gloiopeltis furcata*, and *Ecklonia cava*.",
+  "n_entities": 76,
+  "n_papers": 61,
+  "n_papers_with_summaries": 60,
+  "entity_sample": [
+    "16S rDNA phylogenetic analysis",
+    "AMOVA",
+    "Analysis of Molecular Variance (AMOVA)",
+    "Andaman Sea",
+    "Antarctic localities",
+    "Arlequin v 3.5.1.3",
+    "BA analysis",
+    "BI analysis",
+    "Bostrychia tenella species B",
+    "Bostrychia tenella species C"
+  ],
+  "resolution": 8.0
+}

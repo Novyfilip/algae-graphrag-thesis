@@ -1,0 +1,20 @@
+{
+  "community_id": 28,
+  "summary": "This cluster of research is geographically centered on the coastal waters of Korea and Japan, with additional studies from the Northwest Pacific, North Atlantic, and Antarctica, and is unified by a focus on the taxonomy, community structure, and ecological dynamics of benthic marine macroalgae. A core theme is the identification and classification of dominant brown and red algal species, particularly *Sargassum* (subgenus *Bactrophycus*), *Hizikia fusiformis*, *Corallina pilulifera*, *Ulva pertusa*, and *Grateloupia* spp., with numerous studies employing molecular markers like *rbcL*, ITS, and COI-5P to resolve phylogenetic relationships and cryptic diversity. Key findings across the cluster include the documentation of vertical zonation patterns driven by tidal level and wave exposure, the impact of anthropogenic stressors such as thermal effluents from nuclear power plants and nutrient loading from aquaculture on community composition and biomass, and the successional processes following disturbance, often leading to dominance by warm-tolerant or opportunistic species. The research collectively establishes a detailed baseline for the region's algal flora, highlighting the prevalence of temperate species and the significant role of environmental gradients in shaping community structure and species distribution.",
+  "n_entities": 246,
+  "n_papers": 225,
+  "n_papers_with_summaries": 224,
+  "entity_sample": [
+    "16 uninhabited islands",
+    "Ahnfeltiopsis flablleiformis",
+    "Ahnfeltiopsis okamurae",
+    "Alisma",
+    "Amphiroa anceps",
+    "Anabaena anomala",
+    "Articulated calcareous algae",
+    "Baegado",
+    "Baekryeongdo Island",
+    "Baengnyeong Island"
+  ],
+  "resolution": 8.0
+}

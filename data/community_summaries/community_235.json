@@ -1,0 +1,20 @@
+{
+  "community_id": 235,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, morphology, and ecological distribution of microalgae and macroalgae, with a particular emphasis on diatoms, dinoflagellates, and red algae from Korean coastal waters and adjacent regions. Key species such as *Chaetoceros debilis*, *Thalassiosira* spp., *Cochlodinium polykrikoides*, and *Coolia* spp. were frequently examined using light and scanning electron microscopy, often in conjunction with molecular phylogenetic analyses to resolve species boundaries and document new or previously unrecorded taxa. Studies consistently identified salinity, temperature, nutrient concentrations (particularly nitrogen and phosphorus), and wave exposure as critical environmental drivers shaping community structure, bloom dynamics, and morphological variation. Geographically, the research was heavily concentrated in Korean waters—including Jeju Island, the East Sea, and the Naktong River—with additional contributions from India, the Gulf of California, Australia, and Europe, reflecting a broad but regionally anchored investigation of algal biodiversity and ecological responses to both natural and anthropogenic stressors.",
+  "n_entities": 63,
+  "n_papers": 50,
+  "n_papers_with_summaries": 49,
+  "entity_sample": [
+    "Class Bacillariophyceae",
+    "Corethron",
+    "Corethron pennatum",
+    "Coscinodiscaceae",
+    "Coscinodiscineae",
+    "Craspedodiscus",
+    "Diploneis",
+    "Diploneis puella",
+    "East Sea (34°51’N, 129°52’E)",
+    "Endictya"
+  ],
+  "resolution": 8.0
+}

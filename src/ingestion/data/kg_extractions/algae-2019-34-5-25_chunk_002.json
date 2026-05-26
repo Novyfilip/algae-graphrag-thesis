@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "B. adriatica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Jinhae Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "B. adriatica", "predicate": "FOUND_IN", "object": "Jinhae Bay", "confidence": 1.0}]}

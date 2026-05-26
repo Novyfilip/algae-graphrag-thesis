@@ -1,0 +1,12 @@
+{
+  "community_id": 1018,
+  "summary": "This cluster focuses on the taxonomic characterization of novel cyanobacterial isolates from tropical agricultural environments, specifically rice field soils in Thailand. The research employs a polyphasic approach, integrating morphological analysis with 16S rRNA gene sequencing and secondary structure analysis of ribosomal RNA helices (D1-D1′, Box-B, V2, V3) to delineate new species. The key finding is the identification and phylogenetic confirmation of *Amazonocrinis thailandica* sp. nov., distinguished from congeners by unique morphological features such as sheath and necridia-like cells. The geographic scope is narrowly centered on Southeast Asian paddy field ecosystems, highlighting these habitats as a source of cryptic cyanobacterial diversity.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "extraction in methanol",
+    "methanol-soluble pigments"
+  ],
+  "resolution": 8.0
+}

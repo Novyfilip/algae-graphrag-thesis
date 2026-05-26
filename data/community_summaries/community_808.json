@@ -1,0 +1,12 @@
+{
+  "community_id": 808,
+  "summary": "This cluster focuses on the taxonomic survey and documentation of freshwater green algae, specifically the order Chlorococcales (Chlorophyceae), in eastern and north-eastern India. The research identified fifty-six distinct taxa, including genera such as *Chlorococcum*, *Pediastrum*, *Hydrodictyon*, and *Botryococcus*, collected from diverse freshwater habitats like rivers, lakes, ponds, and rice fields across the states of Orissa, West Bengal, Assam, Meghalaya, Nagaland, and Manipur. A key finding was the revelation of a significant and previously unrecognized diversity of chlorococcalean flora in this geographic region. The work establishes a foundational baseline for the freshwater algal biodiversity of these Indian states.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Pediastrum sturmii",
+    "Pediastrum sturmii var. crenulatum"
+  ],
+  "resolution": 8.0
+}

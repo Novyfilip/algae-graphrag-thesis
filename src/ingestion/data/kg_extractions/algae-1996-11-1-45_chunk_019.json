@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Streblonema sp.", "taxonomic_rank": "genus"}, {"species_name": "Ectocarpaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Streblonema sp.", "predicate": "BELONGS_TO", "object": "Ectocarpaceae", "confidence": 0.5}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 61,
+  "summary": "This cluster of papers is unified by a focus on the taxonomy, morphology, and community ecology of marine macroalgae, particularly red and brown algae, across temperate and subarctic regions of the Pacific, including Korea, Japan, the Aleutian Islands, and the White Sea. Key species such as *Corallina pilulifera*, *Sargassum thunbergii*, *Hizikia fusiformis*, and *Ulva pertusa* recur across multiple studies as dominant or ecologically significant taxa, with many papers documenting vertical zonation patterns, seasonal biomass fluctuations, and community shifts in response to environmental stressors like thermal effluents, turbidity, and wave exposure. Phylogenetic and taxonomic revisions using molecular markers (e.g., *rbcL*, *psbA*, *cox1*) were central to resolving cryptic species complexes and reclassifying genera such as *Polysiphonia*, *Neosiphonia*, *Campylaephora*, and *Radicilingua*, while several studies also explored applied themes including anticoagulant fucoidans from *Undaria pinnatifida*, antioxidant activity in Jeju red algae, and the impacts of nuclear power plant cooling systems on algal community structure.",
+  "n_entities": 194,
+  "n_papers": 97,
+  "n_papers_with_summaries": 97,
+  "entity_sample": [
+    "-1200 cm",
+    "-80 cm",
+    "18S rDNA (small subunit)",
+    "AY958163",
+    "Atlantic barrier reef ecosystem",
+    "Atlantic coast of Canada",
+    "Atlantic coast of North America",
+    "Bangjugdo",
+    "Bantry, Ireland",
+    "Boiler Bay, US"
+  ],
+  "resolution": 8.0
+}

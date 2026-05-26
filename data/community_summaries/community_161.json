@@ -1,0 +1,20 @@
+{
+  "community_id": 161,
+  "summary": "This cluster of papers is unified by a strong focus on the phylogenetic and taxonomic revision of macro- and microalgae, primarily red (Rhodophyta) and brown (Phaeophyceae) species, using molecular markers such as rbcL, COI-5P, and rDNA ITS sequences to resolve cryptic diversity and species boundaries. Key findings across the cluster include the identification of numerous new species and genera (e.g., *Symphyocladia glabra*, *Haraldiophyllum udoensis*, *Amalthea rubida*, *Erythrolobus australicus*, and *Violetonostoc minutum*) and the reclassification of existing taxa, often revealing that morphologically similar populations represent distinct genetic lineages, as seen in *Plocamium*, *Portieria*, and *Gelidium*. Geographically, the research is heavily concentrated in the Northwest Pacific, particularly Korea and Japan, with significant contributions from other regions including the western Pacific (Philippines, Vietnam, Malaysia), the Americas (Mexico, Brazil, Bermuda, Alaska), and the Southern Hemisphere (New Zealand, Australia, Antarctica). A secondary theme involves the characterization of bioactive compounds from seaweeds like *Ecklonia cava* (phlorotannins, eckol) and *Pyropia yezoensis* (polyunsaturated fatty acids), alongside investigations into the ecophysiology and distribution of harmful algal bloom species such as *Cochlodinium polykrikoides* and *Chattonella antiqua* in Korean coastal waters.",
+  "n_entities": 111,
+  "n_papers": 291,
+  "n_papers_with_summaries": 289,
+  "entity_sample": [
+    "0.8% agarose gel electrophoresis",
+    "3-acetoxy chloramphenicol",
+    "AAS",
+    "AccuPrep Genomic DNA extraction kit",
+    "Beadbug homogenizer",
+    "CTAB (cetyltrimethyl-ammonium bromide)",
+    "Carotenoids",
+    "Chelex extraction method",
+    "Chelex method",
+    "CoCl2∙6H2O"
+  ],
+  "resolution": 8.0
+}

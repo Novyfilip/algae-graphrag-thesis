@@ -1,0 +1,13 @@
+{
+  "community_id": 396,
+  "summary": "This cluster of papers investigated the evolutionary origins and phylogenetic relationships of photosynthetic eukaryotes, with a particular focus on the systematics of diverse algal groups. The research employed mitochondrial cristae architecture as a key morphological character to construct a speculative phylogeny, which placed golden algae within a \"stramenopile\" clade and dinoflagellates within an \"alveolate\" clade, while also examining the positions of jakobid flagellates and euglenoids. A central finding was the critical role of heterotrophic protists in the emergence of photosynthetic lineages, emphasizing that understanding algal evolution requires tracing connections between non-photosynthetic ancestors and modern plastid-bearing groups. The geographic scope was not explicitly defined, but the work addressed broad, global-scale questions in eukaryotic evolution rather than region-specific ecological patterns.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Chlorarachnion",
+    "Chlorarachniophytes",
+    "Cryptochlora"
+  ],
+  "resolution": 8.0
+}

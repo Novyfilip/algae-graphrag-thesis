@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. fulvescens", "taxonomic_rank": "species"}, {"species_name": "Pseudothrix borealis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. fulvescens", "predicate": "BELONGS_TO", "object": "Pseudothrix borealis", "confidence": 0.3}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bryothamnion", "taxonomic_rank": "genus"}, {"species_name": "Alsidium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Bryothamnion", "predicate": "BELONGS_TO", "object": "Alsidium", "confidence": 1.0}]}

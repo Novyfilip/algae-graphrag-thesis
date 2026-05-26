@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "carotene"}, {"compound_name": "carotenoid"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "carotene", "predicate": "PRODUCES", "object": "carotenoid", "confidence": 0.5}]}

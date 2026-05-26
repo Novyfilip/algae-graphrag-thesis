@@ -1,0 +1,12 @@
+{
+  "community_id": 818,
+  "summary": "This cluster synthesizes research on the taxonomy, classification, and biogeographic distribution of marine algae along the Korean coastline. Studies employed morphological characterization and phylogenetic analyses to resolve taxonomic relationships and species placement within major divisions such as Chlorophyta and Chromophyta. Key species examined included *Cladophora crystallina* and *Sphacelaria apicalis*, with findings emphasizing the geographic range and morphological criteria used to group similar algae. The research collectively advances a systematic understanding of Korean marine algal biodiversity through integrated taxonomic methods.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Pleonosporium pinnatum",
+    "Pleonosporium segawae"
+  ],
+  "resolution": 8.0
+}

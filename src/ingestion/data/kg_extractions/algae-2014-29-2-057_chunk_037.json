@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Amphora marina", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "PhyML 3.0"}], "environments": [{"environment_name": "Jeju, Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Amphora marina", "predicate": "FOUND_IN", "object": "Jeju, Korea", "confidence": 1.0}]}

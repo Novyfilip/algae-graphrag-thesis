@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "astaxanthin"}], "methods": [], "environments": [{"environment_name": "outdoor glass column photobioreactor"}], "markers": [], "applications": [], "relationships": [{"subject": "astaxanthin", "predicate": "PRODUCES", "object": "outdoor glass column photobioreactor", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. crispus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "studied coast"}], "markers": [], "applications": [], "relationships": [{"subject": "C. crispus", "predicate": "FOUND_IN", "object": "studied coast", "confidence": 1.0}]}

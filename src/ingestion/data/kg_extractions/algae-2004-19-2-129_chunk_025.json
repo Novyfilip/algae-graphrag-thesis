@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Enteromorpha intestinalis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Kosung Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "Enteromorpha intestinalis", "predicate": "FOUND_IN", "object": "Kosung Bay", "confidence": 0.5}]}

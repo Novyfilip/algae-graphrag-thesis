@@ -1,0 +1,20 @@
+{
+  "community_id": 38,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and biodiversity of algae, with an emphasis on the discovery and characterization of new species and genera across diverse geographic and ecological settings. Researchers frequently employed polyphasic approaches, integrating molecular phylogenetics (e.g., rbcL, 16S rRNA, coxIII, ITS sequences) with ultrastructural and morphological analyses to resolve taxonomic ambiguities, particularly within red algae (Rhodophyta) such as *Batrachospermum*, *Compsopogon*, *Centroceras*, and *Erythrolobus*, as well as cyanobacteria like *Violetonostoc minutum* and *Capillus* spp. Key geographic hotspots included Korea, India, Australia, and the Antarctic, with studies also spanning the Northwest Pacific, Mediterranean, and tropical/subtropical Atlantic, often revealing cryptic diversity and range extensions. Methodologically, the cluster highlights the use of advanced techniques such as confocal and electron microscopy, proteomics, and metabarcoding to investigate cellular structures, mitochondrial dynamics, and physiological processes like carbon concentrating mechanisms and mixotrophy, while also addressing applied topics such as pathogen control in *Pyropia* aquaculture and the bioindicator potential of species like *Compsopogon caeruleus*.",
+  "n_entities": 231,
+  "n_papers": 69,
+  "n_papers_with_summaries": 68,
+  "entity_sample": [
+    "22 stream segments in the area around Khao Luang National Park, Nakhon Si Thammarat province, southern Thailand",
+    "530 Ion chip sequencing",
+    "ADP",
+    "Algeria",
+    "Allahabad",
+    "American plate",
+    "Andaman islands",
+    "Archer’s method",
+    "Bangalore",
+    "Bangiophyceae"
+  ],
+  "resolution": 8.0
+}

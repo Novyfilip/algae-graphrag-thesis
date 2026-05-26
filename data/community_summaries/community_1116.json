@@ -1,0 +1,12 @@
+{
+  "community_id": 1116,
+  "summary": "This cluster investigates the use of low-diversity algal systems, specifically monocultures, for biodiesel production within open-reactor systems fed by wastewater. A 14-week experiment demonstrated that monocultures produced significantly higher concentrations of fatty acid methyl ester (FAME) mass compared to diverse algal assemblages, with over 80% of lipids successfully converted to FAME. The research further established that algal growth effectively reduced temperature, dissolved solids, pH, and dissolved oxygen while removing nitrate and phosphorus from the wastewater. The findings support a cost-effective pathway for integrating wastewater treatment with biofuel generation, emphasizing the operational advantages of simplified algal communities over diverse assemblages.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "commercial production systems",
+    "wastewater-fed open pond systems"
+  ],
+  "resolution": 8.0
+}

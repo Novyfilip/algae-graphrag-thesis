@@ -1,0 +1,20 @@
+{
+  "community_id": 254,
+  "summary": "This cluster of research is geographically centered on Korean coastal waters, with a strong emphasis on the ecological characterization, biochemical profiling, and biotechnological application of both macroalgae and microalgae. Key species connecting the studies include *Ecklonia cava*, *Sargassum* spp., *Undaria pinnatifida*, *Pyropia yezoensis*, and various dinoflagellates and cyanobacteria, which were investigated for their antioxidant, anti-inflammatory, antibacterial, and anti-cancer activities, often linked to specific compounds such as phlorotannins, fucoidan, loliolide, and gallic acid derivatives. A recurring pattern was the influence of environmental stressors—including temperature, salinity, nutrient availability, and extreme habitats like hot springs or intertidal zones—on the production of bioactive secondary metabolites and pigments, as well as on species distribution and community structure. The studies collectively advanced knowledge of Korean marine algal biodiversity, demonstrated the potential of native species for nutraceutical, cosmeceutical, and pharmaceutical development, and highlighted the role of algal communities as bioindicators of environmental change.",
+  "n_entities": 39,
+  "n_papers": 54,
+  "n_papers_with_summaries": 54,
+  "entity_sample": [
+    "80% methanolic extraction",
+    "Apo-9 fucoxanthinone",
+    "BuOH",
+    "BuOH fraction",
+    "C. japonica",
+    "Callophyllis japonica",
+    "Chlorogloeopsis",
+    "DCM",
+    "DCM fraction",
+    "Disk diffusion assay"
+  ],
+  "resolution": 8.0
+}

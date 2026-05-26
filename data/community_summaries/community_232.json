@@ -1,0 +1,20 @@
+{
+  "community_id": 232,
+  "summary": "This cluster of research is geographically centered on Korean waters and terrestrial habitats, with additional studies from India, China, Japan, and the Pacific, and is unified by a focus on taxonomic identification, phylogenetic relationships, and ecological distribution of diverse algal groups. A major theme is the use of molecular markers—particularly rbcL, cox1, SSU and LSU rDNA, and cpcBA-IGS sequences—to resolve species boundaries and evolutionary lineages, as seen in red algae like *Gracilariopsis chorda*, *Grateloupia jejuensis*, *Pterocladiella* species, and *Gelidium crinale*, as well as in dinoflagellates such as *Ansanella granifera*, *Pelagodinium bei*, and *Scrippsiella lachrymosa*. Several studies address bloom-forming and harmful algae, including *Peridinium bipes* in Korean dam reservoirs, *Ulva* species on Jeju Island, and red-tide causative dinoflagellates like *Karenia mikimotoi* and *Heterosigma akashiwo*, with investigations into mixotrophy, photoadaptation, and pigment dynamics (e.g., astaxanthin in *Haematococcus pluvialis*). The cluster also encompasses sub-aerial and epiphytic algae on building facades and cultural properties, as well as epibionts on floating *Sargassum horneri*, highlighting the ecological roles and dispersal of these organisms across diverse environments.",
+  "n_entities": 67,
+  "n_papers": 36,
+  "n_papers_with_summaries": 35,
+  "entity_sample": [
+    "18:2/16:0 DGDG",
+    "20:5/18:4 DGDG",
+    "20:5/18:4 MGDG",
+    "20:5/18:5 DGDG",
+    "20:5/18:5 MGDG",
+    "38:10 MGDG",
+    "38:9 DGDG",
+    "38:9 MGDG",
+    "Algal Resources Collection, Wilmington, NC, USA",
+    "B. bernardinense"
+  ],
+  "resolution": 8.0
+}

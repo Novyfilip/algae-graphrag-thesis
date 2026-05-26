@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Arcticophycus glacialis", "taxonomic_rank": "species"}, {"species_name": "Arcticophycus", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Arcticophycus glacialis", "predicate": "BELONGS_TO", "object": "Arcticophycus", "confidence": 1.0}]}

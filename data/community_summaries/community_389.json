@@ -1,0 +1,13 @@
+{
+  "community_id": 389,
+  "summary": "This cluster investigates the impact of mixotrophic feeding on the carbon uptake dynamics of harmful algal bloom (HAB) species, specifically red tide dinoflagellates. Research focused on *Prorocentrum minimum* and *P. micans* demonstrated that mixotrophy reduces dissolved inorganic carbon (CT) uptake rates by 7-31% compared to purely phototrophic controls, with the effect observed under varying pH conditions in controlled 10 L bottle experiments over five days. The findings reveal a key physiological pattern where mixotrophic metabolism lowers the carbon sequestration potential of these bloom-forming species, counteracting typical phototrophic CO2 drawdown. The geographic scope is implicitly relevant to temperate and coastal ecosystems where *Prorocentrum* species form recurrent red tides, highlighting a previously underappreciated feedback between trophic mode and carbon cycling during bloom events.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "CT and AT measurements",
+    "carbonic acid dissociation constants",
+    "thermodynamic constants"
+  ],
+  "resolution": 8.0
+}

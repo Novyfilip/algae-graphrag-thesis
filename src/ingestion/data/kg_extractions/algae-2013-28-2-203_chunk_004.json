@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Dunaliella", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "\u03b2-Carotene"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Dunaliella", "predicate": "PRODUCES", "object": "\u03b2-Carotene", "confidence": 0.5}]}

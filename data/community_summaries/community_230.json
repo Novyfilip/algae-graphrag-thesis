@@ -1,0 +1,20 @@
+{
+  "community_id": 230,
+  "summary": "This cluster of papers focuses on the ecology, distribution, and physiology of marine macroalgae along the Korean coastline, with a strong emphasis on community structure and environmental impacts. Key connecting species included *Corallina pilulifera*, *Sargassum thunbergii*, *Hizikia fusiformis*, and *Ulva pertusa*, which were repeatedly identified as dominant or subdominant taxa across intertidal and subtidal zones. Studies frequently documented vertical zonation patterns, seasonal biomass fluctuations, and the effects of anthropogenic stressors such as thermal effluents from nuclear power plants, which shifted community composition toward warm-tolerant and opportunistic species like *Enteromorpha compressa* and *Padina arborescens*. The geographic scope was predominantly the Korean Peninsula, including the East, South, and West coasts, with additional surveys from the Bering Sea, White Sea, and Pacific Mexico. Research methods commonly employed quadrat sampling, SCUBA surveys, and laboratory culture experiments to assess growth, reproduction, and photosynthetic responses to temperature and light.",
+  "n_entities": 68,
+  "n_papers": 101,
+  "n_papers_with_summaries": 100,
+  "entity_sample": [
+    "Aninjin",
+    "Baegdo",
+    "Byeondo",
+    "CHEMTAX program",
+    "Corallina",
+    "Corallina officinalis",
+    "Corallina ungulata",
+    "Corallinoideae",
+    "Dochodo",
+    "Dodo"
+  ],
+  "resolution": 8.0
+}

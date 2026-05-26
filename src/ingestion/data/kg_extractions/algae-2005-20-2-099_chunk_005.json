@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Padina", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Padina", "predicate": "PRODUCES", "object": "spores in clusters of four", "confidence": 1.0}, {"subject": "Padina", "predicate": "BELONGS_TO", "object": "brown algae", "confidence": 1.0}]}

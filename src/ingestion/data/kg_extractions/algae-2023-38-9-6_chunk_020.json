@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. monilis", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "nuclear staining"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "G. monilis", "predicate": "STUDIED_WITH", "object": "nuclear staining", "confidence": 1.0}]}

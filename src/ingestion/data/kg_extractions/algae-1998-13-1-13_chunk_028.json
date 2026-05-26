@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sargassum thunbergii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "sublittoral"}], "markers": [], "applications": [], "relationships": [{"subject": "Sargassum thunbergii", "predicate": "FOUND_IN", "object": "sublittoral", "confidence": 1.0}]}

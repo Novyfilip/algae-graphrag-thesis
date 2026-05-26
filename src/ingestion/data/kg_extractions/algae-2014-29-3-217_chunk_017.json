@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. tikvahiae", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Potters Pond, RI"}], "markers": [], "applications": [], "relationships": [{"subject": "G. tikvahiae", "predicate": "FOUND_IN", "object": "Potters Pond, RI", "confidence": 1.0}]}

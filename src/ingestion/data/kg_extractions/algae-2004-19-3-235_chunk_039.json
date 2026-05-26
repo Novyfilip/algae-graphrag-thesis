@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "diatom", "taxonomic_rank": "group"}], "compounds": [], "methods": [], "environments": [{"environment_name": "coastal waters"}], "markers": [], "applications": [], "relationships": [{"subject": "diatom", "predicate": "FOUND_IN", "object": "coastal waters", "confidence": 1.0}]}

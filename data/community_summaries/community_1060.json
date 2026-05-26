@@ -1,0 +1,12 @@
+{
+  "community_id": 1060,
+  "summary": "This cluster investigates the cosmeceutical potential of the brown alga *Ecklonia cava*, specifically focusing on extracts cultivated in Jeju Island’s unique magma seawater (MSW). Research demonstrated that MSW-cultured *E. cava* extract (MSWE) exhibited enhanced levels of bioactive polyphenolic compounds, particularly dieckol, compared to wild-harvested algae. Key findings revealed that MSWE significantly inhibited melanogenesis in melanoma cells by suppressing tyrosinase activity and DOPA oxidation, with minimal cytotoxicity, highlighting its promise as a safe skin-whitening agent. The geographic scope is centered on Jeju Island, South Korea, where the local volcanic seawater environment is leveraged to boost the functional properties of this marine resource.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "BCA Protein Assay Kit",
+    "protein content"
+  ],
+  "resolution": 8.0
+}

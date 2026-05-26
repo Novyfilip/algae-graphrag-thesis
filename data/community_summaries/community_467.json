@@ -1,0 +1,13 @@
+{
+  "community_id": 467,
+  "summary": "This cluster focuses on the taxonomic revision and morphological characterization of the red algal family Rhodochortonaceae in Korea, with the identification of eight new species and the reclassification of thirteen existing taxa. The research centers on the genera *Acrochaetium*, *Rhodochorton*, and *Auduinella*, describing their uniseriate, branched filamentous thalli, variable chloroplast distribution, and reproductive strategies. Key findings include the description of *Acrochaetium radiatum Jao* and *Rhodochorton robustum* as new species, as well as the previously unknown *Auduinella attenituium*, with specimens collected from epiphytic and endobiotic habitats on host plants across diverse Korean coastal environments.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Rhodochorton Naegeli",
+    "Rhodothamniella Feldmann",
+    "Thamnidium Thuret"
+  ],
+  "resolution": 8.0
+}

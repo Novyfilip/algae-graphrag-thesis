@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Zygnema", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean water bodies"}], "markers": [], "applications": [], "relationships": [{"subject": "Zygnema", "predicate": "FOUND_IN", "object": "Korean water bodies", "confidence": 1.0}]}

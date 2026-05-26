@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "kelp", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "East Asia"}], "markers": [], "applications": [{"application_name": "kelp aquaculture"}], "relationships": [{"subject": "kelp", "predicate": "FOUND_IN", "object": "East Asia", "confidence": 1.0}]}

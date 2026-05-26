@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Coccosphaerales", "taxonomic_rank": "order"}, {"species_name": "coccolithophorids", "taxonomic_rank": "group"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "coccolithophorids", "predicate": "BELONGS_TO", "object": "Coccosphaerales", "confidence": 0.5}]}

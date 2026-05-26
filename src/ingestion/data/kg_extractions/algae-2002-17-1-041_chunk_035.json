@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Littorina sp.", "taxonomic_rank": "genus"}, {"species_name": "Mazzaella", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Littorina sp.", "predicate": "AFFECTS", "object": "Mazzaella", "confidence": 0.5}]}

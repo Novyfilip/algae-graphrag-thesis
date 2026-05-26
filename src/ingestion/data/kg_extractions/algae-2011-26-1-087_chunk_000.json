@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Prorocentrum micans", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "comparative proteomics"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Prorocentrum micans", "predicate": "STUDIED_WITH", "object": "comparative proteomics", "confidence": 1.0}]}

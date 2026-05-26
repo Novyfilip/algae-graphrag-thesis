@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Acrosiphonia", "taxonomic_rank": "genus"}, {"species_name": "Ulothrix", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Acrosiphonia", "predicate": "BELONGS_TO", "object": "Ulothrix", "confidence": 0.5}]}

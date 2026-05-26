@@ -1,0 +1,12 @@
+{
+  "community_id": 1108,
+  "summary": "This cluster investigates phytoplankton community dynamics in temperate river systems, with a specific focus on the lower Nakdong River, where daily monitoring from 2002 to 2003 revealed that diatom species such as *Stephanodiscus hantzschii*, *Aulacoseira granulata* var. *angustissima*, and *A. italica*, alongside cyanobacteria like *Microcystis aeruginosa* and *Aphanizomenon flos-aquae*, dominated the community. Key findings linked seasonal shifts in these species to nutrient concentrations, particularly total nitrogen (3.1 ± 0.8 mg·L⁻¹) and total phosphorus (90 ± 48 µg·L⁻¹), with *Stephanodiscus hantzschii* frequently dominating during late fall and spring. The research underscores how water quality parameters, including pH, dissolved oxygen, and chlorophyll-a (43.5 ± 35.1 mg·m⁻³), interact with nutrient loading to drive phytoplankton succession in this critical river system.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Andong dam",
+    "upper Nakdong River"
+  ],
+  "resolution": 8.0
+}

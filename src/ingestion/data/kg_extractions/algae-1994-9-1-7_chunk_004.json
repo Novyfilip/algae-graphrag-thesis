@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Hypnea", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean"}], "markers": [], "applications": [], "relationships": [{"subject": "Hypnea", "predicate": "FOUND_IN", "object": "Korean", "confidence": 1.0}]}

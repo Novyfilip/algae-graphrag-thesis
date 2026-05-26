@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ascophyllum nodosum", "taxonomic_rank": "species"}, {"species_name": "Mycophycias ascophylli", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ascophyllum nodosum", "predicate": "CONTAINS", "object": "Mycophycias ascophylli", "confidence": 1.0}]}

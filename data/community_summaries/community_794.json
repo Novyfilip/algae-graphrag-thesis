@@ -1,0 +1,12 @@
+{
+  "community_id": 794,
+  "summary": "This cluster connects through a shared focus on microalgae, specifically *Chlorella vulgaris*, *Spirulina platensis*, *Haematococcus pluvialis*, and genera like *Cyclotella* and *Euglena*, but diverges in scope between applied biotechnology and ecological monitoring. One line of research concentrated on optimizing cultivation methods and commercializing these species for nutraceuticals, cosmetics, and biofuels, tracing their development from basic science to industrial application. In contrast, a field study in the Beopsu Marsh, Korea, analyzed phytoplankton community structure, finding that sewage runoff drove blooms of *Cyclotella* and *Euglena* in eutrophic zones while cleaner waters hosted *Fragilaria* and *Pinnularia*, with a low diversity index of 0.66 indicating severe pollution. Together, the cluster highlights both the anthropogenic exploitation of microalgae as a resource and the ecological response of natural phytoplankton communities to human-induced nutrient loading.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Mangyeong River/Jeonbuk, surface water",
+    "Nodularia sp."
+  ],
+  "resolution": 8.0
+}

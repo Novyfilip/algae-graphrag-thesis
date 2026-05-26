@@ -1,0 +1,16 @@
+{
+  "community_id": 281,
+  "summary": "This cluster focuses on the molecular mechanisms of biomineralization in the polar diatom *Fragilariopsis cylindrus*, specifically examining how silicon transporter (SIT) genes are differentially expressed in response to silicate and light availability. Using flow cytometry to synchronize the cell cycle, researchers demonstrated that cell wall synthesis precedes valve formation and that distinct subsets of SIT genes are responsive to either silicate or light, with one particular SIT gene showing a direct correlation between its expression and the G2/M phase transition under silicate depletion. The studies collectively reveal a complex, phase-specific regulatory network linking nutrient sensing to cell cycle progression and frustule formation in this ecologically significant species.",
+  "n_entities": 6,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "RNase protection assays",
+    "SIT1",
+    "SIT2",
+    "SIT3",
+    "SIT4",
+    "SIT5"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 666,
+  "summary": "This cluster is united by a focus on the molecular and genomic analysis of aquatic pathogens and algae, specifically addressing challenges in RNA extraction and pathogenicity mechanisms. Research on the freshwater green alga *Zygnema cruciatum* developed a novel DEAE-cellulose resin method to isolate high-quality total RNA (50 µg per 100 mg tissue) despite the organism's high pigment content, enabling downstream cDNA synthesis. Concurrently, comparative genomic analysis of the oomycete pathogen *Pythium porphyrae* identified a conserved gene repertoire, including enzymes for red algal biomass degradation and classic pathogenicity factors like crinklers and cellulose-binding elicitor lectin-like proteins, suggesting its evolution from a plant pathogen to a threat to red algae production. The geographic scope is not explicitly defined, but the studies address fundamental molecular biology techniques and pathogen genomics relevant to freshwater and marine algal systems.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "DNase I",
+    "DNase I treatment"
+  ],
+  "resolution": 8.0
+}

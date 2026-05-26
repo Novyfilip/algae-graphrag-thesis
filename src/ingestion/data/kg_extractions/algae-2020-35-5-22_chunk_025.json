@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "astaxanthin"}, {"compound_name": "starch"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "astaxanthin", "predicate": "CONTAINS", "object": "granules", "confidence": 1.0}, {"subject": "starch", "predicate": "CONTAINS", "object": "granules", "confidence": 1.0}]}

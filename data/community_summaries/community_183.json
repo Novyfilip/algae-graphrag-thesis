@@ -1,0 +1,20 @@
+{
+  "community_id": 183,
+  "summary": "This cluster of papers focuses on the biodiversity, taxonomy, and ecology of marine and freshwater algae, with a strong geographic emphasis on Korean coastal waters, the Sea of Okhotsk, and the Kurile Islands. Key species connecting the studies include *Sargassum thunbergii*, *S. fusiforme* (formerly *Hizikia fusiformis*), *Corallina pilulifera*, and *Ulva pertusa*, which were frequently identified as dominant or ecologically significant in intertidal and subtidal community analyses. Molecular methods such as rDNA ITS, rbcL, and SSU sequencing were consistently employed to resolve phylogenetic relationships, delineate cryptic species (e.g., within *Bostrychia tenella*, *Lessonia variegata*, and *Coolia*), and revise taxonomic classifications, including the discovery of new genera and species like *Ansanella granifera*, *Tsunamia transpacifica*, and *Tauya basicrassa*. The research collectively highlights patterns of endemism, vertical zonation, seasonal biomass variation, and the influence of environmental factors such as temperature and nutrient loading on algal community structure, with implications for aquaculture, harmful algal bloom monitoring, and conservation in temperate and polar regions.",
+  "n_entities": 98,
+  "n_papers": 86,
+  "n_papers_with_summaries": 85,
+  "entity_sample": [
+    "26S rDNA",
+    "5.8S rDNA",
+    "A. antarctica",
+    "A. antarctica sp. nov.",
+    "Actinastrum",
+    "Asterochloris antarctica",
+    "Asterochloris leprarii",
+    "Asterochloris sejongensis",
+    "Asterochloris stereocaulonicola",
+    "Asterochloris woessiae"
+  ],
+  "resolution": 8.0
+}

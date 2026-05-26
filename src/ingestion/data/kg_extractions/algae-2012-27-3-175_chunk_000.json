@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gracilariaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Hainan, China"}], "markers": [], "applications": [], "relationships": [{"subject": "Gracilariaceae", "predicate": "FOUND_IN", "object": "Hainan, China", "confidence": 1.0}]}

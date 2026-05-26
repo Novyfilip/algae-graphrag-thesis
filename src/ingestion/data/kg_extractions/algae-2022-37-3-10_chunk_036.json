@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Nostoc sp.", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Nostoc sp.", "predicate": "IDENTIFIED_BY", "object": "sequences", "confidence": 1.0}, {"subject": "Nostoc sp.", "predicate": "BELONGS_TO", "object": "monophyletic clade", "confidence": 1.0}]}

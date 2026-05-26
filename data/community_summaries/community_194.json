@@ -1,0 +1,20 @@
+{
+  "community_id": 194,
+  "summary": "This cluster of papers is unified by a strong focus on the biodiversity, taxonomy, and phylogenetics of marine and freshwater algae, with particular emphasis on the Northwest Pacific region, including Korea, Japan, the Bering Sea, and the Russian Far East. Key connecting themes include the use of molecular markers such as rbcL, ITS, and COI-5P to resolve cryptic species complexes and revise taxonomic classifications, as seen in studies on *Sargassum*, *Ulva*, *Codium*, *Herposiphonia*, and *Saccharina*. The research frequently addresses ecological dynamics, such as the effects of abiotic stressors (temperature, salinity, ocean acidification) on kelp early life stages and the seasonal community structure of intertidal and subtidal macroalgae. Additionally, the cluster encompasses the discovery of novel species and genera (e.g., *Violetonostoc minutum*, *Pseudothrix borealis*, *Haraldiophyllum hawaiiense*) and the characterization of harmful algal blooms and toxin-producing dinoflagellates, reflecting a broad geographic and ecological scope from polar to subtropical waters.",
+  "n_entities": 91,
+  "n_papers": 75,
+  "n_papers_with_summaries": 74,
+  "entity_sample": [
+    "5.8S rRNA gene",
+    "Archepelia",
+    "Archipelago",
+    "Arctic Circle",
+    "Arctic Ocean",
+    "Arctic Oceans",
+    "Barents Sea",
+    "Bootstrap analyses",
+    "C. arborescens",
+    "C. areschougii"
+  ],
+  "resolution": 8.0
+}

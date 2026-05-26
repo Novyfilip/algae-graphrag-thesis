@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "pond"}, {"environment_name": "northwest station"}], "markers": [], "applications": [], "relationships": [{"subject": "pond", "predicate": "CONTAINS", "object": "northwest station", "confidence": 1.0}]}

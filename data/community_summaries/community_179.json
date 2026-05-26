@@ -1,0 +1,20 @@
+{
+  "community_id": 179,
+  "summary": "This cluster of papers is unified by a predominant focus on the antioxidant and anti-inflammatory bioactivities of marine algae, particularly brown seaweeds such as *Ecklonia cava*, *Sargassum* species, and *Hizikia fusiformis*, alongside red algae like *Gracilaria verrucosa* and *Laurencia snackeyi*, and the green alga *Spirogyra* sp., with a strong geographic emphasis on Jeju Island, Korea. Key findings consistently demonstrate that phlorotannins (e.g., dieckol, phlorofucofuroeckol-A), polyphenolic compounds, and sulfated polysaccharides exhibit potent radical-scavenging activity, protect against oxidative stress-induced apoptosis in human keratinocytes and zebrafish models, and suppress inflammatory pathways (NF-κB and MAPK) in macrophages. The cluster also explores extraction methods such as enzymatic hydrolysis and ultrasound to enhance bioactive yields, and includes ecological studies on phytoplankton community structure in Korean rivers and reservoirs, as well as taxonomic work on *Zygnema* and *Laurencia* species, linking chemotaxonomic markers like osmolytes and chloroplast morphology to phylogenetic classification.",
+  "n_entities": 100,
+  "n_papers": 46,
+  "n_papers_with_summaries": 46,
+  "entity_sample": [
+    "13C-NMR",
+    "1H-1H-COSY",
+    "1H-NMR",
+    "2,2'-azobis(2-amidinopropane) hydrochloride",
+    "4-methy-lthio-1,2-dithioiane",
+    "5β-Hydroxypalisadin B",
+    "6z-, 9z-, 12z-, 15z- octadecatetraenoic acid",
+    "70% ethanol",
+    "ABTS radical scavenging activity analysis",
+    "Burdwan University campus"
+  ],
+  "resolution": 8.0
+}

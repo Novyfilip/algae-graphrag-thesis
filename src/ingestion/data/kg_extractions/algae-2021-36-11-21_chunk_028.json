@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. sculpera", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "wild"}], "markers": [], "applications": [], "relationships": [{"subject": "S. sculpera", "predicate": "FOUND_IN", "object": "wild", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 789,
+  "summary": "This cluster focuses on the taxonomic reassessment and morphological characterization of the brown algal genus *Padina* (Dictyotales, Phaeophyceae) across distinct geographic regions. Studies from the Gulf of California and the southern Philippines employed detailed morphological analysis, including traits such as thallus structure, cell layer arrangement, and reproductive features, to clarify species boundaries. Key findings include the recognition of only three species (*P. durvillaei*, *P. concrescens*, and *P. mexicana*) in the Gulf of California, contrasting with the discovery of three new records for the Philippines, such as *P. fernandeziana*. The research collectively indicates that the diversity of *Padina* is often underestimated and that morphologically-based taxonomy remains critical for resolving species-level classifications in tropical and subtropical marine ecosystems.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Newhousia",
+    "reefs of Hawaii"
+  ],
+  "resolution": 8.0
+}

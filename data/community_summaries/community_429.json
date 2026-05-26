@@ -1,0 +1,13 @@
+{
+  "community_id": 429,
+  "summary": "This cluster focuses on the taxonomic and floristic study of red algae (Rhodophyta) in Korean coastal waters, particularly the Yellow Sea and the Oeyondo Islands. The research identifies a high diversity of species, including 74 species of benthic red algae and 21 species within the Rhodochortonaceae family, with a notable emphasis on the genera *Goniotrichum*, *Porphyra*, *Acrochaetium*, *Rhodochorton*, and *Auduinella*. Key findings include the description of eight new species and two new genera, with morphological traits such as uniseriate, branched filaments and variable chloroplast distribution used for classification. Ecologically, these algae are characterized as epiphytic or endobiotic on host plants, with collections occurring in littoral and sublittoral zones during spring, and their distribution spans both Korea and Japan.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Helminthocladia",
+    "Helminthocladia calvadosii",
+    "Helminthocladia purpurea"
+  ],
+  "resolution": 8.0
+}

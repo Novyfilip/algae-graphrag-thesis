@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Petroderma maculiforme", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Petroderma maculiforme", "predicate": "BELONGS_TO", "object": "brown alga", "confidence": 1.0}]}

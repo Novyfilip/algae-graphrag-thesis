@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pyropia yezoensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "intertidal zone"}], "markers": [], "applications": [], "relationships": [{"subject": "Pyropia yezoensis", "predicate": "FOUND_IN", "object": "intertidal zone", "confidence": 1.0}]}

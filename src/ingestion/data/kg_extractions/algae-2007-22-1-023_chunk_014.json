@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cafeteria roenbergensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "depths of 52-55 m"}], "markers": [], "applications": [], "relationships": [{"subject": "Cafeteria roenbergensis", "predicate": "FOUND_IN", "object": "depths of 52-55 m", "confidence": 1.0}]}

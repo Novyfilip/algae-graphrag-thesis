@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gyrodinium spp.", "taxonomic_rank": "genus"}, {"species_name": "calanoid copepods", "taxonomic_rank": "order"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "calanoid copepods", "predicate": "AFFECTS", "object": "Gyrodinium spp.", "confidence": 1.0}]}

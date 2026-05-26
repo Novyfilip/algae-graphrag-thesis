@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Daedo Island"}, {"environment_name": "Kwangang Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "Daedo Island", "predicate": "FOUND_IN", "object": "Kwangang Bay", "confidence": 0.5}]}

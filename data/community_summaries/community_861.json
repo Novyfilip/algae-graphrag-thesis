@@ -1,0 +1,12 @@
+{
+  "community_id": 861,
+  "summary": "This cluster examines the utilization of brown and red seaweeds from Korean waters for both sustainable aquaculture and human health applications. Research on *Pyropia* cultivation highlights Korea’s leadership in seaweed farming, marked by the first ASC-MSC certification in 2019 and a focus on new cultivars to address food security. Concurrently, studies on *Laminaria japonica* (sea tangle) demonstrate its bioactive potential, specifically through γ-aminobutyric acid (GABA)-enriched fermentation, which was shown to increase serum brain-derived neurotrophic factor (BDNF), reduce total fat mass and triglycerides, and improve muscle strength in middle-aged women with sarcopenic obesity. Together, these papers connect the ecological and economic importance of Korean seaweed aquaculture with the development of functional foods targeting metabolic and age-related muscle disorders.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Saccharina jam",
+    "seasoning"
+  ],
+  "resolution": 8.0
+}

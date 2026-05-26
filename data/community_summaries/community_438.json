@@ -1,0 +1,13 @@
+{
+  "community_id": 438,
+  "summary": "This cluster investigates the population genetics and invasion biology of the red alga *Gelidium vagum*, primarily through the analysis of mitochondrial markers cox1 and cob. Research focused on specimens collected across a broad geographic range, including Korea, China, eastern Russia, the Netherlands, and the USA, revealed a haplotype network lacking local genetic structure. This pattern is characteristic of an introduced species, exhibiting low genetic diversity in non-native populations and high diversity in native populations, with the likely donor region identified in northeast Asian waters.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Korea: West",
+    "Mallipo, Taean, Korea",
+    "Uihangri, Taean, Korea"
+  ],
+  "resolution": 8.0
+}

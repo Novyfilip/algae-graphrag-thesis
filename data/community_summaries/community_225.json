@@ -1,0 +1,20 @@
+{
+  "community_id": 225,
+  "summary": "This cluster synthesizes research on the biodiversity, phylogenetics, and ecological dynamics of marine algae, with a strong emphasis on dinoflagellates and red algae from Korean coastal waters and the broader Indo-Pacific region. Key connecting themes include the discovery and molecular characterization of new species—such as *Ansanella granifera*, *Yihiella yeosuensis*, and *Haraldiophyllum udoensis*—using rDNA and rbcL sequencing, alongside studies on mixotrophic and heterotrophic feeding interactions, particularly among suessioid dinoflagellates and their grazers. The geographic scope centers on Korean waters (e.g., Jeju Island, Jinhae Bay, and the East China Sea), with additional contributions from the tropical western Atlantic, the Mediterranean, and the Pacific, highlighting the role of warm currents and hypoxic zones in shaping algal distribution and bloom dynamics. Functional studies further explored carbon flux in vegetated bays, UV radiation effects on coral reef phytoplankton, and the biotechnological potential of algae like *Ecklonia cava* for antioxidant extraction, underscoring the cluster’s integration of taxonomy, ecology, and applied phycology.",
+  "n_entities": 73,
+  "n_papers": 74,
+  "n_papers_with_summaries": 74,
+  "entity_sample": [
+    "AF060900",
+    "Aiptasia pulchella",
+    "Ansanella",
+    "Aureodinium",
+    "Biecheleria",
+    "Biecheleriopsis",
+    "Breviolum",
+    "Cladocopium",
+    "D2 of the large subunit of ribosomal DNA",
+    "DQ195342"
+  ],
+  "resolution": 8.0
+}

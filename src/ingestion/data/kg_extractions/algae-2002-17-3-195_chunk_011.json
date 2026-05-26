@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "E. coli", "taxonomic_rank": "species"}, {"species_name": "C. vulgaris", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "E. coli", "predicate": "STUDIED_WITH", "object": "C. vulgaris", "confidence": 1.0}]}

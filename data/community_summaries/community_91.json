@@ -1,0 +1,20 @@
+{
+  "community_id": 91,
+  "summary": "This cluster of research is geographically centered on the Korean Peninsula and Jeju Island, with additional studies from the Northwest Pacific, Alaska, and Nova Scotia, and focuses heavily on the bioactivity, cultivation, and molecular characterization of marine algae, particularly brown seaweeds like *Ecklonia cava*, *Sargassum* species, and *Undaria pinnatifida*, as well as red algae such as *Pyropia yezoensis* and *Gracilaria*. A dominant theme was the extraction and characterization of bioactive compounds—including phlorotannins (e.g., dieckol, phlorofucofuroeckol-A), fucoidans, and fucoxanthins—which demonstrated significant antioxidant, anti-inflammatory, antiviral, and anti-cancer activities in vitro and in vivo, often through the inhibition of NF-κB and MAPK pathways. The cluster also extensively addressed aquaculture and cultivation challenges, such as optimizing growth conditions (temperature, salinity, irradiance, CO₂), developing thermo-tolerant strains, and improving extraction methods (enzyme-assisted, ultrasound, subcritical water) to enhance yields of high-value compounds. Finally, taxonomic and genetic studies were prominent, using molecular tools (DNA barcoding, transcriptomics, phylogenetics) to resolve cryptic species, characterize genetic diversity, and develop transformation vectors for species like *Porphyra tenera* and *Chlorella vulgaris*.",
+  "n_entities": 163,
+  "n_papers": 119,
+  "n_papers_with_summaries": 117,
+  "entity_sample": [
+    "2,7-phloroglucinol-6",
+    "6-bieckol",
+    "Alzheimer’s disease therapy",
+    "Amphidinol 22",
+    "Association of Official Analytical Chemists (AOAC, 1998) methods",
+    "Cape Hatteras to Cape Canaveral",
+    "Cape Town, South Africa",
+    "De Hoop Nature Reserve",
+    "Ecklonia maxima",
+    "Ecklonia spp."
+  ],
+  "resolution": 8.0
+}

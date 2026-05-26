@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Spirulina platensis", "taxonomic_rank": "species"}, {"species_name": "Spirulina", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Spirulina platensis", "predicate": "BELONGS_TO", "object": "Spirulina", "confidence": 1.0}]}

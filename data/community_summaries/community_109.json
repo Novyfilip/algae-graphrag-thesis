@@ -1,0 +1,20 @@
+{
+  "community_id": 109,
+  "summary": "This cluster of research is strongly centered on the freshwater and marine algae of the Korean Peninsula, with a particular emphasis on taxonomic revision, phylogenetic analysis, and ecological dynamics. Key connecting threads include the use of molecular markers (such as LSU rDNA, 18S rDNA, atpB, and coxIII) to resolve phylogenetic relationships among problematic genera like *Staurastrum*, *Staurodesmus*, and *Spirogyra*, as well as the identification of novel species and first records (e.g., *Dolichospermum hangangense*, *Pterosiphonia arenosa*, and *Amazonocrinis thailandica*). The studies also frequently investigated the physiological and ecological impacts of environmental stressors—such as acidification, heavy metals, UV-B radiation, and eutrophication—on key bloom-forming taxa including *Cochlodinium polykrikoides*, *Microcystis*, and *Stephanodiscus hantzschii*. Geographically, the work was concentrated in Korean rivers (Han, Geum, Naktong), reservoirs (Togyo, Daecheong, Unmun), coastal waters (Jeju Island, Jaran Bay), and stone cultural properties, with additional comparative studies from Antarctica, India, Bangladesh, and the British Virgin Islands.",
+  "n_entities": 147,
+  "n_papers": 99,
+  "n_papers_with_summaries": 98,
+  "entity_sample": [
+    "Akontae",
+    "Amblyactinium",
+    "Aphanocapsa elachista",
+    "Aphanocapsa rivularis",
+    "Archidemidiaceae",
+    "Astrocosmium",
+    "BPA",
+    "Baccinellula cosmarioides",
+    "Bog-Lake Daitaku of northern Korea",
+    "Britain"
+  ],
+  "resolution": 8.0
+}

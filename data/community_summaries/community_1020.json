@@ -1,0 +1,12 @@
+{
+  "community_id": 1020,
+  "summary": "This cluster examines the influence of nutrient concentrations and stoichiometric ratios on coastal phytoplankton community structure, specifically focusing on diatom dynamics in temperate waters. Research conducted in Sagami Bay, Japan, during late spring and early summer of 2003 revealed that centric diatom species, including *Guinardia* spp., *Detonula* spp., and *Skeletonema costatum*, exhibited a negative correlation with nutrient concentrations and the silicon-to-nitrogen (Si/N) ratio. The studies employed multivariate statistical methods such as multidimensional scaling (MDS), cluster analysis, and canonical correspondence analysis (CCA) to categorize phytoplankton groups and assess nutrient limitations. A key finding across the cluster was that nutrient limitations, rather than silicate availability, primarily constrained diatom growth during the summer months, highlighting the critical role of nitrogen and phosphorus ratios in shaping community composition.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "micoalgae",
+    "western part of the bay"
+  ],
+  "resolution": 8.0
+}

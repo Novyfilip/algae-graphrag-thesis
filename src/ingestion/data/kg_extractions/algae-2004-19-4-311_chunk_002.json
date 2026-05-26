@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "diatom", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "freshwater"}], "markers": [], "applications": [], "relationships": [{"subject": "diatom", "predicate": "FOUND_IN", "object": "freshwater", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 959,
+  "summary": "This cluster centers on the taxonomic revision of brown algae within the genus *Sphacelaria*, specifically the reclassification of *S. rigidula* and *S. fusca* into a distinct species, *S. didichotoma*. The studies employed a combination of morphological analysis and molecular data, notably RUBISCO spacer sequences, to resolve phylogenetic relationships and confirm the new species' distinctiveness based on propagule morphology and arm arrangements. Key findings highlight that *S. didichotoma* shares characteristics with *S. rigidula*, including two dichotomously branched arms, but is differentiated by a shorter primary arm. The geographic scope of this work is focused on the northwestern Pacific region, where specimens previously identified as *S. divaricata* are now recognized as *S. didichotoma*.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "RUBISCO spacer region",
+    "determination of the nucleotide sequence"
+  ],
+  "resolution": 8.0
+}

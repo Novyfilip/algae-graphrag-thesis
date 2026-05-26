@@ -1,0 +1,20 @@
+{
+  "community_id": 155,
+  "summary": "This cluster of research focuses on the marine algal flora of the Korean Peninsula and adjacent waters, with a strong emphasis on species composition, community structure, and ecological dynamics in intertidal and subtidal zones. Key connecting species include *Corallina pilulifera*, *Sargassum thunbergii*, *Ulva pertusa*, and *Hizikia fusiformis*, which were repeatedly identified as dominant or prevalent taxa across numerous studies. Investigations frequently examined the impacts of anthropogenic disturbances, such as thermal effluents from nuclear power plants at Gori, Wolseong, and Taean, which were shown to shift community composition toward warm-tolerant and opportunistic species like *Enteromorpha compressa* and *Caulacanthus ustulatus*. The geographic scope was overwhelmingly centered on Korean coastal regions, including the East Sea, West Sea, South Sea, and Jeju Island, with additional studies extending to the Bering Sea, Northwest Pacific, and New Zealand. Methodologically, the cluster integrated traditional floristic surveys, vertical zonation analysis, molecular phylogenetics (using rbcL, COI-5P, and LSU rDNA markers), and biomass quantification to characterize algal biodiversity, succession patterns, and responses to environmental stressors.",
+  "n_entities": 116,
+  "n_papers": 134,
+  "n_papers_with_summaries": 134,
+  "entity_sample": [
+    "1,1-Diphenyl-3-[methoxymethoxy]-1-butene",
+    "1-(4-acetamidoanilino)-3,7-dimethylbenzo[4,5] imidazo[1,2-a]pyridine-4-carbonitrile",
+    "1-[4-Acetamidoanilino]-3,7-dimethyl-benzo[4,5]imidazo[1,2-a]pyridine-4-carbonitrile",
+    "1-[4-Acetamidoanilino]-3,7-dimethylbenzo[4,5]",
+    "8,9,9,10,10,11-hexafluoro-4,4-dimethyl-3,5-dioxatet in racyclo [5.4.1.0[2,6],0[8,11]]dodecane",
+    "A Coruna, SP",
+    "Anin, KR",
+    "Australasian waters",
+    "Ayajin",
+    "Ayajin, KR"
+  ],
+  "resolution": 8.0
+}

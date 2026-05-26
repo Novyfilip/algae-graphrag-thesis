@@ -1,0 +1,14 @@
+{
+  "community_id": 340,
+  "summary": "This cluster investigates the physiological and biochemical impacts of environmental stressors and bioactive compounds on marine macroalgae, with a focus on species of commercial and ecological significance. Studies examined how antibiotics disrupt the photosynthetic apparatus and ammonium uptake in *Porphyra yezoensis*, a red alga used in integrated mariculture, revealing that specific antibiotics like erythromycin thiocyanate_B and amoxicillin trihydrate induce distinct chlorophyll fluorescence quenching patterns that impair bioremediation potential. Concurrently, research on the brown seaweed *Eisenia bicyclis* identified phlorotannins, particularly fucofuroeckol-A, as potent antibacterial agents that synergistically reduce bacterial resistance to erythromycin and lincomycin against acne-related pathogens. These findings collectively highlight the dual role of macroalgae as both bioindicators of pharmaceutical pollution and sources of bioactive compounds, with geographic relevance spanning temperate Asian mariculture systems and pharmaceutical applications.",
+  "n_entities": 4,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Erythromycin",
+    "Lincomycin",
+    "Tetracycline",
+    "treat acne"
+  ],
+  "resolution": 8.0
+}

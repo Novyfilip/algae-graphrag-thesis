@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Tetraspora", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "lower intertidal"}], "markers": [], "applications": [], "relationships": [{"subject": "Tetraspora", "predicate": "FOUND_IN", "object": "lower intertidal", "confidence": 1.0}]}

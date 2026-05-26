@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Staurastrum", "taxonomic_rank": "genus"}, {"species_name": "Staurastrum paradoxum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Staurastrum paradoxum", "predicate": "BELONGS_TO", "object": "Staurastrum", "confidence": 1.0}]}

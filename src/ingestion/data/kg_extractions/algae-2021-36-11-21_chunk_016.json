@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Saccharina sculpera", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "cultivation environment"}], "markers": [], "applications": [], "relationships": [{"subject": "Saccharina sculpera", "predicate": "FOUND_IN", "object": "cultivation environment", "confidence": 1.0}]}

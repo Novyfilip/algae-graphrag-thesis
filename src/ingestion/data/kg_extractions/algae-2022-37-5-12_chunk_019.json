@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "local rockpools in the intertidal"}], "markers": [], "applications": [{"application_name": "macroalgae cultivation"}], "relationships": [{"subject": "macroalgae", "predicate": "FOUND_IN", "object": "local rockpools in the intertidal", "confidence": 1.0}]}

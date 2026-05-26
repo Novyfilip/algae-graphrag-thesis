@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "Inouye and Lotufo method"}, {"method_name": "modified SPV method"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "modified SPV method", "predicate": "STUDIED_WITH", "object": "Inouye and Lotufo method", "confidence": 0.5}]}

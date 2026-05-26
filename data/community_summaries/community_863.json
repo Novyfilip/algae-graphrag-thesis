@@ -1,0 +1,12 @@
+{
+  "community_id": 863,
+  "summary": "This cluster focuses on the taxonomy and classification of the freshwater algal class Conjugatophyceae (Zygnematophyceae), with a specific emphasis on the genera *Mougeotia*, *Mougeotiopsis*, and *Transeauina*. The research synthesizes historical nomenclature and modern reclassification efforts, documenting the evolution of the order and the establishment of a newly defined class structure. Key findings include a detailed account of species counts and distribution patterns, primarily derived from AlgaeBase data, reflecting a global but freshwater-specific ecological scope. The work underscores significant taxonomic revisions within this group, providing a foundational framework for understanding its biodiversity and phylogenetic relationships.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Salmacis",
+    "Salmacisella"
+  ],
+  "resolution": 8.0
+}

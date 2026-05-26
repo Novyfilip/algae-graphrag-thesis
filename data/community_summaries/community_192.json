@@ -1,0 +1,20 @@
+{
+  "community_id": 192,
+  "summary": "This cluster focuses on the ecology, taxonomy, and biogeography of marine macroalgae, particularly along the Korean Peninsula and adjacent waters. Key species such as *Caulerpa okamurae*, *Sargassum thunbergii*, *Corallina pilulifera*, and *Ulva pertusa* were repeatedly studied to understand growth, reproduction, and community dynamics in relation to environmental factors like water temperature, irradiance, and substrate type. Research consistently examined vertical zonation patterns, seasonal biomass fluctuations, and successional processes in intertidal and subtidal rocky shores, often using quadrat sampling and SCUBA surveys. The geographic scope was heavily centered on Korean coastal regions, including the East Sea, Yellow Sea, and Jeju Island, with additional studies from Japan, India, and the Bering Sea. Across the cluster, findings emphasized temperature-dependent maturation, the influence of thermal effluents from power plants on algal community structure, and the dominance of perennial brown and red algae in shaping benthic assemblages.",
+  "n_entities": 92,
+  "n_papers": 111,
+  "n_papers_with_summaries": 110,
+  "entity_sample": [
+    "Antibacterial",
+    "Boodlea coacta",
+    "C. wrightiana",
+    "Caulerpa Lamouroux",
+    "Caulerpa filicoides",
+    "Caulerpa geminata",
+    "Caulerpa lentillifera",
+    "Caulerpa racemosa var. tubinata",
+    "Caulerpa subserrata",
+    "Caulerpaceae"
+  ],
+  "resolution": 8.0
+}

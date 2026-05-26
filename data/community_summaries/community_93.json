@@ -1,0 +1,20 @@
+{
+  "community_id": 93,
+  "summary": "This cluster of papers is unified by a strong focus on the biodiversity, taxonomy, and ecological dynamics of marine algae, particularly red and brown macroalgae, across temperate and subtropical regions, with a pronounced geographic emphasis on the coastal waters of Korea and Japan. Key species such as *Corallina pilulifera*, *Hizikia fusiformis* (now *Sargassum fusiforme*), *Sargassum thunbergii*, and *Ecklonia cava* recur across multiple studies as dominant or ecologically significant taxa, often in the context of intertidal zonation, seasonal biomass variation, and community structure. The cluster also includes numerous taxonomic revisions and species discoveries, employing molecular markers like *rbcL*, COI-5P, and ITS to resolve cryptic diversity within genera such as *Centroceras*, *Polysiphonia*, *Hypoglossum*, and *Ceramium*, as well as to describe new species from Korea, Japan, Mexico, and the Hawaiian Islands. Several papers investigate anthropogenic impacts, particularly the effects of power plant cooling systems on algal community composition and biomass, while others explore physiological responses to abiotic stressors such as light intensity, salinity, and temperature. Overall, the cluster reflects a comprehensive effort to catalog, classify, and understand the ecological roles of marine algae in the Northwest Pacific and beyond, integrating traditional floristic surveys with modern molecular and experimental approaches.",
+  "n_entities": 162,
+  "n_papers": 84,
+  "n_papers_with_summaries": 83,
+  "entity_sample": [
+    "5 km offshore La Parguera, Puerto Rico",
+    "60-70 m depth offshore Louisiana, USA",
+    "AY178488",
+    "AY295175",
+    "Amphidinium gibbosum",
+    "Antilles, West Indies",
+    "Asteromenia bermudensis",
+    "Asteromenia peltata",
+    "Astrolabe Reef, Fiji, South Pacific",
+    "B. bahamensis"
+  ],
+  "resolution": 8.0
+}

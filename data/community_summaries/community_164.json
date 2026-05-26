@@ -1,0 +1,20 @@
+{
+  "community_id": 164,
+  "summary": "This cluster of research is geographically centered on Korean coastal waters, with additional studies from Antarctica, Nova Scotia, and the British Virgin Islands, and is unified by a focus on the taxonomy, ecology, and physiological responses of diverse marine protists—particularly dinoflagellates and diatoms—to environmental stressors. Key species investigated include the toxic dinoflagellates *Cochlodinium polykrikoides*, *Alexandrium tamarense*, *Gymnodinium catenatum*, and *Karlodinium veneficum*, alongside bloom-forming diatoms such as *Chaetoceros debilis*, *Skeletonema costatum*, and *Thalassiosira* spp., with studies frequently employing molecular tools like qPCR, metabarcoding, and transcriptomics to quantify abundance, assess phylogenetic relationships, and characterize mixotrophic or kleptoplastidic feeding behaviors. A recurring pattern across the cluster is the examination of how temperature, salinity, irradiance, and nutrient availability drive species distribution, bloom dynamics, and trophic interactions, including predation by heterotrophic protists like *Gyrodinium dominans* and *Oxyrrhis marina*, as well as the role of algicidal bacteria and parasitic dinoflagellates like *Amoebophrya* in regulating red tide events. Additionally, the research extends to macroalgae, such as the intertidal kelp *Eisenia arborea* and the brown alga *Ascophyllum nodosum*, where morphological variability and growth increments were linked to wave exposure and frond age, respectively, while applied studies explored the biotechnological potential of algae for omega-3 fatty acids, biofuels, and toxin detection.",
+  "n_entities": 109,
+  "n_papers": 93,
+  "n_papers_with_summaries": 92,
+  "entity_sample": [
+    "Albemarle-Pamlico Estuary",
+    "Amyloodinium",
+    "Barrufeta bravensis",
+    "Biecheleria brevisulcata",
+    "CP analysis",
+    "Cercozoa",
+    "Chemiluminescence immunochromatographic analysis",
+    "Ciliophora",
+    "Cryptoperidiniopsis",
+    "Cryptoperidiniopsis spp."
+  ],
+  "resolution": 8.0
+}

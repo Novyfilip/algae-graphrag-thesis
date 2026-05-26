@@ -1,0 +1,12 @@
+{
+  "community_id": 568,
+  "summary": "This cluster investigates the mixotrophic capabilities of dinoflagellates within the genus *Alexandrium*, specifically identifying nine species capable of phagotrophy, an increase from the seven previously known. Through prey item provision experiments on strains including CCMP2082, CCMP3433, and CAWD10, the research demonstrated that the acquisition or loss of mixotrophy can occur readily across three distinct phylogenetic clades. The findings highlight the ecological significance of this feeding strategy in protist ecology and its potential to influence marine food web dynamics, though the geographic scope of the strains was not explicitly defined in the summary.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "A. tamutum ATSH1609",
+    "gDNA sequencing"
+  ],
+  "resolution": 8.0
+}

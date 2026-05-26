@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gracilariopsis lemaneiformis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Gracilariopsis lemaneiformis", "predicate": "AFFECTS", "object": "cold stress", "confidence": 0.5}]}

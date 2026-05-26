@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "L. muelleri", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Australia"}], "markers": [], "applications": [], "relationships": [{"subject": "L. muelleri", "predicate": "FOUND_IN", "object": "Australia", "confidence": 1.0}]}

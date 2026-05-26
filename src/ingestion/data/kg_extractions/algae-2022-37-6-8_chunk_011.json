@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Noctiluca scintillans", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "automatic cultivation system"}], "relationships": [{"subject": "Noctiluca scintillans", "predicate": "STUDIED_WITH", "object": "automatic cultivation system", "confidence": 1.0}]}

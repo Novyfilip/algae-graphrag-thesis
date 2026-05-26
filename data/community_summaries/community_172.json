@@ -1,0 +1,20 @@
+{
+  "community_id": 172,
+  "summary": "This cluster of research is unified by a strong focus on the biodiversity, taxonomy, and ecological dynamics of algae and cyanobacteria across diverse aquatic and sub-aerial habitats, with a pronounced geographic emphasis on South Korea and India. Studies frequently employed morphological characterization and molecular techniques, such as DNA barcoding and phylogenetic analysis using markers like *rbcL* and 16S rRNA, to identify and classify species, including the discovery of new taxa like *Coolia malayensis* and *Amazonocrinis thailandica*. A recurring theme is the investigation of bloom-forming and toxic species, particularly cyanobacteria such as *Microcystis aeruginosa* and *Anabaena flos-aquae*, and their relationships with eutrophication, nutrient loading, and water quality in reservoirs, rivers, and estuaries. Additionally, the research explored applied aspects, including the bioremediation potential of microalgae, the bioactive properties of compounds like fucoxanthin, and the development of methodological protocols for algal culture and DNA extraction.",
+  "n_entities": 104,
+  "n_papers": 56,
+  "n_papers_with_summaries": 56,
+  "entity_sample": [
+    "Alcaligenes eutrophus",
+    "Anabaena affinis",
+    "Anabaena sp.",
+    "Antithamniom sparsum",
+    "Aphanocapsa sp.",
+    "Aphanothece castagnei",
+    "Aphanothece sp.",
+    "Asterococcus spinosus",
+    "Bacillus",
+    "Bacillus cereus"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "phenolic compounds"}, {"compound_name": "GA"}], "methods": [{"method_name": "Folin-Ciocalteu reagent"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "phenolic compounds", "predicate": "STUDIED_WITH", "object": "Folin-Ciocalteu reagent", "confidence": 1.0}]}

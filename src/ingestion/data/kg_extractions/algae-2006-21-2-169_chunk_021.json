@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "SSU"}, {"marker_name": "rbcL"}], "applications": [], "relationships": [{"subject": "SSU", "predicate": "STUDIED_WITH", "object": "rbcL", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Valonia", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "cytochalasin B"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "cytochalasin B", "predicate": "STUDIED_WITH", "object": "actin polymerization", "confidence": 0.5}]}

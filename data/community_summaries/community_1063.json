@@ -1,0 +1,12 @@
+{
+  "community_id": 1063,
+  "summary": "This cluster of research investigates toxin-producing marine microalgae, particularly dinoflagellates, using cellular probes such as antibodies and lectins to identify and quantify harmful algal bloom (HAB) toxins, including diarrhetic shellfish poisoning (DSP), paralytic shellfish poisoning (PSP), and amnesic shellfish poisoning (ASP). The studies trace a recent global surge in reported toxic events, linking them to both human activities and natural phenomena like red tides, with specific attention to a newly reported “phantom dinoflagellate.” The geographic scope is broad, encompassing coastal and open-ocean environments, while the methodological focus remains on lab-based, targeted labeling techniques to assess toxin distribution and prevalence. Key findings highlight the role of anthropogenic and ecological drivers in the expansion of HABs and the utility of probe-based assays for monitoring these threats.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "lectin assay",
+    "quick diagnostic assay"
+  ],
+  "resolution": 8.0
+}

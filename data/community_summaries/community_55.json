@@ -1,0 +1,20 @@
+{
+  "community_id": 55,
+  "summary": "This cluster of research is strongly centered on the biodiversity, ecophysiology, and biotechnological potential of microalgae and dinoflagellates, with a pronounced geographic focus on Korean coastal waters, including Jeju Island, Jinhae Bay, and the South Sea. Key connecting themes include the mixotrophic and heterotrophic feeding behaviors of dinoflagellates such as *Gyrodinium dominans*, *Gymnodinium smaydae*, and *Cochlodinium polykrikoides*, which were extensively studied for their roles in red tide dynamics, prey selection, and omega-3 fatty acid production. The cluster also emphasized the isolation and characterization of novel algal strains (e.g., *Asterarcys quadricellulare*, *Micractinium variabile*) and viruses (e.g., SpalV infecting *Stephanopyxis palmeriana*), alongside applied research into lipid and antioxidant production from species like *Tetraselmis* sp., *Nannochloropsis oculata*, and *Pyropia yezoensis*. Across these studies, common methodologies included transcriptomics, phylogenetic analysis using rDNA sequences, and quantitative PCR for species distribution, with findings collectively advancing understanding of algal community assembly, nutrient cycling, and the industrial valorization of marine algae in temperate and polar ecosystems.",
+  "n_entities": 203,
+  "n_papers": 134,
+  "n_papers_with_summaries": 132,
+  "entity_sample": [
+    "100 mL sized-standing culture method",
+    "A. stirisquamtum TIO955",
+    "A. stirisquamtum TIO971",
+    "AF009217",
+    "AF274251",
+    "AJ415512",
+    "Agrobacterium tumefaciens-mediated transformation",
+    "Alphanothece microscopica",
+    "Amphidinium carterae",
+    "Amphidinium eilatiensis"
+  ],
+  "resolution": 8.0
+}

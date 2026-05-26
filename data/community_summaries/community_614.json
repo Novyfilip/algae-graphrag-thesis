@@ -1,0 +1,12 @@
+{
+  "community_id": 614,
+  "summary": "This cluster focuses on the taxonomy, morphology, and pathology of red algae, specifically within the orders Ceramiales and Acrochaetiales. Key findings include the documentation of persistent gall formation in multiple *Bostrychia* species (*B. kelanensis*, *B. moritziana/radicans*, *B. radicosa*, *B. simpliciuscula*, and *B. tenella*) from culture isolates, with virus-like particles observed via electron microscopy suggesting a viral etiology. In parallel, taxonomic work on the Rhodochortonaceae in Korea identified eight new *Acrochaetium* species and two new genera (*Rhodochorton* and *Auduinella*), characterized by uniseriate, branched filaments and variable chloroplast distribution across epi- and endobiotic habitats. The geographic scope spans both tropical/subtropical culture isolates and Korean coastal ecosystems, with the shared themes of species-level specificity in morphological traits and the role of biotic interactions (viral infection or host plant associations) in driving observed structural anomalies.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Au. thurett",
+    "Audouinella saviana"
+  ],
+  "resolution": 8.0
+}

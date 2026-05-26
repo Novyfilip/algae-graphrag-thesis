@@ -1,0 +1,13 @@
+{
+  "community_id": 541,
+  "summary": "This cluster of research is united by the use of plastid gene sequences, specifically *rbcL* and *psaA*, to resolve phylogenetic relationships and taxonomic ambiguities within two distinct groups of marine macroalgae: the red algal genus *Polysiphonia* and the brown algal family Scytosiphonaceae. Studies on *Polysiphonia pacifica* from Pacific Ocean isolates demonstrated that *rbcL* sequences were identical between its two varieties (*var. pacifica* and *var. disticha*) but distinct from the closely related *P. morrowii*, clarifying species boundaries through combined molecular and morphological analysis. Concurrently, phylogenetic work on the Scytosiphonaceae established a new tree based on *psaA* and *rbcL* data, recognizing two major groups—including *Myelophycus*, *Petalonia*, *Scytosiphon*, and elongate sack-shaped *Colpomenia* species—while identifying gametophytic characters as a primary source of taxonomic conflict. Both investigations underscore the utility of chloroplast markers for resolving deep and shallow phylogenetic relationships, with a geographic focus on Pacific isolates and a broader ecological scope encompassing temperate marine habitats.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "LSU rDNA trees",
+    "psaA trees",
+    "rbcL trees"
+  ],
+  "resolution": 8.0
+}

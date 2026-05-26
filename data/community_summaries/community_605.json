@@ -1,0 +1,12 @@
+{
+  "community_id": 605,
+  "summary": "This cluster of research focuses on the therapeutic potential of antioxidant compounds derived from macroalgae (seaweed) for human health, particularly in mitigating oxidative stress and cardiovascular disease. The studies collectively review a diverse range of seaweed species, emphasizing the superior antioxidant capacity of these marine organisms as a natural alternative to synthetic antioxidants. Key findings are drawn from both laboratory assays and clinical trials, though the cluster acknowledges methodological challenges in comparing results due to varied assay techniques. The geographic and ecological scope is broad, encompassing multiple seaweed species from global marine environments, with a shared emphasis on the economic and practical hurdles to commercial utilization.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Anti-viral",
+    "Galactan sulfate"
+  ],
+  "resolution": 8.0
+}

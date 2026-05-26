@@ -1,0 +1,20 @@
+{
+  "community_id": 248,
+  "summary": "This cluster of research is predominantly centered on the biodiversity, taxonomy, and aquaculture of marine algae in Korean coastal waters, with a strong emphasis on red algae (Rhodophyta) and dinoflagellates. Key molecular methods, particularly the use of rbcL and 16S rRNA gene sequences, were consistently employed to resolve phylogenetic relationships, identify cryptic species, and revise taxonomic classifications, as seen in studies on *Pyropia*, *Haraldiophyllum*, *Grateloupiaceae*, and *Microcystis*. The geographic scope is heavily focused on the Northwest Pacific, especially Korea and Japan, with additional studies examining species from North America, India, and the Arctic, revealing patterns of endemism, glacial refugia, and recent migration. Applied research addressed the challenges of oomycete disease management in *Pyropia* aquaculture using calcium propionate, the development of integrated multi-trophic aquaculture (IMTA) systems with species like *Palmaria palmata*, and the potential for carbon sequestration and nutrient bioextraction using kelps and *Gracilaria*. Overall, the cluster underscores a dual focus on fundamental phylogeographic discovery and the practical advancement of sustainable seaweed cultivation and ecosystem services.",
+  "n_entities": 46,
+  "n_papers": 47,
+  "n_papers_with_summaries": 47,
+  "entity_sample": [
+    "Asian waters",
+    "COI-5P network analysis",
+    "Callophyllis variegata",
+    "Chilean",
+    "Chilean coastline",
+    "Chilean sub-populations",
+    "East Pacific",
+    "IMa2",
+    "IMa2 analyses",
+    "IMa2 model"
+  ],
+  "resolution": 8.0
+}

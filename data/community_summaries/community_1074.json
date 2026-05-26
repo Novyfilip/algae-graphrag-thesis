@@ -1,0 +1,12 @@
+{
+  "community_id": 1074,
+  "summary": "This cluster investigates the cultivation and physiological optimization of marine algae for integrated aquaculture and bioproduct applications. Research on *Palmaria palmata* demonstrated its viability as a biofilter in cold-water land-based systems co-cultured with Atlantic halibut, achieving peak growth between 8.0 and 9.0°C and requiring substantial surface area for nitrogen removal. Concurrently, studies on *Dunaliella salina* CCAP 19/18 and *Dunaliella bardawil* revealed species-specific responses to light intensity, with *D. salina* exhibiting faster growth and higher β-carotene and zeaxanthin production under high light, while *D. bardawil* showed greater sensitivity and morphological changes under low light. Both lines of inquiry underscore the importance of precisely controlling environmental parameters—temperature for temperate seaweeds and irradiance for halophilic microalgae—to maximize nutrient uptake or carotenoid yields. The geographic and ecological scope spans temperate Atlantic aquaculture systems and laboratory-based photobiology, highlighting a shared focus on optimizing algal physiology for integrated multi-trophic aquaculture and high-value compound production.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "commercial application",
+    "seaweed-halibut integration"
+  ],
+  "resolution": 8.0
+}

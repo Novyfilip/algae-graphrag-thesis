@@ -1,0 +1,12 @@
+{
+  "community_id": 1092,
+  "summary": "This cluster examines the ecological succession and community dynamics of epilithic diatoms during the early stages of biofilm formation on artificial substrates, specifically in the Kumho River. A total of 126 diatom taxa, comprising 114 species and 12 varieties, were collected over a 70-day period in 2002, with cluster analysis revealing three distinct successional stages (early, middle, and later). The research focuses on the taxonomic composition and temporal patterns of community assembly in a freshwater lotic ecosystem, highlighting the role of species-specific colonization and turnover in shaping epilithic diatom communities.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Landscape-scale influences on stream habitats and biota",
+    "stream habitats"
+  ],
+  "resolution": 8.0
+}

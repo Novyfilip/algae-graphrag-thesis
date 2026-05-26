@@ -1,0 +1,20 @@
+{
+  "community_id": 163,
+  "summary": "This cluster of papers is united by a focus on the biotechnological and bioactive potential of marine and freshwater algae, with a strong emphasis on species from East Asian waters, particularly Korea and Japan. Key findings center on the extraction and characterization of compounds with antioxidant, anti-inflammatory, and anticoagulant activities, such as fucoidans from *Undaria pinnatifida* and *Ecklonia cava*, phlorotannins from *Ecklonia cava*, and sterols from *Nannochloropsis oculata*, alongside investigations into the lipid and carotenoid production of microalgae like *Tetraselmis* sp., *Dunaliella salina*, and *Chlorella* species for nutraceutical and biofuel applications. The research also encompasses taxonomic and phylogenetic studies of red, green, and brown algae, including *Psilothallia dentata*, *Gracilaria* species, and Antarctic strains of *Chlorella* and *Micractinium*, often using molecular markers like rbcL and ITS to resolve evolutionary relationships. Ecologically, the studies span diverse habitats, from temperate coastal ecosystems and Arctic regions to freshwater reservoirs and anthropogenic surfaces, with a recurring theme of utilizing algae for bioremediation, wastewater treatment, and the sustainable production of high-value metabolites.",
+  "n_entities": 110,
+  "n_papers": 99,
+  "n_papers_with_summaries": 98,
+  "entity_sample": [
+    "1-naphthaleneacetic acid",
+    "Acetate",
+    "Brachionus picatilis",
+    "CBC approach",
+    "CO2 removal",
+    "Chlorella",
+    "Chlorella antarctica",
+    "Chlorella heliozoae",
+    "Chlorella lobophora",
+    "Chlorella photophila"
+  ],
+  "resolution": 8.0
+}

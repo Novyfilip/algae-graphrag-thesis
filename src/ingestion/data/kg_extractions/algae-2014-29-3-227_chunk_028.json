@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "taurine"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "aquaculture"}], "relationships": [{"subject": "taurine", "predicate": "CONTAINS", "object": "macroalgae", "confidence": 1.0}]}

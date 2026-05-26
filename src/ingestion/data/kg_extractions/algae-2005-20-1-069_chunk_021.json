@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "DPPH"}], "methods": [{"method_name": "ESR spectroscopy"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "ESR spectroscopy", "predicate": "STUDIED_WITH", "object": "DPPH", "confidence": 0.5}]}

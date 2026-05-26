@@ -1,0 +1,12 @@
+{
+  "community_id": 1117,
+  "summary": "This cluster of research focuses on the ecological assessment of lotic systems using epilithic algal communities as bioindicators of organic pollution, with a specific geographic scope centered on the Geum River in Korea. The studies identified a diverse assemblage of 160 algal species, with Chlorophyceae, Euglenophyceae, Chrysophyceae, and Cyanophyceae being dominant, while diatoms contributed significantly to standing crop biomass. Key indicator species for organic pollution were established, including *Aulacoseira granulata*, *Cyclotella meneghiniana*, *Melosira varians*, *Navicula pupula*, *Nitzschia palea*, *Oscillatoria tenuis*, *Scenedesmus quadricauda*, and *Synedra ulna*. The research quantified standing crop values ranging from 105.5 to 322.0 x 10³ cells/mm² and diversity indices between 1.56 and 2.11, linking these metrics directly to water quality parameters and demonstrating the utility of epilithic algae in pollution monitoring.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "rating of algae tolerating organic pollution",
+    "water pollution"
+  ],
+  "resolution": 8.0
+}

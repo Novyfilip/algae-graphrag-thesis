@@ -1,0 +1,12 @@
+{
+  "community_id": 1010,
+  "summary": "This cluster synthesizes methodological advancements in next-generation sequencing (NGS) bioinformatics, specifically applied to organelle genomes and metagenomes derived from algal and microbial communities. The papers collectively address the challenges of high-throughput data analysis, emphasizing the optimization of bioinformatic pipelines for platforms such as Illumina and Ion Torrent to handle varying genomic scales. A key pattern across the cluster is the historical and practical focus on overcoming sequencing errors and assembly complexities in organelle (e.g., plastid and mitochondrial) genomes, which are critical for phylogenetic and ecological studies. Geographically and ecologically, the scope is broad, targeting diverse aquatic and terrestrial environments where metagenomic approaches are used to characterize uncultured algal and microbial diversity.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "long-range PCR",
+    "primer walking"
+  ],
+  "resolution": 8.0
+}

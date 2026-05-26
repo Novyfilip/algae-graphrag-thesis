@@ -1,0 +1,20 @@
+{
+  "community_id": 65,
+  "summary": "This cluster of papers is united by a focus on the taxonomy, phylogenetics, and biogeography of diverse algal groups, with a strong emphasis on molecular identification methods such as rbcL, cox1, ITS, and 16S rRNA gene sequencing to resolve species boundaries and evolutionary relationships. Key findings include the discovery and reclassification of numerous new or cryptic species, such as *Pyropia retorta*, *Hypoglossum sabahense*, *Sheathia abscondita*, and *Cocconeis coreana*, often from understudied regions including Korea, Japan, New Zealand, the Aleutian Islands, and the Antarctic. The cluster also highlights the significance of oomycete pathogens like *Pythium porphyrae* and *Pythium chondricola* in causing red rot disease in commercially important red algae such as *Pyropia yezoensis*, with studies examining disease control methods and economic impacts on aquaculture. Geographically, the research spans freshwater, marine, and extreme environments across Asia, the Pacific, the North Atlantic, and Antarctica, reflecting a global effort to document algal diversity and its ecological and economic relevance.",
+  "n_entities": 186,
+  "n_papers": 96,
+  "n_papers_with_summaries": 96,
+  "entity_sample": [
+    "'Bangia' 1 sp. BMW",
+    "'Bangia' 2 sp. BGA",
+    "18S ribosomal RNA",
+    "18s rRNA",
+    "5.8S gene",
+    "Arasaki B medium",
+    "Arasaki medium",
+    "Ariake Sea, Japan",
+    "Asian region",
+    "Automatic Barcode Gap Discovery (ABGD)"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Aduncodinium glandula", "taxonomic_rank": "species"}, {"species_name": "Pfiesteriaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Aduncodinium glandula", "predicate": "BELONGS_TO", "object": "Pfiesteriaceae", "confidence": 1.0}]}

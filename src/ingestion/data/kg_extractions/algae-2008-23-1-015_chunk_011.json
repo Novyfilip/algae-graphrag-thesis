@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cochlodinium", "taxonomic_rank": "genus"}, {"species_name": "Gyrodinium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Cochlodinium", "predicate": "BELONGS_TO", "object": "Gyrodinium", "confidence": 0.5}]}

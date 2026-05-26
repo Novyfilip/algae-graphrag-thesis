@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "HPLC"}], "environments": [{"environment_name": "Newport River estuary"}, {"environment_name": "North Carolina"}, {"environment_name": "USA"}], "markers": [], "applications": [], "relationships": [{"subject": "HPLC", "predicate": "STUDIED_WITH", "object": "Newport River estuary", "confidence": 0.5}]}

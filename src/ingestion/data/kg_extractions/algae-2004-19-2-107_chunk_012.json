@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "mesocosm"}, {"environment_name": "reservoir"}], "markers": [], "applications": [], "relationships": [{"subject": "epilithon", "predicate": "FOUND_IN", "object": "mesocosm", "confidence": 0.5}, {"subject": "phytoplankton", "predicate": "FOUND_IN", "object": "reservoir", "confidence": 0.5}]}

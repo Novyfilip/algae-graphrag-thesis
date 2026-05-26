@@ -1,0 +1,16 @@
+{
+  "community_id": 269,
+  "summary": "This cluster of research focuses on the biodiversity, biogeography, and bioactive potential of marine algae in the coastal waters of Korea and the broader Northwest Pacific region. Studies on the brown alga *Laminaria japonica* and the red algal genus *Pyropia* (including the newly described *Pyropia retorta* and *P. kinositae*) highlight species-specific growth performance and historical biogeographic patterns, such as post-glacial recolonization from Korean refugia to Japan via the Warm Current. Investigations into antioxidant activities of *Sargassum thunbergii*, *S. fulvellum*, and *Codium fragile* from Jeju Island demonstrated that methanolic extracts, particularly from *S. thunbergii*, effectively inhibited reactive oxygen species, with total phenolic content positively correlated to activity. Additionally, mixotrophic feeding experiments on five phototrophic *Scrippsiella* species revealed that only *S. acuminata* consumes prey, altering the proportion of mixotrophs within the genus. Taxonomic and distributional surveys spanning the Korean coastline, the Bering Sea, and Southeast Kamchatka cataloged over 600 macroalgal species and revised the classification of taxa such as *Cladophora crystallina* and *Sphacelaria apicalis*, integrating morphological and phylogenetic analyses.",
+  "n_entities": 6,
+  "n_papers": 6,
+  "n_papers_with_summaries": 6,
+  "entity_sample": [
+    "Laminaria cichorioides",
+    "Laminaria japonica f. membranacea",
+    "Laminaria ochotensis",
+    "Laminaria saccharina f. linearis",
+    "northern east coast of Korea",
+    "waters off Korea"
+  ],
+  "resolution": 8.0
+}

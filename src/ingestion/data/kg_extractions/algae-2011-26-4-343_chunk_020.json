@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "crude polysaccharide"}, {"compound_name": "carbohydrate"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "crude polysaccharide", "predicate": "CONTAINS", "object": "carbohydrate", "confidence": 0.5}]}

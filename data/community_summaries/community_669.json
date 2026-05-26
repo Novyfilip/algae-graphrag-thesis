@@ -1,0 +1,12 @@
+{
+  "community_id": 669,
+  "summary": "This cluster of research focuses on the biosynthesis of terpenoids and carotenoids in algae, specifically examining the molecular and genetic pathways involved. Studies on the red alga *Pyropia haitanensis* identified the crucial roles of the PhDXS and PhDXR enzymes in the 2-C-methyl-D-erythritol 4-phosphate (MEP) pathway for terpenoid synthesis, revealing distinct expression patterns between its leafy thallus and conchocelis life stages. Concurrently, research on the green alga *Dunaliella salina* investigated its isoprenoid and carotenoid biosynthesis pathways, leveraging genomic and proteomic advances to understand abiotic stress responses and develop transformation techniques for enhanced compound production. Both lines of inquiry highlight the biotechnological potential of these species for producing high-value isoprenoid-derived compounds, with the *Pyropia* work suggesting a unique, endosymbiotically-derived MEP pathway and the *Dunaliella* research emphasizing metabolic engineering for commercial applications.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "DXP",
+    "MEP"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "porphyridialean algae", "taxonomic_rank": null}], "compounds": [{"compound_name": "photosynthetic pigment"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "porphyridialean algae", "predicate": "CONTAINS", "object": "photosynthetic pigment", "confidence": 1.0}]}

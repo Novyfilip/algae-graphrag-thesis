@@ -1,0 +1,12 @@
+{
+  "community_id": 790,
+  "summary": "This cluster centers on the taxonomic and phylogenetic characterization of red algae within the Delesseriaceae family, specifically through the discovery and molecular analysis of *Erythroglossum hyacinthinum* from deep waters off the Korean Peninsula. The research integrates morphological traits, such as a midrib and dentate blade margins, with *rbcL* gene sequencing to delineate this new species and resolve its phylogenetic position within the genus *Erythroglossum*. Geographically focused on the Northwest Pacific, the studies emphasize the region’s under-explored deep-water habitats as a source of novel algal diversity. Collectively, the work advances systematic knowledge of the Delesseriaceae by providing the first comparative phylogeny for this genus.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Nienburgia",
+    "eronema japonica"
+  ],
+  "resolution": 8.0
+}

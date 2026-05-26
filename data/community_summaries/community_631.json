@@ -1,0 +1,12 @@
+{
+  "community_id": 631,
+  "summary": "This cluster investigates the molecular physiology of dinoflagellates, specifically through the lens of their ion channel and signaling repertoires. A central finding is the reconstruction of a consensus \"channelome\" from 27 transcriptomes, which identified 36 ion channel families, including homologs of animal and plant proteins alongside unique protist-specific channels. The research highlights the remarkable physiological adaptability of dinoflagellates, driven by extensive G-protein coupled receptor and Ca2+-dependent signaling pathways. The work is primarily bioinformatic and transcriptomic in scope, focusing on broad physiological mechanisms rather than a specific geographic or ecological context.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ca2+-binding proteins",
+    "Calcium ions"
+  ],
+  "resolution": 8.0
+}

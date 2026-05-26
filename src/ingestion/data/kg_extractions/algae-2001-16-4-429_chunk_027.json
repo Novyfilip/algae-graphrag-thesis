@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "U. pinnatifida", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "U. pinnatifida", "predicate": "BELONGS_TO", "object": "populations", "confidence": 1.0}]}

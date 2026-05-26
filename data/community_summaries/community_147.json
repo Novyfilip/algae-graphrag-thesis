@@ -1,0 +1,20 @@
+{
+  "community_id": 147,
+  "summary": "This cluster of research is geographically centered on Korean coastal waters, particularly Jeju Island and the southern coast, with additional studies from Arctic and Antarctic regions. A dominant theme is the investigation of bioactive compounds—such as phlorotannins (dieckol, eckol, phlorofucofuroeckol-A), fucoidans, fucoxanthin, and polyphenols—from brown seaweeds like *Ecklonia cava*, *Sargassum* species, and *Undaria pinnatifida*, as well as red algae like *Gracilaria verrucosa* and *Laurencia snackeyi*, for their antioxidant, anti-inflammatory, anti-cancer, and anti-tyrosinase activities. Several studies employed enzyme-assisted or ultrasound-assisted extraction methods to enhance yield and bioactivity, while others examined the physiological responses of microalgae and macroalgae to environmental stressors, including elevated CO₂, temperature, light intensity, and nutrient availability, with species-specific effects observed in *Chattonella marina*, *Alexandrium affine*, and *Sargassum thunbergii*. The cluster also includes ecological and taxonomic work on phytoplankton community structure, dinoflagellate phylogeny, and diatom distribution in Korean estuaries and marshes, alongside applied research on bioremediation using *Porphyra* and microalgae for nutrient removal from wastewater.",
+  "n_entities": 120,
+  "n_papers": 60,
+  "n_papers_with_summaries": 60,
+  "entity_sample": [
+    "1",
+    "13-cis and 13′-cis complex (FcB)",
+    "13C NMR",
+    "1H NMR",
+    "2",
+    "24-well cell plates",
+    "3",
+    "3D crystal structures",
+    "50 cm3 culture flasks",
+    "80% MeOH extraction"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 237,
+  "summary": "This cluster of papers is geographically centered on the Korean Peninsula and adjacent waters, with additional studies from the Northwest Pacific, Arctic, and Mediterranean regions, focusing on the taxonomy, phylogeny, and distribution of marine and freshwater algae. Key findings include the discovery of cryptic species complexes, such as in *Saccharina sessilis* and *Portieria* from the northwest Pacific, and the revision of taxonomic boundaries using molecular markers like rbcL, COI-5P, and cpeA/B, which resolved conspecificity in *Pterosiphonia* and clarified lineages in *Neosiphonia japonica* and *Grateloupiaceae*. The research also documented ecological patterns, including seasonal zonation of red and brown algae on Korean rocky shores, the dominance of *Ulva linza* in Yellow Sea green tides, and the influence of light quality on harmful dinoflagellate blooms (*Cochlodinium polykrikoides*). Additionally, studies on chemotaxonomic osmolytes in *Stichococcus*-like organisms and fucoidan variability in *Undaria pinnatifida* highlighted biochemical approaches to species identification and bioprospecting, while Arctic and subarctic investigations revealed novel life-history strategies in *Nereocystis luetkeana* and *Platysiphon verticillatus*.",
+  "n_entities": 61,
+  "n_papers": 39,
+  "n_papers_with_summaries": 39,
+  "entity_sample": [
+    "AccuPower PCR premix",
+    "Aewol/Jeju coast",
+    "Asian freshwater",
+    "Coolia sp.",
+    "DNA barcode marker analyses",
+    "Fossa Magna",
+    "Gosanpo/Jeju coast",
+    "HotStarTaq Plus Master Mix Kit",
+    "Japanese",
+    "Jiseonri, Muncheongun, Hamgyeong-namdo"
+  ],
+  "resolution": 8.0
+}

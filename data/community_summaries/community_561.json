@@ -1,0 +1,12 @@
+{
+  "community_id": 561,
+  "summary": "This cluster focuses on the taxonomic characterization of a novel cyanobacterium, *Violetonostoc minutum*, isolated from a subtropical rock substrate in China. The research is united by the use of a polyphasic approach, specifically employing 16S rRNA gene phylogeny and secondary structure analysis of the D1-D1′, Box-B, and V3 helix regions to delineate the new genus and species. Key findings highlight that these unique molecular signatures distinguish *Violetonostoc minutum* from other Nostoc-like genera, underscoring the critical role of phylogenetic methods in resolving cyanobacterial taxonomy. The geographic scope is limited to a subtropical Chinese ecosystem, with the study emphasizing the discovery of endemic biodiversity through refined molecular techniques.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "16S-23S rRNA secondary structures determination",
+    "RNAstructure"
+  ],
+  "resolution": 8.0
+}

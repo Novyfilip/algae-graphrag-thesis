@@ -1,0 +1,15 @@
+{
+  "community_id": 296,
+  "summary": "This cluster of research is connected by a focus on microalgae and diatoms, emphasizing their ecological roles, cultivation, and applied potential. Studies on *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis* detailed historical and commercial efforts to optimize production methods for nutraceuticals, cosmetics, and biofuels. In contrast, ecological work in Maxwell Bay, Antarctica, identified 54 neritic diatom species—including *Synedra* spp. and *Thalassiosira antarctica*—and found that benthic diatoms significantly contributed to primary production in nearshore waters. Geographically, the cluster spans polar Antarctic ecosystems and Korean coastal waters, with the Korea Marine Microalgae Culture Center (KMMCC) maintaining approximately 1,400 strains, 84% from Korean waters, to support aquaculture and taxonomic research.",
+  "n_entities": 5,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Amphiprora sp.",
+    "Bogildo",
+    "South Sea (34°55′ N, 128°52′ E)",
+    "South Sea (34°56’N, 128°52’E)",
+    "Yellow Sea (36°12’N, 125°03’E)"
+  ],
+  "resolution": 8.0
+}

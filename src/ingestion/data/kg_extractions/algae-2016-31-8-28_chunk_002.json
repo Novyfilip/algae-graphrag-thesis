@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "dissolve organic nitrogen"}], "methods": [], "environments": [{"environment_name": "wastewaters"}], "markers": [], "applications": [], "relationships": [{"subject": "dissolve organic nitrogen", "predicate": "FOUND_IN", "object": "wastewaters", "confidence": 1.0}]}

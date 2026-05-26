@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chaetoceros diversus", "taxonomic_rank": "species"}, {"species_name": "Chaetoceros laevis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chaetoceros laevis", "predicate": "BELONGS_TO", "object": "Chaetoceros diversus", "confidence": 1.0}]}

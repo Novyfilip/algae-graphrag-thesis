@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pseudothrix borealis", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "sequencing"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Pseudothrix borealis", "predicate": "STUDIED_WITH", "object": "sequencing", "confidence": 1.0}]}

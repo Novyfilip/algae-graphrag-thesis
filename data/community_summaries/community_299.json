@@ -1,0 +1,15 @@
+{
+  "community_id": 299,
+  "summary": "This cluster investigates the use of low-diversity algal systems, particularly monocultures, for biodiesel production within open reactor systems fed by wastewater. A key finding was that monocultures produced significantly higher concentrations of fatty acid methyl ester (FAME) than diverse algal assemblages, with over 80% of lipids successfully converted to FAME. The research demonstrated effective wastewater bioremediation, as the algae reduced temperature, dissolved solids, pH, and dissolved oxygen while removing nitrate and phosphorus over a 14-week experimental period. The geographic and ecological scope is broadly applicable to cost-effective, wastewater-fed biofuel systems, highlighting a viable pathway for integrating nutrient removal with renewable energy production.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Brays Bayou",
+    "Buffalo Bayou",
+    "McGovern Lake",
+    "filtering through 100-µm mesh",
+    "plankton net dragging"
+  ],
+  "resolution": 8.0
+}

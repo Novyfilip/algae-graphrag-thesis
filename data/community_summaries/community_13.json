@@ -1,0 +1,20 @@
+{
+  "community_id": 13,
+  "summary": "This cluster of research is unified by a strong focus on the biodiversity, taxonomy, and community ecology of marine macroalgae, particularly red and brown algae, across the coastal waters of Korea and the broader Northwest Pacific. A central theme is the use of molecular phylogenetic methods, such as rbcL and cox1 sequencing, to resolve species boundaries and evolutionary relationships, as seen in studies on *Sargassum* subgenus *Bactrophycus*, *Pterocladiella*, *Hypnea flexicaulis*, and *Grateloupia*, which often revealed cryptic diversity or necessitated taxonomic revisions. Ecologically, many papers documented the composition, biomass, and vertical zonation of algal communities in response to environmental gradients, with dominant species like *Hizikia fusiformis*, *Sargassum thunbergii*, *Corallina pilulifera*, and *Ulva pertusa* recurring across studies from islands such as Jeju, Chuja, and Chongsando. The geographic scope was heavily concentrated on Korean waters, including the Yellow Sea, South Sea, and East Sea, with additional comparative work from Japan, the Philippines, and the Northwest Pacific, highlighting the region as a hotspot for algal diversity and phylogeographic investigation.",
+  "n_entities": 313,
+  "n_papers": 342,
+  "n_papers_with_summaries": 338,
+  "entity_sample": [
+    "(R + C)/P ratio",
+    "(R+C)/P value",
+    "A. dilatata",
+    "A. ephedraea",
+    "A. foliacea",
+    "A. pusilla",
+    "Acetabularia myriospora",
+    "Acrosiphonia pacifica",
+    "Acrosiphonia sonderi",
+    "Acrosorium sp."
+  ],
+  "resolution": 8.0
+}

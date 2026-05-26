@@ -1,0 +1,12 @@
+{
+  "community_id": 619,
+  "summary": "The papers in this cluster share a focus on the ecological assessment of riverine water quality through the analysis of phytoplankton community structure, specifically in the Dong River of Kangwon Province, Korea. Key connecting elements include the identification of diatom species such as *Cymbella minuta*, *Cymbella parva*, *Diatoma vulgare*, *Fragilaria construens*, and *Gomphonema pervulum*, alongside the monitoring of physicochemical parameters like water temperature, pH, DO, BOD, TN, TP, and SS. A central finding was the exceedance of Korean Environmental Preservation Law standards for water quality in the surveyed area, coupled with documented seasonal shifts in species abundance, including a notable decline in diatoms in November 2001 followed by an increase in blue-green algae and diatoms in March 2002. The geographic scope is confined to the Dong River in Kangwon Province, Korea, where the interplay between water quality parameters and phytoplankton diversity was systematically examined.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Bear Brook, New Hampshire",
+    "stream ecosystem"
+  ],
+  "resolution": 8.0
+}

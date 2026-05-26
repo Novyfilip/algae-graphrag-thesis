@@ -1,0 +1,13 @@
+{
+  "community_id": 538,
+  "summary": "This cluster investigates the ecological dynamics of harmful algal blooms (HABs), specifically those caused by the ichthyotoxic dinoflagellate *Cochlodinium polykrikoides* in the South Sea of Korea. Research focused on the interactions between these blooms and the metazooplankton community, particularly the grazing pressure exerted by calanoid copepods, which were identified as primary consumers of *C. polykrikoides* and *Prorocentrum* spp. Key findings revealed a significant positive correlation between total metazooplankton abundance and phototrophic dinoflagellates, with copepod grazing contributing modestly to bloom mortality rates (0.018–0.029 d⁻¹), while cladocerans and hydrozoans dominated the community at specific times. The geographic scope was confined to Korean coastal waters during the 2014 bloom season, from May to November.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "May",
+    "phytoplankton biomass",
+    "zooplankton biomass"
+  ],
+  "resolution": 8.0
+}

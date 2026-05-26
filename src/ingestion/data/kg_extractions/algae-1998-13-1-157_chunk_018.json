@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Griffithsia japonica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "Ribosomal Protein S8"}], "applications": [], "relationships": [{"subject": "Griffithsia japonica", "predicate": "IDENTIFIED_BY", "object": "Ribosomal Protein S8", "confidence": 1.0}]}

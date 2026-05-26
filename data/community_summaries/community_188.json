@@ -1,0 +1,20 @@
+{
+  "community_id": 188,
+  "summary": "This cluster of research is heavily centered on Korean coastal and freshwater ecosystems, with a strong emphasis on the taxonomy, ecology, and physiology of diverse microalgae and macroalgae, including diatoms (e.g., *Chaetoceros*, *Skeletonema*, *Thalassiosira*), dinoflagellates (e.g., *Cochlodinium polykrikoides*, *Alexandrium*, *Coolia*), and red algae (e.g., *Pyropia yezoensis*, *Gelidium*). Key findings across the corpus included the identification of numerous new species and genera (e.g., *Ansanella granifera*, *Nodosilinea* spp., *Halopeltis* spp.), the characterization of harmful algal bloom dynamics and their environmental drivers (e.g., salinity, nutrient concentrations, temperature), and the exploration of biotechnological applications such as lipid and pigment production (e.g., from *Tetraselmis* sp. and *Dunaliella salina*). The studies frequently employed molecular phylogenetic methods (e.g., rDNA sequencing, qPCR, ddPCR) alongside morphological analysis to resolve taxonomic uncertainties and track species distributions, revealing a complex interplay between environmental factors, biological interactions (e.g., parasitism, grazing), and community structure in both marine and freshwater habitats.",
+  "n_entities": 94,
+  "n_papers": 121,
+  "n_papers_with_summaries": 119,
+  "entity_sample": [
+    "'reverse' taxonomy",
+    "5,8,11-heptadecatrienoic acid methyl ester",
+    "Alexandrium sp.",
+    "Amphidinium crassum",
+    "Arctic freshwater",
+    "Arctic freshwater microalgae",
+    "Arctic green microalgae",
+    "B. moritiana",
+    "C. setaceum",
+    "C16-C18"
+  ],
+  "resolution": 8.0
+}

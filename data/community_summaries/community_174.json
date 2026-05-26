@@ -1,0 +1,20 @@
+{
+  "community_id": 174,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, phylogeny, and biodiversity of marine and freshwater algae, with a particular emphasis on the Northwest Pacific region, especially Korea and Japan. Researchers frequently employed molecular markers such as *rbcL*, *cox1*, and ITS sequences to resolve cryptic species complexes and revise generic boundaries, as seen in studies on *Pterosiphonia*, *Hypoglossum*, *Neosiphonia*, and *Herposiphonia*. A recurring theme was the discovery of new species and the documentation of hidden diversity, including *Hypoglossum sabahense* from Malaysia, *Coolia malayensis* from the Mediterranean, and multiple new *Spirogyra* taxa from Korea. The cluster also investigated ecological dynamics, such as the impact of elevated pCO₂ and temperature on harmful dinoflagellates like *Alexandrium* and *Chattonella*, and the role of sea urchin grazing in structuring macroalgal communities on Korean coasts.",
+  "n_entities": 104,
+  "n_papers": 91,
+  "n_papers_with_summaries": 90,
+  "entity_sample": [
+    "26S rRNA",
+    "26S rRNA data analysis",
+    "26S rRNA gene",
+    "5.8S rRNA",
+    "5.8S rRNA analyses",
+    "5.8S rRNA analysis",
+    "AmScope software measurement",
+    "Brachiomonas",
+    "Chlamydomonadales",
+    "Chlamydomonas applanata"
+  ],
+  "resolution": 8.0
+}

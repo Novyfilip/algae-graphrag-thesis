@@ -1,0 +1,13 @@
+{
+  "community_id": 497,
+  "summary": "This cluster investigates the nutraceutical potential of fermented brown algae, specifically *Laminaria japonica* (sea tangle), for addressing age-related metabolic and muscular decline in humans. The research focused on the effects of γ-aminobutyric acid (GABA)-enriched fermented sea tangle (GFST) on middle-aged women with sarcopenic obesity, a condition involving simultaneous muscle loss and fat gain. Key findings demonstrated that GFST supplementation significantly reduced total fat mass and triglyceride levels while increasing serum brain-derived neurotrophic factor (BDNF), angiotensin-converting enzyme, and human growth hormone. The study reported improvements in muscle strength and work performance, indicating that GABA-enriched algal fermentation products may exert an ergogenic and protective effect against sarcopenic obesity through BDNF-related pathways.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "activation by NAC",
+    "creatine kinase",
+    "reverse reaction"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "E. arborea", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "southern limits of northeast Pacific"}], "markers": [], "applications": [], "relationships": [{"subject": "E. arborea", "predicate": "FOUND_IN", "object": "southern limits of northeast Pacific", "confidence": 1.0}]}

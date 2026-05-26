@@ -1,0 +1,12 @@
+{
+  "community_id": 934,
+  "summary": "This cluster focuses on the physiological and ecological responses of the temperate coralline alga *Corallina officinalis* to environmental stressors, particularly light intensity. Research demonstrated that higher light levels significantly stimulated photosynthesis and gross primary production based on chlorophyll *a*, while simultaneously reducing photosynthetic pigment contents and enhancing calcification and growth rates. These photoacclimation strategies reveal a trade-off between light capture and metabolic efficiency, highlighting the species' adaptation to the dynamic light conditions of temperate coastal environments. The findings underscore the role of *C. officinalis* as a key calcifying macroalga in nearshore ecosystems, where its productivity and structural integrity are tightly coupled to light-driven physiological processes.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "canopy loss",
+    "encrusting coralline algae"
+  ],
+  "resolution": 8.0
+}

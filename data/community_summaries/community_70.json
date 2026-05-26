@@ -1,0 +1,20 @@
+{
+  "community_id": 70,
+  "summary": "This cluster of papers is unified by a strong focus on the biodiversity, taxonomy, and phylogenetic relationships of marine algae, particularly red and brown macroalgae, in the Northwest Pacific, with a heavy emphasis on Korean coastal waters. Key species such as *Hizikia fusiformis*, *Sargassum horneri*, *Ecklonia cava*, *Ulva pertusa*, and *Corallina pilulifera* recur across multiple studies, often as dominant or ecologically significant taxa, while molecular markers like *rbcL*, *COI-5P*, and *LSU rDNA* were frequently employed to resolve cryptic species boundaries and revise genera such as *Polysiphonia*, *Grateloupia*, and *Pterocladiella*. A major pattern across the cluster was the discovery of high cryptic diversity and the description of numerous new species, including *Polysiphonia ulleungensis*, *Grateloupia jejuensis*, *Hypoglossum sabahense*, and *Symphyocladia glabra*, often from subtidal or mesophotic habitats around Jeju Island and the southern Korean peninsula. Geographically, the research was concentrated in the temperate and subtropical waters of Korea and Japan, with additional studies extending to the Bering Sea, the tropical western Atlantic, the Hawaiian Islands, and the Antarctic, reflecting a broad but regionally focused effort to characterize algal floristics, community structure, and evolutionary history.",
+  "n_entities": 184,
+  "n_papers": 147,
+  "n_papers_with_summaries": 146,
+  "entity_sample": [
+    "ABGD",
+    "Adobe Photoshop CS6 plate assembly",
+    "Analipus",
+    "Analipus Kjellman",
+    "Arlequin v. 3.5.2",
+    "Assemble Species by Automatic Partitioning (ASAP)",
+    "BIOEDIT v7.2.0",
+    "Bayesian information criterion (BIC)",
+    "Boshu, Chiba Prefecture, Japan",
+    "CO1-5P gene"
+  ],
+  "resolution": 8.0
+}

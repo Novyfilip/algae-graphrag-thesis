@@ -1,0 +1,12 @@
+{
+  "community_id": 583,
+  "summary": "This cluster focuses on the diversity, phylogeny, and seasonal dynamics of microalgae, particularly dinoflagellates, in Korean coastal and intertidal waters. The studies employed LSU rDNA sequencing to resolve phylogenetic relationships among 19 dinoflagellate species, including first reports of *Amylax triacantha*, *Gonyaulax verior*, and *Katodinium glaucum*, and documented a strongly supported monophyletic group within the Dinophyceae. Seasonal field surveys at tidepools on Cheju Island identified 160 microalgal species, with the dinoflagellate *Akashiwo sanguinea* dominating blooms from May to September, comprising over 50% of abundance in large tidepools and exhibiting diurnal vertical migration. Environmental parameters such as temperature (8.7–32.0°C), salinity (3.9–34.9 psu), and nutrient concentrations varied widely, driving distinct assemblage compositions between large and small tidepools. Together, these papers characterize the taxonomic richness, evolutionary lineages, and ecological drivers of harmful algal bloom-forming dinoflagellates in Korean waters.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "AY154963",
+    "Gonyaulax digitale"
+  ],
+  "resolution": 8.0
+}

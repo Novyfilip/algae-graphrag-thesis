@@ -1,0 +1,13 @@
+{
+  "community_id": 379,
+  "summary": "This cluster of research focuses on the ecological dynamics of parasitic dinoflagellates of the genus *Amoebophrya* and their impact on host populations in coastal marine ecosystems. The studies specifically investigated the life cycle and infection parameters of *Amoebophrya* sp. ex *Heterocapsa triquetra* isolated from Jinhae Bay, Korea, quantifying key traits such as generation time, dinospore survival, and infectivity. A central finding was that infection rates increased rapidly during periods of peak host abundance, with parasite strains exhibiting nearly identical generation times regardless of dinospore inoculation ratios, indicating that transmission is tightly coupled to host bloom dynamics. The research also estimated a relatively high production of dinospores by *Amoebophrya* within *H. triquetra*, highlighting the parasite's significant potential to regulate host populations in temperate Korean coastal waters.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Amoebophrya sp. ex Heterocapsa triquetra",
+    "Autoclave 멸균",
+    "Nucleopore 여과지 여과"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Zostera marina", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "20-30 m"}], "markers": [], "applications": [], "relationships": [{"subject": "Zostera marina", "predicate": "FOUND_IN", "object": "20-30 m", "confidence": 1.0}]}

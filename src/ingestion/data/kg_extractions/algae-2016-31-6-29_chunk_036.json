@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "NO"}, {"compound_name": "PGE2"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "iNOS", "predicate": "PRODUCES", "object": "NO", "confidence": 1.0}, {"subject": "COX-2", "predicate": "PRODUCES", "object": "PGE2", "confidence": 1.0}]}

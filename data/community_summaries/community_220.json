@@ -1,0 +1,20 @@
+{
+  "community_id": 220,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and biogeography of red and brown macroalgae, particularly within the Northwest Pacific region encompassing Korea, Japan, and the Aleutian Islands. Researchers frequently employed molecular markers such as *rbcL*, *cox1*, and *COI-5P* to resolve species boundaries and cryptic diversity, as seen in studies on *Chondrus*, *Gracilariopsis chorda*, *Hypnea flexicaulis*, and the genus *Herposiphonia*, while also revising taxonomic placements for taxa like *Psilothallia dentata* and *Spatoglossum pacificum*. A secondary theme involves the ecology and cultivation of economically important kelps (*Saccharina japonica*, *Undaria pinnatifida*) and seaweeds, with investigations into seasonal biomass variation, vertical zonation, and the impacts of environmental factors such as water temperature and nutrient availability on community structure along the Korean coast. The geographic scope is predominantly temperate to cold-water, with additional contributions from the Mediterranean, Gulf of California, and New Zealand, highlighting a global effort to document algal biodiversity and refine systematic frameworks.",
+  "n_entities": 75,
+  "n_papers": 64,
+  "n_papers_with_summaries": 64,
+  "entity_sample": [
+    "AB366146",
+    "Avon Heathcote estuary",
+    "Christchurch (South Island, New Zealand)",
+    "Donghae, Gangwon-do, Korea",
+    "Gangwon-do Province",
+    "Gloioderma iyoense",
+    "Gymnothamnion elegans",
+    "Gyoam, Goseong, Gangwon-do, Korea",
+    "Hokkaido",
+    "Hokkaido, Japan"
+  ],
+  "resolution": 8.0
+}

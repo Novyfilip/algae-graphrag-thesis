@@ -1,0 +1,12 @@
+{
+  "community_id": 1053,
+  "summary": "This cluster investigates the impact of coastal industrial infrastructure, specifically nuclear power plant cooling water systems, on marine phytoplankton community structure. The research focuses on shifts in species composition and biomass, identifying key diatoms such as *Chaetoceros debilis*, *Chaetoceros socialis*, and *Pseudonitzschia fraudulenta* as dominant or indicator species. A consistent finding across the cluster is a decrease in both standing crops and chlorophyll a concentrations near the discharge area, indicating that thermal or mechanical stress from the cooling system disrupts natural blooming cycles and alters community dynamics. The geographic scope is centered on the coastal waters of the Wolseong nuclear power plant in South Korea, with studies conducted in the late 2000s.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "coastal area of Ko-ri",
+    "plankton organisms"
+  ],
+  "resolution": 8.0
+}

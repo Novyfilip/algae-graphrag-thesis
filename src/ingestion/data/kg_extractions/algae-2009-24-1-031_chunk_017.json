@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Padina concrescens", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "tide pool"}], "markers": [], "applications": [], "relationships": [{"subject": "Padina concrescens", "predicate": "FOUND_IN", "object": "tide pool", "confidence": 1.0}]}

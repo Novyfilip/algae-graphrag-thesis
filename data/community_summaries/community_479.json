@@ -1,0 +1,13 @@
+{
+  "community_id": 479,
+  "summary": "This cluster of research focused on the phylogenetic reassessment of desmid green algae, specifically the *Staurastrum* complex, using mitochondrial coxIII gene sequence analysis. The studies reevaluated the taxonomic boundaries of the genus *Staurodesmus* and established a close evolutionary relationship between *Staurastrum* and *Xanthidium*, while confirming their genetic distance from *Staurodesmus* and *Arthrodesmus*. The findings were derived from molecular phylogenetic methods applied to sequence data, rather than relying solely on morphological characteristics. The geographic and ecological scope was not explicitly defined in the summaries, but the work contributes to the broader understanding of charophyte evolution and freshwater algal systematics.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AY266342",
+    "Daesan-myeon, Gyeongsangnam-do",
+    "Staurodesmus punctulatum"
+  ],
+  "resolution": 8.0
+}

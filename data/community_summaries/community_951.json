@@ -1,0 +1,12 @@
+{
+  "community_id": 951,
+  "summary": "This cluster synthesizes research on the taxonomy and evolutionary biology of cyanobacteria, emphasizing the integration of traditional morphological and ultrastructural analyses with modern molecular data through a polyphasic approach. Key findings highlight the necessity of continuous taxonomic revision and standardization to accurately capture cyanobacterial diversity, while acknowledging the limitations of relying solely on culture collections. The research focuses on the evolutionary adaptations of cyanobacteria, particularly their symbiotic relationships with other organisms and their unique biochemical characteristics, though the geographic or ecological scope remains broad and unspecified.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "cyanobacterial mats of northern Belize",
+    "oscillatorialean cyanobacteria"
+  ],
+  "resolution": 8.0
+}

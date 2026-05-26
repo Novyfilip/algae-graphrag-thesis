@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "agarose"}, {"compound_name": "agar"}], "methods": [{"method_name": "DMSO"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "agarose", "predicate": "PRODUCES", "object": "agar", "confidence": 0.5}, {"subject": "agarose", "predicate": "STUDIED_WITH", "object": "DMSO", "confidence": 1.0}]}

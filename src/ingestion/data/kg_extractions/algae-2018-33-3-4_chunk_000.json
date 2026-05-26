@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Scrippsiella lachrymosa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean waters"}], "markers": [], "applications": [], "relationships": [{"subject": "Scrippsiella lachrymosa", "predicate": "FOUND_IN", "object": "Korean waters", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pseudostaurosiropsis", "taxonomic_rank": "genus"}, {"species_name": "P. geocollegarum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. geocollegarum", "predicate": "BELONGS_TO", "object": "Pseudostaurosiropsis", "confidence": 1.0}]}

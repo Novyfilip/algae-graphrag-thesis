@@ -1,0 +1,12 @@
+{
+  "community_id": 1095,
+  "summary": "Research on kelp aquaculture in Korea has centered on the brown algae *Undaria pinnatifida* and *Saccharina japonica*, with a focus on population genomics, cultivar development, and carbon sequestration potential. The cluster reveals that these two species, alongside *Neopyropia/Pyropia*, account for 96% of Korean seaweed production, driving investment in new cultivar varieties registered under UPOV protection. Key findings highlight the historical dominance of *Saccharina japonica* cultivation and the increasing importance of *Undaria pinnatifida*, with proposed diversification strategies including integrated multi-trophic aquaculture (IMTA) and offshore systems to enhance sustainability and blue carbon outcomes. Geographically, the research is confined to Korean coastal waters, emphasizing the region's role in advancing kelp aquaculture for both industry demands and climate mitigation.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "EEZ",
+    "sustainable seaweed aquaculture industry"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 36,
+  "summary": "This cluster of research is unified by a strong focus on the taxonomy, phylogenetics, and applied biotechnology of red algae (Rhodophyta), particularly species within the genera *Porphyra*, *Pyropia*, and *Gracilaria*, alongside brown algae like *Ecklonia cava* and *Sargassum*. Key methodological connections include the widespread use of molecular markers such as rbcL, cox1, and ITS sequences for species identification, phylogenetic reconstruction, and resolving cryptic diversity, as well as the development of DNA and RNA extraction protocols tailored to polysaccharide-rich algal tissues. Geographically, the studies are heavily concentrated in the coastal waters of Korea and Japan, with additional contributions from New Zealand, Australia, the Northwest Pacific, and polar regions, reflecting a strong regional emphasis on seaweed aquaculture and biodiversity assessment. Across the cluster, common findings include the discovery of new species (e.g., *Porphyra pulchella*, *Ceramium riosmenae*), the characterization of bioactive compounds with antioxidant and anti-inflammatory properties (e.g., phlorotannins from *Ecklonia cava*), and investigations into the genetic diversity and disease resistance of cultivated strains, particularly in response to oomycete pathogens like *Pythium porphyrae*.",
+  "n_entities": 235,
+  "n_papers": 167,
+  "n_papers_with_summaries": 166,
+  "entity_sample": [
+    "Allele-Specific Polymerase Chain Reaction (AS-PCR)",
+    "Amchitka Island",
+    "Antithamnionella miharai",
+    "Avonport",
+    "Avonport, Nova Scotia",
+    "B. moritziana lineage 1",
+    "Biotechnology for Improvement of Cultivars of Marine Algae",
+    "Callithammion corrymbosum",
+    "Caloglossa vieillardii",
+    "Canadian Maritime Provinces"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 200,
+  "summary": "This cluster of research is geographically centered on the Korean Peninsula and its adjacent waters, with additional studies extending to Japan, the Northwest Pacific, and the tropical western Atlantic. A central theme is the ecology, cultivation, and genetic characterization of commercially and ecologically significant macroalgae, particularly *Ulva pertusa*, *Sargassum thunbergii*, *Ecklonia cava*, *Pyropia* (formerly *Porphyra*), and *Zostera marina*, with a strong emphasis on species such as *Saccharina japonica* and *Undaria pinnatifida* for aquaculture and carbon sequestration. Key findings across the cluster include the critical role of disturbance timing and substrate type in intertidal community recovery and succession, the use of molecular markers like *rbcL* and COI-5P for resolving taxonomic ambiguities and discovering cryptic species, and the optimization of cultivation methods—including micropropagation, transplanting techniques, and land-based systems—to enhance biomass, nutritional quality, and bioactive compound production. The research also highlights the economic and ecological importance of these algae for food security, disease management in sea farms, and the development of natural antioxidants and anti-inflammatory agents from species like *Ecklonia cava*.",
+  "n_entities": 85,
+  "n_papers": 67,
+  "n_papers_with_summaries": 67,
+  "entity_sample": [
+    "10-m depth",
+    "13-18 m depth",
+    "15 m depth",
+    "15-m depth",
+    "20-30 m depth",
+    "25 m depth",
+    "25-m depth",
+    "30 m depth",
+    "5-m depth",
+    "8-10 m depth"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "northern North Island"}, {"environment_name": "East Cape Eddy"}, {"environment_name": "Manawatu Strait"}], "markers": [], "applications": [], "relationships": [{"subject": "East Cape Eddy", "predicate": "AFFECTS", "object": "two North Island species", "confidence": 0.5}]}

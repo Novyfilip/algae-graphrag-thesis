@@ -1,0 +1,13 @@
+{
+  "community_id": 376,
+  "summary": "This cluster examines the integration of the red seaweed *Palmaria palmata* with Atlantic halibut in land-based, closed aquaculture systems, focusing on nutrient uptake and growth dynamics. The research found that *P. palmata* achieved its highest growth rates between April and June at temperatures of 8.0 to 9.0°C, with nitrogen excretion rates varying significantly based on seawater conditions. A key finding was that effective nitrogen removal required approximately 29,000–38,000 m² of seaweed cultivation area relative to the halibut culture space, highlighting the spatial demands of bioremediation. The studies concluded that such integrated multitrophic aquaculture is feasible under temperatures below 10°C but impractical during warmer months, reflecting a temperate, cold-water geographic scope.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Atlantic halibut recirculating system",
+    "culture systems",
+    "seaweed culturing tanks"
+  ],
+  "resolution": 8.0
+}

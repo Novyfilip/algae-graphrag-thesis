@@ -1,0 +1,12 @@
+{
+  "community_id": 580,
+  "summary": "This cluster investigates the taxonomy and phylogeny of the diatom genus *Amphora sensu lato*, integrating morphological characterization with molecular phylogenetic analysis to resolve species-level relationships. Researchers examined eight species, confirming the distinctness of the subgenus *Halamphora Cleve* and proposing a reclassification of the genus, while also formally describing *Amphora terroris* as a new species. A key pattern across the cluster is the reliance on combined morphological and molecular data to delineate species boundaries and clarify evolutionary lineages within this taxonomically challenging group. The geographic scope of the studies encompasses diverse marine and estuarine environments globally, reflecting the widespread distribution of *Amphora* species.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AF525669",
+    "Biddulphiopsis titiana"
+  ],
+  "resolution": 8.0
+}

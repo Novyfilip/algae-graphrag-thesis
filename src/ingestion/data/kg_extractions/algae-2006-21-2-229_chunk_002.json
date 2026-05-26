@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Stephanodiscus", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "phosphate"}], "methods": [{"method_name": "addition experiments"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "phosphate", "predicate": "AFFECTS", "object": "Stephanodiscus", "confidence": 1.0}]}

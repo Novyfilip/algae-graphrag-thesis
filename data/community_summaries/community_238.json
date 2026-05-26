@@ -1,0 +1,20 @@
+{
+  "community_id": 238,
+  "summary": "This cluster of research primarily focuses on the taxonomy, phylogeny, and ecological dynamics of algae in Korean aquatic environments, with a strong emphasis on diatoms, dinoflagellates, and red algae. Key connecting methods include morphological analysis, DNA barcoding, and metabarcoding, which were used to revise classifications, identify cryptic species, and assess community shifts in response to eutrophication and hypoxia. Studies consistently documented the dominance of diatoms such as *Asterionella gracillima*, *Aulacoseira granulata*, and *Stephanodiscus hantzschii* in rivers and reservoirs, alongside blooms of cyanobacteria and euglenoids in nutrient-enriched waters. Geographically, the research spans South Korean sites including the Han River, Nakdong River estuary, Cheju Island, and tidal flats like Guenso Bay, with additional comparative studies from the tropical western Atlantic, Antarctica, and Bolivia.",
+  "n_entities": 60,
+  "n_papers": 44,
+  "n_papers_with_summaries": 43,
+  "entity_sample": [
+    "Ankistrodesmus falcatus var. acicularis",
+    "Ankistrodesmus falcatus var. falcatus",
+    "Araphid",
+    "Archaeplastida",
+    "Arthropoda",
+    "Ascomycota",
+    "Bacillariophyta",
+    "Bangiophycidae",
+    "Branchiopoda",
+    "Bulkuk Temple area"
+  ],
+  "resolution": 8.0
+}

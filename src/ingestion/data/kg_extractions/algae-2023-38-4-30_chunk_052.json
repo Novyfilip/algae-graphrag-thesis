@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Rhodophyta", "taxonomic_rank": "phylum"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Arabian Gulf"}], "markers": [], "applications": [], "relationships": [{"subject": "Rhodophyta", "predicate": "FOUND_IN", "object": "Arabian Gulf", "confidence": 1.0}]}

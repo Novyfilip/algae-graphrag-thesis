@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Lake Unmoon"}], "markers": [], "applications": [], "relationships": [{"subject": "Lake Unmoon", "predicate": "CONTAINS", "object": "oxygen concentration", "confidence": 1.0}, {"subject": "Lake Unmoon", "predicate": "CONTAINS", "object": "phosphate concentration", "confidence": 1.0}]}

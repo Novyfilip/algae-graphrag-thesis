@@ -1,0 +1,12 @@
+{
+  "community_id": 961,
+  "summary": "This cluster of research focused on the application of acoustic remote sensing methods, specifically digital echosounders, to assess the distribution, canopy cover, and biomass of seagrass beds. The studies centered on the species *Zostera marina* (eelgrass) within the geographic scope of Kwangyang Bay, South Korea. Key findings demonstrated that acoustic reflectivity was an effective technique for mapping patch sizes and estimating biomass over large areas, with one study measuring a total dry weight biomass of 4.1 tons across 4.05 km². Collectively, the research validated hydroacoustic surveys as a valuable, non-destructive tool for large-scale monitoring of submerged aquatic vegetation.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "digital echosounder system",
+    "submersed aquatic vegetation"
+  ],
+  "resolution": 8.0
+}

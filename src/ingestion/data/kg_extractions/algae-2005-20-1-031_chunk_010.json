@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Scinaia latifrons", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "Spearman rank correlation"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Scinaia latifrons", "predicate": "STUDIED_WITH", "object": "Spearman rank correlation", "confidence": 1.0}]}

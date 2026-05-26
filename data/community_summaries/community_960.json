@@ -1,0 +1,12 @@
+{
+  "community_id": 960,
+  "summary": "This cluster investigates the evolutionary transition from green algae to land plants, specifically through the lens of chloroplast genome organization and gene regulation. The research centers on the charophyte *Spirogyra maxima* and its rpl23 gene cluster, which contains a eubacterial promoter sequence and a unique set of introns that are shared with angiosperms, indicating a common ancestor. Phylogenetic analysis revealed that early charophytes possessed multiple promoters—one upstream of *trnI* and another upstream of *rpl23*—a configuration whose loss in land plants represents a pivotal evolutionary event. By examining the shared genetic material of chlorophyll a+b eukaryotes, the cluster provides molecular evidence for the origin of land plants from charophycean algae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "dicotyledons",
+    "rpl2 intron"
+  ],
+  "resolution": 8.0
+}

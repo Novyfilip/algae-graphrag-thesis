@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Chl a"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chl a", "predicate": "AFFECTS", "object": "growth rate", "confidence": 0.5}]}

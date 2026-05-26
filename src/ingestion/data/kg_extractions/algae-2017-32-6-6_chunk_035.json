@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "lipid"}, {"compound_name": "protein"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "starved cells", "predicate": "PRODUCES", "object": "lipid", "confidence": 0.5}, {"subject": "N-starved cells", "predicate": "PRODUCES", "object": "protein", "confidence": 0.5}]}

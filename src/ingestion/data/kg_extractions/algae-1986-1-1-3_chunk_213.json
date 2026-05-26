@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Polysiphonia brodiaet", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Chudo"}], "markers": [], "applications": [], "relationships": [{"subject": "Polysiphonia brodiaet", "predicate": "FOUND_IN", "object": "Chudo", "confidence": 1.0}]}

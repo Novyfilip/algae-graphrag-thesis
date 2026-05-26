@@ -1,0 +1,12 @@
+{
+  "community_id": 1118,
+  "summary": "This cluster focuses on the taxonomy and biodiversity of the genus *Euglena* in freshwater environments, specifically within Korean ecosystems. Researchers conducted a floristic survey across 58 sites, identifying 31 species through morphological analysis and Zakrys’ taxonomic framework. The work documented 12 new taxa for the region, including *Euglena archacoplastidiata* and *Euglena caudata*, expanding the known distribution of these euglenoids in East Asia. The findings underscore the utility of classical morphological keys for resolving species-level diversity in *Euglena* from temperate freshwater habitats.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "green euglenoids",
+    "waters including lots of the nutrient budget"
+  ],
+  "resolution": 8.0
+}

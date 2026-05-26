@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "AZA"}, {"compound_name": "glutamine"}, {"compound_name": "MSX"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "AZA", "predicate": "PRODUCES", "object": "glutamine", "confidence": 0.5}]}

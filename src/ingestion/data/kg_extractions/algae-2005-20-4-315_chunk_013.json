@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Stoechospermum sp.", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "alginic acid"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Stoechospermum sp.", "predicate": "CONTAINS", "object": "alginic acid", "confidence": 1.0}]}

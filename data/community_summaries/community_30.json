@@ -1,0 +1,20 @@
+{
+  "community_id": 30,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, ecology, and physiology of dinoflagellates and macroalgae in Korean coastal waters and the broader Northwest Pacific, with particular emphasis on harmful algal bloom (HAB) species such as *Cochlodinium polykrikoides*, *Alexandrium* spp., and *Karlodinium veneficum*. Key research themes included the mixotrophic and heterotrophic feeding behaviors of dinoflagellates like *Gymnodinium smaydae*, *Yihiella yeosuensis*, and *Biecheleriopsis adriatica*, as well as the population dynamics and grazing impacts of protistan predators such as *Oxyrrhis marina* and *Gyrodinium dominans*. Studies frequently employed molecular tools like quantitative PCR, droplet digital PCR, and phylogenetic analysis of rDNA sequences to quantify species distributions, resolve cryptic diversity, and track bloom dynamics across seasonal and spatial gradients. The geographic scope was heavily centered on the South Sea, East China Sea, and Yellow Sea, with additional contributions from the Pacific, Arctic, and tropical regions, reflecting a regional emphasis on understanding the drivers of red tide formation, nutrient cycling, and the ecological roles of both planktonic and benthic algal communities.",
+  "n_entities": 241,
+  "n_papers": 166,
+  "n_papers_with_summaries": 165,
+  "entity_sample": [
+    "A. pacificum",
+    "AY438017",
+    "Acartia erythraea",
+    "Acartia omorii / hongi",
+    "Albemarle-Pamlico Estuary, USA",
+    "Alexandrium affine",
+    "Alexandrium fraterculus",
+    "Alexandrium pacificum",
+    "Alsidium pacificum",
+    "Alsidium pusillum"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Coscinodiscus eccentricus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Coscinodiscus eccentricus", "predicate": "BELONGS_TO", "object": "Coscinodiscus", "confidence": 1.0}]}

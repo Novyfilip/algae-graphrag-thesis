@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "E. arborea", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "around the island"}], "markers": [], "applications": [], "relationships": [{"subject": "E. arborea", "predicate": "FOUND_IN", "object": "around the island", "confidence": 1.0}]}

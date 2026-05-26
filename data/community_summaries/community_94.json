@@ -1,0 +1,20 @@
+{
+  "community_id": 94,
+  "summary": "This cluster of research is unified by a strong focus on the cultivation, aquaculture, and applied biotechnology of red and brown seaweeds, particularly in the context of Korean and broader North Pacific waters. Key species such as *Pyropia yezoensis*, *Saccharina japonica*, *Undaria pinnatifida*, *Ecklonia cava*, and *Gracilaria* spp. were central to studies examining growth optimization, disease management (including oomycete pathogens like *Pythium porphyrae*), and the enhancement of bioactive compounds like fucoidans and phlorotannins. A significant pattern across the cluster was the investigation of environmental stressors—such as temperature, salinity, sedimentation, and nutrient sources—on early life stages, photosynthetic performance, and biochemical composition, with findings directly informing sustainable aquaculture practices and bioremediation strategies. Geographically, the research was heavily concentrated in the coastal waters of Korea, Japan, and the Aleutian Islands, with additional studies from the Bering Sea, Gulf of California, and the western Pacific, reflecting a broad but interconnected effort to understand and manage macroalgal resources for economic and ecological benefit.",
+  "n_entities": 162,
+  "n_papers": 107,
+  "n_papers_with_summaries": 106,
+  "entity_sample": [
+    "Agaraceae",
+    "Akutan Island",
+    "Alariaceae",
+    "Alaskan waters",
+    "Amaknak Island, Unalaska Bay",
+    "Arising",
+    "Atlantic halibut effluent",
+    "Attu",
+    "Attu Island",
+    "Away"
+  ],
+  "resolution": 8.0
+}

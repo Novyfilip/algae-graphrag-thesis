@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Dunaliella", "taxonomic_rank": "genus"}, {"species_name": "D. salina", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "D. salina", "predicate": "BELONGS_TO", "object": "Dunaliella", "confidence": 1.0}]}

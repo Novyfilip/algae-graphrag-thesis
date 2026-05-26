@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "DCA(Detrended Correspondence Analysis)"}], "environments": [{"environment_name": "Western Coast"}], "markers": [], "applications": [], "relationships": [{"subject": "DCA(Detrended Correspondence Analysis)", "predicate": "STUDIED_WITH", "object": "Western Coast", "confidence": 0.5}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 1084,
+  "summary": "This cluster investigates the nutraceutical potential of fermented brown algae, specifically *Laminaria japonica* (sea tangle), for addressing age-related metabolic and muscular decline in humans. The research focused on a γ-aminobutyric acid (GABA)-enriched fermented extract of this seaweed, examining its effects on middle-aged women with sarcopenic obesity. Key findings demonstrated that supplementation over eight weeks significantly reduced total fat mass and triglycerides while increasing serum brain-derived neurotrophic factor (BDNF), angiotensin-converting enzyme, and human growth hormone. The study concluded that this fermented algal product exhibits an ergogenic effect, promoting muscle growth and lipolysis, thereby offering a potential dietary intervention for sarcopenic obesity.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "insulin-like growth factor-1",
+    "solid-phase enzyme-labeled chemiluminescent immunometric assay"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cryptonemia abyssalis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "off the coast of Bermuda"}], "markers": [], "applications": [], "relationships": [{"subject": "Cryptonemia abyssalis", "predicate": "FOUND_IN", "object": "off the coast of Bermuda", "confidence": 1.0}]}

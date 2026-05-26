@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chattonella", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "bottom of the sea"}], "markers": [], "applications": [], "relationships": [{"subject": "Chattonella", "predicate": "FOUND_IN", "object": "bottom of the sea", "confidence": 1.0}]}

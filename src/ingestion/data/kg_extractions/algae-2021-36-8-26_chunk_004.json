@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. yezoensis", "taxonomic_rank": "species"}, {"species_name": "Pyropia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. yezoensis", "predicate": "BELONGS_TO", "object": "Pyropia", "confidence": 1.0}]}

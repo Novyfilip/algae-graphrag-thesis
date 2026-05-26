@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "N. scintillans", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "large-scale cultures"}], "relationships": [{"subject": "N. scintillans", "predicate": "STUDIED_WITH", "object": "large-scale cultures", "confidence": 1.0}]}

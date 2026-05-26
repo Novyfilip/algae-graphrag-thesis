@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Caulerpa", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Caulerpa", "predicate": "CONTAINS", "object": "hundreds of nuclei in a single cell", "confidence": 1.0}]}

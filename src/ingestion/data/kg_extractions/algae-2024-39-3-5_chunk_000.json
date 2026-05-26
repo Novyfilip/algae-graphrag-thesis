@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "droplet digital PCR"}], "environments": [], "markers": [], "applications": [{"application_name": "protist quantification"}], "relationships": [{"subject": "droplet digital PCR", "predicate": "STUDIED_WITH", "object": "protist quantification", "confidence": 1.0}]}

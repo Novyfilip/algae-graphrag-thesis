@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "cosmeceuticals"}, {"application_name": "skin care cosmeceuticals"}], "relationships": [{"subject": "algae", "predicate": "PRODUCES", "object": "natural products", "confidence": 0.5}]}

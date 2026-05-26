@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "endophytic algae", "taxonomic_rank": null}, {"species_name": "host seaweeds", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "endophytic algae", "predicate": "AFFECTS", "object": "host seaweeds", "confidence": 1.0}]}

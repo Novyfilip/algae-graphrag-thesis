@@ -1,0 +1,20 @@
+{
+  "community_id": 226,
+  "summary": "This cluster is unified by a focus on the taxonomy, biodiversity, and ecological distribution of freshwater green algae, particularly desmids and Chlorophyceae, across specific geographic regions in Asia. Studies conducted in the Garhwal region of Uttarakhand, India, and the Chilgok-Kun area of Korea documented numerous taxa, including 42 desmid taxa and 174 freshwater Chlorophyceae taxa, respectively, with the Indian research reporting nine new desmid species from the relatively pristine foothills of the Western Himalayas. Additional research on sub-aerial habitats in India identified 57 taxa of cyanobacteria and 15 taxa of chlorophyta on building facades, highlighting the influence of tropical climates on algal growth, while a study of the Togyo reservoir in Korea found a higher proportion of diatoms than green algae in the phytoplankton community. The cluster also includes taxonomic revisions of the Conjugatophyceae class and applied research on the cultivation of *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis* for commercial uses, though the dominant theme remains the systematic documentation of algal diversity in Indian and Korean freshwater and sub-aerial environments.",
+  "n_entities": 72,
+  "n_papers": 7,
+  "n_papers_with_summaries": 7,
+  "entity_sample": [
+    "C. acerosum (Schrank) Ehrenberg fa. rectum Scott & Prescott",
+    "C. braunii Reinsch",
+    "C. cynthia De Not.",
+    "C. margaritatum (Lund.) Roy & Biss. var. sablatum (Nordst) Krieger",
+    "C. nymannianum Grun. in Rabenhorst",
+    "C. pachydermum Lund. Fa.",
+    "C. pseudopyramidatum Lund. var. oculatum Krieg.",
+    "C. quinarium Lund.",
+    "C. reniforme (Ralfs) Arch. var. elevatum West & West",
+    "C. scabrum Trun."
+  ],
+  "resolution": 8.0
+}

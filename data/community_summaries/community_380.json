@@ -1,0 +1,13 @@
+{
+  "community_id": 380,
+  "summary": "This cluster synthesizes historical and taxonomic research on marine macroalgae from the North Pacific and Bering Sea, with a primary geographic focus on the Kamchatka Peninsula, the Aleutian Islands, the Kuril Islands, and the Alaskan coast. The papers are connected by their reliance on early Russian and British expeditions—including those led by Steller, Krasheninnikov, and Lütke—to document and revise the region’s algal flora. Key findings include the cataloging of over 600 macroalgal species across ten distinct distributional regions, alongside the taxonomic clarification of previously uncertain species. Together, these works establish a foundational floristic baseline for the Northwest Coast of the Bering Sea and Southeast Kamchatka, linking 18th- and 19th-century collections to modern systematic classification.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Ayan Bay, the Sea of Okhotsk",
+    "Conferva duriuscula",
+    "Spongomorpha duriuscula"
+  ],
+  "resolution": 8.0
+}

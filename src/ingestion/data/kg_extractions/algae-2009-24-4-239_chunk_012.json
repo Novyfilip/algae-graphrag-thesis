@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "mitotic index determination"}, {"method_name": "photomicroscopy"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "mitotic index determination", "predicate": "STUDIED_WITH", "object": "photomicroscopy", "confidence": 0.5}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 869,
+  "summary": "This cluster investigates the phylogenetic relationships within the brown algal family Scytosiphonaceae, primarily using molecular data from the plastid-encoded RuBisCo spacer region. The research, focused on Korean coastal waters, sequenced samples from genera including *Petalonia*, *Scytosiphon*, *Colpomenia bullosa*, and *Colpomenia peregrina*. Key findings revealed that the family is not monophyletic, with *Colpomenia peregrina* identified as basal to a distinct group comprising the other three taxa. This work highlights the complex evolutionary history and taxonomic challenges within the Scytosiphonaceae, emphasizing the utility of the RuBisCo spacer for resolving phylogenetic structure at the genus and species level.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Scytosiphon dotyii",
+    "Scytosiphon fomentaria"
+  ],
+  "resolution": 8.0
+}

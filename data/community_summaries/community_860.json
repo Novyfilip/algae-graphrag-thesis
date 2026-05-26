@@ -1,0 +1,12 @@
+{
+  "community_id": 860,
+  "summary": "This cluster investigates the role of marine algae in the biogeochemical cycling of iodine within coastal ocean systems, specifically examining the mechanisms driving iodine speciation. Research focused on the reduction of iodate to iodide, identifying that both microalgae and macroalgae, including the dinoflagellate *Lingulodinium* and the giant kelp *Macrocystis pyrifera*, facilitate this transformation. A key finding across the cluster was that cellular senescence during phytoplankton bloom decline, rather than active growth, is a primary driver of iodate reduction, potentially mediated by cell surface reductases. The geographic scope is limited to coastal environments, where these biological processes significantly influence the distribution of iodine species.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "SBE 19 V2 SeaCAT Profiler CTD",
+    "deep chlorophyll maximum (DCM)"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 586,
+  "summary": "This cluster of research focuses on the taxonomic revision of the diatom genus *Amphora sensu lato*, integrating molecular phylogenetics with detailed morphological analysis to resolve evolutionary relationships. A key finding was the distinction of the subgenus *Halamphora Cleve*, supporting its reclassification as a separate genus, and the formal description of a new species, *Amphora terroris*. The studies underscore the critical role of morphological data in validating molecular-based phylogenetic placements within this group. Geographically, the research spans diverse global marine and estuarine environments, reflecting the widespread distribution of *Amphora* species.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AY485456",
+    "Navicula phyllepta"
+  ],
+  "resolution": 8.0
+}

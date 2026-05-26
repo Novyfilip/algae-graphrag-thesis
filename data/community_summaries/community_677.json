@@ -1,0 +1,12 @@
+{
+  "community_id": 677,
+  "summary": "This cluster of research focuses on the chemotaxonomic classification of green algae, particularly Stichococcus-like organisms and members of the Prasiola clade, through the analysis of organic osmolytes. The studies consistently identify the production of high amounts of the polyol sorbitol and sucrose as a key chemotaxonomic marker, which was used to revise the taxonomic designation of previously identified species such as Gloeotila contorta. Geographically and ecologically, the research spans diverse terrestrial habitats, including tree bark, building surfaces, and soil, emphasizing the widespread distribution of these algae. The findings collectively validate the use of osmolyte profiling as a fundamental tool for resolving phylogenetic positions and supporting taxonomic revisions within green algal lineages.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Deuterostichococcus marinus",
+    "S. deasonii"
+  ],
+  "resolution": 8.0
+}

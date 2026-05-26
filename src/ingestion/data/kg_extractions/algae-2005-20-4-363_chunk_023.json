@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Elachista", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "eastern North America"}], "markers": [], "applications": [], "relationships": [{"subject": "Elachista", "predicate": "FOUND_IN", "object": "eastern North America", "confidence": 1.0}]}

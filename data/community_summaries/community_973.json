@@ -1,0 +1,12 @@
+{
+  "community_id": 973,
+  "summary": "This cluster investigates the temporal dynamics of marine benthic algal succession following disturbance, specifically through a 21-month study of recolonization on cleared intertidal surfaces in Korea at sites including Muchangpo and Maryangri. The research documents a progression from early colonizers such as blue-green and filamentous algae to a climax community, which was attained approximately 18 months after substrate removal. Key findings indicate that the trajectory of algal community development is significantly shaped by both the physical characteristics of the substrate and the duration of exposure following clearing.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "cleared substrata",
+    "ephemeral pioneering algae"
+  ],
+  "resolution": 8.0
+}

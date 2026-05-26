@@ -1,0 +1,14 @@
+{
+  "community_id": 353,
+  "summary": "This cluster of research focuses on the biotechnological potential of the green microalga *Coelastrella rubescens* (Scenedesmaceae, Chlorophyta) for the co-production of high-value keto-carotenoids and biofuels. Studies demonstrated that stress-induced secondary carotenogenesis in this species yields significant amounts of astaxanthin and canthaxanthin, while its lipid fatty acid profile is suitable for biodiesel synthesis. The investigations utilized CO₂ and sodium acetate under low-pH conditions to trigger these metabolic responses, highlighting a dual application in nutraceuticals and renewable energy. The geographic and ecological scope is not explicitly defined, but the work positions *C. rubescens* as a promising candidate for industrial biotechnology.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "acidification of the medium",
+    "addition of organic carbon source",
+    "direct СО2 injection",
+    "secondary ketocarotenoid biosynthesis"
+  ],
+  "resolution": 8.0
+}

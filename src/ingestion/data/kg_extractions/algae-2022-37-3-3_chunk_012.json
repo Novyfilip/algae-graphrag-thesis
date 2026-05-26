@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "kelp", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "small subunit ribosomal RNA"}], "applications": [], "relationships": [{"subject": "small subunit ribosomal RNA", "predicate": "IDENTIFIED_BY", "object": "kelp", "confidence": 0.5}]}

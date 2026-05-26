@@ -1,0 +1,12 @@
+{
+  "community_id": 881,
+  "summary": "This cluster of research focuses on the active restoration of marine macroalgal forests in coastal Japan, specifically employing the spore bag method to establish artificial seaweed beds on both artificial iron reefs and natural rock substrates. The studies documented the successful recruitment and growth of key perennial species, including *Sargassum horneri*, *Sargassum macrocarpum*, and *Ecklonia kurome*, with growth monitored through regular scuba diving photography. A common methodological approach involved testing twelve different types of settlement plates to identify the most stable foundation for bed formation. The geographic scope is centered on the Shikoku region, reflecting a targeted effort to mitigate the decline of coastal kelp and sargassum forests through engineered restoration techniques.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Construction of Artificial Seaweed Beds",
+    "Spore Bag Method"
+  ],
+  "resolution": 8.0
+}

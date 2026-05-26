@@ -1,0 +1,12 @@
+{
+  "community_id": 979,
+  "summary": "This cluster investigates the feasibility of intensive, land-based cultivation of red and green macroalgae for human consumption in the Pacific Northwest, specifically at the Manchester Research Station in the USA from 2013 to 2014. The research focused on three species—Turkish towel, Pacific dulse, and sea lettuce—grown in a tumble-aerated tank culture system, revealing that all three exhibited peak specific growth rates during summer and minimal growth near the winter solstice. Key findings included significant seasonal variation in the nutritional composition of sea lettuce, particularly higher lipid and protein content, alongside consistently low levels of contaminants and persistent organic pollutants. The estimated annual dry weight yields of 50-70 metric tons per hectare exceeded those of conventional terrestrial crops, supporting the region's potential for sustainable, high-yield seaweed aquaculture.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "filamentous diatoms",
+    "sea lettuce tanks"
+  ],
+  "resolution": 8.0
+}

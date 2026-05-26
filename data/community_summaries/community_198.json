@@ -1,0 +1,20 @@
+{
+  "community_id": 198,
+  "summary": "This cluster of research focuses on the biodiversity, taxonomy, and ecology of marine macroalgae, predominantly red (Rhodophyta) and brown (Phaeophyta) algae, across the Northwest Pacific, with a strong emphasis on the Korean Peninsula, Jeju Island, and the broader East Asian region. Key species such as *Sargassum thunbergii*, *Corallina pilulifera*, *Hizikia fusiformis*, *Ulva pertusa*, and *Chondrus ocellatus* were repeatedly identified as dominant or ecologically significant, often studied in the context of intertidal and subtidal zonation, seasonal biomass variation, and community succession. Molecular phylogenetic methods, particularly using rbcL and cox1 gene sequences, were widely employed to resolve taxonomic ambiguities, revealing cryptic species diversity within genera like *Grateloupia*, *Hypnea*, *Gelidium*, and *Sheathia*, and clarifying species boundaries in groups such as *Sargassum* subgenus *Bactrophycus* and *Gracilariopsis chorda*. Geographically, studies spanned from the Bering Sea and Kamchatka to the tropical western Atlantic and Indian Ocean, but the core focus remained on temperate and subtropical Korean and Japanese coasts, including investigations of anthropogenic impacts from nuclear power plant thermal effluents and the invasive potential of *Kappaphycus alvarezii* in the Gulf of Mannar.",
+  "n_entities": 86,
+  "n_papers": 77,
+  "n_papers_with_summaries": 76,
+  "entity_sample": [
+    "AB033166",
+    "AF385634",
+    "AF385635",
+    "AF385636",
+    "Acanthophora specifera",
+    "Acropora",
+    "Acropora coral dominated area",
+    "Acropora sp.",
+    "Amphiroa anastomosans",
+    "Amphiroa beauvoistii"
+  ],
+  "resolution": 8.0
+}

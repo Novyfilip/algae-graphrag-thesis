@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ostreopsis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ostreopsis", "predicate": "BELONGS_TO", "object": "Benthic dinoflagellates", "confidence": 1.0}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 251,
+  "summary": "This cluster of papers investigates phytoplankton dynamics in Korean aquatic ecosystems, with a strong emphasis on diatom and dinoflagellate communities in rivers, reservoirs, and coastal waters. Key species such as *Stephanodiscus*, *Cyclotella*, *Peridinium bipes*, and *Chaetoceros debilis* were frequently studied in relation to eutrophication, harmful algal blooms, and nutrient limitation, particularly phosphorus and nitrogen. Methodologically, the research employed algal growth potential tests (AGPT), phylogenetic analyses using LSU rDNA sequences, and physiological assays (e.g., chlorophyll fluorescence, lipid quantification) to assess community structure, toxicity, and bioremediation potential. Geographically, the studies concentrated on the Nakdong River system, dam reservoirs (e.g., Lake Unmun, Lake Paldang), and coastal bays (e.g., Masan-Jinhae Bay, Jeju Island), revealing seasonal and spatial patterns of bloom formation driven by anthropogenic nutrient inputs and hydrological factors.",
+  "n_entities": 44,
+  "n_papers": 31,
+  "n_papers_with_summaries": 31,
+  "entity_sample": [
+    "AF260390",
+    "AGP",
+    "Andong",
+    "Baegyado Island",
+    "Bioassay",
+    "Cerataulina dentata",
+    "Ceratium fusus",
+    "Chaetoceros siamense",
+    "Dalseocheon sewage effluent area",
+    "Fallacia pygmaea"
+  ],
+  "resolution": 8.0
+}

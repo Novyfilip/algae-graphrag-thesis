@@ -1,0 +1,13 @@
+{
+  "community_id": 392,
+  "summary": "This cluster focuses on the physiological and reproductive responses of red algae, particularly from the genus *Bostrychia*, to environmental stressors such as salinity changes and pathogenic infections. A central finding was that reduced salinity rapidly induced spermatial release in several cultured *Bostrychia* species (e.g., *B. montagnei* and *B. moritziana*) and *Catenella nipae*, while other species like *Antithamnion antillanum* showed no response, highlighting species-specific reproductive triggers. Studies on salt stress in New Zealand red algae further demonstrated that *B. arbuscula* was euryhaline with broad tolerance, whereas *C. novae-zelandiae* and *Schizymenia* spp. had narrower salinity ranges, with distinct organic osmolyte concentrations linked to osmotic acclimation. Additionally, persistent gall formation was documented in unialgal cultures of multiple *Bostrychia* species, with virus-like particles observed via electron microscopy, suggesting a potential viral etiology for these rarely reported tissue abnormalities. The geographic scope spanned cultured isolates from the Rocky Mountains and field collections in New Zealand, with experimental salinities ranging from reduced levels to 75 ppt.",
+  "n_entities": 3,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Catenella nipae",
+    "Cowie Beach, Qld., Australia",
+    "glucose-6-phosphate dehydrogenase"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,14 @@
+{
+  "community_id": 336,
+  "summary": "The papers in this cluster are connected by their focus on the establishment and curation of the Korea Marine Microalgae Culture Center (KMMCC), which was founded in 1995 to collect and maintain diverse marine microalgal strains. The collection, comprising approximately 1,400 strains with 84% originating from Korean waters and 48% in axenic state, was initially developed to supply live food for aquaculture before expanding to support taxonomic and research applications. Geographically, the work is centered on Korean coastal waters, reflecting a national effort to catalog and preserve local microalgal biodiversity. Key findings highlight the center’s role in transitioning from applied aquaculture feed to a broader resource for systematic and ecological studies.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Fragilaria pinnata Ehrhardt",
+    "Jindong, coast, surface water",
+    "Namhae, coast, surface water",
+    "Yellow Sea (37°48'N, 123°13'E), coast, surface water"
+  ],
+  "resolution": 8.0
+}

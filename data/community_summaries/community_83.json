@@ -1,0 +1,20 @@
+{
+  "community_id": 83,
+  "summary": "This cluster of research is geographically centered on the Korean Peninsula and its surrounding waters, with a strong emphasis on the red alga *Pyropia yezoensis* and its cultivation, disease management, and physiological responses. A unifying theme is the investigation of biotic and abiotic stressors, including oomycete pathogens like *Pythium porphyrae* and *Pythium chondricola* causing red rot disease, as well as thermal and light stress, with studies identifying molecular markers (e.g., *PyHRG1*, *cox2*) and biostimulants (e.g., AMPEP, Kelpak) to enhance heat tolerance and disease resistance. Concurrently, extensive floristic surveys across Korean intertidal and subtidal zones (e.g., Chongsando Island, Gangnung, Sinangun) documented dominant species such as *Hizikia fusiformis*, *Corallina pilulifera*, *Ulva pertusa*, and *Sargassum thunbergii*, revealing consistent vertical zonation patterns and seasonal biomass fluctuations. Broader ecological and applied studies addressed nutrient bioextraction using *Gracilaria* and *Ulva* species, the antioxidant potential of microalgae and macroalgae (e.g., *Ecklonia cava*, *Achnanthes longipes*), and the development of molecular tools (e.g., housekeeping genes for *Bostrychia moritziana*, RNA isolation methods) to support genetic and physiological research across diverse algal taxa.",
+  "n_entities": 173,
+  "n_papers": 93,
+  "n_papers_with_summaries": 92,
+  "entity_sample": [
+    "235 rDNA",
+    "ACT3",
+    "AMPEP experiments",
+    "Applied Biosystems StepOnePlus Real-Time PCR",
+    "Aquaculture",
+    "Bangiophycean",
+    "Calcium propionate",
+    "Cheongsando",
+    "Chungnam Daecheon-2",
+    "Chungnam Tu-1"
+  ],
+  "resolution": 8.0
+}

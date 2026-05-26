@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Thalassiosira antarctica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Antarctic"}], "markers": [], "applications": [], "relationships": [{"subject": "Thalassiosira antarctica", "predicate": "FOUND_IN", "object": "Antarctic", "confidence": 1.0}]}

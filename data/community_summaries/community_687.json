@@ -1,0 +1,12 @@
+{
+  "community_id": 687,
+  "summary": "This cluster of research centers on the establishment and curation of a national marine microalgae collection, specifically the Korea Marine Microalgae Culture Center (KMMCC), which was founded in 1995. The collection’s primary function evolved from supplying live feed for aquaculture to supporting broader taxonomic and research applications, with a strong geographic focus on Korean coastal waters, as 84% of its approximately 1,400 strains originated there. A key methodological achievement was the maintenance of 48% of these strains in an axenic state, enabling controlled experimental use. The cluster highlights the foundational role of centralized culture collections in enabling diverse downstream research on marine microalgae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Effect of live food and water temperature on larval survival",
+    "Epinephelus akaara"
+  ],
+  "resolution": 8.0
+}

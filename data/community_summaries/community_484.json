@@ -1,0 +1,13 @@
+{
+  "community_id": 484,
+  "summary": "This cluster investigates the anti-inflammatory properties of marine algal metabolites, specifically focusing on sulfoquinovosylmonoacylglycerols (SQMGs) derived from the brown alga *Turbinaria ornata*. The research demonstrated that these compounds effectively inhibited the production of nitric oxide and prostaglandin E2 in a co-culture system of human epithelial Caco-2 cells and THP-1 macrophages, leading to the down-regulation of inducible nitric oxide synthase and cyclooxygenase 2. These findings indicate a shared thematic focus on the therapeutic potential of *T. ornata* metabolites as pharmaceutical adjuvants for treating intestinal inflammation, such as inflammatory bowel disease (IBD). The geographic scope of the source material is not specified, but the ecological context centers on a tropical brown macroalga.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ohm-meter",
+    "TEER measurement",
+    "co-culture model"
+  ],
+  "resolution": 8.0
+}

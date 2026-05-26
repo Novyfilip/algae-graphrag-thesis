@@ -1,0 +1,12 @@
+{
+  "community_id": 885,
+  "summary": "A cluster of studies focused on the characterization of endophytic green algae within red macroalgae, specifically identifying three species—*Ulvella leptochaete*, *Blastophysa rhizopus*, and *Bolbocoleon piliferum*—from *Grateloupia* spp. in Korea. These endophytes were isolated from coastal sites including Jeju, Wando, and Uljin, and were distinguished through morphological observation and phylogenetic analysis of chloroplast-encoded *tufA* genes. The research documented the first records of these species in Korean waters, emphasizing their symbiotic relationships with the host rhodophyte.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Streblonema aecidioides",
+    "Undaria sp."
+  ],
+  "resolution": 8.0
+}

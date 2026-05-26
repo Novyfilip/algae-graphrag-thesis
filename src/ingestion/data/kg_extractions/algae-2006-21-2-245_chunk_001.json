@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ascophyllum nodosum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Atlantic coast of Nova Scotia"}], "markers": [], "applications": [], "relationships": [{"subject": "Ascophyllum nodosum", "predicate": "FOUND_IN", "object": "Atlantic coast of Nova Scotia", "confidence": 1.0}]}

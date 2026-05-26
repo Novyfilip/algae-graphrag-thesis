@@ -1,0 +1,12 @@
+{
+  "community_id": 719,
+  "summary": "This cluster centers on the genetic manipulation of the extremophilic red alga *Cyanidioschyzon merolae*, specifically targeting its chloroplast genome for heterologous protein expression. The research utilized light- and cell cycle-dependent chloroplast promoters to drive stable overexpression of a reporter protein, chloramphenicol acetyltransferase, demonstrating a functional tool for engineering this alga. The findings establish *C. merolae* as a promising chassis for bio-factory applications, leveraging its unique thermophilic and acidophilic physiology. The geographic and ecological scope is implicitly laboratory-based, focusing on the fundamental cellular and plastid biology of this model organism rather than field studies.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Alexa 488 goat anti-rabbit antibody",
+    "Green/alexa anti-CAT 49002-ET-EGFP (FITC/Cy2) filter"
+  ],
+  "resolution": 8.0
+}

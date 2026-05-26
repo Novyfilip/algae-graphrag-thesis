@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Codium fragile subsp. fragile", "taxonomic_rank": "subspecies"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Tunisia"}], "markers": [], "applications": [], "relationships": [{"subject": "Codium fragile subsp. fragile", "predicate": "FOUND_IN", "object": "Tunisia", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 725,
+  "summary": "This cluster focuses on the taxonomy and phylogenetic characterization of red algal species within the Rhodophyta phylum, specifically the genus *Neosiphonia*. The research is centered on the morphological description and molecular identification of *Neosiphonia ramirezii* sp. nov., a newly described marine species from the Pacific temperate coast of South America, particularly Peru. Key distinguishing features include a unique prostrate system, ecorticate pericentral cells, and spirally arranged tetrasporangia, with phylogenetic analysis using the *rbcL* gene confirming its genetic divergence from closely related species such as *N. flaccidissima* and *N. savatieri*. The geographic scope is limited to the temperate Pacific coast of South America, highlighting the region's endemic algal biodiversity.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "HM573543",
+    "P. howei"
+  ],
+  "resolution": 8.0
+}

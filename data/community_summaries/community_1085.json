@@ -1,0 +1,12 @@
+{
+  "community_id": 1085,
+  "summary": "This cluster focuses on the seasonal dynamics and succession of microalgal assemblages in intertidal tidepools, specifically at Cheju Island, Korea. The research identified 160 species, predominantly Bacillariophyceae (diatoms) and Dinophyceae (dinoflagellates), with the dinoflagellate *Akashiwo sanguinea* dominating blooms from May to September in large tidepools. Key findings revealed that flagellates were more abundant than diatoms in larger pools, while diatoms dominated smaller ones, and that phytoplankton blooms occurred from May to October. The study documented extreme environmental variability, with water temperatures ranging from 8.7 to 32.0°C and salinities from 3.9 to 34.9 psu, alongside chlorophyll *a* concentrations far exceeding those in adjacent coastal waters, indicating that tidepools function as distinct, highly productive microhabitats.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "rocky intertidal communities",
+    "south African shores"
+  ],
+  "resolution": 8.0
+}

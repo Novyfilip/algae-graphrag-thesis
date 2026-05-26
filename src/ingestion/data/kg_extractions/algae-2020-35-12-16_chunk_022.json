@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "SEM imaging"}, {"method_name": "sputter coating"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "sputter coating", "predicate": "STUDIED_WITH", "object": "SEM imaging", "confidence": 1.0}]}

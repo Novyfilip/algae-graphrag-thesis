@@ -1,0 +1,20 @@
+{
+  "community_id": 117,
+  "summary": "This cluster of papers is unified by a predominant focus on the ecology, physiology, and harmful bloom dynamics of dinoflagellates and other red-tide organisms in Korean coastal waters, particularly the South Sea, Yeosuhae Bay, and Gamak Bay. Key species studied include *Alexandrium tamarense*, *Cochlodinium polykrikoides*, *Gymnodinium catenatum*, and *Tripos furca*, with research frequently examining their growth responses to environmental factors such as water temperature, salinity, irradiance, and nutrient concentrations. Several studies investigated the genetic inheritance of paralytic shellfish poisoning (PSP) toxins in *Alexandrium* species, the mixotrophic and heterotrophic feeding interactions among protists like *Gyrodinium dominans* and *Oxyrrhis marina*, and the role of algicidal bacteria and viruses (e.g., SpalV infecting *Stephanopyxis palmeriana*) in bloom control. The geographic scope is heavily centered on Korean waters, with additional studies on the Yellow Sea, Jeju Island, and the Geum River, and the research collectively emphasizes the importance of species-specific physiological adaptations, predator-prey dynamics, and environmental monitoring for managing harmful algal blooms and their impacts on aquaculture and coastal ecosystems.",
+  "n_entities": 141,
+  "n_papers": 71,
+  "n_papers_with_summaries": 70,
+  "entity_sample": [
+    "18°C",
+    "A. catenella Dino-6",
+    "AY438021",
+    "Alexandrium acatenella",
+    "Alexandrium catenella",
+    "Alexandrium fundyense",
+    "Alexandrium tamarense",
+    "Alexandrium tamiyavanichii",
+    "C1+C2",
+    "C1/C2"
+  ],
+  "resolution": 8.0
+}

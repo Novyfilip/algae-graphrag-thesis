@@ -1,0 +1,20 @@
+{
+  "community_id": 92,
+  "summary": "This cluster of research predominantly focuses on the marine algal flora and ecological dynamics of Korean coastal waters, with a strong emphasis on species such as *Ecklonia cava*, *Sargassum horneri*, *Hizikia fusiformis*, and *Undaria pinnatifida*. Key findings across the corpus include the characterization of bioactive compounds—such as phlorotannins, fucoidans, and polyphenols—from these seaweeds, which demonstrated significant antioxidant, anti-inflammatory, and anticoagulant activities, often assessed through in vitro and in vivo models. The geographic scope is heavily centered on Jeju Island, the South and East coasts of Korea, and nearby islands like Dokdo and Ulleungdo, with studies also examining the impacts of environmental factors like water temperature, salinity, and nutrient availability on algal community structure and biomass. Additionally, the cluster includes investigations into microalgal species like *Tetraselmis* sp., *Chlorella vulgaris*, and dinoflagellates such as *Cochlodinium polykrikoides*, highlighting their potential for lipid production, genetic transformation, and harmful algal bloom monitoring.",
+  "n_entities": 163,
+  "n_papers": 119,
+  "n_papers_with_summaries": 119,
+  "entity_sample": [
+    "10-mer arbitrary primer",
+    "100MEC-24h",
+    "100MEU-12h",
+    "6,6-bieckol",
+    "Bligh and Dyer (1959)",
+    "CE",
+    "CTAB purification",
+    "CsCl-gradient ultracentrifugation",
+    "DMSO dissolution",
+    "DNA isolation"
+  ],
+  "resolution": 8.0
+}

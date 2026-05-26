@@ -1,0 +1,20 @@
+{
+  "community_id": 120,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and biogeography of red algae (Rhodophyta), particularly within the orders Ceramiales, Gelidiales, and Halymeniales, often employing molecular markers such as *rbcL*, *psbA*, and *COI-5P* to resolve species boundaries and cryptic diversity. Key findings include the discovery and reclassification of numerous new species and genera (e.g., *Polysiphonia ulleungensis*, *Ceramium riosmenae*, *Neosiphonia ramirezii*, *Tsunamia transpacifica*, and *Amalthea rubida*) across the Pacific, with a pronounced geographic emphasis on the coastal waters of Korea, Japan, Mexico, the Gulf of California, and the Bering Sea. The research also addresses ecological and economic themes, such as oomycete pathogens affecting *Pyropia* aquaculture in Korea, the invasive potential of *Kappaphycus alvarezii* in India, and the population dynamics of rhodolith-forming species like *Lithothamnion muelleri* and *Amphiroa vanbosseae* in the Eastern Pacific. Overall, the cluster reflects a comprehensive effort to integrate morphological, molecular, and ecological data to refine taxonomic frameworks and understand the distribution and evolutionary history of red algae in temperate and tropical marine ecosystems.",
+  "n_entities": 138,
+  "n_papers": 100,
+  "n_papers_with_summaries": 100,
+  "entity_sample": [
+    "Arthrorhabdium moluccense",
+    "Atlantic coast of Morocco",
+    "Bahia de Kino, La Cruses, Sonora, Mexico",
+    "Bahia de Kino, Sonora",
+    "Bahía Magdalena, B. C. S., Mexico",
+    "Baja California",
+    "C. codicola",
+    "C. sinicola",
+    "Cabo San Lucas, Conquista Agraria, and Las Conchas, Baja California Sur",
+    "California, U.S.A."
+  ],
+  "resolution": 8.0
+}

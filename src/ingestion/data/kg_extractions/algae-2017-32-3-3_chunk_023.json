@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "euchemoid spp.", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "euchemoid spp.", "predicate": "AFFECTS", "object": "ice-ice", "confidence": 1.0}]}

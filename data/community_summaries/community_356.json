@@ -1,0 +1,14 @@
+{
+  "community_id": 356,
+  "summary": "This cluster focuses on the brown alga *Ecklonia cava*, investigating its bioactive potential through fermentation and enzyme-assisted extraction (EAE) to produce anti-inflammatory polysaccharides. Researchers employed microorganisms such as *Lactobacillus brevis*, *Candida utilis*, and *Saccharomyces cerevisiae* to ferment the algal biomass, which enhanced carbohydrate and protein yields compared to unfermented controls. A key finding was that the isolated polysaccharide fraction, specifically those greater than 30 kDa, significantly inhibited nitric oxide (NO) production in LPS-stimulated RAW 264.7 macrophage cells, demonstrating potent anti-inflammatory activity. The geographic scope is centered on marine resources from East Asia, where *E. cava* is commonly harvested, with the methodological emphasis on optimizing extraction processes to isolate high-value bioactive compounds.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "30 kDa molecular weight cut-off membrane",
+    "saccharides",
+    "ultra-filtration process",
+    "ultra-filtration system"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 1114,
+  "summary": "This cluster focuses on the genetic manipulation of the red alga *Porphyra tenera*, specifically through the characterization and application of its naturally occurring plasmid, PT4. Researchers isolated and sequenced this 1,808-bp circular DNA molecule, identifying inverted repeat elements and a potential protein-coding region, which they used to construct a transformation vector. This vector successfully expressed green fluorescent protein (GFP), demonstrating a functional system for genetic engineering. The work establishes a foundational tool for selective breeding and transgenic cell development in *P. tenera*, with direct implications for aquaculture and algal biotechnology, particularly in the context of Korean red algal research.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "green fluorescence protein assay",
+    "visual selection of transgenic cells"
+  ],
+  "resolution": 8.0
+}

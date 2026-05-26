@@ -1,0 +1,13 @@
+{
+  "community_id": 524,
+  "summary": "This cluster of research is unified by the development and application of novel culture and assay techniques to assess the ecotoxicological effects of metal contaminants, specifically copper, on marine microalgae. The studies focus on the unicellular diatom *Chaetoceros compressus* as a model organism, employing a dialysis culture method that allows for continuous monitoring of pollutant exposure and bioaccumulation. Key findings demonstrate that this technique is highly sensitive, revealing significantly greater copper accumulation in algal cells under optimal renewal rates compared to controls. The geographic and ecological scope is centered on marine coastal environments, with the methods designed for in situ assessment of pollutant impacts on primary producers.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "in situ culture",
+    "inshore regions",
+    "water quality assay"
+  ],
+  "resolution": 8.0
+}

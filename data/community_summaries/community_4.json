@@ -1,0 +1,20 @@
+{
+  "community_id": 4,
+  "summary": "This cluster of research is geographically centered on the coastal and freshwater environments of Korea and Japan, with significant focus on the ecological dynamics, bioactive compound extraction, and biotechnological applications of marine and freshwater algae. A unifying theme is the investigation of antioxidant and anti-inflammatory properties, with *Ecklonia cava* and *Pyropia yezoensis* frequently studied for their phlorotannins (e.g., dieckol, phlorofucofuroeckol-A) and protective effects against oxidative stress and inflammation in both in vitro and in vivo models. Another major thread involves the ecology and taxonomy of phytoplankton and macroalgae, including long-term community shifts in rivers like the Han and Nakdong, the identification of new species (e.g., *Capillus* spp., *Amphidinium stirisquamtum*), and the role of environmental factors such as salinity, temperature, and nutrients on growth and bloom dynamics. Methodologically, the cluster is characterized by the use of molecular phylogenetics (e.g., rDNA ITS, 16S rRNA), advanced extraction techniques (ultrasound, enzymatic hydrolysis), and the development of cultivation systems for both microalgae (e.g., *Gymnodinium smaydae* for omega-3 production) and macroalgae (e.g., *Undaria pinnatifida* and *Sargassum* spp. for aquaculture and bioremediation).",
+  "n_entities": 359,
+  "n_papers": 183,
+  "n_papers_with_summaries": 182,
+  "entity_sample": [
+    "1,1-Diphenyl-2-picrylhydrazyl (DPPH)",
+    "1,1-diphenyl-2-picrylhydrazyl (DPPH)",
+    "2D gels",
+    "80% methanol extract",
+    "80% methanolic extract",
+    "AMG",
+    "AMG digest",
+    "Achnanthes longipes",
+    "Actinastrum sp.",
+    "Alcalase"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ascophyllum", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ascophyllum", "predicate": "STUDIED_WITH", "object": "dendrochronology", "confidence": 0.5}]}

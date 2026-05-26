@@ -1,0 +1,20 @@
+{
+  "community_id": 66,
+  "summary": "This cluster of papers is predominantly centered on Korean aquatic ecosystems, with a strong emphasis on phytoplankton community dynamics, nutrient-driven eutrophication, and the ecology of bloom-forming and harmful algal species. Key connecting themes include the influence of salinity, nitrogen, and phosphorus on species composition and dominance, particularly for diatoms such as *Stephanodiscus*, *Aulacoseira*, and *Cyclotella*, and cyanobacteria like *Microcystis aeruginosa* and *Anabaena*. Studies frequently employed algal growth potential tests, nutrient limitation assays, and molecular or morphological taxonomy to assess water quality and trophic states across rivers, reservoirs, and coastal waters, including the Nakdong River, Han River, and various dam lakes. The research also investigated the ecophysiology of red-tide dinoflagellates (e.g., *Cochlodinium polykrikoides*, *Alexandrium* spp.) and mixotrophic protists, alongside applied studies on macroalgal cultivation (*Eucheuma serra*, *Gracilaria*, *Ulva*) for bioremediation and biofuel production, reflecting a broad focus on both fundamental ecological processes and practical environmental management.",
+  "n_entities": 185,
+  "n_papers": 158,
+  "n_papers_with_summaries": 157,
+  "entity_sample": [
+    "16 : 8 h light-dark cycle",
+    "2 m depth",
+    "500-L PBR",
+    "500-L PBR cultivation",
+    "AGPT",
+    "ATP",
+    "ATP amount",
+    "ATP concentration analysis",
+    "ATP 분석",
+    "Algal Growth Potential Test (AGPT)"
+  ],
+  "resolution": 8.0
+}

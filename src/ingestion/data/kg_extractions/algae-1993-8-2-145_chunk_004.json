@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Choristocarpaceae", "taxonomic_rank": "family"}, {"species_name": "Sphacelariales", "taxonomic_rank": "order"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Choristocarpaceae", "predicate": "BELONGS_TO", "object": "Sphacelariales", "confidence": 1.0}]}

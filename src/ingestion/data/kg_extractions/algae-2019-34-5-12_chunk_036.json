@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. angustissima", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Gulf of Maine"}], "markers": [], "applications": [], "relationships": [{"subject": "S. angustissima", "predicate": "AFFECTS", "object": "Gulf of Maine", "confidence": 1.0}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 185,
+  "summary": "This cluster of research is unified by a focus on the biodiversity, community structure, and ecological dynamics of marine macroalgae along the Korean Peninsula, with particular emphasis on the brown algae *Hizikia fusiformis*, *Sargassum* species (e.g., *S. thunbergii*, *S. horneri*, *S. yezoense*), and the red alga *Corallina pilulifera*. Studies consistently documented vertical zonation patterns, seasonal biomass fluctuations, and species composition across intertidal and subtidal zones at numerous sites, including Chongsando Island, the east and south coasts, Jeju Island, and the Yellow Sea. Key findings revealed that *H. fusiformis* and *Sargassum* spp. were dominant in many communities, while thermal effluents from nuclear power plants and warming currents caused shifts toward warm-tolerant species and reduced diversity. The geographic scope was predominantly Korean coastal waters, with additional contributions from the Sea of Okhotsk, the White Sea, and Antarctica, and the research employed methods such as quadrat surveys, phylogenetic analysis (e.g., rDNA ITS, *rbcL*), and assessments of antioxidant and anti-inflammatory activities in species like *Ecklonia cava* and *Pyropia yezoensis*.",
+  "n_entities": 97,
+  "n_papers": 101,
+  "n_papers_with_summaries": 101,
+  "entity_sample": [
+    "18S rDNA analysis",
+    "AMG hydrolyzate",
+    "AY422597",
+    "AY422635",
+    "AY422673",
+    "Attargan Bay, Sea of Okhotsk, Russia",
+    "Calothrix codicola",
+    "Chaetomorpha acrea",
+    "Choshi, JAPAN",
+    "Codium adhaerens"
+  ],
+  "resolution": 8.0
+}

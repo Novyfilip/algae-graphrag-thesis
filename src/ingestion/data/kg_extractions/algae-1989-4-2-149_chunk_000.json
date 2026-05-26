@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Marine Green Algae", "taxonomic_rank": null}], "compounds": [{"compound_name": "Photosynthetic Pigments"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Marine Green Algae", "predicate": "PRODUCES", "object": "Photosynthetic Pigments", "confidence": 0.5}]}

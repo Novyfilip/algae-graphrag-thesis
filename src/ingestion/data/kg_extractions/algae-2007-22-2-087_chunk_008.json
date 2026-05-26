@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Compsopogon coerulus", "taxonomic_rank": "species"}, {"species_name": "Compsopogon aeruginosus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Compsopogon aeruginosus", "predicate": "BELONGS_TO", "object": "Compsopogon coerulus", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Jindong Bay"}, {"environment_name": "Gamak Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "Jindong Bay", "predicate": "FOUND_IN", "object": "Gamak Bay", "confidence": 0.3}]}

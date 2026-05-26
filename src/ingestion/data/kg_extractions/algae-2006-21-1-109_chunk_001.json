@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Derbesia tenuissima", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "time-lapse video-microscopy"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Derbesia tenuissima", "predicate": "STUDIED_WITH", "object": "time-lapse video-microscopy", "confidence": 1.0}]}

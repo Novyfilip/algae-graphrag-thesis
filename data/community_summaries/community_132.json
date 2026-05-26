@@ -1,0 +1,20 @@
+{
+  "community_id": 132,
+  "summary": "This cluster of papers is geographically centered on the coastal waters of Korea, particularly Jeju Island, and the Gulf of California, Mexico, with a strong focus on the biodiversity, taxonomy, and bioactive potential of red algae (Rhodophyta) and, to a lesser extent, brown algae (Phaeophyta) and dinoflagellates. Key findings included the discovery and reclassification of numerous new species—such as *Haraldiophyllum udoensis*, *Polysiphonia ulleungensis*, and *Martensia palmata*—driven by morphological analysis and molecular markers like *rbcL* and COI-5P, which also revealed cryptic diversity and taxonomic inconsistencies within genera like *Grateloupia*, *Pterosiphonia*, and *Halopeltis*. Ecologically, studies documented the influence of environmental factors (salinity, irradiance, substrate type, and wave exposure) on the development, reproduction, and community structure of species such as *Grateloupia turuturu*, *Caulerpa okamurae*, and *Eisenia arborea*, while also assessing the antioxidant and ACE-inhibitory activities of extracts from *Gracilaria verrucosa*, *Polysiphonia japonica*, and *Lithophyllum okamurae* for potential pharmaceutical and industrial applications.",
+  "n_entities": 129,
+  "n_papers": 69,
+  "n_papers_with_summaries": 69,
+  "entity_sample": [
+    "10-20 m water depth",
+    "20-25 m depth",
+    "Amphiroa vanbosseae",
+    "Atlantic coast of the Iberian Peninsula",
+    "Bahía Magdalena, Baja California Sur, México",
+    "Bahía de Los Angeles",
+    "Boergeseniella",
+    "Bryocladia",
+    "C. fragile ssp. tomentosoides",
+    "Chaetangiaceae"
+  ],
+  "resolution": 8.0
+}

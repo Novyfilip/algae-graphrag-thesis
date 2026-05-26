@@ -1,0 +1,12 @@
+{
+  "community_id": 716,
+  "summary": "This cluster investigates the evolutionary biology and taxonomy of red algal parasites, with a specific focus on a newly discovered species, *Rhodophyllis parasitica sp. nov.*, from New Zealand. The research connects through the use of integrated methodologies, combining microscopy, multi-locus molecular markers (plastid, mitochondrial, and nuclear DNA), and herbarium records to characterize parasite morphology, genetic variation, and distribution. A key finding across the cluster is the remarkable morphological similarity between the parasite and its host, *Rhodophyllis membranacea*, despite distinct developmental patterns, which underscores the principle of monophyly in red algal parasite classification. Consequently, the studies recommend the taxonomic transfer of several genera to their respective hosts to maintain a consistent phylogenetic framework, highlighting the geographic and ecological specificity of these interactions within New Zealand's marine flora.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Congracilaria babae",
+    "Gracilaria babae"
+  ],
+  "resolution": 8.0
+}

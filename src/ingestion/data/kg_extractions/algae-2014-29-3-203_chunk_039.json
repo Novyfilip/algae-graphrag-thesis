@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "M. pyrifera", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "M. pyrifera", "predicate": "AFFECTS", "object": "elevated temperature", "confidence": 0.5}, {"subject": "higher pCO2", "predicate": "AFFECTS", "object": "M. pyrifera", "confidence": 0.5}]}

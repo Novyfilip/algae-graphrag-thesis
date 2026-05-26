@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Haptophyceae", "taxonomic_rank": "class"}, {"species_name": "Chrysophyceae", "taxonomic_rank": "class"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Haptophyceae", "predicate": "BELONGS_TO", "object": "Chrysophyceae", "confidence": 0.5}]}

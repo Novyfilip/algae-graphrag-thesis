@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "ABA"}, {"compound_name": "total lipid"}, {"compound_name": "TAG"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "ABA", "predicate": "AFFECTS", "object": "total lipid", "confidence": 1.0}, {"subject": "ABA", "predicate": "AFFECTS", "object": "TAG", "confidence": 1.0}]}

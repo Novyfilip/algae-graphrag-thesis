@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. moestrupii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Saemangeum, Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "G. moestrupii", "predicate": "FOUND_IN", "object": "Saemangeum, Korea", "confidence": 1.0}]}

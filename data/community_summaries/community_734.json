@@ -1,0 +1,12 @@
+{
+  "community_id": 734,
+  "summary": "This cluster investigates the composition and biomass of summer algal flora in Youngil Bay on the eastern coast of Korea, based on surveys conducted in July 1984. The research identified 134 algal species, including key taxa such as *Ulva pertusa*, *Dictyota dichotoma*, *Sargassum thunbergii*, and melobesioidean algae, with red algae being the most diverse group. A key finding was that dry weight biomass was slightly higher inside the bay compared to outside, indicating localized ecological variation within the study area.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Balsan dong",
+    "Hizikia fusiformts"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Coolia cf. canariensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "light microscopy"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Coolia cf. canariensis", "predicate": "STUDIED_WITH", "object": "light microscopy", "confidence": 1.0}]}

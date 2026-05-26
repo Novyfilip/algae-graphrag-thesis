@@ -1,0 +1,12 @@
+{
+  "community_id": 837,
+  "summary": "This cluster of research focuses on the biodiversity and ecological distribution of sub-aerial microalgae and cyanobacteria, specifically on anthropogenic surfaces like building facades and monuments in India. The studies document a high diversity of taxa, including 57 cyanobacteria species such as *Chroococcidiopsis kashayi* and *Scytonema geitleri*, alongside 15 chlorophyta taxa like *Trentepholia aurea* and *Chlorococcum infusionum*. A key finding is that the warm, humid tropical climate of India supports a distinct community composition, with genera like *Klebsormidium* and *Gloeocapsa* dominating temperate regions, while tropical sites harbor additional green algae and cyanobacteria capable of surviving extreme temperature and desiccation. The geographic scope is confined to India, emphasizing the year-round presence of these organisms on sub-aerial habitats and their adaptation to local climatic stressors.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Plectonema radiosum",
+    "Pseudophormidium radiosum"
+  ],
+  "resolution": 8.0
+}

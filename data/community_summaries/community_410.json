@@ -1,0 +1,13 @@
+{
+  "community_id": 410,
+  "summary": "This cluster focuses on the biochemical characterization and bioactivity assessment of polysaccharides from marine algae, with a specific emphasis on antioxidant potential. The research centers on *Chnoospora minima*, a brown alga from Sri Lankan waters, where fucoidan was identified as the primary polysaccharide component responsible for significant DPPH and alkyl radical scavenging activity. Methodologically, the studies are connected by their use of Fourier-transform infrared (FTIR) spectroscopy for structural analysis and density functional theory (DFT) calculations to correlate sulfation levels with antioxidant efficacy. The geographic scope is limited to Sri Lankan marine environments, and a key finding across the cluster is the direct relationship between polysaccharide sulfation and enhanced radical scavenging, particularly in Chang liver cell lines.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "DFT approach",
+    "FTIR spectra",
+    "quantum chemistry calculation methods"
+  ],
+  "resolution": 8.0
+}

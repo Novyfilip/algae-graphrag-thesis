@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cladophora", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Cladophora", "predicate": "PRODUCES", "object": "lake balls", "confidence": 1.0}]}

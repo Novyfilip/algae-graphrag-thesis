@@ -1,0 +1,13 @@
+{
+  "community_id": 528,
+  "summary": "This cluster is united by research into the cultivation and commercial application of both macroalgae and microalgae, with a strong geographic focus on Korean waters. Studies on kelp species *Undaria pinnatifida* and *Saccharina japonica* detailed their population genomics, aquaculture diversification strategies like Integrated Multi-Trophic Aquaculture (IMTA), and potential for blue carbon sequestration, noting that these genera, along with *Neopyropia/Pyropia*, account for 96% of Korean seaweed production. Concurrently, research on microalgae such as *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis* emphasized optimizing production methods for nutraceuticals, cosmetics, and biofuels. The cluster also highlighted the role of the Korea Marine Microalgae Culture Center (KMMCC), established in 1995, which maintains approximately 1,400 marine strains (84% from Korean waters) to support taxonomic research and supply live food for aquaculture.",
+  "n_entities": 3,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Penaeus chinensis",
+    "Sebastes schlegeli",
+    "live feeds"
+  ],
+  "resolution": 8.0
+}

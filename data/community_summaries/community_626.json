@@ -1,0 +1,12 @@
+{
+  "community_id": 626,
+  "summary": "This cluster focuses on the taxonomic documentation and biogeographic distribution of freshwater green algae, specifically desmids, in the Garhwal region of Uttarakhand, India. The research identified 42 taxa across seven genera, including nine new species, collected from relatively pristine water bodies within a 2,360 km² area in the foothills of the Western Himalayas. The findings underscore the high biodiversity and ecological significance of these Himalayan aquatic habitats, emphasizing their value for conservation due to their minimal anthropogenic disturbance compared to urban environments.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Brahmakund, Haridwar",
+    "Closterium parvulum var. cornutum"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 205,
+  "summary": "This cluster of papers is geographically centered on Korean coastal waters, with additional studies from Japan, India, Mexico, and the Pacific, and focuses on the taxonomy, ecology, and cultivation of diverse algal groups including red seaweeds (e.g., *Gracilariopsis chorda*, *Polysiphonia* spp., *Chondrus crispus*), brown algae (e.g., *Saccharina japonica*, *Undaria pinnatifida*, *Sargassum* spp.), green algae (e.g., *Ulva pertusa*, *Zygnema* spp.), and harmful dinoflagellates (e.g., *Cochlodinium polykrikoides*, *Alexandrium tamarense*). Key findings across the cluster include the use of molecular markers such as *rbcL*, *cox1*, and *psbA* for species identification and phylogenetic revision, the optimization of cultivation conditions (e.g., temperature, salinity, light) for enhanced biomass and compound yield, and the assessment of environmental stressors like ocean acidification, sedimentation, and nutrient dynamics on algal physiology and community structure. The research also highlights the ecological roles of algae in carbon sequestration, biofouling, and as vectors for invasive species, while addressing practical applications in aquaculture, bioremediation, and the production of bioactive compounds.",
+  "n_entities": 82,
+  "n_papers": 116,
+  "n_papers_with_summaries": 115,
+  "entity_sample": [
+    "30°C",
+    "5-7 m depth",
+    "Bold's Basal Medium (BBM)",
+    "Chl a fluorescence measurement",
+    "Chongwon-gun, Chungchongbuk-do",
+    "Derbesia sporophytes",
+    "Ditch",
+    "Diving-PAM",
+    "Gracilaria gracilis",
+    "Halophila ovalis"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 23,
+  "summary": "This cluster of papers is predominantly centered on the biodiversity, taxonomy, and ecology of marine macroalgae in the Northwest Pacific, with a particularly strong geographic focus on the coastal waters of Korea, Japan, and the Yellow Sea. Key species such as *Corallina pilulifera*, *Sargassum thunbergii*, and *Ulva pertusa* were repeatedly identified as dominant or foundational members of intertidal and subtidal communities, with studies frequently documenting their vertical zonation, seasonal biomass fluctuations, and successional dynamics. A significant subset of the research examined anthropogenic impacts, specifically the effects of thermal effluents from nuclear power plants on algal community structure, where warm-tolerant species like *Enteromorpha compressa* and *Padina arborescens* became prevalent. The cluster also included molecular taxonomic revisions and descriptions of new species (e.g., *Herposiphonia*, *Coolia*, *Centroceras*, and crustose brown algae), utilizing DNA barcoding markers such as *rbcL* and COI-5P to resolve cryptic diversity and phylogeographic patterns across temperate and subtropical regions.",
+  "n_entities": 262,
+  "n_papers": 121,
+  "n_papers_with_summaries": 121,
+  "entity_sample": [
+    "(sub-) Antarctic waters",
+    "Alethocladus",
+    "Arctic sea",
+    "Atlantic Ocean north of the equator",
+    "Atlantic S. Canada",
+    "Atlantic archipelagos",
+    "Atlantic coasts of Morocco",
+    "Atlantic populations",
+    "Australia (mainly SW coast)",
+    "Azores"
+  ],
+  "resolution": 8.0
+}

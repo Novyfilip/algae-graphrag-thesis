@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "molecular sequencing"}, {"method_name": "traditional methods"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "molecular sequencing", "predicate": "STUDIED_WITH", "object": "traditional methods", "confidence": 0.5}]}

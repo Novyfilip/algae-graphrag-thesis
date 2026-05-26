@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gomphosphaeria aponina", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "bottom of the tank"}], "markers": [], "applications": [], "relationships": [{"subject": "Gomphosphaeria aponina", "predicate": "FOUND_IN", "object": "bottom of the tank", "confidence": 1.0}]}

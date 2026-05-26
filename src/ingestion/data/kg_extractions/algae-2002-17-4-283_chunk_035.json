@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chaetomorpha", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "North Wallis Sands"}, {"environment_name": "North Beach"}], "markers": [], "applications": [], "relationships": [{"subject": "Chaetomorpha", "predicate": "FOUND_IN", "object": "North Wallis Sands", "confidence": 1.0}]}

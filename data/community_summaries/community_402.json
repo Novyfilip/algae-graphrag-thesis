@@ -1,0 +1,13 @@
+{
+  "community_id": 402,
+  "summary": "This cluster investigates the antioxidant potential of sulfated polysaccharides, particularly fucoidan, from marine macroalgae, with a strong emphasis on species from Sri Lankan waters. A central focus was the characterization of crude polysaccharides (CP) from *Chnoospora minima* using FTIR spectroscopy and DFT calculations to correlate sulfation levels with radical scavenging activity. The research demonstrated significant DPPH and alkyl radical scavenging by *C. minima* CP, with enhanced effects observed in Chang liver cell lines, highlighting a specific bioactivity pattern within this geographic and ecological scope.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "DFT method",
+    "IR vibrational spectra",
+    "computational calculations"
+  ],
+  "resolution": 8.0
+}

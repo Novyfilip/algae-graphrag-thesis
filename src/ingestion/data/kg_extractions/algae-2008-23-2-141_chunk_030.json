@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Codium amplivesiculatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Codium amplivesiculatum", "predicate": "BELONGS_TO", "object": "iteroparous species", "confidence": 1.0}]}

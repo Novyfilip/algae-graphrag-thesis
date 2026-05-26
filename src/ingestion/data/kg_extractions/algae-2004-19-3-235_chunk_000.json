@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Phytoplankton", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Coast of Mara-do and U-do, Jeju Island, Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Phytoplankton", "predicate": "FOUND_IN", "object": "Coast of Mara-do and U-do, Jeju Island, Korea", "confidence": 1.0}]}

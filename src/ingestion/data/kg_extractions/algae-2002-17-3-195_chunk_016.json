@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlorella vulgaris", "taxonomic_rank": "species"}, {"species_name": "Escherichia coli W3110", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chlorella vulgaris", "predicate": "STUDIED_WITH", "object": "Escherichia coli W3110", "confidence": 1.0}]}

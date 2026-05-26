@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ceramium procumbens", "taxonomic_rank": "species"}, {"species_name": "Ceramium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ceramium procumbens", "predicate": "BELONGS_TO", "object": "Ceramium", "confidence": 1.0}]}

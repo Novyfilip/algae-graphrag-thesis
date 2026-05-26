@@ -1,0 +1,12 @@
+{
+  "community_id": 661,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally reshaped over the past half-century by the integration of gene sequencing, DNA barcoding, and phylogenetic analysis, which have revealed extensive cryptic diversity and driven the division of previously recognized genera into multiple new species. These molecular methods, combined with expanded field collection via SCUBA, have significantly increased the number of recognized algal species across this geographic region. The cluster underscores a pattern of taxonomic revision and discovery, demonstrating that traditional morphology-based identification often underestimated biodiversity in these warm Atlantic ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Anadyomene",
+    "Cystodictyon"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 63,
+  "summary": "This cluster of papers is united by a focus on the molecular phylogenetic revision and taxonomic discovery of diverse algal lineages, primarily using DNA barcoding markers such as rbcL, COI-5P, and ITS sequences to resolve cryptic species and redefine generic boundaries. Key findings across the cluster include the identification of numerous new species and genera—such as *Capillus*, *Ramipedicella*, *Erythrolobus*, and *Violetonostoc*—from a wide geographic range spanning Korean and Japanese coastal waters, the Antarctic, the Hawaiian mesophotic zone, and tropical mangrove ecosystems. The research consistently demonstrates that morphological traits alone are insufficient for accurate classification, with molecular data revealing high cryptic diversity, novel phylogenetic clades, and complex evolutionary histories, particularly within red algae (Rhodophyta), brown algae (Phaeophyceae), and dinoflagellates.",
+  "n_entities": 188,
+  "n_papers": 162,
+  "n_papers_with_summaries": 161,
+  "entity_sample": [
+    "1100goji, Seogwipo, Korea",
+    "50% majority rule tree",
+    "Ac. spongicolum",
+    "Acrochaete endozoica",
+    "Acrochaetiales-Palmariales Complex",
+    "Andeokjeosuji, Iksan, Korea",
+    "Angolji, Nonsan, Korea",
+    "Arctic waters",
+    "Atlantic coast of Europe",
+    "Au. infestans"
+  ],
+  "resolution": 8.0
+}

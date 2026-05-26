@@ -1,0 +1,20 @@
+{
+  "community_id": 3,
+  "summary": "This cluster of research predominantly focuses on the ecology, taxonomy, and distribution of phytoplankton and benthic microalgae in Korean aquatic environments, with a strong emphasis on diatoms and dinoflagellates. Key connecting themes include the investigation of community structure in response to environmental gradients such as salinity, nutrient loading, and eutrophication, particularly in rivers like the Nakdong and Han, as well as coastal waters and reservoirs. Specific species frequently studied include *Stephanodiscus hantzschii*, *Microcystis aeruginosa*, *Chaetoceros debilis*, and *Aulacoseira granulata*, with findings highlighting seasonal succession, bloom dynamics, and the role of phosphorus and nitrogen as limiting nutrients. The geographic scope is overwhelmingly centered on South Korea, encompassing freshwater systems, estuaries, and coastal zones, with additional studies extending to Antarctic, Arctic, and tropical regions for comparative taxonomic and ecological insights.",
+  "n_entities": 401,
+  "n_papers": 143,
+  "n_papers_with_summaries": 142,
+  "entity_sample": [
+    "36°40′39″ N, 126°08′09″ E",
+    "A. granulata",
+    "AF525662",
+    "AM502015",
+    "Achnanthes",
+    "Achnanthes alteragracillima",
+    "Achnanthes convergens",
+    "Achnanthes gibberula",
+    "Achnanthes laevis",
+    "Achnanthes lanceolata"
+  ],
+  "resolution": 8.0
+}

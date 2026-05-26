@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gracilaria chorda", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "Analysis of variance"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Gracilaria chorda", "predicate": "STUDIED_WITH", "object": "Analysis of variance", "confidence": 1.0}]}

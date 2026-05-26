@@ -1,0 +1,12 @@
+{
+  "community_id": 853,
+  "summary": "This cluster focuses on the taxonomic revision and discovery of new species within the red algal order Rhodymeniales, specifically the genera *Halopeltis* and *Leptofauchea*. Research identified three novel *Halopeltis* species (*H. adnata*, *H. pellucida* sp. nov., and *H. willisii* sp. nov.) in warm temperate waters of the Northern Hemisphere (Korea and North Carolina), challenging the previous assumption that the genus was restricted to the Southern Hemisphere. Concurrently, two new species, including *Leptofauchea huawelau*, were described from the Hawaiian mesophotic zone, representing the deepest records for these genera and highlighting this zone as a significant biodiversity hotspot. Across the cluster, molecular phylogenetic analysis combined with morphological characterization was the key method used to delineate species and reveal significant phylogenetic divergence from previously known members, thereby expanding the known geographic and bathymetric ranges of these algae.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Halopeltis verrucosa",
+    "Rhodymenia verrucosa"
+  ],
+  "resolution": 8.0
+}

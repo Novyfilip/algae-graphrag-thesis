@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Agarum cribrosum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "marine lagoon environment"}], "markers": [], "applications": [], "relationships": [{"subject": "Agarum cribrosum", "predicate": "FOUND_IN", "object": "marine lagoon environment", "confidence": 0.5}]}

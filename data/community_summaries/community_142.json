@@ -1,0 +1,20 @@
+{
+  "community_id": 142,
+  "summary": "This cluster of papers focuses on the ecology, cultivation, and bioactive properties of marine macroalgae, predominantly along the Korean coastline. A central theme is the characterization of seaweed community structure and biomass dynamics, with species such as *Ecklonia cava*, *Sargassum thunbergii*, *Hizikia fusiformis*, and *Corallina pilulifera* frequently identified as dominant or ecologically significant across intertidal and subtidal zones. Many studies investigated environmental drivers of algal distribution, including water temperature, salinity, wave exposure, and thermal effluents from nuclear power plants, while others examined the antioxidant, anti-inflammatory, and enzyme-inhibitory activities of compounds like phlorotannins and polysaccharides isolated from *E. cava* and other species. The geographic scope was heavily concentrated on Korean waters, including Jeju Island, the South Sea, and the east and west coasts, with additional studies from Japan, the White Sea, and Sri Lanka. Collectively, the research underscores the ecological importance of Korean macroalgal beds and their potential for aquaculture, bioremediation, and nutraceutical applications.",
+  "n_entities": 122,
+  "n_papers": 107,
+  "n_papers_with_summaries": 106,
+  "entity_sample": [
+    "10 m in depth",
+    "5 m depth or deeper",
+    "6,6′-bieckol",
+    "70% ethanolic extraction",
+    "70% ethanolic extracts",
+    "Ashizuri, Tosa Bay",
+    "Candida utilis",
+    "Cheonjin site",
+    "EAE",
+    "East-Asian countries"
+  ],
+  "resolution": 8.0
+}

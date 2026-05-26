@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Antithamnion cruciatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Antithamnion cruciatum", "predicate": "CONTAINS", "object": "mitochondria", "confidence": 1.0}]}

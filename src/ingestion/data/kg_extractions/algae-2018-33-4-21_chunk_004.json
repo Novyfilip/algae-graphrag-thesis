@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "calcium carbonate"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "calcium carbonate", "predicate": "CONTAINS", "object": "calcium ions", "confidence": 0.5}, {"subject": "calcium carbonate", "predicate": "CONTAINS", "object": "carbonates", "confidence": 0.5}]}

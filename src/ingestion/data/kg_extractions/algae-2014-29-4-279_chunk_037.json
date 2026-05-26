@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "ITS2"}, {"marker_name": "cox1"}], "applications": [], "relationships": [{"subject": "ITS2", "predicate": "IDENTIFIED_BY", "object": "ribotypes", "confidence": 1.0}, {"subject": "cox1", "predicate": "IDENTIFIED_BY", "object": "haplotypes", "confidence": 1.0}]}

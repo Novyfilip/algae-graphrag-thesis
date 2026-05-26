@@ -1,0 +1,20 @@
+{
+  "community_id": 90,
+  "summary": "This cluster of research is geographically centered on Korean coastal waters, with additional studies from the North Pacific, Antarctica, and the Atlantic, and is unified by a focus on the ecological dynamics, physiological responses, and anthropogenic impacts on marine algae and phytoplankton. Key species investigated include the diatoms *Chaetoceros debilis*, *Skeletonema costatum*, and *Pseudo-nitzschia* spp., the dinoflagellates *Cochlodinium polykrikoides*, *Alexandrium* spp., and *Gyrodinium* spp., and the macroalgae *Macrocystis pyrifera*, *Eisenia arborea*, *Saccharina japonica*, and *Undaria pinnatifida*. A major pattern across the cluster was the influence of environmental stressors—such as elevated CO₂, thermal effluents from power plants, heavy metal toxicity, and salinity gradients—on species composition, photosynthetic performance, growth rates, and bloom dynamics, with several studies documenting shifts in community structure and the potential for range expansion under climate change. The research also emphasized applied themes, including the use of algae for nutrient bioextraction, heavy metal biomonitoring, anti-inflammatory compound discovery, and the development of aquaculture cultivars and transplantation methods to support sustainable seaweed production and ecosystem restoration.",
+  "n_entities": 165,
+  "n_papers": 118,
+  "n_papers_with_summaries": 116,
+  "entity_sample": [
+    "Alexandrium Halim",
+    "Algae",
+    "Amsoi",
+    "Arctic Sea",
+    "Assam",
+    "BCS, Mexico",
+    "Baja California Peninsula",
+    "Baja California, MEX coast",
+    "Baja California, México",
+    "Boudouresque's (1971) method"
+  ],
+  "resolution": 8.0
+}

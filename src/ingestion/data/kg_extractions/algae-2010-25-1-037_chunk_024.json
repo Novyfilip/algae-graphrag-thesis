@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Porphyra", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "greenhouse"}], "markers": [], "applications": [], "relationships": [{"subject": "Porphyra", "predicate": "STUDIED_WITH", "object": "greenhouse", "confidence": 1.0}]}

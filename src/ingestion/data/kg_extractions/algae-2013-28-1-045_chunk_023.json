@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Batrachospermum umamaheswararaoi", "taxonomic_rank": "species"}, {"species_name": "Kumanoa", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Batrachospermum umamaheswararaoi", "predicate": "BELONGS_TO", "object": "Kumanoa", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "R. formosa", "taxonomic_rank": "species"}, {"species_name": "Rhizosolenia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "R. formosa", "predicate": "BELONGS_TO", "object": "Rhizosolenia", "confidence": 1.0}]}

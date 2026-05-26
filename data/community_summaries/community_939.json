@@ -1,0 +1,12 @@
+{
+  "community_id": 939,
+  "summary": "This cluster of research focused on the bioaccumulation of heavy metals, specifically copper (Cu) and zinc (Zn), by the giant kelp *Macrocystis pyrifera* under controlled, elevated metal conditions. Key findings demonstrated that while the kelp accumulated both metals, the uptake of copper was inhibited by the presence of high concentrations of zinc, revealing an antagonistic interaction between the two pollutants. The studies correlated these uptake patterns with seawater chemistry, suggesting that *M. pyrifera* could serve as a potential bioindicator for monitoring heavy metal pollution in coastal marine environments. The geographic scope was implicitly coastal, with the research conducted in experimental seawater systems rather than a specific field location.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "SCRIPPS pier, La Jolla, CA",
+    "clean seawater"
+  ],
+  "resolution": 8.0
+}

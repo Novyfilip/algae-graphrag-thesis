@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "human growth hormone (HGH)"}, {"compound_name": "angiotensin-converting enzyme (ACE)"}, {"compound_name": "GABA"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "GABA", "predicate": "PRODUCES", "object": "angiotensin-converting enzyme (ACE) inhibiting effect", "confidence": 0.5}]}

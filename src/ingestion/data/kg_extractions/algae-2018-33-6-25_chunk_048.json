@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "DOM"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "anthelmintic"}], "relationships": [{"subject": "DOM", "predicate": "PRODUCES", "object": "neurotoxic effect", "confidence": 0.5}]}

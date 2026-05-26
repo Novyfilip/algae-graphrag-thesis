@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Rhodomelaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Rhodomelaceae", "predicate": "PRODUCES", "object": "spermatangia", "confidence": 1.0}]}

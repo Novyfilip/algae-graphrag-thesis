@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "ddPCR protocol"}, {"method_name": "alkaline lysis procedure"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "ddPCR protocol", "predicate": "STUDIED_WITH", "object": "alkaline lysis procedure", "confidence": 1.0}]}

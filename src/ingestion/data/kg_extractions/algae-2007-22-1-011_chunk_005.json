@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gynogonadinium aequatoriale", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "equator"}], "markers": [], "applications": [], "relationships": [{"subject": "Gynogonadinium aequatoriale", "predicate": "FOUND_IN", "object": "equator", "confidence": 1.0}]}

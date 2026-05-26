@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Rubisco"}], "methods": [{"method_name": "immunogold localization"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Rubisco", "predicate": "STUDIED_WITH", "object": "immunogold localization", "confidence": 1.0}]}

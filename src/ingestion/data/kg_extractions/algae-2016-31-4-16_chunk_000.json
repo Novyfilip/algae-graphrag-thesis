@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Hormotila", "taxonomic_rank": "genus"}, {"species_name": "Chlorophyceae", "taxonomic_rank": "class"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Hormotila", "predicate": "BELONGS_TO", "object": "Chlorophyceae", "confidence": 1.0}]}

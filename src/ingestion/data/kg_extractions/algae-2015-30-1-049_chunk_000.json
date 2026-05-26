@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Karenia brevis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Florida east coast"}], "markers": [], "applications": [], "relationships": [{"subject": "Karenia brevis", "predicate": "FOUND_IN", "object": "Florida east coast", "confidence": 1.0}]}

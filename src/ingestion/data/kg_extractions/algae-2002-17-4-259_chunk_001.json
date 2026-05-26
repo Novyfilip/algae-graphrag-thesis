@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ulva pertusa", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "starch"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ulva pertusa", "predicate": "PRODUCES", "object": "starch", "confidence": 0.5}]}

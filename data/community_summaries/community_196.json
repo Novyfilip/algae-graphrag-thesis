@@ -1,0 +1,20 @@
+{
+  "community_id": 196,
+  "summary": "This cluster of papers is predominantly centered on the biodiversity, community structure, and distribution of marine macroalgae along the coastlines of the Korean Peninsula, with a strong emphasis on the species *Corallina pilulifera*, *Sargassum thunbergii*, *Ulva pertusa*, and *Hizikia fusiformis* as dominant or key taxa across intertidal and subtidal zones. A recurring finding is the strong vertical zonation and seasonal variation in algal biomass and species composition, with red algae often peaking in summer and brown algae in winter, while environmental factors such as water temperature, wave exposure, and thermal effluents from nuclear power plants were shown to significantly alter community structure. The geographic scope is overwhelmingly focused on Korean coastal waters, including the East, South, and West Seas, as well as specific islands such as Jeju, Dokdo, and Ullungdo, with several studies also addressing the impacts of anthropogenic disturbances like power plant cooling systems and coastal development on algal flora.",
+  "n_entities": 87,
+  "n_papers": 96,
+  "n_papers_with_summaries": 96,
+  "entity_sample": [
+    "April",
+    "Collinsiella cava",
+    "Cyanobacterial Crust",
+    "Cyclotella meneginiana",
+    "Daechung Reservoir",
+    "Ec. cava",
+    "Ei. bicyclis",
+    "Gelidium 'millarianum'",
+    "Geminocystis sp. L17",
+    "Geminocystis sp. L18"
+  ],
+  "resolution": 8.0
+}

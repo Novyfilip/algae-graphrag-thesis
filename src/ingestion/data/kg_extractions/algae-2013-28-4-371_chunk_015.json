@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "H2O2"}], "methods": [{"method_name": "alkaline comet assay"}, {"method_name": "H2O2-scavenging activity"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "alkaline comet assay", "predicate": "STUDIED_WITH", "object": "H2O2", "confidence": 0.5}]}

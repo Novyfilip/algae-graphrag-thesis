@@ -1,0 +1,13 @@
+{
+  "community_id": 459,
+  "summary": "This cluster focuses on the biodiversity and distribution of freshwater microalgae, specifically Euglenophytes, in the Indian subcontinent. The research documented 60 taxa from the Euglenaceae family, including the genera *Colacium*, *Lepocinclis*, *Phacus*, and *Trachelomonas*, collected across 30 distinct sites in Orissa State, India. The study employed GPS technology for precise geolocation and sampled primarily from stagnant water bodies and paddy fields within a 155,842 km² area characterized by rivers, reservoirs, and ponds. The findings establish a baseline for euglenophyte diversity in the eastern coastal region of India.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Phacus triquter",
+    "Tank, Nico park, Bhubaneswar",
+    "polluted water"
+  ],
+  "resolution": 8.0
+}

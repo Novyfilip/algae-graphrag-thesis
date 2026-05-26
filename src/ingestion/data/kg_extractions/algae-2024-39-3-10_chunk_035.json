@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. kofoidii", "taxonomic_rank": "species"}, {"species_name": "A. mediterraneum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. kofoidii", "predicate": "STUDIED_WITH", "object": "A. mediterraneum", "confidence": 1.0}]}

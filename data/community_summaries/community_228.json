@@ -1,0 +1,20 @@
+{
+  "community_id": 228,
+  "summary": "This cluster of research focuses on the bioactivity, cultivation, and biochemical composition of marine algae from Korean coastal waters, particularly Jeju Island and the Nakdong River, with an emphasis on their potential for nutraceutical, pharmaceutical, and industrial applications. Key species investigated include the brown algae *Ecklonia cava* and *Sargassum horneri*, the red alga *Pyropia yezoensis*, and the microalgae *Chlorella vulgaris*, *Nannochloropsis oculata*, and *Gymnodinium smaydae*, with studies consistently demonstrating that extracts and purified compounds—such as fucoidans, phlorotannins, sterols, and polyunsaturated fatty acids—exhibit significant antioxidant, anti-inflammatory, and anti-cancer activities in vitro and in vivo. The cluster also addresses environmental and ecological themes, including nutrient dynamics and bloom formation of *Microcystis aeruginosa* in Korean rivers, carbon flux in vegetated coastal bays, and the impact of abiotic stressors like salinity, irradiance, and heavy metals on algal growth and metabolite production. Methodologically, the papers share a reliance on extraction optimization (e.g., ultrasound-assisted, enzymatic, and subcritical water extraction), biochemical characterization (e.g., FTIR, HPLC, fatty acid profiling), and cultivation strategies (e.g., semi-continuous systems, heterotrophic and mixotrophic regimes) to enhance biomass and target compound yields.",
+  "n_entities": 69,
+  "n_papers": 72,
+  "n_papers_with_summaries": 71,
+  "entity_sample": [
+    "70% ethanol solution extraction",
+    "Alanine",
+    "Arginine",
+    "Arsenic",
+    "Aspartic acid",
+    "Association of Official Analytical Chemists methods",
+    "Atlantic dulse",
+    "Azaserine (O-diazo-acetyl-L-serine)",
+    "BCA protein assay kit 23227",
+    "Cadmium"
+  ],
+  "resolution": 8.0
+}

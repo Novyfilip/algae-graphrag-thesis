@@ -1,0 +1,12 @@
+{
+  "community_id": 600,
+  "summary": "This cluster focuses on the discovery and characterization of novel epiphytic dinoflagellate species within the genus *Amphidinium* from the temperate and subtropical waters of Northeast Asia, specifically around Jeju Island, Korea, and the East China Sea. Researchers employed integrated morphological analysis and molecular characterization, including rDNA sequencing (LSU, SSU, and cytochrome b), to delineate new species and strains, such as *Amphidinium massartii* and the newly described *Amphidinium stirisquamtum*, revealing distinct genetic lineages that differ from previously known Australian and American strains. A key finding across the cluster is the documentation of unique morphological features, such as icicle-shaped scales and asymmetrical hypocones, alongside evidence of potent toxicity, as *A. stirisquamtum* demonstrated significant lethal effects on rotifers and brine shrimp. This work expands the known biogeographic range of *Amphidinium* into temperate East Asian waters and raises ecological concerns regarding the potential for toxin bioaccumulation in marine food webs.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "AF274253",
+    "Amphidinium herdmanii"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Congracilaria babae", "taxonomic_rank": "species"}, {"species_name": "Gracilaria babae", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Congracilaria babae", "predicate": "BELONGS_TO", "object": "Gracilaria babae", "confidence": 1.0}]}

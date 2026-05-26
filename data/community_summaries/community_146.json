@@ -1,0 +1,20 @@
+{
+  "community_id": 146,
+  "summary": "This cluster of research is unified by a strong focus on the taxonomy, phylogeny, and biogeography of red algae (Rhodophyta), with frequent use of molecular markers such as *rbcL*, *cox1*, and *COI-5P* to resolve cryptic species and revise genera across diverse geographic regions. Key findings include the discovery of numerous new species—such as *Haraldiophyllum udoensis*, *Polysiphonia ulleungensis*, *Symphyocladia glabra*, and *Sheathia assamica*—often from understudied or biodiversity-rich areas including Korea, Jeju Island, the Northwest Pacific, northeast India, and the tropical western Atlantic. The studies also address ecological and applied themes, including oomycete diseases in *Pyropia* aquaculture, the invasive spread of *Gracilaria vermiculophylla* and *Codium fragile*, and the population genetics of commercially important kelps like *Undaria pinnatifida* and *Saccharina japonica*. Geographically, the research spans temperate to tropical waters, with a heavy emphasis on Korean coastal ecosystems, but also includes significant contributions from the Mediterranean, the White Sea, the Pacific coast of the Americas, and freshwater habitats in India and North America.",
+  "n_entities": 120,
+  "n_papers": 100,
+  "n_papers_with_summaries": 100,
+  "entity_sample": [
+    "1/4 strength seawater",
+    "19607",
+    "19754",
+    "20940",
+    "21625 P732",
+    "Atlantic Sea",
+    "Barranco, Lima, Peru",
+    "Beganfry, France",
+    "C. leptacanthum",
+    "Cambre, Malpica, A Coruña"
+  ],
+  "resolution": 8.0
+}

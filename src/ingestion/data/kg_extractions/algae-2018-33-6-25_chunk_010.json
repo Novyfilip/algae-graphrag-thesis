@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Alsidium", "taxonomic_rank": "genus"}, {"species_name": "Digenea", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Alsidium", "predicate": "STUDIED_WITH", "object": "Digenea", "confidence": 1.0}]}

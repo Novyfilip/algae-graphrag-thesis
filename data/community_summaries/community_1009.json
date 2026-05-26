@@ -1,0 +1,12 @@
+{
+  "community_id": 1009,
+  "summary": "This cluster focuses on the comparative cultivation performance of kelp cultivars, specifically comparing the Korean strain *Saccharina japonica* Sugwawon No. 301 with the Chinese strain Huangguan No. 1 within a Korean aquaculture farm. The research demonstrated that the Korean cultivar achieved significantly greater biomass (3.5 kg wet wt m⁻¹) and maximum length (247.8 cm) compared to its Chinese counterpart (3.1 kg wet wt m⁻¹ and 227.5 cm, respectively). These findings indicate that Sugwawon No. 301 represents a viable alternative for providing a stable algal feed supply to the Korean abalone industry, highlighting a geographic and economic focus on optimizing local aquaculture production.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "culture site",
+    "logging multi-parameter probe"
+  ],
+  "resolution": 8.0
+}

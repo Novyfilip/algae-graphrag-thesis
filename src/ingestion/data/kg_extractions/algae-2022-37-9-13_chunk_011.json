@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Dunaliella", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "high-salinity pond"}], "markers": [], "applications": [], "relationships": [{"subject": "Dunaliella", "predicate": "FOUND_IN", "object": "high-salinity pond", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 764,
+  "summary": "This cluster focuses on the phylogeography and genetic diversity of red algal species in the northwest Pacific, primarily utilizing the COI-5P barcoding gene. Studies on *Chondrus* species (including *C. nipponicus*, *C. ocellatus*, and *C. giganteus*) and *Gloiopeltis furcata* sensu lato revealed moderate to high intraspecific genetic diversity, with evidence of shallow phylogeographic structure, high gene flow between certain *Chondrus* taxa, and cryptic lineages within *G. furcata*. The research identified southern Korea and Japan as potential glacial refugia, with recent migration patterns influenced by oceanic circulation and anthropogenic factors. Geographically, the work spans the coasts of Korea and Japan, emphasizing the need to monitor and conserve the genetic resources of these economically and ecologically significant seaweeds.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "CO9",
+    "Mashike"
+  ],
+  "resolution": 8.0
+}

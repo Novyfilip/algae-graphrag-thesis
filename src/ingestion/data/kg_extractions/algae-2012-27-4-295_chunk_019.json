@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Spirulina platensis", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "Rubisco"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Spirulina platensis", "predicate": "PRODUCES", "object": "Rubisco", "confidence": 1.0}]}

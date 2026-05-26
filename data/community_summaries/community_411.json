@@ -1,0 +1,13 @@
+{
+  "community_id": 411,
+  "summary": "This cluster of research examines the epiphytic diatom communities colonizing seagrass hosts, specifically focusing on the leaf tissues of *Zostera marina*, *Z. japonica*, and *Z. caespitosa* along the southern coast of Korea. Sampling from July 2001 to March 2002 revealed a total of 81 diatom species, with *Cocconeis* species dominating on *Z. japonica*, while *Navicula* and *Nitzschia* were more prevalent on *Z. marina* and *Z. caespitosa*, respectively. The studies found that diatom community structure varied significantly according to seagrass species, with composition closely linked to host plant morphology and lifespan. Geographically and ecologically confined to Korean seagrass meadows, the research underscores the critical role of these epiphytic diatoms in contributing to total community production and biomass within these coastal ecosystems.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Family Diatomaceae",
+    "Order Pennales",
+    "Suborder Araphidineae"
+  ],
+  "resolution": 8.0
+}

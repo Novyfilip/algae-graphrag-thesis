@@ -1,0 +1,12 @@
+{
+  "community_id": 1049,
+  "summary": "This cluster centers on the taxonomic and ultrastructural characterization of a novel red algal genus, *Erythrolobus coxiae*, within the class Porphyrideophyceae, discovered in Texas, U.S.A. The research employed both light and electron microscopy to delineate the species’ unique cellular architecture, including a pyrenoid matrix, branched thylakoids, and a peripheral thylakoid, which distinguish it from other members of its class. These morphological features, combined with molecular data, provided the basis for establishing *Erythrolobus* as a distinct genus, highlighting the continued discovery of cryptic red algal diversity in North American coastal or freshwater habitats. The findings underscore the value of integrating fine structural analysis with phylogenetic methods to resolve taxonomic relationships within the Rhodophyta.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "phycobilin pigment",
+    "phycobilin pigment analysis"
+  ],
+  "resolution": 8.0
+}

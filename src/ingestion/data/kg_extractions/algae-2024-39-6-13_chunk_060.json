@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "cryptophytes", "taxonomic_rank": null}], "compounds": [{"compound_name": "phycobiliprotein"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "cryptophytes", "predicate": "PRODUCES", "object": "phycobiliprotein", "confidence": 0.5}]}

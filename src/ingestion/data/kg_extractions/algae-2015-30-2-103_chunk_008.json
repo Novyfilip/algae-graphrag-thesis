@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "14C assimilation method"}, {"method_name": "O2 evolution"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "14C assimilation method", "predicate": "STUDIED_WITH", "object": "O2 evolution", "confidence": 0.5}]}

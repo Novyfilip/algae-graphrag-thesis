@@ -1,0 +1,16 @@
+{
+  "community_id": 277,
+  "summary": "This cluster of research focused on the screening of red algae extracts from Jeju Island, Korea, for their potential to inhibit the angiotensin-I converting enzyme (ACE). Key species identified for their significant inhibitory activity included *Lithophyllum okamurae*, *Lomentaria catenata*, and *Ahnfeltiopsis flabelliformis*, with aqueous extracts demonstrating the lowest IC50 values (12.21–13.84 µg mL⁻¹). The findings highlight the geographic specificity of Jeju Island as a source of bioactive compounds and establish a pattern of potent ACE inhibition across multiple red algal species, particularly from the genera *Lithophyllum* and *Grateloupia*.",
+  "n_entities": 6,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Angiotensin I - Converting Enzyme (ACE)",
+    "angiotensin I",
+    "angiotensin II",
+    "bradykinin",
+    "vascular endothelial lining of the lungs",
+    "zinc metal proteases"
+  ],
+  "resolution": 8.0
+}

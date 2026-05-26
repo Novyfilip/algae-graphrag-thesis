@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Peridinium umbonatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean freshwaters"}], "markers": [], "applications": [], "relationships": [{"subject": "Peridinium umbonatum", "predicate": "FOUND_IN", "object": "Korean freshwaters", "confidence": 1.0}]}

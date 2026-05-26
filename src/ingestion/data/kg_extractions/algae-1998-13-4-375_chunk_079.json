@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chordaria flagelliformis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Bering Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "Chordaria flagelliformis", "predicate": "FOUND_IN", "object": "Bering Sea", "confidence": 1.0}]}

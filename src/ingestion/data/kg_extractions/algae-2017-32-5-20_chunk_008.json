@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "nutrient repletion method"}, {"method_name": "Michaelis-Menten equations"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "nutrient repletion method", "predicate": "STUDIED_WITH", "object": "Michaelis-Menten equations", "confidence": 0.5}]}

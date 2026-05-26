@@ -1,23 +1,45 @@
+# Environment and secrets
 thesis_env/
 .env
-data/
+
+# Python artifacts
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-*.pdf
-context/
+
+# Data — keep only community summaries (small, human-readable, expensive to regenerate)
+data/chromadb/
+data/chroma_db/
+data/chromadb_deploy/
+data/kg_extractions/
+data/extracted/
+data/raw/
+data/test/
+data/chunks/
+data/processed/
+!data/community_summaries/
+
+# Development scratch, backups, and process artifacts
 scratch/
-notebooks/
-outputs/
-images/
 backup/
+context/
+
+# Quarto generated files
 log_files/
 thesis_files/
-src/evaluation/
-src/ingestion/
-src/run.bat
-*.qmd
-*.tex
 *.html
+*.tex
+
+# Windows shortcuts
 *.lnk
-*.csv
+
+# PDFs (except the final thesis if you want to include it)
+*.pdf
+
+# Outputs — keep only the final evaluation results
+outputs/
+!outputs/ragas_final/
+!outputs/ragas_extended/
+
+# Quarto source files (optional — remove these lines if you want the log in the repo)
+*.qmd

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "SOAPdenovo2 assembler"}, {"method_name": "IDBA-UD assembler"}, {"method_name": "Omega assembler"}, {"method_name": "DNA metabarcoding assay"}, {"method_name": "Cutadapt v1.16"}], "environments": [], "markers": [], "applications": [], "relationships": []}

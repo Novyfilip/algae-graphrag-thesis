@@ -1,0 +1,12 @@
+{
+  "community_id": 838,
+  "summary": "This cluster focuses on the systematics and evolutionary biology of red algae, specifically using molecular phylogenetics to resolve taxonomic relationships. The research centers on the ceramiaceous species *Psilothallia dentata*, employing the plastid gene *psbA* as a key molecular marker to infer phylogenetic placement. A major finding was the reclassification of this species from the tribe Rhodocallideae to the Ptiloteae, supported by both molecular data and detailed morphological analysis of thallus structure and reproductive organs. The geographic scope is the Pacific Ocean, with specimens collected from Japan and Australia, indicating a broad but connected ecological distribution.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Choshi, JP",
+    "Psilothalfia dentata"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 214,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and biogeography of red algae (Rhodophyta) and, to a lesser extent, other algal groups such as dinoflagellates and diatoms, primarily in the North Pacific and Arctic regions. Key species investigated include *Grateloupia turuturu*, *Pyropia yezoensis*, *Pterocladiella capillacea*, and numerous newly described taxa such as *Haraldiophyllum udoensis*, *Erythrolobus australicus*, and *Symphyocladia glabra*, with molecular markers like *rbcL*, *cox1*, and SSU rDNA frequently employed for species delineation and phylogenetic placement. A recurring pattern across the cluster is the discovery of cryptic species and the revision of taxonomic boundaries, as seen in *Saccharina sessilis*, *Pterosiphonia arenosa*, and the genus *Coolia*, often revealing previously unrecognized diversity in regions like Korea, the Aleutian Islands, and Antarctica. Geographically, the research concentrates heavily on Korean coastal waters, the Northwest Pacific, and polar or subpolar environments, with additional studies from the Gulf of California, the Mediterranean, and the tropical western Atlantic, highlighting a global effort to document algal biodiversity and evolutionary relationships.",
+  "n_entities": 76,
+  "n_papers": 65,
+  "n_papers_with_summaries": 64,
+  "entity_sample": [
+    "4835",
+    "AUS",
+    "AY119743",
+    "AY119772",
+    "Atlantic Ocean",
+    "Baltic Sea",
+    "Bangia fuscopurpurea",
+    "Bangiopsis",
+    "Bangiopsis dumontioides",
+    "Bangiopsis franklynottii"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "physio-chemical analyses"}], "environments": [], "markers": [], "applications": [{"application_name": "monitoring system to forecast red-tide"}], "relationships": [{"subject": "physio-chemical analyses", "predicate": "STUDIED_WITH", "object": "monitoring system to forecast red-tide", "confidence": 0.5}]}

@@ -1,0 +1,13 @@
+{
+  "community_id": 533,
+  "summary": "This cluster examines the dynamics of freshwater phytoplankton communities, specifically focusing on the response of Chlorophyta and Bacillariophyta to varying nutrient loadings in managed aquatic systems. Research conducted in Mason County, Illinois, USA, demonstrated that higher levels of liquid inorganic fertilizer in fish ponds led to increased phytoplankton density and species diversity, while simultaneously reducing the relative abundance of Chlorophyta. A key finding across the cluster was the observation of secondary succession within these communities, where lower nutrient levels were associated with more favorable conditions for phytoplankton growth and ultimately greater fish production. The geographic and ecological scope is centered on temperate, human-managed pond ecosystems, linking nutrient management directly to shifts in algal community structure and overall aquatic productivity.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Jake Wolf Memorial Fish Hatchery, Mason County, Illinois, USA",
+    "outdoor plastic lined ponds",
+    "sandy soil"
+  ],
+  "resolution": 8.0
+}

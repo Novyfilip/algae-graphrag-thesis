@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Coolia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "diverse environments"}], "markers": [], "applications": [], "relationships": [{"subject": "Coolia", "predicate": "FOUND_IN", "object": "diverse environments", "confidence": 1.0}]}

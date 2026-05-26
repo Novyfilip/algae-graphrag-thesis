@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. glacialis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "A. glacialis", "predicate": "CONTAINS", "object": "multi, non-pyrenoidal plastids", "confidence": 1.0}]}

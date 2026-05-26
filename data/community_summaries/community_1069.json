@@ -1,0 +1,12 @@
+{
+  "community_id": 1069,
+  "summary": "This cluster investigates the biodiversity and taxonomy of marine algae in the northwest Pacific, with a particular focus on the Korean coastline and adjacent waters. Studies employed morphological characterization and phylogenetic analyses, notably using rbcL gene sequencing, to resolve species boundaries and uncover cryptic diversity within genera such as *Portieria* (Rhodophyta) and *Cladophora* (Chlorophyta). Key findings revealed that *Portieria hornemannii* comprises genetically distinct, geographically fragmented lineages, including the cryptic species *Portieria japonica*, while detailed checklists documented the distribution and classification of taxa like *Sphacelaria apicalis*. The research collectively emphasizes that microhabitat variation and geographic isolation drive genetic divergence and the evolution of secondary metabolites in these algal communities.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Desmia japonica",
+    "rocks at low"
+  ],
+  "resolution": 8.0
+}

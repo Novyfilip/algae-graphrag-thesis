@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "K. alvarezii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Saurashtra coast, Gujarat"}], "markers": [], "applications": [], "relationships": [{"subject": "K. alvarezii", "predicate": "FOUND_IN", "object": "Saurashtra coast, Gujarat", "confidence": 1.0}]}

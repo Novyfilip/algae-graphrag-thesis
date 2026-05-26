@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "U. rigida", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Yellow Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "U. rigida", "predicate": "FOUND_IN", "object": "Yellow Sea", "confidence": 0.5}]}

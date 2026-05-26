@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "brackish water aquaculture"}], "markers": [], "applications": [{"application_name": "fish production"}], "relationships": [{"subject": "brackish water aquaculture", "predicate": "AFFECTS", "object": "fish production", "confidence": 0.5}]}

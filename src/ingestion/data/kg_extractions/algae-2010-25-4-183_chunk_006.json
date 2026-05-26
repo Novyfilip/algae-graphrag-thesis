@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Costulariella", "taxonomic_rank": "genus"}, {"species_name": "Costularia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Costulariella", "predicate": "BELONGS_TO", "object": "Costularia", "confidence": 0.5}]}

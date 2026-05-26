@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. angustissima", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "culture conditions"}], "markers": [], "applications": [], "relationships": [{"subject": "S. angustissima", "predicate": "STUDIED_WITH", "object": "culture conditions", "confidence": 1.0}]}

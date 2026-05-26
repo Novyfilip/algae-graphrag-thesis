@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ulva pertusa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Molundae, Dadaepo, Busan, Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Ulva pertusa", "predicate": "FOUND_IN", "object": "Molundae, Dadaepo, Busan, Korea", "confidence": 1.0}]}

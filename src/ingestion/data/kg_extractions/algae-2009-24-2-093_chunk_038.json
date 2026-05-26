@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. nodosum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "A. nodosum", "predicate": "CONTAINS", "object": "perennial base", "confidence": 1.0}, {"subject": "A. nodosum", "predicate": "PRODUCES", "object": "new fronds", "confidence": 1.0}]}

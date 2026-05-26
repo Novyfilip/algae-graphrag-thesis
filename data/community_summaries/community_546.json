@@ -1,0 +1,13 @@
+{
+  "community_id": 546,
+  "summary": "This cluster investigates the reliability of DNA barcoding for algal taxonomy, focusing on the prevalence and taxonomic distribution of erroneous sequences in public genetic databases. The research identified over 4.1 million barcode sequences, with approximately 2% found to be erroneous, and highlighted that these errors are unevenly distributed across taxonomic groups. The findings emphasize the need for cross-validation using additional barcode loci or morphological data, particularly when studying ambiguous taxa. The geographic scope is global, as the analysis draws from publicly available sequence repositories rather than a specific regional dataset.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "EBS",
+    "barcode sequences",
+    "sensitivity analysis"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Mesocentrotus nudus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "east coast of Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Mesocentrotus nudus", "predicate": "FOUND_IN", "object": "east coast of Korea", "confidence": 1.0}]}

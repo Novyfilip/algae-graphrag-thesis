@@ -1,0 +1,13 @@
+{
+  "community_id": 377,
+  "summary": "This cluster focuses on the taxonomy and systematics of the red algal family Rhodochortonaceae in Korea, centered on the morphological identification of twenty-one species, including eight new species and thirteen reclassified taxa. The research emphasizes detailed characterization of branching morphology, chloroplast distribution, and reproductive strategies, with key findings including the description of thirteen new species within the genus *Acrochaetium* and the establishment of two new genera, *Rhodochorton* and *Auduinella*. Ecologically, the study highlights the extensive distribution of these algae across diverse Korean habitats, particularly as epi- and endobiotic populations on host plants, with thalli typically forming compact, uniseriate, branched filaments up to 10 mm in height.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Au. investiens",
+    "Balbiania investiens",
+    "R. investiens"
+  ],
+  "resolution": 8.0
+}

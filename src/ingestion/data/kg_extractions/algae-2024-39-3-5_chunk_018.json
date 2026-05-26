@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "eDNA recovery"}, {"method_name": "on-site filtration"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "eDNA recovery", "predicate": "STUDIED_WITH", "object": "on-site filtration", "confidence": 0.5}]}

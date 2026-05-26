@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "chlorophyll a"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Algal cells", "predicate": "CONTAINS", "object": "chlorophyll a", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "benthic marine algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "shore"}], "markers": [], "applications": [], "relationships": [{"subject": "shore", "predicate": "AFFECTS", "object": "benthic marine algae", "confidence": 0.5}]}

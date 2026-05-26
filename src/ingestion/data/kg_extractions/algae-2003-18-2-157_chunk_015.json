@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Nakdong River Basin"}, {"environment_name": "river water"}], "markers": [], "applications": [], "relationships": [{"subject": "Nakdong River Basin", "predicate": "CONTAINS", "object": "river water", "confidence": 0.5}]}

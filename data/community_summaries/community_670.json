@@ -1,0 +1,12 @@
+{
+  "community_id": 670,
+  "summary": "This cluster investigates the cultivation and biochemical potential of the red seaweed *Eucheuma serra*, specifically focusing on optimizing growth conditions to enhance the yield of lectin, a bioactive compound. Researchers cultured the species in deep seawater at depths of 5–10 meters, achieving a daily growth rate (DGR) of 2.14 ± 0.04% at 18°C and a higher rate of 8.2% at 1 meter depth. The studies collectively explored both laboratory and field-based methods for large-scale cultivation, with a geographic scope centered on marine environments suitable for deep seawater utilization. Key findings across the cluster demonstrate that controlled depth and temperature parameters are critical for maximizing biomass and lectin production in this species.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Daily Growth Rate (DGR) calculation",
+    "linear growth rate formula"
+  ],
+  "resolution": 8.0
+}

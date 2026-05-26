@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "cyanobacterium", "taxonomic_rank": "phylum"}], "compounds": [], "methods": [], "environments": [{"environment_name": "artificial lake"}], "markers": [], "applications": [], "relationships": [{"subject": "cyanobacterium", "predicate": "FOUND_IN", "object": "artificial lake", "confidence": 0.5}]}

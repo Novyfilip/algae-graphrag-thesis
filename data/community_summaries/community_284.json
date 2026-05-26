@@ -1,0 +1,16 @@
+{
+  "community_id": 284,
+  "summary": "This cluster examines the diel vertical migration (DVM) of phytoflagellates in small, lentic freshwater systems, specifically an artificial pond. The research focused on three distinct taxa—*Mallomonas akrokomos*, *Cryptomonas marssonii*, and *Chroomonas* sp.—which exhibited differential migration behaviors, with *M. akrokomos* migrating upward during evening and night while the cryptophytes remained more stable in deeper water. A key finding was that the vertical distribution of these dominant taxa showed no significant correlation with physical, chemical, or biotic factors, suggesting that intrinsic biological rhythms rather than immediate environmental gradients primarily drove their movements. The geographic scope was limited to a single artificial pond ecosystem, highlighting the importance of these endogenous vertical movements in structuring the microbial community within such confined freshwater habitats.",
+  "n_entities": 6,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Acanthodiaptomus pacificus",
+    "Ceriodaphnia reticulata",
+    "Chaoborus flavicans",
+    "Daphnia rosea",
+    "Tropocyclos prasinus",
+    "small artificial pond in the National Institute for Environmental Studies (NIES), Tsukuba, Japan"
+  ],
+  "resolution": 8.0
+}

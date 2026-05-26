@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. smaydae", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "predator culture tank"}], "markers": [], "applications": [], "relationships": [{"subject": "G. smaydae", "predicate": "FOUND_IN", "object": "predator culture tank", "confidence": 1.0}]}

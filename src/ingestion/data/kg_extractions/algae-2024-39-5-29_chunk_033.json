@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ralfsiaceae", "taxonomic_rank": "family"}, {"species_name": "Ramipedicella", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ramipedicella", "predicate": "BELONGS_TO", "object": "Ralfsiaceae", "confidence": 1.0}]}

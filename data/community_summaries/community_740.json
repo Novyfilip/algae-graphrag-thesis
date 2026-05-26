@@ -1,0 +1,12 @@
+{
+  "community_id": 740,
+  "summary": "This cluster investigates the production and composition of extracellular organic substances, specifically polysaccharides, by the harmful algal bloom-forming dinoflagellate *Cochlodinium polykrikoides*. Research focused on the biochemical characterization of these substances revealed that polysaccharide release rates increased during the stationary growth phase and that the polymer was rich in the amino acid proline, with a notable presence of histamine. The studies collectively mapped the distribution of 20 amino acids within the algal exudate, linking the compound's composition directly to the organism's physiological growth stage. The geographic and ecological scope is centered on the physiological ecology of this bloom-forming species, with implications for understanding its role in marine organic matter cycling.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "H2SO4 hydrolysis",
+    "Intracellular polysaccharide"
+  ],
+  "resolution": 8.0
+}

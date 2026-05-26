@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "microscopy analyses"}], "environments": [], "markers": [], "applications": [{"application_name": "HAB monitoring"}], "relationships": [{"subject": "microscopy analyses", "predicate": "STUDIED_WITH", "object": "HAB monitoring", "confidence": 0.5}]}

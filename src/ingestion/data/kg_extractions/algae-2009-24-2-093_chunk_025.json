@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Fucus vesiculosus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Fucus vesiculosus", "predicate": "CONTAINS", "object": "PSII", "confidence": 1.0}]}

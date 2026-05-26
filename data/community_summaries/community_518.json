@@ -1,0 +1,13 @@
+{
+  "community_id": 518,
+  "summary": "This cluster focuses on the molecular mechanisms of cold stress acclimation in freshwater algae, specifically through the identification and characterization of differentially expressed genes. Research centered on *Spirogyra varians*, a green alga from the order Zygnematales, isolated a key gene, SVCR2, which was highly upregulated at 4°C. The expression of SVCR2 was found to be regulated not only by low temperature but also by specific light conditions, including high light, blue light (470 nm), red light (650 nm), and UV-A irradiation, indicating a complex interplay between light signaling and cold response pathways. These findings highlight SVCR2 as a critical component in the cold acclimation process of this freshwater species.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "freezing waters",
+    "freshwater alga",
+    "winter time"
+  ],
+  "resolution": 8.0
+}

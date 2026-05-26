@@ -1,0 +1,13 @@
+{
+  "community_id": 420,
+  "summary": "This cluster focuses on the taxonomic characterization and phylogenetic delineation of red algal species, specifically within the genus *Griffithsia*. The research synthesized morphological and molecular data, utilizing genetic markers such as *psbA* and *rbcL*, to establish *Griffithsia okiensis* as a distinct species separate from its close relative *G. japonica*. Key findings centered on detailed morphometric comparisons, including thallic height and cell dimensions, to resolve species boundaries. The geographic scope was confined to Korean coastal waters, contributing to the regional phycological inventory of the Ceramiaceae.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AY295153",
+    "AY295171",
+    "G. tomo-yamadae"
+  ],
+  "resolution": 8.0
+}

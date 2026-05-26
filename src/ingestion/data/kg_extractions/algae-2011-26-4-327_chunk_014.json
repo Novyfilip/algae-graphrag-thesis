@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sargassum horridum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Gulf of California"}, {"environment_name": "Japan"}], "markers": [], "applications": [], "relationships": [{"subject": "Sargassum horridum", "predicate": "FOUND_IN", "object": "Gulf of California", "confidence": 1.0}]}

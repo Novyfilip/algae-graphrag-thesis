@@ -1,0 +1,15 @@
+{
+  "community_id": 290,
+  "summary": "This cluster synthesizes the early historical documentation and taxonomic exploration of marine algae in the North Pacific and Bering Sea region, spanning the late 18th to early 19th centuries. The connecting theme is the foundational work of Russian and British expeditions—led by figures such as Steller, Chamisso, and Voznesenskii—who systematically collected and described diverse algal species from key geographic locales including Kamchatka, Alaska, the Aleutian Islands, and the Kurils. These efforts established the first scientific records of the region's macroalgal flora, forming the taxonomic and biogeographic baseline for subsequent phycological research in this subarctic and boreal marine environment.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Alaria esculenta f. latifolia",
+    "Bolshaya River, Irkutsk, eastern Russia",
+    "Fucus angustifolius",
+    "Fucus fimbriatus",
+    "Kamchatka Sea"
+  ],
+  "resolution": 8.0
+}

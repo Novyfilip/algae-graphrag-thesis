@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Closterium cynthia", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Pond near Railway line, Lalkuan"}], "markers": [], "applications": [], "relationships": [{"subject": "Closterium cynthia", "predicate": "FOUND_IN", "object": "Pond near Railway line, Lalkuan", "confidence": 1.0}]}

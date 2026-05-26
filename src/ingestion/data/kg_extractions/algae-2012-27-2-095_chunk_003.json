@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "red algae", "taxonomic_rank": "order"}], "compounds": [], "methods": [{"method_name": "molecular-assisted alpha taxonomic (MAAT) studies"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "red algae", "predicate": "STUDIED_WITH", "object": "molecular-assisted alpha taxonomic (MAAT) studies", "confidence": 1.0}]}

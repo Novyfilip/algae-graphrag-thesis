@@ -1,0 +1,15 @@
+{
+  "community_id": 304,
+  "summary": "This cluster of research focuses on the cultivation and biochemical characterization of marine microalgae, particularly diatoms and other phytoplankton species, for applied biotechnology. Studies investigated the optimization of axenic culture conditions for diverse algal classes—including Bacillariophyceae, Chlorophyceae, and Raphidophyceae—by determining species-specific antibiotic concentrations, such as 2,000 ppm dihydrostreptomycin for *Chlorella ellipsoidea* and neomycin for *Isochrysis galbana*. Concurrently, benthic diatoms like *Achnanthes longipes*, *Amphora coffeaeformis*, and *Navicula* sp., isolated from Jeju seabed sediments, were evaluated for their antioxidant potential, with chloroform and ethyl acetate fractions of *A. longipes* showing the highest radical-scavenging activity. The geographic scope spans marine environments, and the findings collectively underscore the importance of species-specific protocols for maintaining axenic cultures and the potential of diatom-derived compounds for industrial applications, such as natural antioxidants for the food industry.",
+  "n_entities": 5,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "F/2 enriched culture media",
+    "Neomycin",
+    "Penicillin",
+    "Streptomycin",
+    "antibiotics cocktail"
+  ],
+  "resolution": 8.0
+}

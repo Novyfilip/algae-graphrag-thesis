@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cyclotella atomus var. marina", "taxonomic_rank": "variety"}, {"species_name": "Cyclotella", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Cyclotella atomus var. marina", "predicate": "BELONGS_TO", "object": "Cyclotella", "confidence": 1.0}]}

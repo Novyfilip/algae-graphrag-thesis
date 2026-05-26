@@ -1,0 +1,12 @@
+{
+  "community_id": 1036,
+  "summary": "This cluster of research focuses on the physiological and ecological dynamics of the red tide dinoflagellate *Prorocentrum micans*, specifically examining its nitrate uptake kinetics under varying light conditions. Using a newly developed repletion method to simulate eutrophic waters, the studies measured key parameters such as half-saturation constants and maximum uptake rates (Vmax), finding that light intensity did not significantly alter these uptake metrics under both nitrate-replete and nitrate-depleted conditions. The findings underscore the species’ consistent nutrient acquisition capacity across light gradients, which is critical for understanding bloom initiation and persistence in eutrophic coastal environments. The geographic and ecological scope is centered on temperate or subtropical eutrophic waters where *P. micans* forms harmful algal blooms, linking nutrient dynamics to red tide prediction and management.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "conventional and partially modified methods",
+    "nitrate uptake experiments"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 1007,
+  "summary": "This cluster focuses on the restoration ecology of the seagrass *Zostera marina*, a critical species for coastal ecosystem health. Research centered on developing and validating a seed-coating method using loess to improve restoration outcomes, specifically addressing the challenge of seed loss during large-scale planting. Key findings demonstrated that loess-coated seeds achieved significantly higher germination rates and enhanced seedling growth compared to uncoated controls, without negatively impacting development. The geographic and ecological scope is coastal, targeting practical, scalable interventions to mitigate seagrass habitat loss.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "large-scale restoration",
+    "seed coating method"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Gulf of Alaska shelf"}, {"environment_name": "nearshore marine systems"}, {"environment_name": "coastal zone"}], "markers": [], "applications": [], "relationships": [{"subject": "Gulf of Alaska shelf", "predicate": "CONTAINS", "object": "upper 100 m", "confidence": 0.5}]}

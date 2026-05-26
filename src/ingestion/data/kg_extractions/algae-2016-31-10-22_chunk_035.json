@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Compsopogon caeruleus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "China"}], "markers": [], "applications": [], "relationships": [{"subject": "Compsopogon caeruleus", "predicate": "FOUND_IN", "object": "China", "confidence": 1.0}]}

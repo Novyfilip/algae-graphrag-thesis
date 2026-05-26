@@ -1,0 +1,12 @@
+{
+  "community_id": 717,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally transformed over the past half-century by the integration of gene sequencing, DNA barcoding, and phylogenetic analysis, which have collectively revealed a substantial increase in recognized species diversity. These molecular methods have enabled the discovery of numerous cryptic species and prompted the division of previously unified genera, driven by the expanded use of SCUBA by phycologists. The geographic scope remains focused on the tropical and subtropical western Atlantic, where advances in sequencing technologies have reshaped taxonomic understanding and highlighted previously overlooked biodiversity.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Algoas in northeastern Brazil",
+    "Gracilaria tenuifrons"
+  ],
+  "resolution": 8.0
+}

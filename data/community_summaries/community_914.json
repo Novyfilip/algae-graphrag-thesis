@@ -1,0 +1,12 @@
+{
+  "community_id": 914,
+  "summary": "This cluster of research is united by a focus on the cellular and developmental biology of marine algae, specifically examining mechanisms of wound repair, cytoskeletal organization, and bioactive compound activity. Studies on the siphonous green algae *Derbesia tenuissima* and *Acetabularia calyculus* (both within the Caulerpales complex) utilized time-lapse microscopy and immunofluorescence to reveal microtubule-driven cytoplasmic partitioning during cyst formation and the remarkable regenerative capacity of giant-celled species following mechanical wounding. In parallel, research on the brown alga *Sargassum siliquastrum* shifted to biochemical analysis, isolating fucoxanthin derivatives (9′-cis-(6′R) fucoxanthin and 13-cis/13′-cis-(6′R) fucoxanthin) that demonstrated inhibition of matrix metalloproteinases (MMP-2 and MMP-9) in human fibrosarcoma cells via suppression of NF-κB and JNK signaling pathways. The geographic scope is not explicitly defined across all studies, but the work collectively spans fundamental cell biology in siphonous green algae and applied biomedical potential in brown algal compounds.",
+  "n_entities": 2,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Valonia",
+    "immunofluorescence"
+  ],
+  "resolution": 8.0
+}

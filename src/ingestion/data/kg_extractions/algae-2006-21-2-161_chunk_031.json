@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Alaria fistulosa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Alaska, USA"}], "markers": [], "applications": [], "relationships": [{"subject": "Alaria fistulosa", "predicate": "FOUND_IN", "object": "Alaska, USA", "confidence": 1.0}]}

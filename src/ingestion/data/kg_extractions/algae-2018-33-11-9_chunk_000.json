@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Trachelomonas hispida", "taxonomic_rank": "species"}, {"species_name": "Euglenophyta", "taxonomic_rank": "phylum"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Trachelomonas hispida", "predicate": "BELONGS_TO", "object": "Euglenophyta", "confidence": 1.0}]}

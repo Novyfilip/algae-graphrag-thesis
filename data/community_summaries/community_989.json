@@ -1,0 +1,12 @@
+{
+  "community_id": 989,
+  "summary": "This cluster investigates the spatial distribution and composition of dinoflagellate resting cysts in surface sediments of the Yellow Sea, with a specific focus on the dominance of Gonyaulacales cysts, which accounted for over 50% of the 25 identified cyst species. The research revealed a distinct concentric distribution pattern, with the highest cyst concentrations found in offshore central regions and decreasing concentrations toward the Chinese and Korean coasts. Key findings attribute this pattern to the Yellow Sea’s unique geological and oceanographic features, including circular current systems and sedimentary properties, which drive latitudinal variation in cyst assemblages. The geographic scope is confined to the Yellow Sea, emphasizing the role of regional hydrodynamics in shaping cyst ecology and distribution.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "HAB prediction and control",
+    "geographical mapping"
+  ],
+  "resolution": 8.0
+}

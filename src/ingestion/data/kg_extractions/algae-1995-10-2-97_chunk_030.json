@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Laminariaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "biofouling"}, {"application_name": "aquaculture"}], "relationships": [{"subject": "Laminariaceae", "predicate": "BELONGS_TO", "object": "brown algal families", "confidence": 1.0}]}

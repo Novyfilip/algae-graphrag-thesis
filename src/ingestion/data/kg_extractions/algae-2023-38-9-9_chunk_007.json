@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "orientalis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "orientalis", "predicate": "BELONGS_TO", "object": "Ralfsiaceae", "confidence": 1.0}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 233,
+  "summary": "This cluster of papers is united by a strong focus on the discovery, taxonomic characterization, and phylogenetic analysis of novel algal species and genera, often employing polyphasic approaches that integrate molecular markers (such as 16S rRNA, rbcL, cox3, and SSU/ITS sequences) with morphological and ecological data. Key findings include the description of new cyanobacteria (*Violetonostoc minutum*, *Amazonocrinis thailandica*, *Capillus* spp.), red algae (*Lympha mucosa*, *Pseudothrix borealis*), and dinoflagellates (*Yihiella yeosuensis*, *Heterocapsa minima*), as well as the identification of cryptic diversity within genera like *Scytosiphon* and *Astrochloris*. Geographically, the research spans a wide range of aquatic habitats, including subtropical Chinese rock substrates, Korean coastal and tidal flat waters, Brazilian benthic marine environments, Antarctic lichen symbioses, and the Aleutian Islands, with a notable emphasis on the Korean Peninsula and surrounding seas as a hotspot for novel algal diversity. Methodologically, the cluster also highlights the use of transcriptomics to investigate stress responses (e.g., heat and cold tolerance in *Pyropia yezoensis*), the development of DNA extraction and barcoding techniques, and the application of metabarcoding and organelle-enriched metagenomics for biodiversity assessment.",
+  "n_entities": 67,
+  "n_papers": 38,
+  "n_papers_with_summaries": 38,
+  "entity_sample": [
+    "18S rRNA genes",
+    "BLAST search",
+    "DNA amplification",
+    "DNA metabarcoding",
+    "DNA metabarcoding method",
+    "FPKM calculation",
+    "HISAT2",
+    "K. aperta",
+    "MEGAN4",
+    "MT"
+  ],
+  "resolution": 8.0
+}

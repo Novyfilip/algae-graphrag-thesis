@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Oregon"}, {"environment_name": "Washington"}], "markers": [], "applications": [], "relationships": [{"subject": "debris items", "predicate": "FOUND_IN", "object": "Oregon", "confidence": 1.0}, {"subject": "debris items", "predicate": "FOUND_IN", "object": "Washington", "confidence": 1.0}]}

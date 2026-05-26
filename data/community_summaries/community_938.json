@@ -1,0 +1,12 @@
+{
+  "community_id": 938,
+  "summary": "This cluster examines the biogeochemical and environmental monitoring applications of the brown alga *Undaria pinnatifida*, specifically focusing on its cultivation in coastal Korea. Research centered on Gijang, southeastern Korea, utilized stable isotope analysis (δ13C and δ15N) to link kelp growth rates with environmental conditions, finding that faster growth correlated with more positive carbon isotope ratios. Concurrently, heavy metal analysis revealed that younger blades exhibited significantly lower concentrations of contaminants such as copper, mercury, and lead, indicating the alga’s potential as a bioindicator of pollution. The findings collectively position *U. pinnatifida* as a dual-purpose organism for mariculture, where its tissue chemistry reflects both physiological performance and local water quality.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "analytical procedures",
+    "class 100 clean room"
+  ],
+  "resolution": 8.0
+}

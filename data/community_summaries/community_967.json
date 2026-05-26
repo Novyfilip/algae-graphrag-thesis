@@ -1,0 +1,12 @@
+{
+  "community_id": 967,
+  "summary": "This cluster of papers investigates the community structure and ecological dynamics of sublittoral macroalgae in the coastal waters of Korea, specifically around Daedo Island. The research identified a total of 85 taxa, including red, brown, and green algae, with key species such as *Ulva pertusa*, *Sargassum thunbergii*, *Corallina pilulifera*, and *Corallina officinalis* dominating the upper to mid sublittoral zones. A consistent finding across the cluster was that algal diversity and abundance decreased with increasing depth, while the biomass in deeper zones was primarily composed of brown algae. These patterns were strongly correlated with environmental factors, particularly light availability, substrate characteristics, and tidal currents.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "B site",
+    "east side of Daedo Island"
+  ],
+  "resolution": 8.0
+}

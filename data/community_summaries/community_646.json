@@ -1,0 +1,12 @@
+{
+  "community_id": 646,
+  "summary": "This cluster investigates the taxonomy, diversity, and ecological distribution of terrestrial and sub-aerial algae, particularly cyanobacteria and green algae, colonizing stone substrates and lichen symbioses in polar and temperate regions. Studies focused on Antarctic lichen phycobionts identified six distinct species of *Astrochloris* from King George Island and Morro Chico using phylogenetic and morphological analyses, while surveys of building facades and monuments in India documented 57 cyanobacterial taxa and 15 chlorophyte taxa, including *Chroococcidiopsis kashayi* and *Trentepholia aurea*. Research on Korean stone cultural properties and stoneworks recorded 50 taxa of aerial algae, with cyanophytes dominating (30 taxa), and identified newly recorded species such as *Haplaosiphon fontinalis* and *Aphanocapsa rivularis*, linking algal distribution to environmental factors like tree distance and plant coverage. Across these studies, key findings include the prevalence of desiccation-tolerant genera like *Klebsormidium*, *Stichococcus*, and *Gloeocapsa* in temperate regions, and the role of warm, humid tropical climates in supporting greater green algal diversity. The geographic scope spans Antarctica, India, and Korea, with a shared emphasis on the biodeterioration of cultural heritage and the adaptive strategies of aerial algae in extreme or anthropogenic environments.",
+  "n_entities": 2,
+  "n_papers": 4,
+  "n_papers_with_summaries": 4,
+  "entity_sample": [
+    "Coccomyxa",
+    "marble"
+  ],
+  "resolution": 8.0
+}

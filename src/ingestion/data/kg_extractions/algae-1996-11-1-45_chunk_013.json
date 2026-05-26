@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Botrytella", "taxonomic_rank": "genus"}, {"species_name": "Polytertus", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Botrytella", "predicate": "STUDIED_WITH", "object": "Polytertus", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "B. tenella", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "microsatellites"}], "applications": [], "relationships": [{"subject": "B. tenella", "predicate": "STUDIED_WITH", "object": "microsatellites", "confidence": 0.5}]}

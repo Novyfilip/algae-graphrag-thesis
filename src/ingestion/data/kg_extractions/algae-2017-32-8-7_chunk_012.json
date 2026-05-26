@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "kelps", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "kelps", "predicate": "AFFECTS", "object": "temperature", "confidence": 0.5}, {"subject": "kelps", "predicate": "AFFECTS", "object": "salinity", "confidence": 0.5}]}

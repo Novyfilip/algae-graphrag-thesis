@@ -1,0 +1,12 @@
+{
+  "community_id": 798,
+  "summary": "This cluster focused on the taxonomic utility of chloroplast morphology in red algae, specifically comparing *Yuzurua poiteaui* var. *gemmifera* and *Laurencia dendroidea*. Researchers employed advanced microscopy techniques, including confocal laser scanning microscopy (LSM), transmission electron microscopy (TEM), and high-resolution scanning electron microscopy (HRSEM), to document distinct differences in chloroplast lobe size, shape, and distribution between the two species. The key finding was that *Yuzurua poiteaui* var. *gemmifera* possessed significantly larger chloroplast lobes than *Laurencia dendroidea*, establishing chloroplast lobe morphology as a reliable taxonomic characteristic for species differentiation. The geographic and ecological scope was not explicitly defined in the summary, but the work centered on the comparative anatomy of these two closely related macroalgal taxa.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Notothyladaceae",
+    "Notothylas sp."
+  ],
+  "resolution": 8.0
+}

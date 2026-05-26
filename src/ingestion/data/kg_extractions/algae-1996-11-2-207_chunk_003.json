@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "altiplano"}, {"environment_name": "temperate region"}, {"environment_name": "Titicaca lake area"}], "markers": [], "applications": [], "relationships": [{"subject": "altiplano", "predicate": "BELONGS_TO", "object": "temperate region", "confidence": 1.0}]}

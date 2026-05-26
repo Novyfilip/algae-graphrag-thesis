@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ecklonia stolonifera", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Tongyeong shore"}], "markers": [], "applications": [], "relationships": [{"subject": "Ecklonia stolonifera", "predicate": "FOUND_IN", "object": "Tongyeong shore", "confidence": 1.0}]}

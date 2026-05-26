@@ -1,0 +1,20 @@
+{
+  "community_id": 77,
+  "summary": "This cluster of papers is united by a focus on the molecular biology, genetics, and biotechnology of diverse algal species, with an emphasis on understanding gene function, stress responses, and biotechnological applications. Key species investigated include the red algae *Pyropia yezoensis* and *Porphyra tenera*, the green algae *Chlamydomonas reinhardtii* and *Chlorella vulgaris*, and the dinoflagellates *Gymnodinium smaydae* and *Alexandrium* spp., with studies examining heat tolerance, cold acclimation, lipid and carotenoid production, and toxin inheritance. Methodologically, the research frequently employs transcriptomics, gene cloning, protein characterization (e.g., Rubisco, phototropins, lectins), and genetic manipulation techniques such as plasmid-based transformation and diploid strain generation. Geographically, the work spans Korean, Japanese, Australian, and Antarctic waters, with a strong focus on economically important species for aquaculture, biofuel, and nutraceutical production, while also addressing ecological concerns like heavy metal toxicity and climate change impacts on kelp early life stages.",
+  "n_entities": 179,
+  "n_papers": 75,
+  "n_papers_with_summaries": 74,
+  "entity_sample": [
+    "16:0 fatty acids",
+    "18:1 fatty acids",
+    "18:1/16:0 DGDG",
+    "18:2 fatty acids",
+    "18:3 fatty acids",
+    "18:3/16:0 DGDG",
+    "18:3/18:3 DGDG",
+    "ATP-dependent citrate lyase",
+    "Agrobacterium tumefaciens-mediated gene transfer",
+    "Agrobacterium-mediated transformation"
+  ],
+  "resolution": 8.0
+}

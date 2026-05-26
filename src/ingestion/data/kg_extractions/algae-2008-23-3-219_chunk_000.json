@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Beopsu Marsh"}, {"environment_name": "Haman-gun, Gyeongsangnam-do, Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Beopsu Marsh", "predicate": "FOUND_IN", "object": "Haman-gun, Gyeongsangnam-do, Korea", "confidence": 1.0}]}

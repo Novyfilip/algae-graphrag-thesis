@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "NaOCl"}, {"compound_name": "CO2"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "NaOCl", "predicate": "AFFECTS", "object": "marine phytoplankton", "confidence": 0.5}, {"subject": "CO2", "predicate": "AFFECTS", "object": "marine phytoplankton", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cladophora densa", "taxonomic_rank": "species"}, {"species_name": "Cladophora opaca", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Cladophora densa", "predicate": "STUDIED_WITH", "object": "Cladophora opaca", "confidence": 1.0}]}

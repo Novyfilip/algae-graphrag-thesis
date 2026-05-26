@@ -1,0 +1,14 @@
+{
+  "community_id": 334,
+  "summary": "This cluster investigates the efficacy of hydraulic-gun-aerators as a physical control method for mitigating cyanobacterial blooms in a temperate reservoir ecosystem. Field experiments conducted at Sayeon Dam Reservoir in Ulsan City, Korea, demonstrated that deploying these aerators across a 120-meter distance reduced the total phytoplankton standing crop by approximately 10% and lowered average surface water temperature by 2.0°C. The intervention did not significantly alter the vertical distribution of dissolved oxygen, and the deepest hypolimnetic layer remained unaffected, suggesting the aeration primarily influenced the epilimnion. The research establishes a site-specific operational distance for the aerators based on dissolved oxygen depth profiles, contributing to localized bloom management strategies.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cyanobacterial Bloom",
+    "Dam Reservoir",
+    "Hydraulic-Gun-Aerator Operation",
+    "Hydraulic-Gun-Aerators"
+  ],
+  "resolution": 8.0
+}

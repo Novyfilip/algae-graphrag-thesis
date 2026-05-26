@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Red algal parasites", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "Molecular methods"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Red algal parasites", "predicate": "STUDIED_WITH", "object": "Molecular methods", "confidence": 1.0}]}

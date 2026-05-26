@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Zostera marina", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Gamak Bay, Yeosu"}], "markers": [], "applications": [], "relationships": [{"subject": "Zostera marina", "predicate": "FOUND_IN", "object": "Gamak Bay, Yeosu", "confidence": 1.0}]}

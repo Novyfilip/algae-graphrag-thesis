@@ -1,0 +1,12 @@
+{
+  "community_id": 899,
+  "summary": "This cluster investigates the photoprotective role of mycosporine-like amino acids (MAAs) in marine macroalgae, particularly in response to increased solar UV-B radiation from stratospheric ozone depletion. Seven specific MAAs, including mycosporine-glycine, shinorine, porphyra-334, and palythine, were identified with absorption spanning both UV-B and UV-A wavelengths. Research demonstrated that Antarctic rhodophytes (red algae) with higher MAA concentrations exhibited greater tolerance to natural and artificial UV radiation, establishing a direct correlation between MAA levels and UV sensitivity. Experimental evidence further indicated that MAA formation is regulated by both ultraviolet radiation and photosynthetically active radiation (PAR), suggesting a complex physiological role beyond simple UV screening.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Trichothecium roseum",
+    "mycosporine glutaminol"
+  ],
+  "resolution": 8.0
+}

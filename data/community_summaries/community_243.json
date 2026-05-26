@@ -1,0 +1,20 @@
+{
+  "community_id": 243,
+  "summary": "This cluster of papers is unified by a strong focus on the biodiversity, community structure, and ecology of benthic macroalgae, predominantly along the Korean coastline, with additional studies from the western Atlantic, Gulf of California, and British Virgin Islands. Key species connecting these studies include *Corallina pilulifera*, *Sargassum thunbergii*, *Hizikia fusiformis*, *Ulva pertusa*, and *Gloiopeltis furcata*, which frequently appear as dominant or subdominant taxa across intertidal and subtidal zones. Many investigations employed quadrat-based sampling and vertical zonation analysis to characterize seasonal and spatial dynamics, revealing that factors such as tidal level, water movement, substrate type, and depth significantly influence algal community composition and biomass. The research also encompasses taxonomic and phylogeographic studies, including the discovery of new species (e.g., *Umbraulva yunseulla*, *Fissipedicella orientalis*, *Pyropia retorta*) and the use of DNA barcoding to resolve cryptic diversity, particularly within the genera *Plocamium*, *Chondrus*, and *Sphacelaria*. Geographically, the work is heavily concentrated on the Korean Peninsula—spanning the South Sea, East Sea, Jeju Island, and the West Coast—with additional contributions from Brazil, Mexico, and the Caribbean, highlighting a broad but regionally focused effort to document macroalgal flora and its ecological drivers.",
+  "n_entities": 49,
+  "n_papers": 36,
+  "n_papers_with_summaries": 36,
+  "entity_sample": [
+    "Acrosorium vendoi",
+    "Benthic Microalgae",
+    "Caulacanthus okamurai",
+    "Ceramium bovdenti",
+    "Champylaephora crassa",
+    "Chironomid",
+    "Chohwa-Ri",
+    "Chondna crassicaults",
+    "Chthamalus challengeri",
+    "Dongcheon stream"
+  ],
+  "resolution": 8.0
+}

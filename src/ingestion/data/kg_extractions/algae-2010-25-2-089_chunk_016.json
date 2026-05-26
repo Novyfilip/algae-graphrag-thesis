@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "leaf marking technique"}, {"method_name": "dry weight measurement"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "leaf marking technique", "predicate": "STUDIED_WITH", "object": "dry weight measurement", "confidence": 0.5}]}

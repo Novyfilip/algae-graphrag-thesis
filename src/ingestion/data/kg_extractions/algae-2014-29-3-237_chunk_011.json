@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. nodosum", "taxonomic_rank": null}], "compounds": [{"compound_name": "fucoidan"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "fucoidan", "predicate": "PRODUCES", "object": "A. nodosum", "confidence": 1.0}]}

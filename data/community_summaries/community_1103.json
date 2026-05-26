@@ -1,0 +1,12 @@
+{
+  "community_id": 1103,
+  "summary": "This cluster examines the ecological role of the macroalga *Ulva pertusa* in shaping intertidal community dynamics on Korean rocky shores, specifically through experimental manipulation of disturbance timing. Studies demonstrated that *U. pertusa* acted as a key driver of rapid community recovery during summer months, but its influence was significantly weaker in winter, highlighting the species' seasonally variable impact on resilience. The research collectively underscores that disturbance timing is a critical factor in temperate intertidal systems, with *U. pertusa* functioning as a dominant, and often negative, element in the recovery process. The geographic scope is confined to temperate Korean intertidal habitats, providing region-specific insights into macroalgal-mediated community assembly.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "control plots",
+    "treatment plots"
+  ],
+  "resolution": 8.0
+}

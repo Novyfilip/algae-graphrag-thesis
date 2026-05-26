@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Symphyocolax", "taxonomic_rank": "genus"}, {"species_name": "Symphyocolax koreana", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Symphyocolax koreana", "predicate": "BELONGS_TO", "object": "Symphyocolax", "confidence": 1.0}]}

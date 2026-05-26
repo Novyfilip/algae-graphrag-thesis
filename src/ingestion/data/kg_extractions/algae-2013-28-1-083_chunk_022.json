@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Australia"}, {"environment_name": "Texas, USA"}], "markers": [], "applications": [], "relationships": [{"subject": "galls", "predicate": "FOUND_IN", "object": "Australia", "confidence": 1.0}, {"subject": "isolate 3492", "predicate": "FOUND_IN", "object": "Texas, USA", "confidence": 1.0}]}

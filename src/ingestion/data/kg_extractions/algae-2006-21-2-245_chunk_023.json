@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. nodosum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Tor Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "A. nodosum", "predicate": "FOUND_IN", "object": "Tor Bay", "confidence": 1.0}]}

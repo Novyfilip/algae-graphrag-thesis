@@ -1,0 +1,20 @@
+{
+  "community_id": 24,
+  "summary": "This cluster of papers is unified by a focus on the biodiversity, community structure, and ecological dynamics of marine macroalgae, predominantly along the coastlines of Korea, including Jeju Island, the South Sea, the East Coast, and the Yellow Sea. Key species such as *Hizikia fusiformis*, *Sargassum thunbergii*, *Corallina pilulifera*, *Ecklonia cava*, and *Undaria pinnatifida* were repeatedly identified as dominant or ecologically significant across multiple studies, which consistently documented vertical zonation patterns, seasonal biomass fluctuations, and the influence of environmental factors like temperature, wave action, and nutrient availability. The research also explored applied themes including the bioactivity of algal compounds (e.g., fucoidans, polyphenols), the use of seaweeds for bioremediation, carbon flux, and anti-inflammatory applications, as well as cultivation and transplantation methods for species such as *Silvetia siliquosa* and *Saccharina japonica*. Overall, the cluster reflects a comprehensive investigation into the floristics, ecology, and biotechnological potential of temperate Korean seaweed communities.",
+  "n_entities": 257,
+  "n_papers": 166,
+  "n_papers_with_summaries": 166,
+  "entity_sample": [
+    "2 M TFA hydrolysis",
+    "75K SNP microarrays",
+    "AOAC methodology",
+    "Agarophyton vermiculophyllum",
+    "Allozyme Variation Analysis",
+    "Amenophia orientalis",
+    "B1 to B6",
+    "BioLC (DX 500 Chromatography System, Dionex Co., USA)",
+    "Bongyoung-ri, Dongil-meon, Kohung-kun, Chonlanam-do",
+    "Busan cultivation farm"
+  ],
+  "resolution": 8.0
+}

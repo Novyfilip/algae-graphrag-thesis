@@ -1,0 +1,12 @@
+{
+  "community_id": 1047,
+  "summary": "This cluster investigates the ecological role of floating macroalgal rafts as vectors for biodiversity and species dispersal, specifically focusing on *Sargassum horneri* in the Korea Strait. Using polymerase chain reaction–free small-organelles enriched metagenomics, researchers identified 185 epibiotic eukaryotic species on these rafts, with a functional breakdown of 48 photo-autotrophic, 43.8% phagotrophic, 4.2% osmo- or saprotrophic, and 2.1% parasitic organisms. Key findings revealed that these rafts serve as significant dispersal mechanisms for alien species, particularly taxa within *Alveolata* and *Opisthokonts*, underscoring their ecological importance in shaping marine community structure and biogeography in the region.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "floating Sargassum rafts",
+    "pelagic habitat"
+  ],
+  "resolution": 8.0
+}

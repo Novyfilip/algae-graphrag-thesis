@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Porphyra yezoensis", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "Thioredoxin-like proteins"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Porphyra yezoensis", "predicate": "PRODUCES", "object": "Thioredoxin-like proteins", "confidence": 1.0}]}

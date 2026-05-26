@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Microalgal", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Prydz Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "Microalgal", "predicate": "FOUND_IN", "object": "Prydz Bay", "confidence": 1.0}]}

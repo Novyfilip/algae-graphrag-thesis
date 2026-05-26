@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ulva pertusa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Pacific Coast of Mexico"}], "markers": [], "applications": [], "relationships": [{"subject": "Ulva pertusa", "predicate": "FOUND_IN", "object": "Pacific Coast of Mexico", "confidence": 1.0}]}

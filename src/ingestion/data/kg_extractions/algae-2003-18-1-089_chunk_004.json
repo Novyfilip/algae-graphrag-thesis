@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Porphyra yezoensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "crossbreeding"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Porphyra yezoensis", "predicate": "STUDIED_WITH", "object": "crossbreeding", "confidence": 1.0}]}

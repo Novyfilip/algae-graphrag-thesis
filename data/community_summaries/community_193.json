@@ -1,0 +1,20 @@
+{
+  "community_id": 193,
+  "summary": "This cluster of papers is unified by a strong focus on the biodiversity, taxonomy, and ecology of marine algae and dinoflagellates, with a pronounced geographic emphasis on Korean coastal waters, including the South Sea, Jeju Island, and the Yellow Sea. Key species such as *Corallina pilulifera*, *Hizikia fusiformis*, *Sargassum* spp., and *Ecklonia cava* recur across multiple studies, often in the context of community structure, vertical zonation, and biomass estimation. Methodologically, the research frequently employs molecular phylogenetic tools (e.g., rbcL, COI-5P, LSU rDNA) to resolve taxonomic ambiguities and discover cryptic or novel species, such as *Coolia malayensis*, *Neosiphonia japonica*, and *Ramipedicella*. The studies collectively document patterns of species distribution, seasonal variation, and environmental adaptation, including responses to light, temperature, and anthropogenic impacts like thermal discharge from nuclear power plants.",
+  "n_entities": 91,
+  "n_papers": 78,
+  "n_papers_with_summaries": 78,
+  "entity_sample": [
+    "A. rigida var. antillana",
+    "Alexandrium taylorii",
+    "Amphirea spp.",
+    "Amphiroa",
+    "Amphiroa aberrans",
+    "Amphiroa crassissima",
+    "Amphiroa fragissima",
+    "Amphiroa itonoi",
+    "Amphiroa rigida",
+    "Amphiroa rigida Lamouroux"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "B. dumontioides", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "different ocean basins"}], "markers": [], "applications": [], "relationships": [{"subject": "B. dumontioides", "predicate": "IDENTIFIED_BY", "object": "different ocean basins", "confidence": 1.0}]}

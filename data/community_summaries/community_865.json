@@ -1,0 +1,12 @@
+{
+  "community_id": 865,
+  "summary": "This cluster of research focuses on the biodiversity and vertical zonation of marine macroalgae along the temperate coastline of Kangwon Province, South Korea. The studies collectively document a flora of 231 algal taxa, with a strong emphasis on the distribution and ecological roles of key brown and red algal species, including *Coccophora langsdorfii*, *Costaria costata*, *Kjellmaniella crassifolia*, *Tichocarpus crinitus*, *Odonthalia corymbifera*, *Ishige okamurae*, *I. sinicola*, and *Pelvetia siliquosa*. A shared finding is the delineation of a two-subzone tidal system, where the upper and mid-lower intertidal zones support distinct floristic communities. The geographic scope is narrowly confined to the shore area of Kangwon Province, providing a localized baseline for understanding species-specific habitat preferences and community structure in the region.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ohori on the east coast of Korea",
+    "Sargassum confusam"
+  ],
+  "resolution": 8.0
+}

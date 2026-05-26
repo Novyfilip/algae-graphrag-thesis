@@ -1,0 +1,12 @@
+{
+  "community_id": 810,
+  "summary": "The papers in this cluster are united by a focus on the red algal genus *Grateloupia*, specifically *Grateloupia filicina* from the Indian coast, examining its taxonomy, morphology, and reproductive biology. Key findings include the characterization of its multiaxial thallus, dioecious reproductive structures (carpogonial branches, cystocarps, and tetrasporangia), and the identification of two intraspecific taxa, *var. luxurians* and *var. filicina*, through both morphological and genetic data. The research emphasizes the species' ecological distribution across diverse Indian coastal habitats and its commercial significance as a source of carrageenan.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Periodic Acid Schiffs",
+    "Periodic Acid Schiffs staining"
+  ],
+  "resolution": 8.0
+}

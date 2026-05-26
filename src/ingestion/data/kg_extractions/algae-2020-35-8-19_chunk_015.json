@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Macrocystis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "rocky reef"}], "markers": [], "applications": [], "relationships": [{"subject": "Macrocystis", "predicate": "FOUND_IN", "object": "rocky reef", "confidence": 1.0}]}

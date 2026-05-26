@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Amphidinium sensu stricto", "taxonomic_rank": "genus"}], "compounds": [], "methods": [{"method_name": "morphological features"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "morphological features", "predicate": "STUDIED_WITH", "object": "Amphidinium sensu stricto", "confidence": 1.0}]}

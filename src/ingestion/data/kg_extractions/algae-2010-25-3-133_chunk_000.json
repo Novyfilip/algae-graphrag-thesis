@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "benthic diatoms", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "benthic diatoms", "predicate": "AFFECTS", "object": "light", "confidence": 1.0}, {"subject": "benthic diatoms", "predicate": "AFFECTS", "object": "sediment grain size", "confidence": 1.0}]}

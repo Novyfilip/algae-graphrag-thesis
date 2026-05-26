@@ -1,0 +1,20 @@
+{
+  "community_id": 25,
+  "summary": "This cluster of papers is unified by a strong geographic focus on Korean coastal and inland waters, where researchers investigated the growth, physiology, and ecological dynamics of diverse algal species under varying environmental conditions. Key themes included the optimization of cultivation parameters—such as temperature, salinity, irradiance, and nutrient concentrations—for commercially or ecologically significant taxa, including the red seaweeds *Pyropia yezoensis*, *Gracilaria vermiculophylla*, and *Eucheuma serra*, the brown kelp *Undaria pinnatifida* and *Saccharina japonica*, and the harmful bloom-forming dinoflagellates *Cochlodinium polykrikoides* and *Alexandrium* species. Studies frequently employed molecular tools (e.g., rDNA sequencing, metabarcoding, and proteomics) to resolve taxonomic relationships, track harmful algal blooms, and assess genetic diversity, while also evaluating the bioremediation potential of macroalgae and microalgae for nutrient extraction from aquaculture effluent. Across the cluster, findings consistently demonstrated that temperature was a primary driver of growth, reproduction, and bloom formation, with specific thresholds identified for species like *Caulerpa okamurae* (maturation above 19°C) and *Microcystis aeruginosa* (optimal growth at 25–35°C), and that nutrient loading from anthropogenic sources strongly influenced phytoplankton community composition and eutrophication status in reservoirs and estuaries.",
+  "n_entities": 253,
+  "n_papers": 196,
+  "n_papers_with_summaries": 194,
+  "entity_sample": [
+    "0494",
+    "18S rDNA sequence",
+    "18S rRNA",
+    "18S rRNA gene sequencing",
+    "18S rRNA phylogeny",
+    "18S rRNA sequencing",
+    "28S SSU",
+    "A. macrospora NIER-10016",
+    "All microalgae",
+    "Amphidinium trulla"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "coralline red algal species", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "artificial iron reefs"}], "markers": [], "applications": [], "relationships": [{"subject": "coralline red algal species", "predicate": "FOUND_IN", "object": "artificial iron reefs", "confidence": 1.0}]}

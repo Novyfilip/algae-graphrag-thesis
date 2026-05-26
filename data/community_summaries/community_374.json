@@ -1,0 +1,13 @@
+{
+  "community_id": 374,
+  "summary": "This cluster focuses on the ecological and physiological responses of Antarctic marine diatoms to environmental stressors. Studies investigated the seasonal dynamics of cryophilic species *Navicula glaciei* and *N. perminuta* in coastal Antarctica, linking their population peaks in austral autumn and spring to frazil ice formation and shifts in seawater temperature and salinity. Concurrently, research on *Chaetoceros neogracile*, *Fragilariopsis cylindrus*, and *Thalassiosira antarctica* demonstrated that exposure to UV-B radiation causes a rapid, permanent decline in photosynthetic activity and fluorescence. Collectively, these papers highlight how both physical (ice formation, UV-B) and chemical (salinity, temperature) factors drive diatom abundance and productivity in the Antarctic coastal zone.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Antarctic Sea ice microalgae",
+    "Antarctic frazil ice algae",
+    "Antarctic sea ice"
+  ],
+  "resolution": 8.0
+}

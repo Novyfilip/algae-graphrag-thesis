@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Halopeltis", "taxonomic_rank": "genus"}, {"species_name": "Rhodymenia adnata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Rhodymenia adnata", "predicate": "FOUND_IN", "object": "Korea", "confidence": 1.0}]}

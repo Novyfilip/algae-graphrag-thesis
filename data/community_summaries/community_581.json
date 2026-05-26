@@ -1,0 +1,12 @@
+{
+  "community_id": 581,
+  "summary": "This cluster of research focuses on the taxonomic revision of the diatom genus *Amphora sensu lato*, integrating molecular phylogenetics with detailed morphological analysis to resolve species boundaries and evolutionary relationships. A key finding was the distinction of the subgenus *Halamphora Cleve* as a separate lineage, supporting its reclassification, and the formal identification of *Amphora terroris* as a new species. The studies underscore the critical role of morphological data in validating molecular-based phylogenies for this globally distributed group, which inhabits diverse marine and estuarine environments.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AF525670",
+    "Pleurosira laevis"
+  ],
+  "resolution": 8.0
+}

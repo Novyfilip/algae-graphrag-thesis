@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "sippewissettensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "sippewissettensis", "predicate": "IDENTIFIED_BY", "object": "Teal et al. 1998", "confidence": 1.0}]}

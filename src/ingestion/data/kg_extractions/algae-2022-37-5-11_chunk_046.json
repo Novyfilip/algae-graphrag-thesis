@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "sea"}, {"environment_name": "pond"}], "markers": [], "applications": [], "relationships": [{"subject": "seaweed", "predicate": "FOUND_IN", "object": "sea", "confidence": 0.5}, {"subject": "seaweed", "predicate": "FOUND_IN", "object": "pond", "confidence": 0.5}]}

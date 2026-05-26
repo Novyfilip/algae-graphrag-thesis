@@ -1,0 +1,20 @@
+{
+  "community_id": 176,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and biogeography of diverse algal and cyanobacterial taxa, with a particular emphasis on species discovery and characterization in Korean coastal waters and the broader northwest Pacific region. Researchers frequently employed polyphasic approaches, integrating morphological analysis with molecular markers such as LSU rDNA, SSU rDNA, rbcL, and COI-5P, to resolve phylogenetic relationships and describe new species, including dinoflagellates like *Ansanella granifera* and *Scrippsiella lachrymosa*, diatoms such as *Cocconeis coreana*, and macroalgae like *Ecklonia cava* and *Pyropia* species. A recurring pattern across the cluster is the documentation of endemic or newly recorded species from geographically isolated or understudied regions, including the Kurile Islands, the Sea of Okhotsk, Jeju Island, and the Abrolhos Bank in Brazil, highlighting the role of hydrographic barriers and water temperature in shaping distinct floristic communities. Additionally, several studies investigated the ecological dynamics of harmful algal blooms, nutrient-driven phytoplankton growth in river systems like the Nakdong and Youngsan Rivers, and the ecophysiology of mixotrophic and kleptoplastidic dinoflagellates, underscoring the interplay between species-specific traits, environmental factors, and ecosystem function.",
+  "n_entities": 101,
+  "n_papers": 139,
+  "n_papers_with_summaries": 137,
+  "entity_sample": [
+    "18SV4",
+    "AM502012",
+    "Achnanthidium minutissimum",
+    "Amphiroa pusilla",
+    "Berkeleya rutilans",
+    "Berlin, Germany",
+    "Bosung Bay",
+    "Bryozoa",
+    "C. lineata",
+    "C. pediculus"
+  ],
+  "resolution": 8.0
+}

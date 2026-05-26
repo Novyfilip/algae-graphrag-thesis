@@ -1,0 +1,12 @@
+{
+  "community_id": 887,
+  "summary": "This cluster synthesizes research on the taxonomy, phylogeny, and global biogeography of the brown algal order Sphacelariales (Phaeophyceae), with a particular focus on the delimitation of its five constituent families: Cladostephaceae, Sphacelariaceae, Stypocaulaceae, Choristocarpaceae, and the genus *Alethocladus*. The studies collectively identified that the family Choristocarpaceae is now recognized as belonging within the broader Sphacelariales group, while emphasizing that the boundaries between these genera remain poorly resolved and require further investigation through both molecular analysis and detailed morphological study. Geographically, the research established that Sphacelariales species are predominantly distributed in temperate regions, with a notable concentration in tropical areas and a limited presence in cold environments, particularly within the subgenera *Propagulifera* and *Tribuloides*. The findings underscore a critical need for continued molecular and morphological research to clarify the unique characteristics of the *Alethocladus* genus and to resolve the overall taxonomic relationships within the order.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Stypocaulon spec.",
+    "Subtropical and tropical areas"
+  ],
+  "resolution": 8.0
+}

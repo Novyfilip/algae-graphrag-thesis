@@ -1,0 +1,12 @@
+{
+  "community_id": 867,
+  "summary": "This cluster synthesizes a foundational taxonomic survey of freshwater green algae (Chlorophyceae) conducted in the Chilgok-Kun area of Korea between 1983 and 1984. The research documented 174 taxa, including 139 species, 27 varieties, and 8 forms distributed across 8 orders and 56 genera, with specific findings such as *Chlamydomonas angulosa* and *Chlamydomonas epiphytica* representing notable records for the region. The study established a comprehensive baseline for freshwater algal flora in this Korean locality, emphasizing systematic classification and biodiversity assessment over experimental or applied phycology. Geographically and ecologically, the work is confined to a temperate freshwater system in East Asia, reflecting a traditional floristic approach to algal research from the mid-1980s.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Scenedesmus Arten",
+    "Unrarns"
+  ],
+  "resolution": 8.0
+}

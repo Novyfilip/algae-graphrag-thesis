@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. belizeanus", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Pakistan Waters"}], "markers": [], "applications": [], "relationships": [{"subject": "G. belizeanus", "predicate": "FOUND_IN", "object": "Pakistan Waters", "confidence": 1.0}]}

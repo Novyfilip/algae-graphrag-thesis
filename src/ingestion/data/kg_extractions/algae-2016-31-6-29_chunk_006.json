@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "phytosterols"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "chemopreventive drugs for cancer"}], "relationships": [{"subject": "phytosterols", "predicate": "PRODUCES", "object": "chemopreventive drugs for cancer", "confidence": 0.5}]}

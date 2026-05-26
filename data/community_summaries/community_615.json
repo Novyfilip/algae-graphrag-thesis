@@ -1,0 +1,12 @@
+{
+  "community_id": 615,
+  "summary": "Research on the dinoflagellate *Cochlodinium polykrikoides* has characterized the organic substances it produces, identifying extracellular polysaccharide as the primary component, with its release rate increasing during the stationary growth phase. Analysis of the polysaccharide's amino acid composition revealed proline as the dominant amino acid, alongside a notable abundance of histamine, among 20 detected amino acids. These findings connect the species' metabolic output directly to its growth stage, highlighting a shift in organic matter production that may influence its ecological role in marine environments.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Aureoumbra lagunensis",
+    "exopolymer secretions (EPS)"
+  ],
+  "resolution": 8.0
+}

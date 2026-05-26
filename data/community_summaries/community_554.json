@@ -1,0 +1,13 @@
+{
+  "community_id": 554,
+  "summary": "This cluster investigates the ecological dynamics of Antarctic phytoplankton communities, specifically in Prydz Bay, East Antarctica, during the late Austral summer of 2006. The research utilized a submersible fluorescence probe to measure microalgal concentrations, identifying a community dominated by diatoms with a low presence of cryptophytes. A key finding was a relatively high relative microalgal concentration, with a maximum chlorophyll concentration of 14.87 μg L-1, driven by nutrient availability, low sea surface temperature, subsurface upwelling, and increased photosynthetically active radiation (PAR). The study also observed a high concentration of blue-green algae relative to green algae, a pattern influenced by Antarctic meltwater and the abundance of cryptophytes.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "previous winter mixed layer",
+    "subsurface cold water",
+    "winter water"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 171,
+  "summary": "This cluster of research is geographically centered on the Korean Peninsula, with significant extensions into the North Pacific, Bering Sea, and White Sea, and focuses heavily on the taxonomy, distribution, and ecological dynamics of marine macroalgae. A core theme is the impact of anthropogenic stressors, particularly thermal effluents from nuclear power plants (e.g., Gori, Wolseong, Uljin), which were shown to shift community composition toward warm-tolerant species like *Enteromorpha compressa* and *Padina arborescens*, while reducing overall diversity. Concurrently, a major research line investigated the bioactivity of specific brown algae—such as *Ecklonia cava*, *Eisenia bicyclis*, *Hizikia fusiformis*, and *Sargassum* species—isolating phlorotannins (e.g., dieckol, phlorofucofuroeckol-A) and polysaccharides with demonstrated antioxidant, anti-inflammatory, antiviral, and anti-melanogenesis properties. Foundational taxonomic and floristic studies, including historical accounts of Russian and British expeditions, provided the baseline for understanding species distributions, while applied work on *Tetraselmis* sp. and *Macrocystis pyrifera* explored biotechnological applications in lipid production and heavy metal bioaccumulation, respectively.",
+  "n_entities": 105,
+  "n_papers": 101,
+  "n_papers_with_summaries": 101,
+  "entity_sample": [
+    "4 m depth",
+    "ACE inhibitors",
+    "Baegryong Island",
+    "CO2 absorption",
+    "DPPH scavenging activity",
+    "Dogdo Island",
+    "Enteromorpha bulbosa",
+    "Far East",
+    "Fusanpo",
+    "Jindo-gun islands"
+  ],
+  "resolution": 8.0
+}

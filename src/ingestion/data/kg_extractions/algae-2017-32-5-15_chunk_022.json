@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Calliblepharis saidana", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "molecular phylogeny"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Calliblepharis saidana", "predicate": "STUDIED_WITH", "object": "molecular phylogeny", "confidence": 1.0}]}

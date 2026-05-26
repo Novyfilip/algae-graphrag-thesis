@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "NGS"}], "environments": [], "markers": [{"marker_name": "ribulose-1,5-bisphosphate carboxylase large subunit"}], "applications": [], "relationships": [{"subject": "NGS", "predicate": "STUDIED_WITH", "object": "ribulose-1,5-bisphosphate carboxylase large subunit", "confidence": 0.5}]}

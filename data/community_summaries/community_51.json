@@ -1,0 +1,20 @@
+{
+  "community_id": 51,
+  "summary": "This cluster of papers is predominantly focused on the biodiversity, community structure, and vertical zonation of benthic marine algae along the coasts of Korea and adjacent regions, with a strong emphasis on the temperate and subtropical waters of the East, South, and Yellow Seas. Key species that repeatedly connect these studies include the brown algae *Sargassum thunbergii*, *Hizikia fusiformis*, and *Ecklonia cava*, as well as the red alga *Corallina pilulifera*, which were frequently identified as dominant or subdominant taxa across intertidal and subtidal zones. A major pattern across the cluster was the seasonal and depth-dependent variation in algal biomass and species composition, with many studies reporting peak biomass in spring and a shift from green to brown and red algae with increasing depth. The research also addressed anthropogenic impacts, such as the effects of thermal effluents from nuclear power plants and red tide events, which altered community structure and favored opportunistic species like *Ulva pertusa* and *Enteromorpha* spp.",
+  "n_entities": 208,
+  "n_papers": 118,
+  "n_papers_with_summaries": 117,
+  "entity_sample": [
+    "185 rRNA",
+    "AB096881",
+    "AB096882",
+    "AB096885",
+    "AB096886",
+    "AB096889",
+    "AB096890",
+    "AB096891",
+    "AB096892",
+    "AB096894"
+  ],
+  "resolution": 8.0
+}

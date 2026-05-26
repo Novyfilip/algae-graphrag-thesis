@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ceramiales", "taxonomic_rank": "order"}, {"species_name": "Ceramiaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [{"environment_name": "sublittoral"}], "markers": [], "applications": [], "relationships": [{"subject": "Ceramiaceae", "predicate": "BELONGS_TO", "object": "Ceramiales", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 928,
+  "summary": "This cluster is united by the use of molecular phylogenetic methods, particularly the analysis of ribosomal and plastid gene sequences (such as RUBISCO spacer and rpl23 gene clusters), to resolve taxonomic and evolutionary relationships among algae and their relatives. One study reclassified the brown algae *Sphacelaria rigidula* and *S. fusca* into a new species, *S. didichotoma*, based on morphological and molecular data, with a geographic focus on the northwestern Pacific region. Another investigation traced the shared ancestry between charophytes and angiosperms through the rpl23 gene cluster of *Spirogyra maxima*, identifying a eubacterial promoter and unique introns as key genetic features linking these chlorophyll a+b eukaryotes. Together, these papers demonstrate how sequence-based phylogenetics clarifies species boundaries in macroalgae and illuminates deep evolutionary transitions, such as the origin of land plants from charophyte ancestors.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "377 DNA Sequencing System",
+    "automated sequencing"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 96,
+  "summary": "This cluster of papers is heavily centered on Korean coastal and inland waters, with a strong emphasis on the taxonomy, ecology, and physiological responses of harmful algal bloom (HAB) species, particularly dinoflagellates like *Cochlodinium polykrikoides*, *Alexandrium* spp., and *Chattonella* spp., as well as raphidophytes and diatoms. A unifying methodological theme is the application of advanced molecular quantification techniques, such as droplet digital PCR (ddPCR) and qPCR, to accurately assess the abundance and distribution of these protists, often in relation to environmental drivers like nutrient concentrations (nitrate, phosphate), temperature, and light. The research also extensively investigates the feeding interactions between HAB species and heterotrophic protist grazers (e.g., *Oxyrrhis marina*, *Gyrodinium dominans*), revealing species-specific predation rates that influence bloom dynamics. Geographically, the studies span diverse Korean habitats, including the South Sea, Jinhae Bay, the Nakdong River, and Jeju Island tidepools, with additional work on macroalgal community structure, seagrass beds, and the impacts of ocean acidification and aquaculture effluent on both micro- and macroalgae.",
+  "n_entities": 160,
+  "n_papers": 121,
+  "n_papers_with_summaries": 118,
+  "entity_sample": [
+    "14C method",
+    "Baealdo (site #2)",
+    "Boryung",
+    "C. Antiqua",
+    "C. marina",
+    "C. marina complex",
+    "C. marina var. ovata",
+    "C. marine",
+    "C. marine complex",
+    "C. ovata"
+  ],
+  "resolution": 8.0
+}

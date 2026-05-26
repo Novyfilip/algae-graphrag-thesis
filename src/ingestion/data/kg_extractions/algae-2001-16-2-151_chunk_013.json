@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "DNA"}, {"compound_name": "RNA"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "DNA", "predicate": "CONTAINS", "object": "RNA", "confidence": 0.3}]}

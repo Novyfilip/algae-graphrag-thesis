@@ -1,0 +1,12 @@
+{
+  "community_id": 1030,
+  "summary": "This cluster investigates the optimization of lipid production in the marine chlorophyte *Tetraselmis* sp. by manipulating nitrogen sources in growth media, with a focus on biodiesel feedstock potential. Researchers found that organic nitrogen sources, particularly yeast extract and glycine, significantly outperformed inorganic sources like nitrate and ammonium, yielding higher lipid productivities of 36.0 mg L⁻¹ d⁻¹ and 21.5 mg L⁻¹ d⁻¹, respectively. The studies consistently identified palmitic, oleic, linoleic, and linolenic acids as the major fatty acids in *Tetraselmis* sp., underscoring its suitability for biodiesel applications. The geographic and ecological scope is marine, reflecting a broader interest in utilizing coastal microalgae for sustainable biofuel production.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "MUFA",
+    "mono unsaturated fatty acids"
+  ],
+  "resolution": 8.0
+}

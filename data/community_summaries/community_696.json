@@ -1,0 +1,12 @@
+{
+  "community_id": 696,
+  "summary": "This cluster focuses on the taxonomic revision and morphological characterization of freshwater diatoms, specifically the genus *Pseudostaurosiropsis*, using scanning electron microscopy (SEM) to resolve species-level ambiguities. Researchers described two new species from the United States, distinguished by lanceolate valves with sub-rostrate apices, dentate spines, and a unique rotae configuration, which challenged prior generic boundaries. Key findings emphasized that the structural features of the *rotae* and *olae* are critical for differentiating these taxa from closely related genera. The work underscores the necessity of integrating high-resolution morphological data with broader taxonomic frameworks to achieve accurate classification within this group.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Fragilaria nitzschioides var. brasiliensis",
+    "Fragilariforma brasiliensis"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Alexandrium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [{"method_name": "compound microscope"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Alexandrium", "predicate": "STUDIED_WITH", "object": "compound microscope", "confidence": 1.0}]}

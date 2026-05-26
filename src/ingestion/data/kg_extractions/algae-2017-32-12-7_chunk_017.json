@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "one-way ANOVAs"}, {"method_name": "Kruskal-Wallis tests"}, {"method_name": "log transformation"}, {"method_name": "PRIMER 5"}, {"method_name": "Bray-Curtis similarity analysis"}, {"method_name": "Shannon-Wiener's diversity index"}], "environments": [], "markers": [], "applications": [], "relationships": []}

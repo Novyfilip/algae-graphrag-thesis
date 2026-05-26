@@ -1,0 +1,13 @@
+{
+  "community_id": 549,
+  "summary": "This cluster synthesizes research on the floristic composition and ecological dynamics of benthic marine algal communities along the Korean coastline, with a particular focus on sites impacted by industrial infrastructure. Studies documented a total of 250 algal species across green, brown, and red divisions, with the highest species richness (189 species) recorded at Wolsong and the lowest (99 species) at Yonggwang, while Yongil Bay was noted for its comparatively poorer inner-coast flora. Key findings revealed strong seasonal biomass fluctuations, with peak species diversity in spring (121 species) and a decline in autumn (63 species), and identified *Ulva pertusa*, *Sargassum thunbergii*, and *Corallina pilulifera* as dominant taxa across multiple sites. The research also highlighted the prevalence of blue-green algae at Wolsong and documented common red algal species such as *Grateloupia turuturu*, *Pachymeniopsis lanceolata*, and *Chondrus ocellatus* in Yongil Bay. Geographically, the studies spanned the eastern (Ulchin, Wolsong) and western (Yonggwang) coasts of Korea, including areas near nuclear power plants, providing a baseline for understanding anthropogenic influences on regional algal biodiversity.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Gyeogryeolbi-Islands, western coast of Korea",
+    "Komundo Island, southern coast of Korea",
+    "summer marine algal flora"
+  ],
+  "resolution": 8.0
+}

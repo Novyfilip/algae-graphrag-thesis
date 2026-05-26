@@ -1,0 +1,12 @@
+{
+  "community_id": 916,
+  "summary": "This cluster investigates the summer marine algal distribution along the western coast of Korea, based on qualitative and quantitative surveys conducted in 1988 and 1989 across six localities. Researchers identified 85 algal species, including two newly recorded species, and quantified overall biomass per unit area. Cluster analysis grouped the sites into two categories based on turbidity levels, while DCA ordination revealed a north-south floristic gradient, indicating that variations in turbidity significantly influence vegetation patterns. The study further integrated spectral analysis with spatial data to assess the relationship between algal bloom characteristics and environmental factors.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "DCA(Detrended Correspondence Analysis)",
+    "Western Coast"
+  ],
+  "resolution": 8.0
+}

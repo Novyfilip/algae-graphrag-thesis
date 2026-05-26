@@ -1,0 +1,12 @@
+{
+  "community_id": 795,
+  "summary": "This cluster synthesizes the historical documentation and early taxonomic exploration of marine algae in the North Pacific and Bering Sea region, spanning the late 18th to early 19th centuries. The papers are connected by their focus on the contributions of Russian and British expeditions—led by figures such as Steller, Chamisso, and Voznesenskii—who collected and described diverse algal species from key geographic areas including the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands. A shared pattern across the cluster is the foundational role these voyages played in cataloging the region’s macroalgal biodiversity, establishing the first scientific records for species in these subarctic and boreal ecosystems. The geographic scope is specifically confined to the upper North Pacific and Bering Sea, emphasizing the historical and ecological significance of these cold-water marine environments in early phycological research.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Nootka",
+    "Rhodomela pilulifera"
+  ],
+  "resolution": 8.0
+}

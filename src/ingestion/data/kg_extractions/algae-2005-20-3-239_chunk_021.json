@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "confocal laser scanning microscope"}, {"method_name": "optical sectioning"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "confocal laser scanning microscope", "predicate": "STUDIED_WITH", "object": "optical sectioning", "confidence": 1.0}]}

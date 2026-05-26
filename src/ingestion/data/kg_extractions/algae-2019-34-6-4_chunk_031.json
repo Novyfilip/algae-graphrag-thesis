@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Protein"}, {"compound_name": "Lipid"}, {"compound_name": "Carbohydrate"}, {"compound_name": "amino acids"}], "methods": [{"method_name": "photobioreactor"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Protein", "predicate": "CONTAINS", "object": "amino acids", "confidence": 0.5}]}

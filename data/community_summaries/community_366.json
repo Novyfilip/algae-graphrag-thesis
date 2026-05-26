@@ -1,0 +1,13 @@
+{
+  "community_id": 366,
+  "summary": "This cluster focuses on the taxonomic revision and phylogenetic characterization of red algal species, specifically the newly described *Griffithsia okiensis* from Korea. The papers are connected by their use of molecular markers, particularly psbA and rbcL gene sequences, to resolve species boundaries and establish genetic distinctiveness from morphologically similar taxa such as *G. japonica*. Key findings include the delineation of *G. okiensis* as a separate species based on both morphological traits (thallic height, cell dimensions) and phylogenetic analysis, highlighting the geographic and ecological scope of the Northwest Pacific region.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AY295146",
+    "AY295164",
+    "G. corallinoides"
+  ],
+  "resolution": 8.0
+}

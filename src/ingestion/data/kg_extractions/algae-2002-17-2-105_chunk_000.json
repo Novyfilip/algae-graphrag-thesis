@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "statistical analysis"}], "environments": [{"environment_name": "Nakdong River"}], "markers": [], "applications": [], "relationships": [{"subject": "Nakdong River", "predicate": "AFFECTS", "object": "eutrophication", "confidence": 1.0}]}

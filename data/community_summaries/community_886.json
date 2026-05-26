@@ -1,0 +1,12 @@
+{
+  "community_id": 886,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally reshaped over the past half-century by the integration of gene sequencing, DNA barcoding, and phylogenetic analysis, which have revealed extensive cryptic diversity and driven the division of previously recognized genera into multiple new species. These molecular methods, combined with increased field access via SCUBA, have significantly expanded the known species inventory for this geographic region, highlighting a pattern of underestimated biodiversity in tropical and subtropical Atlantic ecosystems. The cluster underscores a shift from morphology-based taxonomy to molecular phylogenetics as the primary driver of taxonomic revision, with findings emphasizing the prevalence of cryptic speciation among marine macroalgae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Phyllodictyon",
+    "Struvea"
+  ],
+  "resolution": 8.0
+}

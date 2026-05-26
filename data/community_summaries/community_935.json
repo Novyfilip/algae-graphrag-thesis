@@ -1,0 +1,12 @@
+{
+  "community_id": 935,
+  "summary": "This cluster of research investigates the adaptive strategies and ecological roles of marine macroalgae and microalgae under environmental stress, with a particular focus on delayed development in microscopic life stages. Key species examined include *Ascophyllum nodosum*, *Porphyra pulchella*, and the harmful dinoflagellate *Cochlodinium polykrikoides*, alongside the diatom *Porosira pseudodenticulata*, which together illustrate diverse morphological and molecular responses to challenging conditions. The studies emphasize taxonomic relationships within the *Scytosiphonaceae* and *Phaeophyceae* families, integrating molecular data to clarify phylogenetic connections across geographically distinct marine ecosystems. Findings collectively highlight how cryptic life-history phases and stress-induced dormancy enable these algae to persist and distribute across broad geographic ranges, underscoring their resilience in dynamic coastal environments.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "chemically sterilizing the substrate in situ using watertight tents",
+    "solid rocky reefs"
+  ],
+  "resolution": 8.0
+}

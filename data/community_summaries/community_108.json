@@ -1,0 +1,20 @@
+{
+  "community_id": 108,
+  "summary": "This cluster of research is geographically centered on Korean waters and freshwater systems, with additional studies from Antarctica, Japan, and the Indian subcontinent, and is thematically unified by a focus on the taxonomy, ecology, and physiology of diatoms and dinoflagellates. A major connecting thread is the investigation of harmful algal blooms (HABs), particularly those caused by *Cochlodinium polykrikoides* and *Alexandrium* species in the South Sea of Korea, where studies examined their bioluminescence, genome size, mixotrophic carbon uptake, and grazing by heterotrophic protists. Concurrently, a significant body of work addressed the structure and dynamics of diatom communities across diverse habitats—including benthic, epilithic, epiphytic, and planktonic environments—in rivers (e.g., Nakdong, Geum, Hantan), reservoirs (e.g., Togyo, Pyeongtaek), and coastal zones, often linking species composition to salinity gradients, nutrient loading, and water quality parameters. The cluster also features applied research on the cultivation and bioactive properties of macroalgae and microalgae, including the use of biostimulants on *Pyropia yezoensis*, the aquaculture of *Undaria pinnatifida* and *Saccharina japonica*, and the characterization of antioxidant polysaccharides from *Chnoospora minima*, alongside methodological advances in DNA barcoding, metabarcoding, and cryopreservation for biodiversity assessment and long-term strain maintenance.",
+  "n_entities": 150,
+  "n_papers": 148,
+  "n_papers_with_summaries": 148,
+  "entity_sample": [
+    "24-well plates",
+    "50 cm X 50 cm quadrat",
+    "Achnanthes bottnica",
+    "Achnanthes brevipes",
+    "Achnanthes spp.",
+    "Antarctic coastal zone",
+    "Antarctic marine environments",
+    "Arthrodesmus extensus",
+    "Astaciaceae",
+    "BIOENV"
+  ],
+  "resolution": 8.0
+}

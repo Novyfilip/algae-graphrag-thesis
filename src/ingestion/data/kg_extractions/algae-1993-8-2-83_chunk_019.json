@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Laminariales", "taxonomic_rank": "order"}, {"species_name": "Laminariaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Laminariales", "predicate": "BELONGS_TO", "object": "Laminariaceae", "confidence": 0.5}]}

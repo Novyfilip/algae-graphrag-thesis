@@ -1,0 +1,13 @@
+{
+  "community_id": 464,
+  "summary": "This cluster synthesizes research on the application of microalgae for bioremediation, specifically targeting nutrient removal from carbon-rich waste streams. The studies are connected by their focus on manipulating the three distinct growth regimes of microalgae—autotrophic, heterotrophic, and mixotrophic—to enhance the uptake of dissolved compounds such as nitrates and organic nitrogen. A key pattern across the cluster is the identification and utilization of extremophilic algal strains to improve metabolic pathway efficiency for pollutant degradation. The geographic and ecological scope is broadly centered on wastewater treatment systems, with a novel emphasis on mitigating dissolved organic nitrogen through tailored bioremediation strategies.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Prototheca zopfii",
+    "cell free systems",
+    "immobilized systems"
+  ],
+  "resolution": 8.0
+}

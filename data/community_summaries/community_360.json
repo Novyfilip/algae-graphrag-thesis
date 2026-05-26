@@ -1,0 +1,13 @@
+{
+  "community_id": 360,
+  "summary": "This cluster of research focuses on the taxonomic revision of the diatom genus *Amphora sensu lato*, specifically through the integration of molecular phylogenetics and morphological analysis. Studies demonstrated that the subgenus *Halamphora* is phylogenetically distinct, supporting its reclassification as a separate genus, and led to the formal description of a new species, *Amphora terroris*. The work underscores the critical role of morphological data in resolving taxonomic ambiguities within this globally distributed group, which inhabits diverse marine and estuarine environments.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "14A",
+    "Entomoneis ornata",
+    "HQ912411"
+  ],
+  "resolution": 8.0
+}

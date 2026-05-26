@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. crassa", "taxonomic_rank": "species"}, {"species_name": "C. borealis", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "ANOVA tests"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. crassa", "predicate": "AFFECTS", "object": "C. borealis", "confidence": 1.0}]}

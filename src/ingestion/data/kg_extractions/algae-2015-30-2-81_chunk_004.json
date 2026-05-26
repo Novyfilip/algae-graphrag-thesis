@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "diatom", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "diatom viruses", "predicate": "AFFECTS", "object": "diatom", "confidence": 1.0}]}

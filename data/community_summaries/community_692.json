@@ -1,0 +1,12 @@
+{
+  "community_id": 692,
+  "summary": "This cluster investigates the drivers of benthic primary production on temperate rocky reefs, with a focus on the eastern Pacific. Research quantified how the loss of dominant macroalgae, particularly kelp and red algae species, reduces net productivity, with estimates ranging from 15 to 4,300 mg C m-2 d-1. Key findings demonstrate that a few high-biomass species with elevated photosynthetic rates account for the majority of benthic carbon fixation. The studies collectively emphasize species-specific biomass and photosynthetic parameters as critical determinants of reef ecosystem function.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Aleutian Archipelago",
+    "Eularia fistulosa"
+  ],
+  "resolution": 8.0
+}

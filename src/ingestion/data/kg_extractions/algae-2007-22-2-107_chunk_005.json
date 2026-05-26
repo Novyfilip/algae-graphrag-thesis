@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ascophyllum", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Nova Scotia"}], "markers": [], "applications": [], "relationships": [{"subject": "Ascophyllum", "predicate": "FOUND_IN", "object": "Nova Scotia", "confidence": 1.0}]}

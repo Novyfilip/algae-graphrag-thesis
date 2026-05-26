@@ -1,0 +1,20 @@
+{
+  "community_id": 86,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, phylogenetics, and biogeography of diverse algal groups, with a particular emphasis on the North Pacific and Arctic regions, including the Sea of Okhotsk, Kamchatka, the Kurile and Commander Islands, Korea, and Japan. Researchers employed polyphasic approaches—integrating morphological analysis, molecular markers such as rbcL, cox1, and SSU rDNA, and ecological data—to resolve cryptic species, revise taxonomic classifications, and uncover high genetic diversity within genera such as *Codium*, *Alaria*, *Plocamium*, *Gloiopeltis*, *Pyropia*, and *Gracilariopsis*. Key findings include the discovery of endemic and cold-adapted taxa, the identification of glacial refugia and post-glacial migration patterns in the Northwest Pacific, and the re-evaluation of life history strategies, such as parthenosporophytes in *Tauya basicrassa* and delayed development in microscopic stages. The geographic scope spans from tropical and subtropical western Atlantic benthic habitats to polar environments, with significant contributions to understanding floristic composition, species migration, and the impact of historical expeditions on algal collection.",
+  "n_entities": 168,
+  "n_papers": 84,
+  "n_papers_with_summaries": 83,
+  "entity_sample": [
+    "1 kb DNA ladder",
+    "100 bp DNA ladder",
+    "16S rRNA sequence analysis",
+    "A. glacialis",
+    "AB360747",
+    "Agar",
+    "Agarose",
+    "Arctic",
+    "Arctic chlamydomonadalean",
+    "Arctic chlamydomonadalean microalgae"
+  ],
+  "resolution": 8.0
+}

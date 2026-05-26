@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "astaxanthin"}], "methods": [], "environments": [], "markers": [{"marker_name": "IPI1"}, {"marker_name": "IPI2"}], "applications": [], "relationships": [{"subject": "IPI2", "predicate": "PRODUCES", "object": "astaxanthin", "confidence": 0.5}]}

@@ -1,0 +1,14 @@
+{
+  "community_id": 357,
+  "summary": "This cluster examines the ecological dynamics and community succession of freshwater microalgae, specifically diatoms and cyanobacteria, in South Korean river systems. Studies conducted in the Kumho and Naktong Rivers between 2000 and 2002 identified key species such as *Achnanthes minutissima*, *Nitzschia fonticola*, *Navicula cryptotenella*, *Microcystis aeruginosa*, and *Stephanodiscus hantzschii*, linking their abundance to environmental factors like total phosphorus, total nitrogen, and BOD. Research on epilithic diatoms in the Kumho River revealed a three-stage community succession process on artificial substrates over 70 days, while phytoplankton surveys in the Naktong River documented 239 taxa and highlighted nutrient-driven blooms at impacted sampling stations. Both investigations employed cluster analysis and correlation with physicochemical parameters to characterize how nutrient enrichment and seasonal variation shape algal community structure in temperate Korean lotic ecosystems.",
+  "n_entities": 4,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Achnanthes minutissima Kütz",
+    "Navicula cryptotenella Lange-B",
+    "Nitzschia fonticola Grun.",
+    "upper reaches"
+  ],
+  "resolution": 8.0
+}

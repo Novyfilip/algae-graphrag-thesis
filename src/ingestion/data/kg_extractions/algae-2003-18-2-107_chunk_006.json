@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Neosiphonia decumbens", "taxonomic_rank": "species"}, {"species_name": "Neosiphonia harlandii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Neosiphonia decumbens", "predicate": "STUDIED_WITH", "object": "Neosiphonia harlandii", "confidence": 1.0}]}

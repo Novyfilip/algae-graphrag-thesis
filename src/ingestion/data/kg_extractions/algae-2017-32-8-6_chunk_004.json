@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Car"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "feed additives"}], "relationships": [{"subject": "Car", "predicate": "PRODUCES", "object": "microalgae", "confidence": 0.5}, {"subject": "Car", "predicate": "AFFECTS", "object": "feed additives", "confidence": 0.5}]}

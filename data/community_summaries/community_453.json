@@ -1,0 +1,13 @@
+{
+  "community_id": 453,
+  "summary": "This cluster of research is unified by a focus on the taxonomy, phylogenetics, and ecological application of microalgae and cyanobacteria, with a strong geographic emphasis on Korea and Hong Kong. Studies employed molecular methods, such as 16S rRNA gene sequencing for *Microcystis*, alongside traditional taxonomic revisions of diatoms like *Asterionella glacilis* and *Cerataulina bergonii* from the KMMCC collection, to correct identification errors and establish reliable classification frameworks. Ecological investigations in the Geum River, Korea, identified epilithic algal indicators of organic pollution, including *Aulacoseira granulata* and *Nitzschia palea*, while research in Hong Kong characterized cyanobacterial crusts from erosion sites, highlighting their potential for substrate stabilization. Across the cluster, key findings included the confirmation of *Microcystis* as a monophyletic taxon, the dominance of diatoms in riverine standing crops, and the commercial cultivation of *Chlorella vulgaris* and *Spirulina platensis* for nutraceutical and biofuel applications.",
+  "n_entities": 3,
+  "n_papers": 5,
+  "n_papers_with_summaries": 5,
+  "entity_sample": [
+    "Nakdong River/Busan (35°06′17″ N, 128°53′42″ E), estuary, surface water",
+    "Oscillatoria princeps",
+    "Trichophorus princeps"
+  ],
+  "resolution": 8.0
+}

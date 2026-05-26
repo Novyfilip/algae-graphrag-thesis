@@ -1,0 +1,20 @@
+{
+  "community_id": 89,
+  "summary": "This cluster of papers is unified by a focus on the taxonomy, phylogeny, and biodiversity of algae, with a strong emphasis on the use of molecular markers such as rbcL, cox1, and ITS sequences to resolve species boundaries and uncover cryptic diversity. The research spans a wide geographic scope, with a particular concentration on the coastal waters of Korea and Japan, the Northwest Pacific, and the Indian Ocean, while also including studies from the Mediterranean, the Arctic, and the Americas. Key findings across the cluster include the frequent discovery of new species and genera (e.g., *Erythrolobus coxiae*, *Tsunamia transpacifica*, *Yihiella yeosuensis*), the revision of taxonomic classifications through polyphasic approaches, and the documentation of biogeographic patterns such as endemism in the Aleutian Islands and the introduction of species via rafting or aquaculture. The studies collectively highlight the importance of integrating morphological, molecular, and ecological data to understand algal evolution, distribution, and ecological roles, including harmful algal blooms and carbon sequestration.",
+  "n_entities": 165,
+  "n_papers": 218,
+  "n_papers_with_summaries": 217,
+  "entity_sample": [
+    "1% agarose gel",
+    "1483R",
+    "16S-23S rRNA internal transcribed spacer (ITS)",
+    "16S–23S rRNA ITS regions",
+    "18S rDNA sequence analysis",
+    "18S ribosomal RNA (rRNA) sequence analysis",
+    "18S small subunit (SSU)",
+    "28S large subunit rDNA",
+    "5-amino levulinic acid",
+    "5-aminolevulinate dehydratase"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sargassum", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "aquaculture"}], "relationships": [{"subject": "Sargassum", "predicate": "BELONGS_TO", "object": "aquaculture", "confidence": 0.5}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 41,
+  "summary": "This cluster of papers is heavily centered on the biodiversity, taxonomy, and ecological dynamics of marine algae and protists in Korean coastal waters, with a strong emphasis on dinoflagellates, diatoms, and red algae. Key connecting themes include the discovery and phylogenetic characterization of novel species—such as *Amphidinium stirisquamtum*, *Erythrolobus australicus*, and *Polysiphonia* spp.—using molecular tools like LSU rDNA, rbcL, and COI-5P barcoding, alongside morphological analyses. The research frequently addresses harmful algal blooms, mixotrophy, and trophic interactions, as seen in studies on *Gymnodinium catenatum*, *Cochlodinium polykrikoides*, and the feeding behaviors of heterotrophic dinoflagellates like *Gyrodinium dominans* and *Oxyrrhis marina*. Geographically, the work is concentrated in Korean bays and estuaries (e.g., Jinhae Bay, Yeosuhae Bay, Jeju Island), with additional contributions from tropical and subtropical regions such as Brazil, the Gulf of California, and the western Atlantic, reflecting a broad but regionally focused effort to understand algal community structure, environmental stress responses, and biotechnological potential.",
+  "n_entities": 226,
+  "n_papers": 89,
+  "n_papers_with_summaries": 88,
+  "entity_sample": [
+    "ASW",
+    "Acanthoica quattrospina",
+    "Adjacent Areas",
+    "Algirosphaera quadricornu",
+    "Anoplosolenia brasiliensis",
+    "Asia-Pacific Waters",
+    "Asia-Pacific waters",
+    "Balaniger",
+    "Braarudsphaera bigelowi",
+    "CO,"
+  ],
+  "resolution": 8.0
+}

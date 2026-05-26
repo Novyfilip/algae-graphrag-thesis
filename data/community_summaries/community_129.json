@@ -1,0 +1,20 @@
+{
+  "community_id": 129,
+  "summary": "This cluster of research focuses on the physiological, molecular, and biotechnological characterization of diverse algal species, particularly red algae (e.g., *Pyropia yezoensis*, *Bostrychia moritziana*, *Griffithsia japonica*), green algae (e.g., *Spirogyra varians*, *Dunaliella salina*, *Haematococcus pluvialis*), and brown algae (e.g., *Ecklonia cava*, *Sargassum horneri*), alongside dinoflagellates and diatoms from Korean and other temperate to tropical coastal waters. Key findings include the identification of stress-responsive genes and proteins (e.g., PyHRG1 for heat tolerance, phototropins for light sensing, thioredoxin-like proteins for drought response), the characterization of bioactive compounds with antioxidant, anti-inflammatory, and anticancer activities (e.g., fucoxanthin derivatives, sulfated polysaccharides, astaxanthin), and the development of molecular tools (e.g., ddPCR for harmful algal bloom monitoring, housekeeping gene validation for qPCR). The studies also explore ecological and physiological adaptations to environmental stressors such as light intensity, salinity, temperature, and UV radiation, with a strong emphasis on Korean coastal ecosystems, including Jeju Island, and the potential for industrial applications in aquaculture, nutraceuticals, and cosmeceuticals.",
+  "n_entities": 132,
+  "n_papers": 81,
+  "n_papers_with_summaries": 81,
+  "entity_sample": [
+    "1.2% (w/v) formaldehyde gel electrophoresis",
+    "1.2% agarose-formaldehyde gel electrophoresis",
+    "2% agarose gel electrophoresis",
+    "5' end amplification",
+    "ACP 51-60",
+    "ACP system",
+    "ACP-based RT-PCR",
+    "ACP51-60",
+    "AF274255",
+    "Accuscript High Fidelity 1st strand cDNA kit"
+  ],
+  "resolution": 8.0
+}

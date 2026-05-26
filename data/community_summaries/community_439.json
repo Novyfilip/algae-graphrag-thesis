@@ -1,0 +1,13 @@
+{
+  "community_id": 439,
+  "summary": "This cluster of research focuses on the taxonomy, phylogenetics, and biogeography of dinoflagellates within the genus *Coolia*, primarily through morphological and molecular characterization. Studies employed scanning electron microscopy and phylogenetic analyses of the D1/D2 regions of large subunit rDNA to delineate species, including the newly described *Coolia santacroce* from the Bahamas and multiple species (*C. malayensis*, *C. palmyrensis*, *C. cf. canariensis*) from the Gulf of California. Key findings confirmed the monophyly of these lineages and revealed significant morphological variation within species, while expanding the known distribution of *Coolia* across the Caribbean and the Gulf of California. The geographic scope is centered on subtropical and tropical Atlantic and Pacific coastal waters, with the Gulf of California identified as a region of high *Coolia* species diversity.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "GoTaq Green Mastermix protocol",
+    "LSU rDNA D1/D2 region",
+    "thermocycler conditions"
+  ],
+  "resolution": 8.0
+}

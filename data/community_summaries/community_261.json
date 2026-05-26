@@ -1,0 +1,18 @@
+{
+  "community_id": 261,
+  "summary": "This cluster focuses on the taxonomic revision and biodiversity assessment of red algae, specifically within the genus *Centroceras* (Ceramiaceae, Rhodophyta), using molecular-assisted alpha taxonomy. Researchers employed COI-5P and rbcL barcode markers to resolve cryptic species, identifying two novel species, *C. arcii* and *C. illaqueans*, in the western Atlantic, with the latter distinguished by unique nodal spines. The geographic scope is centered on Bermuda, expanding the known distribution of the genus in the region. Key findings highlight the prevalence of cryptic morphology within the group and underscore the necessity of molecular data for accurate species delineation in macroalgal systematics.",
+  "n_entities": 8,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Chlorophyllum",
+    "Chlorophyllum coll",
+    "Chlorophyllum far",
+    "Chlorophyllum frederici",
+    "Chlorophyllum hanseni",
+    "Chlorophyllum herv",
+    "Chlorophyllum microcoral",
+    "Chlorophyllum notatae"
+  ],
+  "resolution": 8.0
+}

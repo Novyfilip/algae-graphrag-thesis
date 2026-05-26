@@ -1,0 +1,13 @@
+{
+  "community_id": 509,
+  "summary": "This cluster focuses on the bioactive properties of phenolic compounds, particularly phlorotannins, derived from brown algae for cosmeceutical applications. Research centered on *Ecklonia cava* cultivated in Jeju Island’s magma seawater demonstrated that enhanced polyphenolic and dieckol content in extracts led to significantly more potent inhibition of melanin synthesis and tyrosinase activity in melanoma cells compared to natural extracts. Foundational work on brown algae physodes identified these membrane-bound vesicles as the source of phloroglucinol-based compounds, detailing their roles in cell wall construction, UV protection, and herbivore deterrence. The cluster collectively connects the fundamental biology of phenolic-containing vesicles to applied research on anti-melanogenesis, highlighting the potential of regionally cultivated *E. cava* for pharmaceutical and skincare industries.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Polyphenolic compounds",
+    "colorimetric techniques",
+    "microscopic techniques"
+  ],
+  "resolution": 8.0
+}

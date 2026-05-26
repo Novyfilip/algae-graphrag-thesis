@@ -1,0 +1,20 @@
+{
+  "community_id": 139,
+  "summary": "This cluster synthesizes research on the biodiversity, taxonomy, and ecology of marine and freshwater algae, with a strong emphasis on the North Pacific, Korean Peninsula, and polar regions. Studies frequently employed morphological and molecular phylogenetic methods—including rbcL, COI-5P, and 16S rRNA sequencing—to describe new species and resolve cryptic diversity within genera such as *Coolia*, *Hypoglossum*, *Erythrolobus*, *Centroceras*, and *Dolichospermum*, while also revising higher-level classifications for diatoms and red algae. Geographic hotspots included the Bering Sea, Aleutian Islands, Korean coastal waters, Jeju Island, and Antarctic sites like King George Island and Svalbard, with additional work in Australia, the Gulf of California, and the Mediterranean. Key findings revealed high endemism and cryptic speciation, the role of ocean currents and glacial refugia in phylogeographic structuring (e.g., *Gloiopeltis furcata* and *Lessonia variegata*), and the ecological impacts of environmental stressors such as UV radiation, warming waters, and red tides on phytoplankton and benthic communities.",
+  "n_entities": 123,
+  "n_papers": 68,
+  "n_papers_with_summaries": 68,
+  "entity_sample": [
+    "3-gene phylogeny",
+    "Achnanthes abbreviata",
+    "Amphora bigibba",
+    "CRI",
+    "Chroothece",
+    "Climacosphenia moniligera",
+    "Colacodictyon",
+    "Coscinodiscus",
+    "Coscinodiscus centralis",
+    "Coscinodiscus centralis var. pacifica"
+  ],
+  "resolution": 8.0
+}

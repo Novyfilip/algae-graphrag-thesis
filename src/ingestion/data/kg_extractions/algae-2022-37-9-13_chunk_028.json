@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "D. salina OH214", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "isolation of single cells"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "D. salina OH214", "predicate": "STUDIED_WITH", "object": "isolation of single cells", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "N. savatieri", "taxonomic_rank": "species"}, {"species_name": "N. decumbens", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "N. savatieri", "predicate": "BELONGS_TO", "object": "N. decumbens", "confidence": 0.5}]}

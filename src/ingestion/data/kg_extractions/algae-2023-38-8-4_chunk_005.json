@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gloiopeltis furcata", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "molecular analysis"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Gloiopeltis furcata", "predicate": "IDENTIFIED_BY", "object": "molecular analysis", "confidence": 1.0}]}

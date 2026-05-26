@@ -1,0 +1,12 @@
+{
+  "community_id": 1062,
+  "summary": "This cluster of research focuses on the ecology and monitoring of harmful algal blooms (HABs) and associated microbial communities in South Korean freshwater and estuarine systems. Studies examined the taxonomic composition and functional group dynamics of bloom-forming species, identifying key taxa such as *Oscillatoria kawamurae*, *Pseudanabaena catenata*, *Skeletonema costatum*, and toxic species like *Pseudo-nitzschia multiseries* and *Dinophysis acuminata*. Environmental drivers, particularly nutrient concentrations such as total nitrogen and orthophosphate, were found to significantly influence community assembly and bloom duration, which lasted approximately five days in the Seomjin River estuary. The research collectively underscores the role of species-specific traits and nutrient loading in shaping algal bloom cycles and their ecological impacts on Korean aquatic ecosystems.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Field surveys",
+    "quantitative algal composition analyses"
+  ],
+  "resolution": 8.0
+}

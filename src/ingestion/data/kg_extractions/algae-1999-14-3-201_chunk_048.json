@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Eucheuma striatum", "taxonomic_rank": "species"}, {"species_name": "Gigartinales", "taxonomic_rank": "order"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Eucheuma striatum", "predicate": "BELONGS_TO", "object": "Gigartinales", "confidence": 1.0}]}

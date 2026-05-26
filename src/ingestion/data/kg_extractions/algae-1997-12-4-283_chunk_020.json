@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Microcystis aeruginosa", "taxonomic_rank": "species"}, {"species_name": "Microcystis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Microcystis aeruginosa", "predicate": "BELONGS_TO", "object": "Microcystis", "confidence": 1.0}]}

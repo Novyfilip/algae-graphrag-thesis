@@ -1,0 +1,20 @@
+{
+  "community_id": 114,
+  "summary": "This cluster of research is unified by a strong focus on the biodiversity, taxonomy, and ecological dynamics of marine and freshwater algae in Korean coastal and inland waters, with significant attention to harmful algal bloom (HAB) species and their environmental drivers. Key species investigated include the dinoflagellates *Cochlodinium polykrikoides*, *Alexandrium tamarense*, *Karlodinium veneficum*, and *Prorocentrum* spp., as well as the cyanobacteria *Microcystis aeruginosa* and *Anabaena* spp., often studied in relation to nutrient loading, salinity, temperature, and light. Methodologically, the studies frequently employed molecular techniques such as quantitative PCR, droplet digital PCR, and phylogenetic analyses (e.g., 16S rRNA, LSU rDNA, rbcL) for species identification and quantification, alongside traditional morphological characterization and ecophysiological experiments. Geographically, the research was concentrated in Korean waters, including the South Sea, Yellow Sea, East China Sea, and specific bays such as Jinhae, Masan, and Gamak, with additional studies extending to Antarctic, Japanese, and tropical Pacific sites. A recurring pattern across the cluster was the assessment of mixotrophic and heterotrophic feeding interactions among protists, the impact of environmental stressors (e.g., ocean acidification, UV radiation, hypoxia) on phytoplankton physiology, and the development of rapid monitoring tools for HABs and seagrass restoration.",
+  "n_entities": 145,
+  "n_papers": 139,
+  "n_papers_with_summaries": 139,
+  "entity_sample": [
+    "Accu-Prep Genomic DNA Extraction Kit",
+    "AccuPrep Genomic DNA Extraction Kit",
+    "Ansan",
+    "Bay of Biscay",
+    "Bay of Biscay, Spain",
+    "Biecheleriopsis adriatica",
+    "Blanes Bay",
+    "Celtic Sea",
+    "Celtic sea",
+    "Chagwido"
+  ],
+  "resolution": 8.0
+}

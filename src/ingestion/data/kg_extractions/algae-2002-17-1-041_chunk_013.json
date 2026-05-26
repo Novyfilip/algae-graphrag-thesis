@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "fucoids", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "fucoids", "predicate": "PRODUCES", "object": "recruits", "confidence": 1.0}, {"subject": "fucoids", "predicate": "CONTAINS", "object": "zygotes", "confidence": 1.0}]}

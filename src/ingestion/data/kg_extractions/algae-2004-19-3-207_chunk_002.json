@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sargassum species", "taxonomic_rank": "genus"}, {"species_name": "kelp species", "taxonomic_rank": "group"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Sargassum species", "predicate": "AFFECTS", "object": "kelp species", "confidence": 0.5}]}

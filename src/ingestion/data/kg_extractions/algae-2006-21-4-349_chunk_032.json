@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Synechococcus", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Synechococcus", "predicate": "BELONGS_TO", "object": "genus", "confidence": 1.0}]}

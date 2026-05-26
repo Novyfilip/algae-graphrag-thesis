@@ -1,0 +1,20 @@
+{
+  "community_id": 216,
+  "summary": "This cluster of research is unified by a focus on the taxonomy, phylogenetics, and ecological dynamics of marine and freshwater algae, with a strong emphasis on red algae (Rhodophyta) such as *Pyropia yezoensis*, *Gelidium*, *Hypnea flexicaulis*, and *Palmaria palmata*, as well as green algae like *Ulva* and *Caulerpa sertularioides*, and brown algae including *Sargassum horneri* and *Ecklonia cava*. Key findings across the cluster include the use of molecular markers (e.g., *rbcL*, *cox1*, ITS, and *tufA*) to resolve cryptic species, delineate phylogenetic relationships, and identify pathogens such as *Pythium chondricola* and *Pythium porphyrae* that cause disease in cultivated *Pyropia*. The geographic scope is predominantly centered on Korean coastal waters, the Yellow Sea, and the North Pacific, with additional studies from the White Sea, Antarctica, New Zealand, and the Pacific Northwest, reflecting a broad interest in regional biodiversity, aquaculture sustainability, and the impacts of environmental stressors like temperature, salinity, and nutrient loading on algal community structure and biomass.",
+  "n_entities": 76,
+  "n_papers": 86,
+  "n_papers_with_summaries": 84,
+  "entity_sample": [
+    "BLAST searches",
+    "Bulbochaete scrobiculata",
+    "Bulbochaete sp.",
+    "Bullbochaete",
+    "Chinese coasts",
+    "Chondracanthus",
+    "Chondracanthus exasperates",
+    "Chondracanthus exasperatus",
+    "Chondracanthus tenella",
+    "Cottoni & Spinosum"
+  ],
+  "resolution": 8.0
+}

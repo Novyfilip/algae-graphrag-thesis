@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "acidic polysaccharides"}, {"compound_name": "RNA"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "acidic polysaccharides", "predicate": "CONTAINS", "object": "RNA", "confidence": 0.5}]}

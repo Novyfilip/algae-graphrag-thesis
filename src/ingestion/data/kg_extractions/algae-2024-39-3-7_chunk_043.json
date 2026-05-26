@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. yezoensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. yezoensis", "predicate": "AFFECTS", "object": "cold stress", "confidence": 1.0}]}

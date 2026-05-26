@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Rhodymeniales", "taxonomic_rank": "order"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Hokkaido"}], "markers": [], "applications": [], "relationships": [{"subject": "Rhodymeniales", "predicate": "FOUND_IN", "object": "Hokkaido", "confidence": 1.0}]}

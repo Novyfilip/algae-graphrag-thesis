@@ -1,0 +1,12 @@
+{
+  "community_id": 1120,
+  "summary": "This cluster examines the dynamics of freshwater phytoplankton communities, specifically focusing on the responses of Chlorophyta and Bacillariophyta to varying nutrient loadings in managed aquatic systems. Research conducted in Mason County, Illinois, USA, demonstrated that increased inorganic fertilizer inputs led to higher overall phytoplankton density but a decline in Chlorophyta abundance, alongside increased species diversity and productivity. The findings reveal a pattern of secondary succession within these communities, where lower nutrient levels were associated with more favorable conditions for phytoplankton growth and ultimately greater fish production in the studied ponds.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "higher magnification (400 X)",
+    "wet mounts"
+  ],
+  "resolution": 8.0
+}

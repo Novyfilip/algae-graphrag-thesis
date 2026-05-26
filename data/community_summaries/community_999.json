@@ -1,0 +1,12 @@
+{
+  "community_id": 999,
+  "summary": "Research on the brown alga *Sargassum horneri* demonstrated its therapeutic potential in mitigating atopic dermatitis (AD)-like skin lesions in murine models, primarily through the suppression of the Th2 cytokine interleukin-13 (IL-13). Extracts of *S. horneri* significantly reduced IL-13-mediated immune cell infiltration, including T cells, dendritic cells, and macrophages, while also decreasing collagen deposition in the skin. These findings indicate that *S. horneri* possesses bioactive compounds capable of modulating inflammatory pathways associated with AD. The study was conducted in a controlled laboratory setting, with no specific geographic or ecological scope beyond the use of this edible brown algal species.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "IL-13",
+    "immunohistochemical"
+  ],
+  "resolution": 8.0
+}

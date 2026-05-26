@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Yellow Sea"}, {"environment_name": "sea-floor"}], "markers": [], "applications": [], "relationships": [{"subject": "Yellow Sea", "predicate": "CONTAINS", "object": "sea-floor", "confidence": 0.5}]}

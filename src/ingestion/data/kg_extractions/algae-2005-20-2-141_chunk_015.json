@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gracilaria chorda", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Undaria cultivation ropes"}], "markers": [], "applications": [], "relationships": [{"subject": "Gracilaria chorda", "predicate": "FOUND_IN", "object": "Undaria cultivation ropes", "confidence": 1.0}]}

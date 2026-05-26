@@ -1,0 +1,12 @@
+{
+  "community_id": 688,
+  "summary": "This cluster investigates the transport and aggregation dynamics of pelagic *Sargassum* in the East China Sea and Yellow Sea, integrating satellite remote sensing with Lagrangian particle tracking simulations. Researchers employed a 1% leeway factor to correct for cloud cover and sea fog, enabling the reconstruction of lost algal patches through numerical modeling. The findings demonstrate that combining satellite monitoring with wind and current analyses is essential for accurately predicting the trajectory of these drifting macroalgae. The geographic scope is confined to the East China Sea and Yellow Sea, emphasizing these marginal seas as critical zones for understanding *Sargassum* distribution and movement.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ensemble Kalman filter (EnKF)",
+    "Lagrangian transport model"
+  ],
+  "resolution": 8.0
+}

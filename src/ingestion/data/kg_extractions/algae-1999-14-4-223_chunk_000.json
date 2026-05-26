@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Blue-Green Algae", "taxonomic_rank": null}], "compounds": [{"compound_name": "5-aminolevulinic acid dehydratase"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Blue-Green Algae", "predicate": "PRODUCES", "object": "5-aminolevulinic acid dehydratase", "confidence": 0.5}]}

@@ -1,0 +1,13 @@
+{
+  "community_id": 400,
+  "summary": "This cluster synthesizes historical and taxonomic research on marine macroalgae from the North Pacific and Bering Sea, spanning the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands. The papers are connected by their reliance on data from early Russian and British expeditions (led by figures such as Steller, Krasheninnikov, and Lütke) to document and revise the region’s algal flora. A key finding across the cluster is the cataloging of over 600 macroalgal species, with a specific focus on resolving previously uncertain taxonomic classifications. The geographic scope is narrowly defined to the Northwest Coast of the Bering Sea and Southeast Kamchatka, with the research establishing ten distinct distributional regions to characterize the ecological and evolutionary patterns of these cold-water algal communities.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Cystoseira myrica",
+    "Fucus myrica",
+    "shores of Kamtchatka"
+  ],
+  "resolution": 8.0
+}

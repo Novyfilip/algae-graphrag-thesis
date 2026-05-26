@@ -1,0 +1,20 @@
+{
+  "community_id": 9,
+  "summary": "This cluster of research is geographically centered on the Korean Peninsula and adjacent waters, with significant contributions from India, Japan, and the broader Indo-Pacific region, focusing on the taxonomy, phylogeny, and ecology of diverse algal groups. A major theme is the revision and discovery of species using integrated morphological and molecular approaches, as seen in the reexamination of genera like *Pterocladiella*, *Polysiphonia*, and *Grateloupia*, and the description of new species such as *Symphyocladia glabra* and *Dolichospermum hangangense*. The studies extensively document the biodiversity and community dynamics of both marine macroalgae (e.g., *Sargassum*, *Pyropia*, *Ecklonia*) and freshwater microalgae (e.g., *Euglena*, *Microcystis*, desmids), often linking species composition to environmental factors like temperature, nutrient loading, and water quality. Applied research is prominent, investigating the cultivation, bioactive properties, and aquaculture potential of economically significant species, including the use of biostimulants on *Pyropia yezoensis* and the anti-inflammatory effects of *Ecklonia cava* and *Sargassum horneri*.",
+  "n_entities": 333,
+  "n_papers": 288,
+  "n_papers_with_summaries": 288,
+  "entity_sample": [
+    "America",
+    "An-Dong",
+    "An-Jwa Island",
+    "Anabaena doliolum",
+    "Anabaena torulosa",
+    "Andhra Pradesh",
+    "Aphanothece sacrum",
+    "Arthrospira jenneri",
+    "Austria",
+    "Baik-Un Mt."
+  ],
+  "resolution": 8.0
+}

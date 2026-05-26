@@ -1,0 +1,15 @@
+{
+  "community_id": 311,
+  "summary": "This cluster investigates the long-term ecological impacts of anthropogenic pollution, specifically the 1997 Nakhodka oil spill, on intertidal macroalgal communities along the coast of Hyogo Prefecture, Japan. Through a two-decade monitoring program employing line transects and photographic quadrats, researchers documented that the Imago-ura intertidal zone, which accumulated the highest oil concentrations, required four to five years for macroalgal vegetation to recover. The studies collectively demonstrate that chronic monitoring of macroalgal cover and wet weight is essential for quantifying the resilience of these coastal ecosystems to acute pollution events.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "1 x 1 m quadrats",
+    "identified in situ",
+    "monitoring of macroalgal vegetation",
+    "percent cover estimation",
+    "photographic image record"
+  ],
+  "resolution": 8.0
+}

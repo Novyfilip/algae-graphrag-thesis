@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "cytochrome c"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "OLED coating"}], "relationships": [{"subject": "cytochrome c", "predicate": "STUDIED_WITH", "object": "OLED coating", "confidence": 1.0}]}

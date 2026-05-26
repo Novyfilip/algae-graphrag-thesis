@@ -1,0 +1,12 @@
+{
+  "community_id": 957,
+  "summary": "This cluster focuses on the freshwater alga *Closterium ehrenbergii* as a model organism for ecotoxicological assessment, specifically investigating the physiological and cellular impacts of copper exposure. Researchers established a dose-response relationship for copper sulfate, identifying a median effective concentration (EC50) of 0.202 mg/L that triggered significant reductions in photosynthetic efficiency and elevated reactive oxygen species production. The studies consistently demonstrated that copper induces oxidative stress and cellular damage, including cell death, within a 6-hour exposure period. By leveraging the alga’s rapid growth and facile cultivation, the cluster positions *C. ehrenbergii* as a valuable, standardized tool for evaluating acute copper toxicity and monitoring aquatic environmental risks in freshwater systems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Photosystem II-based biosensors",
+    "detection of pollutants"
+  ],
+  "resolution": 8.0
+}

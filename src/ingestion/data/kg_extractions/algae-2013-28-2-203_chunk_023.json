@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "D. salina", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "zeaxanthin"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "D. salina", "predicate": "PRODUCES", "object": "zeaxanthin", "confidence": 1.0}]}

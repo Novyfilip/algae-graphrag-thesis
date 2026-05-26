@@ -1,0 +1,12 @@
+{
+  "community_id": 701,
+  "summary": "This cluster centers on the establishment and curation of the Korea Marine Microalgae Culture Center (KMMCC), which was founded in 1995 to systematically collect and maintain marine microalgal strains. The collection, comprising approximately 1,400 strains by 2008, is geographically focused on Korean waters, from which 84% of the strains originated, and emphasizes the maintenance of axenic cultures, with 48% of strains in that state. The initial research theme was the supply of live food for aquaculture, but the collection’s purpose expanded to support broader taxonomic diversity for scientific research.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "G. splendens Lebour",
+    "Gymnodinium sanguineum Martin"
+  ],
+  "resolution": 8.0
+}

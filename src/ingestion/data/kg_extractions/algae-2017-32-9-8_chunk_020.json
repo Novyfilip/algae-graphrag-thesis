@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Batrachospermum", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Batrachospermum", "predicate": "BELONGS_TO", "object": "batrachospermalean taxa", "confidence": 0.5}]}

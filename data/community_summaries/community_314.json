@@ -1,0 +1,14 @@
+{
+  "community_id": 314,
+  "summary": "Research in this cluster focuses on the biodiversity and taxonomic revision of benthic marine algae in the tropical and subtropical western Atlantic, driven primarily by molecular techniques such as DNA barcoding and gene sequencing over the past fifty years. These methods have revealed numerous cryptic species, leading to the division of previously recognized genera and the formal description of new taxa. The increased use of SCUBA by phycologists has expanded sampling access, significantly raising the number of recognized algal species in this geographic region. Key patterns include the phylogenetic reassessment of species boundaries and the integration of genetic data with morphological observations to resolve long-standing taxonomic uncertainties.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Dictyota bartayresiana",
+    "Dictyota crispata",
+    "Dictyota neglecta",
+    "Lamouroux Herbarium in Caen, France"
+  ],
+  "resolution": 8.0
+}

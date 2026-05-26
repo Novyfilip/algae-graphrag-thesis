@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Porphyra pseudolinearis", "taxonomic_rank": "species"}, {"species_name": "Porphyra dentata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Porphyra pseudolinearis", "predicate": "BELONGS_TO", "object": "Porphyra dentata", "confidence": 0.5}]}

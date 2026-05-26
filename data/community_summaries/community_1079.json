@@ -1,0 +1,12 @@
+{
+  "community_id": 1079,
+  "summary": "This cluster of papers focuses on methodological approaches for monitoring benthic algal communities, specifically comparing the Targeted Sampling method, which uses smaller, focused sample units, and the Coefficient Sampling method, which employs ranges of bottom cover estimates. Key findings indicate that the Coefficient method is more suitable for environmental monitoring programs with limited resources due to its reduced effort requirements. The research does not specify particular algal species or geographic scope, instead emphasizing the practical trade-offs between sampling precision and resource allocation in aquatic ecosystem assessments.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "simulated RPCs",
+    "simulated coefficients"
+  ],
+  "resolution": 8.0
+}

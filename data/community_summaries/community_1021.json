@@ -1,0 +1,12 @@
+{
+  "community_id": 1021,
+  "summary": "This cluster investigates the eutrophication-driven restructuring of phytoplankton communities in temperate estuarine and riverine systems, with a specific focus on the Naktong River Estuary in Korea. The research identifies a shift toward increased dominance of eutrophic indicator species and cyanobacteria (blue-green algae), alongside persistent blooms of the diatom *Stephanodiscus hantzschii* in freshwater zones. Key findings include a significant post-barrage increase in phytoplankton biomass and nutrient levels, which fostered a more fertilized environment and altered seasonal bloom dynamics, such as an early winter bloom in the Sonaktong River. The studies collectively document a transition from a mixed diatom-dominated assemblage to one favoring cyanobacteria, reflecting anthropogenic nutrient loading and hydrological modifications in the region.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "microalgal identification with Yamagishi and Akiyama (1984-1989) literature",
+    "microalgal taxa excluding diatoms"
+  ],
+  "resolution": 8.0
+}

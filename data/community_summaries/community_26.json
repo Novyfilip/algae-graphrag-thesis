@@ -1,0 +1,20 @@
+{
+  "community_id": 26,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and biodiversity of cyanobacteria and algae, primarily within Korean and East Asian aquatic ecosystems. Researchers frequently employed molecular markers such as 16S rRNA, ITS, rbcL, and COI-5P sequences to resolve species boundaries, identify cryptic diversity, and describe novel taxa, including *Dolichospermum hangangense*, *Nodosilinea* species, and *Capillus* species from diverse habitats ranging from freshwater rivers and reservoirs to marine intertidal zones and hypersaline ponds. Key findings across the cluster include the discovery of high genetic diversity and novel lineages in cyanobacteria and dinoflagellates, the role of nutrient dynamics (particularly nitrogen and phosphorus) in driving blooms of *Microcystis aeruginosa* and other harmful algae, and the application of polyphasic approaches to refine taxonomic classifications. The geographic scope is heavily centered on Korea and Japan, with additional studies from Antarctica, India, Brazil, and the Gulf of California, reflecting a broad but regionally focused effort to catalog algal diversity and understand its ecological and evolutionary drivers.",
+  "n_entities": 253,
+  "n_papers": 99,
+  "n_papers_with_summaries": 98,
+  "entity_sample": [
+    "1-µm mesh filter",
+    "16S rDNA sequencing",
+    "16S rDNA similarity analysis",
+    "16S rRNA gene",
+    "16S rRNA gene sequence",
+    "16S rRNA gene similarity analysis",
+    "16S rRNA phylogeny",
+    "16S-23S rRNA internal transcribed spacer (ITS) region",
+    "16S–23S rRNA internal transcribed spacer (ITS)",
+    "16S−23S ITS"
+  ],
+  "resolution": 8.0
+}

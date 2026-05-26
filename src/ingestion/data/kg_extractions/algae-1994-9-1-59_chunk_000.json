@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sargassum thunbergii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "rocky intertidal community"}], "markers": [], "applications": [], "relationships": [{"subject": "Sargassum thunbergii", "predicate": "FOUND_IN", "object": "rocky intertidal community", "confidence": 1.0}]}

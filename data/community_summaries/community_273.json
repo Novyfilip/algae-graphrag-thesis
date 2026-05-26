@@ -1,0 +1,16 @@
+{
+  "community_id": 273,
+  "summary": "This cluster focuses on methodological advancements for molecular analysis of the brown alga *Ecklonia cava*, specifically addressing the technical challenges posed by its high content of sulfated polysaccharides and polyphenols. Researchers developed and optimized an RNA purification protocol using a lysis solution containing 1% CTAB, 1 M NaCl, 0.7% PVP, 10 mM EDTA, and 100 mM Tris-Cl (pH 9.0), which yielded approximately 8 µg of RNA per 200 mg of ground tissue with acceptable purity (A260/A280 ratios between 1.6 and 1.8). The primary shared theme is the improvement of nucleic acid extraction quality from this species to enable downstream applications such as cDNA synthesis, reflecting a broader need for reliable molecular tools in phaeophycean research. The geographic scope is implicitly tied to the temperate and subtropical marine habitats where *Ecklonia cava* is endemic, particularly around East Asia.",
+  "n_entities": 6,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "RNA qualification",
+    "RNA quantification",
+    "absorbance measurement at 230 nm",
+    "absorbance measurement at 260 nm",
+    "absorbance measurement at 280 nm",
+    "ultraviolet spectrophotometer"
+  ],
+  "resolution": 8.0
+}

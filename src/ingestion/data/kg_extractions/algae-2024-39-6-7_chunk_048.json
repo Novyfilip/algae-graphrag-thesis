@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. smaydae", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "continuous aeration"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "continuous aeration", "predicate": "AFFECTS", "object": "G. smaydae", "confidence": 1.0}]}

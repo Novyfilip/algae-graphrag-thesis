@@ -1,0 +1,20 @@
+{
+  "community_id": 68,
+  "summary": "This cluster of research focuses heavily on the ecology, physiology, and biotechnological potential of marine protists, particularly dinoflagellates and microalgae, in Korean coastal waters. A central theme is the investigation of mixotrophic and heterotrophic feeding behaviors, with multiple studies quantifying the growth and ingestion rates of species such as *Oxyrrhis marina*, *Polykrikos kofoidii*, *Gymnodinium smaydae*, and *Yihiella yeosuensis* on various prey, often using qPCR and metabarcoding to track their spatiotemporal distribution in hypoxic or eutrophic bays like Jinhae and Masan. Concurrently, significant effort was directed at optimizing cultivation conditions for high-value compound production, including omega-3 fatty acids (DHA) from *G. smaydae* and *O. marina*, astaxanthin from *Haematococcus pluvialis*, and lipids for biodiesel from *Tetraselmis* sp. and *Chlorella* species, with studies also exploring the use of wastewater and deep seawater as nutrient sources. The geographic scope is predominantly centered on the Korean Peninsula and Jeju Island, with additional work on Antarctic strains (*Micractinium variabile*) and the characterization of harmful algal bloom species like *Cochlodinium polykrikoides* and *Karenia brevis*, alongside the taxonomic revision of genera such as *Coolia* and *Micractinium* using molecular phylogenetics.",
+  "n_entities": 184,
+  "n_papers": 107,
+  "n_papers_with_summaries": 105,
+  "entity_sample": [
+    "1,1-diphenyl-3-[methoxymethoxy]-1-butene",
+    "4-methyl-2,4-bis[4'-trimethylsilyloxyphenyl]pentene-1",
+    "5-([4,6-dichlorotriazin-2-yl]amino)fluorescein hydrochloride",
+    "8,9,9,10,10,11-hexafluoro-4,4-dimethyl-3,5-dioxatetracy",
+    "9H-fluorene-2-carboxylic acid",
+    "AOCS Official Method Ce 1-62",
+    "Algal Growth Potential (AGP) probe",
+    "Antarctic freshwater",
+    "Arctic microalgal strains",
+    "Ardley Island, South Shetland Islands, Antarctica"
+  ],
+  "resolution": 8.0
+}

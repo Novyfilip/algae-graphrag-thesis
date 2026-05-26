@@ -1,0 +1,12 @@
+{
+  "community_id": 712,
+  "summary": "This cluster investigates the endophytic relationship between farmed kelp gametophytes and red algal hosts, focusing on the host specificity and seasonal dynamics of infection. The research specifically examines how gametophytes of two cultivated kelp species, including *Undaria pinnatifida*, differentially infect six species of filamentous red algae, with a notable seasonal increase in infectiousness linked to frond erosion. Comparative analysis of two non-filamentous red algae further revealed distinct symbiotic strategies between the kelp species, indicating that ecological and physiological factors, rather than simple proximity, govern these interactions. The geographic scope centers on temperate marine ecosystems where kelp aquaculture and natural red algal populations co-occur.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Gigartina acicularis",
+    "north-eastern Atlantic"
+  ],
+  "resolution": 8.0
+}

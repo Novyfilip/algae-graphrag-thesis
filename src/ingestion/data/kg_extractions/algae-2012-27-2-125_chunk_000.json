@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Fucus vesiculosus", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "GeO2"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "GeO2", "predicate": "AFFECTS", "object": "Fucus vesiculosus", "confidence": 1.0}]}

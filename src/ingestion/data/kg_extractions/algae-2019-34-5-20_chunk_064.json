@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "sea"}, {"environment_name": "floating debris"}], "markers": [], "applications": [], "relationships": [{"subject": "algae", "predicate": "FOUND_IN", "object": "sea", "confidence": 1.0}, {"subject": "algae", "predicate": "FOUND_IN", "object": "floating debris", "confidence": 1.0}]}

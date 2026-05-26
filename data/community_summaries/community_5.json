@@ -1,0 +1,20 @@
+{
+  "community_id": 5,
+  "summary": "This cluster of papers is unified by a strong focus on the molecular phylogenetic revision and taxonomic reclassification of diverse algal groups, primarily red algae (Rhodophyta) and brown algae (Phaeophyceae), using genetic markers such as rbcL, COI-5P, cox1, and ITS. Key findings across the cluster include the frequent discovery of cryptic species complexes, the proposal of new genera and species (e.g., *Tsunamia transpacifica*, *Violetonostoc minutum*, *Haraldiophyllum udoensis*), and the re-evaluation of species boundaries through integrated morphological and molecular analyses, often revealing non-monophyly in traditional genera like *Polysiphonia*, *Grateloupia*, and *Scytosiphonaceae*. Geographically, the research is heavily concentrated in the Northwest Pacific, particularly Korea and Japan, with significant contributions from the Pacific Islands, the Americas, and Antarctica, highlighting these regions as hotspots for algal biodiversity and endemism.",
+  "n_entities": 358,
+  "n_papers": 210,
+  "n_papers_with_summaries": 210,
+  "entity_sample": [
+    "1% agarose gels",
+    "16S-23S internal transcribed spacer (ITS) rRNA",
+    "18S rRNA-5P sequencing",
+    "25 distinct rate categories",
+    "28S rRNA",
+    "300 independent tree inferences",
+    "ABI PRISM 377 DNA Sequencer",
+    "ABI PRISMTM 377 DNA Sequencer",
+    "ARB package",
+    "ARLEQUIN ver. 3.5.2"
+  ],
+  "resolution": 8.0
+}

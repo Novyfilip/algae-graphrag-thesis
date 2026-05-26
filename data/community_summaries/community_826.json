@@ -1,0 +1,12 @@
+{
+  "community_id": 826,
+  "summary": "This cluster focuses on the taxonomic and phylogenetic characterization of cryptophyte algae, specifically through the integrative analysis of morphology, molecular phylogeny, and pigment composition. The central species, *Rhodomonas marina*, is defined by its elliptical cell shape, Crypto-Phycoerythrin type I pigment, and a tubular nucleomorph within the pyrenoid, with SSU rDNA analysis confirming its phylogenetic placement among *Rhinomonas*, *Storeatula*, and *Pyrenomonas*. The research emphasizes the predictive secondary structure of the nuclear internal transcribed spacer 2 as a taxonomic marker and highlights the species' geographic distribution across temperate, subtropical, and Arctic waters. Key findings demonstrate that Arctic isolates align with previously described temperate populations, reinforcing the utility of combined morphological and molecular approaches for resolving cryptophyte systematics.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "PowerPlant Pro DNA isolation kit",
+    "extraction of total genomic DNA"
+  ],
+  "resolution": 8.0
+}

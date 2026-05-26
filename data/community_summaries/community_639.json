@@ -1,0 +1,12 @@
+{
+  "community_id": 639,
+  "summary": "This cluster of research focuses on the dynamics of harmful algal blooms (HABs) in Korean coastal waters, specifically investigating the life cycles and toxin production of key dinoflagellate species, including *Alexandrium tamarense* and *Gymnodinium catenatum*. A central finding is the correlation between bloom timing, driven by an endogenous annual clock controlling cyst germination, and the subsequent accumulation of paralytic shellfish toxins, with C1/C2 and GTX1/GTX4 identified as prominent toxin components. The studies collectively emphasize the need for regional monitoring strategies that account for the species-specific life cycles and toxin profiles to predict and mitigate seafood damage.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Chattonella spp.",
+    "Inland Sea of Japan"
+  ],
+  "resolution": 8.0
+}

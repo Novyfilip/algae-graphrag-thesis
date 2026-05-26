@@ -1,0 +1,12 @@
+{
+  "community_id": 875,
+  "summary": "This cluster synthesizes the early historical documentation and taxonomic exploration of marine algae in the North Pacific and Bering Sea region, specifically from the late 1730s to 1900. The papers are connected by their focus on the collections and contributions of Russian and British expeditions, including those led by Steller, Krasheninnkov, Menzies, and Chamisso, who surveyed the coastlines of Kamchatka, Alaska, the Aleutians, and the Kuril Islands. Key findings center on the discovery and initial scientific description of diverse algal species from these subarctic and boreal waters, establishing foundational taxonomic records for the region. The geographic scope is strictly confined to the upper North Pacific and Bering Sea, highlighting the role of early naturalists in cataloging the region’s marine biodiversity.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Dilsea arctica",
+    "Shumagin Islands"
+  ],
+  "resolution": 8.0
+}

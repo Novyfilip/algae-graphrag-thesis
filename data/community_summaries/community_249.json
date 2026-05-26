@@ -1,0 +1,20 @@
+{
+  "community_id": 249,
+  "summary": "This cluster of research primarily investigates the ecology, taxonomy, and biogeography of macroalgae and phytoplankton across the North Pacific, with a strong geographic focus on the coastal waters of Korea, Japan, the Aleutian Islands, and the Bering Sea. Key species connecting the studies include the kelps *Saccharina japonica*, *Undaria pinnatifida*, and *Ecklonia cava*, as well as the red algae *Pyropia yezoensis* and *Palmaria palmata*, with multiple papers employing transect and quadrat methods to assess vertical zonation, biomass, and community succession in response to environmental stressors. A recurring pattern across the cluster was the documentation of species-specific physiological responses to climate-related factors, such as ocean acidification and cold stress, which influenced growth, photosynthesis, and carbon flux dynamics in vegetated coastal ecosystems. Additionally, several studies utilized molecular and phylogeographic approaches to resolve cryptic species complexes and historical dispersal pathways, revealing high genetic structuring in taxa like *Saccharina sessilis* and *Callophyllis variegata* across the North Pacific and New Zealand.",
+  "n_entities": 45,
+  "n_papers": 29,
+  "n_papers_with_summaries": 28,
+  "entity_sample": [
+    "Alaria angusta",
+    "Alaria lanceolata",
+    "Alaria laticosta",
+    "Alaria praelonga",
+    "Alaria taeniata",
+    "Analipus filiformis",
+    "Analipus fusiformis",
+    "Bering Island",
+    "Chilean waters",
+    "Chondrus mamillosus var. unalaschcensis"
+  ],
+  "resolution": 8.0
+}

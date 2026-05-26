@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "H. lacustris", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "carotenoid"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "H. lacustris", "predicate": "PRODUCES", "object": "carotenoid", "confidence": 0.5}]}

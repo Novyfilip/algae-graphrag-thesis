@@ -1,0 +1,12 @@
+{
+  "community_id": 664,
+  "summary": "This cluster focuses on the photoprotective potential of compounds derived from the freshwater green alga *Spirogyra* sp. Researchers isolated gallic acid derivatives from this species and demonstrated their efficacy in mitigating ultraviolet B (UVB)-induced damage. Key findings across the studies showed that the algal extract significantly improved cell viability, reduced apoptosis, and cleared reactive oxygen species in both human keratinocyte cell lines and zebrafish models. The work establishes a mechanistic link between the alga's antiradical activity and its ability to counteract UVB-induced oxidative stress, suggesting a specific application for *Spirogyra* sp. as a natural source of photoprotective agents.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "DCFH2",
+    "DCFH2 oxidation measurement"
+  ],
+  "resolution": 8.0
+}

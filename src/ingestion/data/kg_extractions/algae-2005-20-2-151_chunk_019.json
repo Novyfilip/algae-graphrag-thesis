@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "outdoor aquarium"}, {"environment_name": "sea"}], "markers": [], "applications": [], "relationships": [{"subject": "outdoor aquarium", "predicate": "CONTAINS", "object": "blades", "confidence": 0.5}, {"subject": "blades", "predicate": "FOUND_IN", "object": "sea", "confidence": 0.5}]}

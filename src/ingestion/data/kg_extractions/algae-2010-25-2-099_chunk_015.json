@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "filamentous cyanobacteria", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "solid medium-based isolation method"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "solid medium-based isolation method", "predicate": "STUDIED_WITH", "object": "filamentous cyanobacteria", "confidence": 1.0}]}

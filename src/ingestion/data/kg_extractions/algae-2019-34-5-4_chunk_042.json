@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "giant kelp", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "southern California"}], "markers": [], "applications": [], "relationships": [{"subject": "giant kelp", "predicate": "FOUND_IN", "object": "southern California", "confidence": 1.0}]}

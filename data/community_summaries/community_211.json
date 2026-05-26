@@ -1,0 +1,20 @@
+{
+  "community_id": 211,
+  "summary": "This cluster of research is unified by a focus on the physiological, ecological, and biotechnological responses of algae and their symbionts to environmental stressors, particularly light, temperature, and nutrient availability, with a strong geographic emphasis on Korean coastal and Antarctic ecosystems. Key species investigated include the red alga *Pyropia yezoensis*, the green macroalga *Ulva pertusa*, the dinoflagellate *Cochlodinium polykrikoides*, and the microalga *Haematococcus pluvialis*, with studies examining how factors such as UV-B radiation, salinity, and biostimulants like AMPEP and Kelpak affect photosynthesis, pigment composition, and asexual reproduction. A recurring pattern across the cluster was the use of chlorophyll a fluorescence as a rapid, non-destructive indicator of photosynthetic performance and stress, applied to seagrass transplants, benthic diatoms, and macroalgae. The research also explored symbiotic relationships, such as chloroplast retention in sacoglossan mollusks and the association of *Prochloron* with ascidians, alongside applied studies on astaxanthin production, bioremediation of wastewater, and the antioxidant properties of extracts from *Sargassum* and *Ecklonia cava*.",
+  "n_entities": 77,
+  "n_papers": 94,
+  "n_papers_with_summaries": 93,
+  "entity_sample": [
+    "2-C-methyl-D-erythritol 4-phosphate (MEP)",
+    "488 nm excitation line",
+    "488-nm excitation line",
+    "5-aminolevulinic acid",
+    "77K fluorescence",
+    "AOBS filter-free system",
+    "Bletilla striata",
+    "Chemical synthesis",
+    "Clark type O2 probe",
+    "Confocal microscopy"
+  ],
+  "resolution": 8.0
+}

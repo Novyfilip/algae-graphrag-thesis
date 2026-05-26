@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Phytoplankton", "taxonomic_rank": "community"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Youngchun Dam"}], "markers": [], "applications": [], "relationships": [{"subject": "Phytoplankton", "predicate": "FOUND_IN", "object": "Youngchun Dam", "confidence": 1.0}]}

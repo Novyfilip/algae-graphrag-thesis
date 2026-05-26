@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Anabaena anomala", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "soil surface at Wong Chuk Yuen, Hong Kong"}], "markers": [], "applications": [], "relationships": [{"subject": "Anabaena anomala", "predicate": "FOUND_IN", "object": "soil surface at Wong Chuk Yuen, Hong Kong", "confidence": 1.0}]}

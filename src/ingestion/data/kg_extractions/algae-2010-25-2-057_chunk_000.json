@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cyclotella atomus var. marina", "taxonomic_rank": "variety"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean waters"}], "markers": [], "applications": [], "relationships": [{"subject": "Cyclotella atomus var. marina", "predicate": "FOUND_IN", "object": "Korean waters", "confidence": 1.0}]}

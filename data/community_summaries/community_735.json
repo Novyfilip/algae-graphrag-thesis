@@ -1,0 +1,12 @@
+{
+  "community_id": 735,
+  "summary": "This cluster synthesizes the early historical documentation and taxonomic exploration of marine algae in the North Pacific and Bering Sea region, spanning the late 18th to 19th centuries. The research is unified by the contributions of Russian and British expeditions—led by figures such as Steller, Chamisso, and Voznesenskii—who systematically collected and described diverse algal species from specific geographic locales including the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kurils. Key findings across the corpus focus on the discovery and scientific cataloging of these species, establishing foundational taxonomic knowledge for the region’s marine flora. The geographic scope is exclusively circumscribed to the upper North Pacific and Bering Sea, reflecting a shared emphasis on the historical biogeography and early natural history of this subarctic ecosystem.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Homeostroma lobatum",
+    "Sitka and Prince William Sound, Alaska"
+  ],
+  "resolution": 8.0
+}

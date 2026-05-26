@@ -1,0 +1,12 @@
+{
+  "community_id": 882,
+  "summary": "This cluster centers on the taxonomic revision and phylogenetic classification of red algae within the class *Bangiophyceae*, specifically through the description of a new species, *Bangiopsis franklynotti sp. nov.* The research was conducted on isolates collected from geographically disparate tide pools in Australia, India, and Puerto Rico, with identification achieved via a combination of culturing and molecular analysis. A key finding across the cluster is the detection of significant genetic variation between isolates from different regions, which, alongside morphological challenges, warranted the designation of a separate species. The work underscores the persistent difficulty in accurately classifying red algae due to insufficient morphological data and highlights the need for comprehensive, integrative approaches to resolve species boundaries within this group.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Goniotrichum humphreyi",
+    "St. Annes Bay, Jamaica"
+  ],
+  "resolution": 8.0
+}

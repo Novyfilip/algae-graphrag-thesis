@@ -1,0 +1,12 @@
+{
+  "community_id": 836,
+  "summary": "This cluster of research focuses on the taxonomy, morphology, and distribution of marine diatoms within the family Rhizosoleniaceae, specifically the genera *Proboscia*, *Neocalyptrella*, *Pseudosolenia*, *Guinardia*, and *Dactyliosolen*, in Korean coastal waters. Using light and scanning electron microscopy, the studies provided detailed morphological characterizations of valve shape, areolae patterns, and girdle segments to refine taxonomic classifications and distinguish between closely related genera. Key findings included the identification of a new species, *D. phuketensis*, and the clarification of morphological distinctions between *Proboscia*, *Guinardia*, and *Pseudosolenia*. The geographic scope was confined to the coastal waters of Korea, emphasizing the ecological and taxonomic significance of these diatoms in the region.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Neochloris",
+    "Pseudoneochloris"
+  ],
+  "resolution": 8.0
+}

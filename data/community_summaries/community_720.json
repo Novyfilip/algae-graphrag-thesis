@@ -1,0 +1,12 @@
+{
+  "community_id": 720,
+  "summary": "This cluster synthesizes research on the taxonomy, classification, and biogeographic distribution of marine macroalgae, with a specific focus on the Korean coastline. The studies employed morphological characterization and phylogenetic analyses to clarify taxonomic relationships and species boundaries within groups such as Chlorophyta and Chromophyta. Key species examined included *Cladophora crystallina* and *Sphacelaria apicalis*, with findings contributing to the refinement of regional algal checklists and the proposal of systematic grouping methods. The geographic scope was narrowly centered on Korean waters, emphasizing the ecological and taxonomic diversity of the region’s marine flora.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Griffitsia corallina",
+    "Griffitsia corallinoides"
+  ],
+  "resolution": 8.0
+}

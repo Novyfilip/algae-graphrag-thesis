@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Dunaliella salina", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "saltpan in Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Dunaliella salina", "predicate": "FOUND_IN", "object": "saltpan in Korea", "confidence": 1.0}]}

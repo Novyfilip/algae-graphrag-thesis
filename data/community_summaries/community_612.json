@@ -1,0 +1,12 @@
+{
+  "community_id": 612,
+  "summary": "This cluster focuses on the taxonomic revision and phylogenetic reassignment of red algal species within the family Cystocloniaceae, specifically through the integration of molecular markers and morphological analysis. Using nuclear-encoded SSU and chloroplast-encoded rbcL sequences, researchers demonstrated a strong phylogenetic relationship between the newly identified *Hypnea saidana* and the genus *Calliblepharis*, leading to the proposal of a new combination, *Calliblepharis saidana*. The studies collectively expand the known geographic range of this genus from the eastern Atlantic (South Africa) to the western Pacific Ocean, highlighting a broader ecological and biogeographic scope than previously recognized. Key findings across the cluster emphasize the necessity of combined molecular and reproductive structure analyses to resolve cryptic diversity and correct historical misclassifications within the Cystocloniaceae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Atlantic Iberian Peninsula",
+    "Calliblepharis hypneoides"
+  ],
+  "resolution": 8.0
+}

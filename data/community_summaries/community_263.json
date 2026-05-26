@@ -1,0 +1,17 @@
+{
+  "community_id": 263,
+  "summary": "This cluster investigates the nutraceutical and ergogenic potential of fermented brown algae, specifically focusing on *Laminaria japonica* (sea tangle) enriched with γ-aminobutyric acid (GABA). The research connects through the shared methodology of fermentation to enhance bioactive compounds and the measurement of physiological outcomes such as muscle metabolism, lipolysis, and serum biomarkers. A key finding across the cluster is that GABA-enriched algal supplementation significantly reduced total fat mass and triglycerides while increasing brain-derived neurotrophic factor (BDNF), angiotensin-converting enzyme, and human growth hormone, indicating a protective effect against sarcopenic obesity. The geographic and ecological scope is centered on a human clinical trial involving middle-aged women, demonstrating the application of marine macroalgae as a functional food for age-related metabolic and muscular decline.",
+  "n_entities": 7,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "ALT determination",
+    "AST measurement",
+    "employment of Tris buffers",
+    "optimization of substrate concentrations",
+    "preincubation of a combined buffer and serum",
+    "pyridoxal phosphate activation",
+    "substrate start"
+  ],
+  "resolution": 8.0
+}

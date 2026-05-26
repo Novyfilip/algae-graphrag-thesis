@@ -1,0 +1,12 @@
+{
+  "community_id": 663,
+  "summary": "This cluster of research focuses on the isolation and characterization of bioactive compounds from brown seaweeds collected off the coast of Jeju Island, Korea, specifically *Sargassum ringgoldianum subsp. coreanum* and *Ecklonia cava*. The studies investigated the antioxidant and cytoprotective properties of two distinct compounds—loliolide and phlorofucofuroeckol-A (PFF-A)—demonstrating their ability to scavenge free radicals and protect cells from oxidative stress-induced damage, including lipid peroxidation and apoptosis. Both papers employed in vitro assays (DPPH, H2O2, MTT) and, in the case of PFF-A, in vivo zebrafish models to validate protective effects against reactive oxygen species (ROS) and cell death. The findings highlight the potential of these seaweed-derived metabolites as natural therapeutic agents for mitigating oxidative damage.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "2′,7′-dichloro-dihydrofluorescein diacetate",
+    "DCFH-DA method"
+  ],
+  "resolution": 8.0
+}

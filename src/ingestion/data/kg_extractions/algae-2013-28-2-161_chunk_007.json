@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "red algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "red algae", "predicate": "STUDIED_WITH", "object": "Programmed cell death", "confidence": 0.5}, {"subject": "red algae", "predicate": "STUDIED_WITH", "object": "Cell repair", "confidence": 1.0}]}

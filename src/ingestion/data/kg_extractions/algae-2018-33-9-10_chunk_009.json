@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "aquaculture feed"}], "relationships": [{"subject": "aquaculture feed", "predicate": "CONTAINS", "object": "highly nutritious proteins", "confidence": 0.5}]}

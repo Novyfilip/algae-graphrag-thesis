@@ -1,0 +1,13 @@
+{
+  "community_id": 542,
+  "summary": "This cluster focused on the taxonomic identification and morphological characterization of red algae from the genus *Polysiphonia* (Rhodophyta) along the coast of Korea. Researchers examined seven key species—including *P. morrowi*, *P. subtilissima*, and *P. japonica*—by analyzing herbarium specimens collected between 1980 and 1986. The studies emphasized the taxonomic importance of specific morphological traits, particularly rhizoid shape and branching patterns, as well as differences in growth habits and habitat preferences to distinguish between species. The geographic scope was limited to Korean coastal waters, and the findings provided a foundational taxonomic framework for this genus in the region.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "P. savatieria",
+    "P. sphaerocarpas",
+    "reef rocks in exposed situation"
+  ],
+  "resolution": 8.0
+}

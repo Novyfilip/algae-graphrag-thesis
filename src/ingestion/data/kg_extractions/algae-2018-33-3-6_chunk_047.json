@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "\u03b2-tubulin"}], "applications": [], "relationships": [{"subject": "Korean isolate", "predicate": "IDENTIFIED_BY", "object": "\u03b2-tubulin", "confidence": 1.0}, {"subject": "Korean isolate", "predicate": "BELONGS_TO", "object": "P. sinerae", "confidence": 1.0}]}

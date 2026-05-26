@@ -1,0 +1,20 @@
+{
+  "community_id": 157,
+  "summary": "This cluster of research is predominantly centered on the biodiversity, taxonomy, and physiological ecology of marine algae from Korean coastal waters, with a strong emphasis on red algae (Rhodophyta) and dinoflagellates. Key species investigated include *Pyropia yezoensis*, *Chattonella marina*, *Porphyra* spp., and various *Ecklonia* and *Undaria* species, with studies frequently examining their responses to environmental stressors such as elevated CO2, heat, and light quality. A recurring theme is the use of polyphasic approaches—integrating molecular phylogenetics (e.g., rbcL, SSU rDNA), ultrastructural analysis, and pigment characterization—to resolve taxonomic ambiguities, as seen in the description of new genera like *Capillus* and *Erythrolobus* and the reclassification of *Cryptomonas* and *Sheathia* species. Geographically, the work is heavily focused on the East and West coasts of Korea, including specific sites like Jaran Bay, Jeju Island, and the Oeyondo Islands, with additional contributions from Brazil, India, and the Arctic. The cluster also highlights applied research on bioactive compounds, including fucoidans and phycoerythrins, for their antioxidant, anti-inflammatory, and antiviral properties, alongside investigations into algal diseases, mixotrophy, and carbon-concentrating mechanisms.",
+  "n_entities": 115,
+  "n_papers": 75,
+  "n_papers_with_summaries": 74,
+  "entity_sample": [
+    "3-phosphoglycerate",
+    "35-55% ammonium sulfate fractionation",
+    "5-aminolevulinate",
+    "5-aminolevulinic acid dehydratase",
+    "Anabaena variabilis",
+    "Biogel A 1.5 agarose",
+    "Blue-Green Algae",
+    "Bovine serum albumin",
+    "Bryopsis maxima",
+    "Centriprep concentration"
+  ],
+  "resolution": 8.0
+}

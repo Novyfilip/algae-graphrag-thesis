@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "amplify"}], "environments": [], "markers": [{"marker_name": "RuBisCo spacer"}], "applications": [], "relationships": [{"subject": "amplify", "predicate": "STUDIED_WITH", "object": "RuBisCo spacer", "confidence": 1.0}]}

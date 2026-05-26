@@ -1,0 +1,20 @@
+{
+  "community_id": 158,
+  "summary": "This cluster of papers is geographically centered on the Korean Peninsula, the Sea of Okhotsk, the Bering Sea, and the Aleutian Islands, with additional studies from India, Japan, and Hawaii. The research predominantly focuses on the taxonomy, distribution, and ecological dynamics of macroalgae, particularly red (Rhodophyta) and brown (Phaeophyceae) species such as *Corallina pilulifera*, *Sargassum thunbergii*, *Ulva pertusa*, and *Pyropia yezoensis*, often in the context of anthropogenic stressors like thermal effluents from nuclear power plants. Key findings include the documentation of new species and cryptic diversity (e.g., *Haraldiophyllum udoensis*, *Dolichospermum hangangense*, and *Ramipedicella*), the use of molecular markers (rbcL, cox1, ITS) for phylogenetic clarification, and the observation of community shifts toward warm-tolerant or opportunistic species in disturbed habitats. A recurring pattern is the assessment of algal community structure and biomass in intertidal and subtidal zones, with many studies reporting dominance by *Corallina* and *Sargassum* species and seasonal variations in biomass, often linked to temperature, salinity, and nutrient availability.",
+  "n_entities": 114,
+  "n_papers": 134,
+  "n_papers_with_summaries": 134,
+  "entity_sample": [
+    "40° N to 40° S belt around equator",
+    "41° S",
+    "Acmaea pallida",
+    "Arizona State University Polytechnic campus in Mesa, Arizona, USA",
+    "Bays",
+    "British Columbia, Canada",
+    "Ceramothamnion sp. MABIK-LAS-337",
+    "Croatia",
+    "Derbesia marina",
+    "G. vagum"
+  ],
+  "resolution": 8.0
+}

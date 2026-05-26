@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Amphiroa", "taxonomic_rank": "genus"}], "compounds": [], "methods": [{"method_name": "light microscopy"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Amphiroa", "predicate": "STUDIED_WITH", "object": "light microscopy", "confidence": 1.0}]}

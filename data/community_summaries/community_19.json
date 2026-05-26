@@ -1,0 +1,20 @@
+{
+  "community_id": 19,
+  "summary": "This cluster of research is heavily centered on the taxonomy, phylogeny, and ecological dynamics of phytoplankton and macroalgae in Korean coastal waters and the broader Northwest Pacific, with a strong emphasis on harmful algal bloom (HAB) species. Key findings include the discovery and characterization of numerous new species and genera, such as the dinoflagellates *Ansanella granifera*, *Heterocapsa minima*, and *Yihiella yeosuensis*, as well as the cyanobacterium *Dolichospermum hangangense*, often using molecular tools like qPCR and phylogenetic analysis to resolve cryptic diversity and distribution patterns. A major focus was on the ecophysiology and bloom dynamics of toxic and red-tide forming dinoflagellates, including *Cochlodinium polykrikoides*, *Alexandrium* species, *Karlodinium veneficum*, and *Gymnodinium catenatum*, with studies investigating their growth responses to temperature, salinity, nutrients, and light, as well as their mixotrophic capabilities and interactions with grazers. The geographic scope is predominantly the Korean Peninsula, including the South Sea, East China Sea, Yellow Sea, and specific estuaries like the Nakdong and Han Rivers, with additional studies extending to the Antarctic, Arctic, and Pacific Ocean, reflecting a broad interest in both local bloom management and global phylogeographic patterns.",
+  "n_entities": 292,
+  "n_papers": 198,
+  "n_papers_with_summaries": 194,
+  "entity_sample": [
+    "AY485481",
+    "Aengkang Bay",
+    "Amphiprora sulcata",
+    "Anmyun Isl.",
+    "Argentinean coastal waters",
+    "Argentinian waters",
+    "Atlantica",
+    "Atsumi Bay",
+    "Baekryungdo/Incheon (37°55′35″ N, 124°43′44″ E), coast, surface water",
+    "Bay of Campeche"
+  ],
+  "resolution": 8.0
+}

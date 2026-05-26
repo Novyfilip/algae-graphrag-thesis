@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. angustissima", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "high wave environment"}], "markers": [], "applications": [], "relationships": [{"subject": "S. angustissima", "predicate": "FOUND_IN", "object": "high wave environment", "confidence": 1.0}]}

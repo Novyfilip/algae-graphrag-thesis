@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "eckol"}], "methods": [{"method_name": "docking"}, {"method_name": "CDOCKER"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "eckol", "predicate": "STUDIED_WITH", "object": "docking", "confidence": 1.0}, {"subject": "docking", "predicate": "STUDIED_WITH", "object": "CDOCKER", "confidence": 1.0}]}

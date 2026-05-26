@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. turuturu", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "G. turuturu", "predicate": "AFFECTS", "object": "stress tolerance", "confidence": 0.5}]}

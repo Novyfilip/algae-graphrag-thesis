@@ -1,0 +1,12 @@
+{
+  "community_id": 685,
+  "summary": "This cluster of research focuses on the biodiversity and community ecology of macroalgae, with a strong emphasis on the phyla Rhodophyta, Chlorophyta, and Phaeophyceae across diverse geographic and ecological settings. Studies employed methods such as manual sampling, the Germling Emergence Method, and DNA barcoding with RuBisCO spacer markers to isolate and identify species, revealing high diversity including rare taxa like *Hydrolithon farinosum* and new records for Kuwait and Cheju Island. Key findings indicate that epiphyte frequency on seagrasses (*Thalassia testudinum* and *Syringodium filiforme*) in Tampa Bay, Florida, was higher in dense beds, while intertidal communities on Cheju Island showed seasonal peaks in spring and late summer with distinct floristic patterns linked to seawater temperature and salinity. The geographic scope spans subtropical (Tampa Bay), temperate (Cheju Island), and arid coastal (Kuwait) environments, collectively advancing the characterization of macroalgal assemblages through both traditional and molecular taxonomic approaches.",
+  "n_entities": 2,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Ectocarpus mitchelliae",
+    "Hincksia mitchelliae"
+  ],
+  "resolution": 8.0
+}

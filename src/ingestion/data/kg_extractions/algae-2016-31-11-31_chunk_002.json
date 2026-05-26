@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "B. plumosa", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "mass spectrometry"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "B. plumosa", "predicate": "STUDIED_WITH", "object": "mass spectrometry", "confidence": 1.0}]}

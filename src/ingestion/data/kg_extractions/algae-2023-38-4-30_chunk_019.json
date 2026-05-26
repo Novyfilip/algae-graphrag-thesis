@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "PCR"}, {"method_name": "Sanger sequencing"}, {"method_name": "BioEdit Editor"}, {"method_name": "NCBI BLAST searches"}, {"method_name": "Multiple Sequence Comparison by Log-Expectation (MUSCLE)"}, {"method_name": "MEGA X 11.0.11"}], "environments": [], "markers": [], "applications": [], "relationships": []}

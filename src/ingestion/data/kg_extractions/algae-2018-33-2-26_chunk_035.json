@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Porphyra", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "rbcL"}], "applications": [], "relationships": [{"subject": "Porphyra", "predicate": "IDENTIFIED_BY", "object": "rbcL", "confidence": 0.5}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 828,
+  "summary": "This cluster investigates the cellular and molecular mechanisms underlying algal adaptation to environmental and physiological stress, with a focus on proteomic and ultrastructural changes. Studies on the coenocytic green alga *Bryopsis plumosa* revealed dramatic shifts in protein expression and cell wall formation during protoplast regeneration, while research on the mixotrophic dinoflagellate *Prorocentrum micans* identified unique proteins expressed under mixotrophic conditions, including those with homology to insect and bacterial genes. Both papers employed mass spectrometry-based proteomics and microscopy to document these processes, highlighting a shared emphasis on cell rebuilding and trophic mode switching. The geographic scope is not explicitly defined, but the work on *P. micans* involved association with the cryptophyte *Rhodomonas salina*, suggesting a focus on species interactions in marine or brackish environments.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "ProFound",
+    "peptide mass fingerprinting"
+  ],
+  "resolution": 8.0
+}

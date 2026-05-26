@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Porphyra", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Takada aquafarm in Ariakekai Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "Porphyra", "predicate": "FOUND_IN", "object": "Takada aquafarm in Ariakekai Bay", "confidence": 1.0}]}

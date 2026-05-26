@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "dinoflagellates", "taxonomic_rank": null}], "compounds": [{"compound_name": "galactolipid"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "dinoflagellates", "predicate": "CONTAINS", "object": "galactolipid", "confidence": 0.5}]}

@@ -1,0 +1,13 @@
+{
+  "community_id": 521,
+  "summary": "This cluster of research is united by a focus on the cultivation, collection, and commercialization of microalgae, particularly *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis*, for industrial applications including nutraceuticals, cosmetics, and biofuel. A key pattern across the cluster is the emphasis on optimizing production methods and expanding the resource value of these organisms, moving from basic science to commercial strategies. Geographically, the work is centered on Korean marine environments, as exemplified by the Korea Marine Microalgae Culture Center (KMMCC), which maintains a collection of approximately 1,400 strains, 84% of which originate from Korean waters. The initial purpose of this collection was to supply live food for aquaculture, but it has since expanded to support broader taxonomic diversity and research applications.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Sebastes tertius",
+    "Sebasticus tertius",
+    "growth and survival rate"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. asiatica", "taxonomic_rank": "species"}, {"species_name": "G. serra", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "G. asiatica", "predicate": "BELONGS_TO", "object": "G. serra", "confidence": 0.5}]}

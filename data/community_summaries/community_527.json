@@ -1,0 +1,13 @@
+{
+  "community_id": 527,
+  "summary": "This cluster of research investigates the biology and ecological impact of toxin-producing marine phytoplankton, with a specific focus on dinoflagellates responsible for harmful algal blooms. The studies employ cellular probes, including antibody and lectin-targeted labeling, to identify and quantify key phycotoxins such as diarrhetic shellfish poisoning (DSP), paralytic shellfish poisoning (PSP), and amnesic shellfish poisoning (ASP). A central finding is the recent surge in reported toxic events, linked to both human activities and natural phenomena like red tides, including the emergence of a newly described “phantom dinoflagellate.” The geographic scope is broadly marine, with lab-based approaches used to trace the distribution and prevalence of these toxins across affected coastal ecosystems.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "electron microscopic methods",
+    "labelling methods",
+    "light microscopic methods"
+  ],
+  "resolution": 8.0
+}

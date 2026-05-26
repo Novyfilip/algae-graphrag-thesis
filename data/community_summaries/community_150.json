@@ -1,0 +1,20 @@
+{
+  "community_id": 150,
+  "summary": "This cluster of research is unified by a strong focus on the biodiversity, taxonomy, and ecology of brown macroalgae (Phaeophyceae), particularly kelp species such as *Eisenia arborea*, *Ecklonia cava*, *Saccharina japonica*, *Undaria pinnatifida*, and *Nereocystis luetkeana*, across the North Pacific and adjacent seas. Geographically, the studies concentrate on the coastal waters of Korea, Japan, the Russian Far East (including the Sea of Okhotsk, Kurile Islands, and Kamchatka), and Alaska, with additional work in the western Atlantic (Nova Scotia) and Baja California. Key findings include the documentation of morphological and genetic variability within and between kelp populations, the discovery of cryptic species and novel taxa (e.g., *Tauya basicrassa*, *Alaria paradisea*, *Fissipedicella orientalis*), and the influence of environmental factors such as wave exposure, temperature, and light on growth, reproduction, and community structure. The cluster also emphasizes applied research on seaweed cultivation, bioresource utilization, and the bioaccumulation of heavy metals, reflecting a dual interest in fundamental phycology and the economic potential of kelp for aquaculture, bioremediation, and bioactive compound extraction.",
+  "n_entities": 118,
+  "n_papers": 101,
+  "n_papers_with_summaries": 99,
+  "entity_sample": [
+    "A8-A9",
+    "Agarum cribrosum",
+    "Alaria crassifolia",
+    "Aquaculture Research Center, Yosu National University, Korea",
+    "Bodega Bay, California",
+    "CO7",
+    "Cape of Ooma",
+    "Coccophora langsdorfii",
+    "Costaria costata",
+    "Costaria turneri"
+  ],
+  "resolution": 8.0
+}

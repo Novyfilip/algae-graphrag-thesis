@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. opaca", "taxonomic_rank": "species"}, {"species_name": "C. densa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. opaca", "predicate": "AFFECTS", "object": "C. densa", "confidence": 0.5}]}

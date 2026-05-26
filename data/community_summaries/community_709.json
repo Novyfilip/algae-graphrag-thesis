@@ -1,0 +1,12 @@
+{
+  "community_id": 709,
+  "summary": "This cluster of research focuses on the ecological dynamics of freshwater algal communities in the Togyo Reservoir in Chulwon, Korea. The studies investigated the composition and relative abundance of phytoplankton and periphyton, identifying 150 phytoplankton taxa with a notable dominance of diatoms over green algae. A key finding was the significant increase in epipelic algae, particularly pennate diatoms, whose prevalence was linked to the presence of raphe structures. The research specifically characterized the periphyton community structure and the spatial distribution of both periphyton and phytoplankton within this Korean reservoir ecosystem.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Coenococus planctonicus",
+    "Genus Coenococus"
+  ],
+  "resolution": 8.0
+}

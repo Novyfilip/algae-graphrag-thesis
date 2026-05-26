@@ -1,0 +1,12 @@
+{
+  "community_id": 1015,
+  "summary": "This cluster investigates the physiological ecology of red algae from the genus *Monosporus*, particularly *Monosporus inkyui*, *Monosporus australis*, and *Monosporus pedicellatus*, in New Zealand intertidal environments. The research connects these species through shared methods examining nitrate uptake, growth rates, and the impact of nitrogen limitation on algal physiology. Key findings highlight significant differences in reproductive structures and morphological characteristics among these *Monosporus* species, with comparisons drawn to previously published data from other algae. The geographic scope is centered on New Zealand, with the work integrating historical physiological data to characterize the unique adaptations of these intertidal seaweeds.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Gracilaria verrucosa v. angustissima",
+    "mass outdoor cultures"
+  ],
+  "resolution": 8.0
+}

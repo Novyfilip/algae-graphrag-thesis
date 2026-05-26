@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cryptomonas", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "pigment"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Cryptomonas", "predicate": "PRODUCES", "object": "pigment", "confidence": 1.0}]}

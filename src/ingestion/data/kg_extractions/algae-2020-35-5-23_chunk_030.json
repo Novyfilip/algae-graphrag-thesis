@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "LPS"}, {"compound_name": "IFN\u03b3"}, {"compound_name": "PGE2"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "LPS", "predicate": "PRODUCES", "object": "PGE2", "confidence": 0.5}, {"subject": "IFN\u03b3", "predicate": "PRODUCES", "object": "PGE2", "confidence": 0.5}]}

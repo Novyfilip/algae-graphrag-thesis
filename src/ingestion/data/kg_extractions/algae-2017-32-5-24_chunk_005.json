@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "reactive oxygen species (ROS)"}], "methods": [{"method_name": "antioxidant enzymatic assays"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "antioxidant enzymatic assays", "predicate": "STUDIED_WITH", "object": "reactive oxygen species (ROS)", "confidence": 0.5}]}

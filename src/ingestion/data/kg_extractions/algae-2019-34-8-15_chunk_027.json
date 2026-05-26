@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Saccharina latissima", "taxonomic_rank": "species"}, {"species_name": "A. glacialis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "A. glacialis", "predicate": "STUDIED_WITH", "object": "Saccharina latissima", "confidence": 0.5}]}

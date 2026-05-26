@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "N. palea", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "fucoxanthin"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "N. palea", "predicate": "PRODUCES", "object": "fucoxanthin", "confidence": 0.5}]}

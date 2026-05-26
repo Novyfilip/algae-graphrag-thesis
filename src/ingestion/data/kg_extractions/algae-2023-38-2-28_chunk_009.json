@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Karenia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Karenia", "predicate": "PRODUCES", "object": "red-tide", "confidence": 0.5}, {"subject": "Karenia", "predicate": "PRODUCES", "object": "HAB", "confidence": 0.5}]}

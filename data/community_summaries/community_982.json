@@ -1,0 +1,12 @@
+{
+  "community_id": 982,
+  "summary": "Research within this cluster centered on the anti-inflammatory potential of phlorotannin-rich fractions derived from the brown alga *Ecklonia cava*, specifically utilizing processing by-products as a sustainable resource. Key findings demonstrated that isolated compounds, including eckol, dieckol, and phlorofucofuroeckol-A, significantly reduced inflammatory markers such as nitric oxide, inducible nitric oxide synthase, and cyclooxygenase-2 in lipopolysaccharide-stimulated cellular models. These effects were validated in vivo using a zebrafish embryo model, where the fraction provided protective effects against LPS-induced toxicity and inhibited reactive oxygen species generation. The work highlights a pattern of valorizing algal processing waste for bioactive compound discovery, with the geographic and ecological scope implicitly tied to the cultivation and processing regions of *Ecklonia cava*.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "diaminofluorophore 4-amino-5-methylamino-2′7′- difluorofluorescein diacetate",
+    "fluorescent probe dye analysis"
+  ],
+  "resolution": 8.0
+}

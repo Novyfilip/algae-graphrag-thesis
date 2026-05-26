@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Chl-a"}], "methods": [], "environments": [{"environment_name": "Masan Bay"}, {"environment_name": "Fukuyama Harbor"}], "markers": [], "applications": [], "relationships": [{"subject": "Chl-a", "predicate": "AFFECTS", "object": "copepods", "confidence": 0.5}]}

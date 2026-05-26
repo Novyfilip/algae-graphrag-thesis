@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "chlorophyll-a"}], "methods": [], "environments": [{"environment_name": "mesocosm"}], "markers": [], "applications": [], "relationships": [{"subject": "chlorophyll-a", "predicate": "CONTAINS", "object": "epilithic algae", "confidence": 0.5}]}

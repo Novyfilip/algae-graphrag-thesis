@@ -1,0 +1,12 @@
+{
+  "community_id": 855,
+  "summary": "This cluster investigates the phylogenetics and taxonomy of brown algae within the family Scytosiphonaceae, specifically focusing on the genus *Rosenvingea* from Vietnamese coastal waters. Researchers utilized mitochondrial *cox3* and plastid *psaA* gene sequences to resolve evolutionary relationships, confirming the presence of *Rosenvingea intricata* and *Rosenvingea orientalis* in Vietnam. Key findings include the non-monophyly of the genus *Rosenvingea*, a pattern observed in other scytosiphonacean genera, and distinct morphological descriptions, such as the dense benthic mats of *R. intricata* and the elongated thalli of *R. orientalis*. The geographic scope spans the tropical Pacific, with comparative samples from Mexico and Panama, highlighting a broader Indo-Pacific distribution for these species.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Oahu Kaneohe Bay, Hawaii",
+    "Rosenvingea sp."
+  ],
+  "resolution": 8.0
+}

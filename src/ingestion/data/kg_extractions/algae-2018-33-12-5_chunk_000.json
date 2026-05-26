@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cyanidioschyzon merolae", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "exogenous protein expression"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Cyanidioschyzon merolae", "predicate": "STUDIED_WITH", "object": "exogenous protein expression", "confidence": 1.0}]}

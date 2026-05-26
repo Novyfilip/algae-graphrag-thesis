@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "CuSO4"}, {"compound_name": "ZnSO4"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "CuSO4", "predicate": "CONTAINS", "object": "Cu", "confidence": 1.0}, {"subject": "ZnSO4", "predicate": "CONTAINS", "object": "Zn", "confidence": 1.0}]}

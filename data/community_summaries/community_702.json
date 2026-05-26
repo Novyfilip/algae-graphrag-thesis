@@ -1,0 +1,12 @@
+{
+  "community_id": 702,
+  "summary": "Research on heterocyst development in filamentous cyanobacteria has focused on the genetic regulatory mechanisms governing cell differentiation, particularly the antagonistic interaction between the *patS* and *hetR* genes. Studies have demonstrated that *patS* acts as a diffusible inhibitor that suppresses *hetR* expression, establishing a mutually inhibitory feedback loop essential for patterning heterocysts at regular intervals along filaments. Gene expression analyses have confirmed that this regulatory pathway is critical for balancing the fate of vegetative cells versus nitrogen-fixing heterocysts, with *hetR* functioning as a master activator of differentiation. The work is primarily laboratory-based, utilizing model cyanobacterial strains such as *Anabaena* (or *Nostoc*) species, and does not address specific geographic or ecological contexts.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Aequorea victoria",
+    "GFPmut2"
+  ],
+  "resolution": 8.0
+}

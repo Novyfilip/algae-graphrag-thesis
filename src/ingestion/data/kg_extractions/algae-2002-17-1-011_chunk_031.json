@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. sp. cf. catenella", "taxonomic_rank": "species"}, {"species_name": "A. catenella Dino-6", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "A. sp. cf. catenella", "predicate": "BELONGS_TO", "object": "A. catenella Dino-6", "confidence": 1.0}]}

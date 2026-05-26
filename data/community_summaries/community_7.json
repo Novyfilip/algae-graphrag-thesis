@@ -1,0 +1,20 @@
+{
+  "community_id": 7,
+  "summary": "This cluster of research is geographically centered on the Korean Peninsula and its adjacent waters, with additional studies from Japan, India, China, and other regions, focusing heavily on the taxonomy, ecology, and physiological responses of cyanobacteria and macroalgae. Key connecting themes include the use of polyphasic approaches—integrating molecular phylogenetics (e.g., 16S rRNA, rbcL, LSU rDNA) with morphological and chemotaxonomic analyses—to resolve species boundaries and discover novel taxa, such as *Nodosilinea*, *Capillus*, *Violetonostoc*, and *Amazonocrinis* species. A major pattern across the cluster is the investigation of anthropogenic and environmental stressors, particularly thermal effluents from nuclear power plants, elevated pCO2, and nutrient loading, which were shown to shift community composition toward warm-tolerant or bloom-forming species like *Microcystis*, *Anabaena*, and *Chattonella marina*. Additionally, several studies addressed the biotechnological potential of algae, including cryopreservation of bloom-forming cyanobacteria, antibacterial phlorotannins from *Eisenia bicyclis*, and biodiesel production from wastewater-cultivated microalgae, underscoring the dual focus on ecological monitoring and applied phycology.",
+  "n_entities": 347,
+  "n_papers": 105,
+  "n_papers_with_summaries": 104,
+  "entity_sample": [
+    "5-aminolevulinic acid dehydratase (ALAD)",
+    "Allahabad, India",
+    "Anacyslis aeruginosa",
+    "Anacyslis dimidiata",
+    "Aphanocapsa",
+    "Aphanocapsa delicatissima",
+    "Aphanothece",
+    "Aphanothece bachmannii",
+    "Aphanothece clathrata",
+    "Aphanothece nidulans"
+  ],
+  "resolution": 8.0
+}

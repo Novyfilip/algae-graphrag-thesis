@@ -1,0 +1,12 @@
+{
+  "community_id": 786,
+  "summary": "This cluster investigates the cellular and genomic mechanisms underlying structural diversity and evolutionary adaptation in marine algae, focusing on two distinct lineages. Research on the coenocytic green alga *Bryopsis plumosa* employed proteomics and transmission electron microscopy to document dramatic shifts in protein expression and cell wall formation during protoplast regeneration, revealing fundamental processes of cell rebuilding. Concurrently, studies on red algae of the order Ceramiales analyzed 42 mitochondrial genomes, including 19 newly sequenced, to identify four novel mitogenome architectures (A, B, C, and D) driven by palindromic and inverted repeats, with phylogenetic analyses confirming that these structural variations predate familial relationships. Together, these findings span the Chlorophyta and Rhodophyta phyla, highlighting how both ultrastructural and genomic rearrangements—from cell wall assembly in *B. plumosa* to mitogenome evolution in Ceramiales—shape algal diversity across marine ecosystems.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "BLASTp",
+    "National Center for Biotechnology Information (NCBI) database"
+  ],
+  "resolution": 8.0
+}

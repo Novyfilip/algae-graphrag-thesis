@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "animal feeds"}, {"application_name": "aquaculture industry"}], "relationships": [{"subject": "animal feeds", "predicate": "BELONGS_TO", "object": "aquaculture industry", "confidence": 0.5}]}

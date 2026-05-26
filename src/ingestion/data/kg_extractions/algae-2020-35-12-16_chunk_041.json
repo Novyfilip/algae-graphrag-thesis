@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "chlorophyll a"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "chlorophyll a", "predicate": "CONTAINS", "object": "culture flasks A", "confidence": 0.5}, {"subject": "chlorophyll a", "predicate": "CONTAINS", "object": "culture flasks B", "confidence": 0.5}]}

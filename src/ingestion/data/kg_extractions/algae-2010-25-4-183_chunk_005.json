@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Costularia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Costularia", "predicate": "BELONGS_TO", "object": "Cyperaceae", "confidence": 1.0}, {"subject": "Costularia", "predicate": "BELONGS_TO", "object": "Magnoliophyta", "confidence": 1.0}]}

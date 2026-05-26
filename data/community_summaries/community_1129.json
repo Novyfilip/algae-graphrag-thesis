@@ -1,0 +1,12 @@
+{
+  "community_id": 1129,
+  "summary": "This cluster investigates the seasonal and vertical distribution of seaweed biomass along Korean coasts, with a focus on species such as *Ulva pertusa*, *Sargassum thunbergii*, *Ecklonia stolonifera*, and *Gracilaria textorii*. Research documented a clear spring biomass peak and autumn minimum across intertidal and subtidal zones, based on surveys of 120 species conducted from May 2006 to April 2008. The studies collectively emphasized the ecological and economic importance of these macroalgae for carbon sequestration, while also identifying threats from ocean acidification, pollution, and coastal erosion to the stability of the marine ecosystem.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "우리나라 연안",
+    "해산식물"
+  ],
+  "resolution": 8.0
+}

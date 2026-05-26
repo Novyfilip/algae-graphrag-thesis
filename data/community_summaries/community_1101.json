@@ -1,0 +1,12 @@
+{
+  "community_id": 1101,
+  "summary": "This cluster investigates the cellular regeneration and cell wall biosynthesis in the coenocytic green alga *Bryopsis plumosa*, focusing on the molecular and structural mechanisms underlying protoplast regeneration. Key methods connecting the studies include transmission electron microscopy for ultrastructural observation and mass spectrometry for proteomic profiling, which together revealed a dramatic shift in protein expression during cell rebuilding. The research documented the sequential formation of distinct cell wall layers and the development of the cell membrane, providing a detailed account of how this alga re-establishes its cellular architecture. The geographic and ecological scope is not explicitly defined, but the work centers on the unique coenocytic biology of *B. plumosa* as a model for understanding cell wall formation in green algae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ettan MAL-DI-TOF MS",
+    "time-of-flight analysis"
+  ],
+  "resolution": 8.0
+}

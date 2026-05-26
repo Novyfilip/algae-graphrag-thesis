@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Haematococcus", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "carotenoids"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "commercialization"}], "relationships": [{"subject": "Haematococcus", "predicate": "PRODUCES", "object": "carotenoids", "confidence": 1.0}]}

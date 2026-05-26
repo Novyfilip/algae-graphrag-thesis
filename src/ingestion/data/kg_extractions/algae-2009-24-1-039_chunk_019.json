@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "L-fucose"}, {"compound_name": "D-galactose"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "L-fucose", "predicate": "CONTAINS", "object": "D-galactose", "confidence": 0.5}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 105,
+  "summary": "This cluster of papers is heavily centered on the biodiversity, community structure, and biogeography of marine benthic algae, particularly along the Korean Peninsula and surrounding waters of the Northwest Pacific. A recurring theme is the detailed floristic survey and vertical zonation of macroalgae, with species such as *Sargassum thunbergii*, *Corallina pilulifera*, *Hizikia fusiformis*, and *Ulva pertusa* frequently identified as dominant or key components of intertidal and subtidal communities across numerous studies. The research collectively documents a temperate flora characterized by a high proportion of red algae (Rhodophyta), with many investigations employing quadrat sampling, biomass measurements, and cluster analysis to assess seasonal and spatial dynamics. A significant subset of the work examines anthropogenic impacts, particularly the effects of thermal effluents from nuclear power plants on algal community composition, noting shifts toward warm-tolerant species and changes in biomass. Additionally, the cluster includes taxonomic and phylogenetic studies using molecular markers (e.g., *rbcL*, *cox1*) to resolve species boundaries and describe new taxa, such as *Polysiphonia ulleungensis* and *Symphyocladia glabra*, alongside investigations into the physiological responses of key species like *Pyropia yezoensis* and *Ecklonia cava* to environmental stressors.",
+  "n_entities": 153,
+  "n_papers": 217,
+  "n_papers_with_summaries": 215,
+  "entity_sample": [
+    "2x 2 contingency table methods",
+    "Agardhiella subulata",
+    "Asco- phyllum nodosum",
+    "Asian coasts",
+    "Bonnemaisonia hamtfera",
+    "Camphylaephora crassa",
+    "Cape Hatteras, North Carolina",
+    "Chondrus pinnulatus f, armatus",
+    "Chromista",
+    "Chuckdo, eastern coast of Korea"
+  ],
+  "resolution": 8.0
+}

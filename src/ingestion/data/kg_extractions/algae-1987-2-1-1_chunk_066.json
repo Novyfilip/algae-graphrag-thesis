@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Acrochaetium secundatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Acrochaetium secundatum", "predicate": "BELONGS_TO", "object": "Acrochaetium", "confidence": 0.5}]}

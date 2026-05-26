@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Udo"}], "markers": [], "applications": [], "relationships": [{"subject": "artificial construction", "predicate": "AFFECTS", "object": "seaweed species composition", "confidence": 0.5}, {"subject": "seaweed community", "predicate": "FOUND_IN", "object": "Udo", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. dominans", "taxonomic_rank": null}, {"species_name": "M. rubrum", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "G. dominans", "predicate": "AFFECTS", "object": "M. rubrum", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Euglenophytes", "taxonomic_rank": null}, {"species_name": "phytoplankton", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Euglenophytes", "predicate": "BELONGS_TO", "object": "phytoplankton", "confidence": 1.0}]}

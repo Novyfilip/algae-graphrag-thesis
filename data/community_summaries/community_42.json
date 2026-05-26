@@ -1,0 +1,20 @@
+{
+  "community_id": 42,
+  "summary": "This cluster of papers is united by a strong focus on the cultivation, physiology, and biotechnology of economically valuable red and brown seaweeds, particularly *Pyropia yezoensis*, *Saccharina japonica*, *Undaria pinnatifida*, and *Ecklonia cava*, with significant research conducted in Korean and Japanese coastal waters. Key findings across the cluster include the optimization of growth conditions through biostimulants (e.g., AMPEP and Kelpak), deep seawater cultivation, and cryopreservation techniques, alongside investigations into stress responses such as cold tolerance, wound healing, and disease resistance to oomycete pathogens like *Pythium porphyrae*. The studies also explored bioactive compound extraction, including fucoidans, phycoerythrin, and antioxidants, for applications in aquaculture, nutraceuticals, and anti-inflammatory therapies, while addressing ecological concerns such as algal whitening, invasive species potential, and carbon sequestration.",
+  "n_entities": 225,
+  "n_papers": 121,
+  "n_papers_with_summaries": 120,
+  "entity_sample": [
+    "1 m2 quadrates",
+    "1-naphthaleneacetic acid (NAA)",
+    "2-DE",
+    "6-benzylaminopurine (BAP)",
+    "AMPEP",
+    "BAP",
+    "Balochistan coast Pakistan",
+    "Bohol-Leyte Central Visayas Region",
+    "Bolinao",
+    "Bolinao, Pangasinan"
+  ],
+  "resolution": 8.0
+}

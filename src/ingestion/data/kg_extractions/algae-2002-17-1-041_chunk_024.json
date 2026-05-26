@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "ANOVA"}, {"method_name": "Cochran\u2019s C test"}, {"method_name": "Fmax test"}, {"method_name": "Tukey\u2019s HSD test"}, {"method_name": "Student's t-test"}, {"method_name": "SYSTAT"}], "environments": [], "markers": [], "applications": [], "relationships": []}

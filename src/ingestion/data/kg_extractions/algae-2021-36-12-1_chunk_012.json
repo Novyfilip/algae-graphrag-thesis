@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "phytoplankton", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "temperate regions"}], "markers": [], "applications": [], "relationships": [{"subject": "phytoplankton", "predicate": "FOUND_IN", "object": "temperate regions", "confidence": 0.5}]}

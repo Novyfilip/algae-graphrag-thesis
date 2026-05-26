@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. reticulatum", "taxonomic_rank": "species"}, {"species_name": "Gonyaulax species", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. reticulatum", "predicate": "BELONGS_TO", "object": "Gonyaulax species", "confidence": 0.5}]}

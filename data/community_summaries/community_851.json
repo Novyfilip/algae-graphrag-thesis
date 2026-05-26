@@ -1,0 +1,12 @@
+{
+  "community_id": 851,
+  "summary": "This cluster of research focused on the taxonomic identification and morphological characterization of marine macroalgae, primarily red algae (Rhodophyta), from the coastal waters of Korea, with a particular emphasis on the southern coast and Cheju Island. Studies examined species such as *Polysiphonia morrowi*, *P. subtilissima*, and *P. japonica*, alongside newly introduced taxa like *Turbinaria ornata* and *Acrothamnion preissii*, using detailed morphological traits—including rhizoid development, blade structure, and receptacle shape—as key distinguishing features. The work relied on herbarium specimens collected between the 1980s and early 1990s, with specimens deposited at Seoul National University, and documented geographic distributions extending across Korea, Japan, and the Indo-Pacific region. A consistent finding across the cluster was the critical role of specific morphological characteristics, such as rhizoid shape and branching patterns, in differentiating closely related species within the Korean marine ecosystem.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Rhodomela",
+    "Rhodomela cloiophylla"
+  ],
+  "resolution": 8.0
+}

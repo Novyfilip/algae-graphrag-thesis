@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlorella", "taxonomic_rank": "genus"}, {"species_name": "C. vulgaris", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "codon adaptation index (CAI)"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chlorella", "predicate": "CONTAINS", "object": "C. vulgaris", "confidence": 0.5}]}

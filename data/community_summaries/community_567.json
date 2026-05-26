@@ -1,0 +1,12 @@
+{
+  "community_id": 567,
+  "summary": "This cluster synthesizes research on the taxonomy, classification, and biogeographic distribution of marine algae along the Korean coastline. The studies employed morphological characterization and phylogenetic analyses to resolve taxonomic relationships within major algal divisions, including Chlorophyta and Chromophyta, with a focus on species such as *Cladophora crystallina* and *Sphacelaria apicalis*. A key pattern across the cluster was the development and application of systematic methods for grouping morphologically similar algae to refine species-level identification. The geographic scope was exclusively confined to Korean coastal waters, emphasizing the region’s endemic diversity and the importance of regional checklists for understanding local marine flora.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "A. sanctae-thomae",
+    "Rhodochorton sanctae-thomae"
+  ],
+  "resolution": 8.0
+}

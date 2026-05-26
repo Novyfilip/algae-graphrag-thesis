@@ -1,0 +1,12 @@
+{
+  "community_id": 674,
+  "summary": "This cluster investigates the endophytic symbiosis between farmed kelp gametophytes and filamentous red algae, focusing on host specificity and seasonal infection dynamics. Research examined two kelp species, including *Undaria pinnatifida*, and six red algal hosts, revealing a strong seasonal shift in infectiousness linked to frond erosion. Comparative analysis of two non-filamentous red algae demonstrated distinct symbiotic strategies between the kelp species. The geographic and ecological scope centers on temperate marine environments where these commercially cultivated kelps and their red algal hosts co-occur.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Desmarestia sp.",
+    "sea pen"
+  ],
+  "resolution": 8.0
+}

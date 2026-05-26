@@ -1,0 +1,12 @@
+{
+  "community_id": 933,
+  "summary": "The cluster centers on the taxonomic and morphological characterization of newly identified or understudied brown algal species within the Laminariales order, specifically focusing on *Costularia kurilensis* from the Kuril Archipelago, Russia. Research within this group emphasizes detailed descriptions of macroscopic features such as blade morphology, stipe length, and distinctive folding patterns to differentiate species. These studies are geographically confined to the North Pacific, particularly the remote islands of the Russian Far East, highlighting a regional effort to catalog endemic kelp biodiversity. A key pattern across the cluster is the reliance on comparative morphology rather than molecular phylogenetics to establish species boundaries and clarify taxonomic relationships within the genus.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Calcium oxalate crystals",
+    "brown pigment"
+  ],
+  "resolution": 8.0
+}

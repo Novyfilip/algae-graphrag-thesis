@@ -1,0 +1,12 @@
+{
+  "community_id": 1050,
+  "summary": "This cluster investigates the mitigation of harmful algal blooms and the biotechnological exploitation of algal lipid production. One line of research demonstrated that blue-min treatment effectively inhibited the growth of the red-tide organisms *Microcystis aeruginosa* and *Isochrysis galbana*, while also slightly increasing polyunsaturated fatty acid (PUFA) content, suggesting a dual role in bloom suppression and biomass quality modification. A separate study focused on the isolation of three new alkaliphilic strains from Lake Okeechobee, Florida, including *Fustulifera sp. 154-3*, which exhibited high lipid accumulation (20-30% dry weight) rich in palmitoleic acid (52%) and eicosapentanoic acid (15%), highlighting their potential for biofuel production. Together, these papers connect through a shared focus on algal physiology, fatty acid profiles, and the applied use of specific algal strains or treatments for environmental management and renewable energy.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "chemical treatment",
+    "physicochemical methods"
+  ],
+  "resolution": 8.0
+}

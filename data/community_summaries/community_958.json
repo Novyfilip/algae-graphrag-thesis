@@ -1,0 +1,12 @@
+{
+  "community_id": 958,
+  "summary": "This cluster investigates the composition and ecological function of epilithic algal communities in lotic systems, specifically the Geum River in Korea, as bioindicators of organic pollution. The research identified 160 algal species, with Chlorophyceae, Euglenophyceae, Chrysophyceae, and Cyanophyceae dominating, and quantified standing crops ranging from 105.5 to 322.0 x 10³ cells/mm². Key findings established specific diatom and cyanobacterial taxa—including *Aulacoseira granulata*, *Cyclotella meneghiniana*, *Melosira varians*, *Navicula pupula*, *Nitzschia palea*, *Oscillatoria tenuis*, *Scenedesmus quadricauda*, and *Synedra ulna*—as reliable indicators of organic pollution, with diversity indices ranging from 1.56 to 2.11. The work collectively underscores the utility of epilithic algae for water quality assessment in Korean river ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "determination of phosphate",
+    "modified single solution method"
+  ],
+  "resolution": 8.0
+}

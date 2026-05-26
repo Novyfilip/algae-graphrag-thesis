@@ -1,0 +1,13 @@
+{
+  "community_id": 451,
+  "summary": "This cluster focuses on the taxonomic survey and ecological documentation of euglenophyte algae, specifically from the family Euglenaceae, in the East Coast region of India. Researchers identified 60 taxa, including the genera *Colacium*, *Lepocinclis*, *Phacus*, and *Trachelomonas*, collected from 30 distinct sites across a 155,842 km² area of Orissa State. The study primarily sampled stagnant water bodies and paddy fields, utilizing GPS technology for precise site location, and highlighted the region's diverse aquatic habitats, including rivers, reservoirs, and ponds, as key environments for these organisms.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Euglenineae",
+    "Nakatia river, Bareilly (U.P.) India",
+    "polluted and unpolluted water"
+  ],
+  "resolution": 8.0
+}

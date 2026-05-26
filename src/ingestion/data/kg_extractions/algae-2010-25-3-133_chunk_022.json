@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. closterium", "taxonomic_rank": "species"}, {"species_name": "A. coffeaeformis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. closterium", "predicate": "AFFECTS", "object": "A. coffeaeformis", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Crustose coralline algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "rocky beds"}], "markers": [], "applications": [], "relationships": [{"subject": "Crustose coralline algae", "predicate": "FOUND_IN", "object": "rocky beds", "confidence": 0.5}]}

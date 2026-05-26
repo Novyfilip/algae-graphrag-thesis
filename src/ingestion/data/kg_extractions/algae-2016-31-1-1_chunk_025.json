@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. fenestrata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "southern Brazil"}], "markers": [], "applications": [], "relationships": [{"subject": "P. fenestrata", "predicate": "FOUND_IN", "object": "southern Brazil", "confidence": 1.0}]}

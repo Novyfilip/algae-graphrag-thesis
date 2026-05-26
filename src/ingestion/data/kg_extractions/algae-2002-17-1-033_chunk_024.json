@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Mazzaella", "taxonomic_rank": "genus"}, {"species_name": "fucoids", "taxonomic_rank": "group"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "fucoids", "predicate": "AFFECTS", "object": "Mazzaella", "confidence": 0.5}]}

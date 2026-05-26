@@ -1,0 +1,13 @@
+{
+  "community_id": 443,
+  "summary": "This cluster investigates the metabolic flexibility of carbon allocation in marine diatoms, specifically focusing on the model species *Chaetoceros muellerii*. Using Fourier-transform infrared (FTIR) spectroscopy, the research demonstrates that short-term inhibition of amino acid, protein, and RNA synthesis rapidly alters cellular organic composition and nutrient partitioning. These findings reveal that carbon allocation is a highly responsive process, with implications for the efficiency of the biological carbon pump and trophic web stability in marine ecosystems. The geographic and ecological scope is broadly relevant to coastal and open-ocean environments where *Chaetoceros* species are nearly ubiquitous.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "MSX",
+    "glutamine oxo-glutarate aminotransferase",
+    "glutamine synthetase"
+  ],
+  "resolution": 8.0
+}

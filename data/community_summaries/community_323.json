@@ -1,0 +1,14 @@
+{
+  "community_id": 323,
+  "summary": "This cluster of papers investigates bioactive compounds and chemical defense mechanisms in marine algae, with a central focus on sulfated polysaccharides and oxylipins. The research identifies sulfated polysaccharides from various seaweed species as key molecules with anticoagulant, anti-inflammatory, antiviral, antioxidant, and immunomodulatory properties, while also exploring their structural complexity and extraction challenges. A parallel finding reveals that prostaglandin A2 (PGA2) induces a potent, dose-dependent oxidative burst in the brown alga *Laminaria digitata*, suggesting a novel defense elicitor distinct from other chemical triggers and not affecting lipolysis in *Ectocarpus siliculosus*. The geographic and ecological scope is broadly marine, encompassing both temperate brown algae and diverse seaweed species, with implications for understanding algal immunity and the commercial development of seaweed-derived therapeutics.",
+  "n_entities": 4,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "allene oxide synthase",
+    "aspirin",
+    "cyclooxygenase",
+    "indomethacin"
+  ],
+  "resolution": 8.0
+}

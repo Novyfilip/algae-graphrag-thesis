@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Stypocautlon", "taxonomic_rank": "genus"}, {"species_name": "Choristocarpaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Stypocautlon", "predicate": "BELONGS_TO", "object": "Choristocarpaceae", "confidence": 0.5}]}

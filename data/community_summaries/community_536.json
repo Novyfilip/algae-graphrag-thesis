@@ -1,0 +1,13 @@
+{
+  "community_id": 536,
+  "summary": "This cluster examines the ecological and physiological mechanisms driving marine biofouling, specifically focusing on the recruitment and settlement of motile reproductive cells from green fouling algae such as *Enteromorpha* spp. and *Ulva* spp. Key findings highlight the critical roles of phototaxis and chemotaxis in guiding cell attachment to submerged surfaces, with spatial and temporal patterns influencing the formation of extensive fouling layers. The research emphasizes how these algal cells respond to surface characteristics to establish populations, posing significant challenges for ship hulls and offshore structures across global marine environments.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "chlorophyte macroalgae",
+    "phaeophyte macroalgae",
+    "phototaxis studies"
+  ],
+  "resolution": 8.0
+}

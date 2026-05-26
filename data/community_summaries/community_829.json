@@ -1,0 +1,12 @@
+{
+  "community_id": 829,
+  "summary": "This cluster of research centers on the industrial cultivation and commercialization of specific microalgae strains, particularly *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis*, for their high-value bioproducts. Key findings across the corpus detail the historical progression of these species from basic scientific study to large-scale production, with a focus on optimizing cultivation methods to enhance yields of nutraceuticals, cosmetics, and biofuel precursors. The geographic and ecological scope is broad, reflecting a global interest in leveraging these algae as sustainable commercial resources.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Exuviaella",
+    "Prorocentrum lima (Ehrenberg) F. Stein"
+  ],
+  "resolution": 8.0
+}

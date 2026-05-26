@@ -1,0 +1,20 @@
+{
+  "community_id": 236,
+  "summary": "This cluster of papers investigates the physiological, ecological, and molecular responses of diverse marine algae to environmental stressors, including temperature, light, salinity, heavy metals, and mechanical wounding, with a strong geographic focus on the North Pacific, particularly Korean and Russian waters. Key species studied include the kelps *Saccharina angustissima*, *Laminaria digitata*, and *Undaria pinnatifida*, the red algae *Pyropia yezoensis* and *Corallina officinalis*, the green alga *Ulva pertusa*, and the dinoflagellates *Cochlodinium polykrikoides* and *Karlodinium veneficum*, with research spanning from the Sea of Okhotsk and Bering Sea to the Korean Peninsula and Hawaiian mesophotic zones. Common methodological approaches included transcriptomics, proteomics, stable isotope analysis, and controlled laboratory experiments to assess bioaccumulation of copper and zinc by *Macrocystis pyrifera*, oxidative bursts triggered by prostaglandin A2 in brown algae, and cold stress acclimation in *Pyropia yezoensis*. The cluster also addresses applied themes such as seedling production via micropropagation for eucheumatoids, toxicity screening of harmful algal blooms, and the development of chemiluminescence assays for microcystin detection, collectively emphasizing the interplay between environmental change, algal physiology, and aquaculture sustainability.",
+  "n_entities": 63,
+  "n_papers": 61,
+  "n_papers_with_summaries": 58,
+  "entity_sample": [
+    "13-hydroxyoctadecatrienoic (13-HOTE)",
+    "15-hydroxyeicosapentaenoic acids (15-HEPE)",
+    "15-hydroxyeicosatetraenoic acid",
+    "15-hydroxyeicosatetraenoic acid (15-HETE)",
+    "Arctic regions",
+    "Axenic tissue cultures",
+    "C20 PUFAs",
+    "E. silicilosus",
+    "E. siliculosus",
+    "EF1a"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 1025,
+  "summary": "This cluster investigates the phylogeographic structuring and cryptic diversity within the *Lessonia variegata* species complex (Phaeophyceae, Laminariales) in New Zealand. Genetic analyses using mitochondrial and plastid markers revealed high phylogeographic structuring and reciprocal endemism among four cryptic species, with their distribution strongly influenced by distinct bioregions. A key finding was the role of the Cape Campbell area in the northeast of the South Island as a significant biogeographic barrier, while specific locations in the North Island were identified as critical for the species complex’s current distribution. The research is geographically and ecologically focused on the New Zealand archipelago, emphasizing fine-scale regional endemism within a single kelp complex.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Patiriella regularis",
+    "molecular dating analysis"
+  ],
+  "resolution": 8.0
+}

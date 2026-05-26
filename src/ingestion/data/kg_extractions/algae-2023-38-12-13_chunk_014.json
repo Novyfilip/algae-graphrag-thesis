@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "intertidal algal communities"}], "markers": [], "applications": [], "relationships": [{"subject": "terrestrial oomycete pathogens", "predicate": "FOUND_IN", "object": "intertidal algal communities", "confidence": 0.5}]}

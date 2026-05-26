@@ -1,0 +1,12 @@
+{
+  "community_id": 647,
+  "summary": "This cluster of research investigates the long-term succession and ecological dynamics of seaweed communities on artificial reefs in Ashizuri, Tosa Bay, Japan. The studies documented that *Sargassum* species became dominant after approximately six years, while *Gelidium* and other seaweeds exhibited variable biomass depending on substrate type, with significant differences observed between sandy and rocky reef environments. A key finding across the work was the identification of sea urchins as the primary grazing pressure, which limited algal establishment, leading to the conclusion that successful artificial reef deployment requires selecting sandy areas with naturally low urchin populations. The geographic scope is strictly limited to the temperate coastal waters of Tosa Bay, emphasizing site-specific environmental conditions for habitat restoration.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Codium communities",
+    "plastic mats of many artificial reefs"
+  ],
+  "resolution": 8.0
+}

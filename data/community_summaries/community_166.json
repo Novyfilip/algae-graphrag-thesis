@@ -1,0 +1,20 @@
+{
+  "community_id": 166,
+  "summary": "This cluster of research focuses on the ecology, physiology, and biotechnology of macroalgae and microalgae, with a strong emphasis on species from Korean and East Asian coastal waters, including *Ecklonia cava*, *Sargassum* spp., *Undaria pinnatifida*, *Pyropia yezoensis*, and *Saccharina japonica*. A central theme is the cultivation and application of seaweeds for bioremediation, particularly the removal of nitrogen and phosphorus from aquaculture effluent, as well as the extraction of bioactive compounds such as phlorotannins, fucoidans, and antioxidants for pharmaceutical and nutraceutical use. Studies also investigated the population dynamics and seasonal biomass variation of kelp and other seaweeds, linking environmental factors like temperature, salinity, and turbidity to growth and community structure. Additionally, the research addressed the impacts of pathogens (e.g., *Pythium porphyrae*), herbivory, and ocean acidification on algal health, alongside efforts to improve strain selection and transplantation techniques for sustainable aquaculture and carbon sequestration.",
+  "n_entities": 108,
+  "n_papers": 96,
+  "n_papers_with_summaries": 94,
+  "entity_sample": [
+    "35mm camera",
+    "80% methanol extraction",
+    "90Sr",
+    "Alginic acid",
+    "Anatomical Studies",
+    "Aqueous fractionation",
+    "Asian cuisine",
+    "B. harveyi",
+    "Brown seaweeds",
+    "Chloroform fractionation"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "H. willisii", "taxonomic_rank": "species"}, {"species_name": "H. pellucida", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "H. pellucida", "predicate": "BELONGS_TO", "object": "genus", "confidence": 0.5}]}

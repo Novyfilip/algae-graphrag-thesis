@@ -1,0 +1,12 @@
+{
+  "community_id": 565,
+  "summary": "This cluster of research focuses on the biodiversity and distribution of macroalgae in the sublittoral zones of the South Korean coast, specifically around Daedo Island. The studies identified a total of 85 taxa, including red, brown, and green algae, with dominant species such as *Ulva pertusa*, *Sargassum thunbergii*, *Corallina pilulifera*, and *Corallina officinalis* being most abundant in the upper to mid sublittoral zones. A key finding was that algal diversity and abundance decreased with increasing depth, with brown algae dominating the biomass of deeper zones. The distribution patterns were primarily correlated with environmental factors including light availability, substrate characteristics, and tidal currents.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "A site",
+    "north side of Daedo Island"
+  ],
+  "resolution": 8.0
+}

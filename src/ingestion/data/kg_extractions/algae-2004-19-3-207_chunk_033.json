@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Laminariales", "taxonomic_rank": "order"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Southern Hemisphere"}, {"environment_name": "Northern Hemisphere"}], "markers": [], "applications": [], "relationships": [{"subject": "Laminariales", "predicate": "FOUND_IN", "object": "Northern Hemisphere", "confidence": 0.5}]}

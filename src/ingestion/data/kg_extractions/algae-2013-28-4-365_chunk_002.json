@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "E. cava", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "artificial reef structures"}], "markers": [], "applications": [], "relationships": [{"subject": "E. cava", "predicate": "FOUND_IN", "object": "artificial reef structures", "confidence": 0.5}]}

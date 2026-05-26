@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "East Sea"}, {"environment_name": "Yel"}], "markers": [], "applications": [], "relationships": [{"subject": "Daejin", "predicate": "FOUND_IN", "object": "East Sea", "confidence": 0.5}, {"subject": "Jusamdo", "predicate": "FOUND_IN", "object": "Yel", "confidence": 0.5}]}

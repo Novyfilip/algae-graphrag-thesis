@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Raphidiopsis mediterranea", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Kugae reservoir"}], "markers": [], "applications": [], "relationships": [{"subject": "Raphidiopsis mediterranea", "predicate": "FOUND_IN", "object": "Kugae reservoir", "confidence": 0.5}]}

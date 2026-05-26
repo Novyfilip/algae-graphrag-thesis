@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlamydomonas", "taxonomic_rank": "genus"}, {"species_name": "C. reinhardtii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chlamydomonas", "predicate": "BELONGS_TO", "object": "C. reinhardtii", "confidence": 0.5}]}

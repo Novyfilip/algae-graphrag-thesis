@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. granifera", "taxonomic_rank": null}, {"species_name": "Pyramimonas sp.", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "A. granifera", "predicate": "AFFECTS", "object": "Pyramimonas sp.", "confidence": 1.0}]}

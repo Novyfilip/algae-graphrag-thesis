@@ -1,0 +1,13 @@
+{
+  "community_id": 407,
+  "summary": "This cluster synthesizes research on the biodiversity, distribution, and community dynamics of marine macroalgae in the North Pacific, with a specific geographic focus on Korean coastal ecosystems and the Bering Sea. Studies documented species composition and biomass fluctuations, identifying dominant taxa such as *Polysiphonia morrowii*, *Lyngbya lutea*, and *Lyngbya semiplena* in Inchon Dock, Korea, while broader taxonomic revisions cataloged over 600 macroalgal species across the Northwest Coast of the Bering Sea and Southeast Kamchatka. Key findings revealed seasonal biomass variability and unique community patterns in anthropogenically influenced dock environments, alongside the discovery of new species like *Lyngbya pellucida*. The research collectively advances understanding of macroalgal floristics and ecological zonation in these high-latitude and temperate marine habitats.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "-140 cm",
+    "-280 cm",
+    "E. arctus"
+  ],
+  "resolution": 8.0
+}

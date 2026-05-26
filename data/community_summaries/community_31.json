@@ -1,0 +1,20 @@
+{
+  "community_id": 31,
+  "summary": "This cluster of research focuses on the phytoplankton and macroalgal communities of South Korean freshwater and coastal ecosystems, with a strong emphasis on diatoms and cyanobacteria. Key species such as *Stephanodiscus hantzschii*, *Aulacoseira granulata*, *Microcystis aeruginosa*, and *Skeletonema costatum* were frequently identified as dominant or bloom-forming taxa across rivers (Nakdong, Han, Youngsan), reservoirs (Daecheong, Andong, Paldang), and coastal waters (Gori, Wolseong, Jinhae Bay). Studies consistently documented eutrophic and hypertrophic conditions driven by nutrient loading (nitrogen, phosphorus, silicate), with phosphate often identified as the primary limiting factor for algal growth, particularly for diatoms. The geographic scope was predominantly within South Korea, including the Nakdong and Han River systems, dam lakes, estuaries, and sites affected by thermal effluents from nuclear power plants, where shifts toward warm-tolerant and opportunistic species (e.g., *Enteromorpha* spp., *Ulva pertusa*) were observed. Temporal dynamics revealed seasonal succession patterns, with diatoms dominating in spring and winter, cyanobacteria (e.g., *Microcystis*, *Anabaena*) proliferating in summer, and blooms frequently linked to hydrological factors such as rainfall, water stagnation, and nutrient runoff.",
+  "n_entities": 239,
+  "n_papers": 75,
+  "n_papers_with_summaries": 75,
+  "entity_sample": [
+    "1% 아닐린블루 수용액 염색",
+    "77K 방출 형광 스펙트럼",
+    "Abbe 묘화장치",
+    "Achnanthes속",
+    "Alcaligenes sp.",
+    "Anabaena planctonica",
+    "Asteionella formosa",
+    "Aulacoseira",
+    "Automated method molybdate-reactive silica",
+    "Ceratium속"
+  ],
+  "resolution": 8.0
+}

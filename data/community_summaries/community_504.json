@@ -1,0 +1,13 @@
+{
+  "community_id": 504,
+  "summary": "This cluster focuses on the antioxidant potential of marine macroalgae, specifically red and brown seaweed species, as natural sources of bioactive compounds for human health and food preservation. Key species investigated include *Gracilaria verrucosa*, *Grateloupia filicina*, *Polysiphonia japonica*, and *Ecklonia cava*, with the latter demonstrating the most potent activity among brown seaweeds in enzymatic extract studies. The research consistently employed radical scavenging assays (e.g., DPPH, HO•, O₂•⁻) and lipid peroxidation inhibition tests, revealing that polyphenolic content strongly correlates with antioxidant efficacy, particularly in *P. japonica*. Geographically, the studies span Jeju Island, Korea, and broader global reviews, with findings emphasizing the need for standardized methodologies to compare results across species and overcome economic challenges in seaweed utilization.",
+  "n_entities": 3,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "butylated hydroxylanisol",
+    "butylated hydroxytoluene",
+    "lipid-containing food"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Chl a"}, {"compound_name": "xanthophylls"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chl a", "predicate": "AFFECTS", "object": "algae", "confidence": 0.5}, {"subject": "xanthophylls", "predicate": "AFFECTS", "object": "algae", "confidence": 0.5}]}

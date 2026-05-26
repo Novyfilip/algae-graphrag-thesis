@@ -1,0 +1,12 @@
+{
+  "community_id": 601,
+  "summary": "This cluster focuses on the discovery and characterization of novel epiphytic dinoflagellates from the genus *Amphidinium* in temperate Northwest Pacific waters. Researchers isolated and described *Amphidinium massartii* from Jeju Island, Korea, and *Amphidinium stirisquamtum* from the East China Sea, using integrated morphological analysis and rDNA sequencing to confirm their distinct phylogenetic lineages. Key findings revealed that the Korean *A. massartii* strains possessed unique LSU, SSU, and cytochrome b sequences compared to Australian and American strains, while *A. stirisquamtum* exhibited a triangular epicone and icicle-shaped scales. The latter species demonstrated significant toxicity to rotifers and brine shrimp, raising ecological concerns about toxin bioaccumulation in marine food webs within these temperate East Asian ecosystems.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Amphidinium mootonorum",
+    "GU295202"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Spirogyrites", "taxonomic_rank": "genus"}, {"species_name": "Schizospora", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Tertiary"}], "markers": [], "applications": [], "relationships": [{"subject": "Spirogyrites", "predicate": "FOUND_IN", "object": "Tertiary", "confidence": 1.0}]}

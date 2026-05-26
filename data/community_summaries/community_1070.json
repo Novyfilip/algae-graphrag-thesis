@@ -1,0 +1,12 @@
+{
+  "community_id": 1070,
+  "summary": "This cluster examines the succession and recolonization of benthic algal communities in intertidal and artificial marine ecosystems of South Korea, specifically Cheju Island and Inchon Dock. Both studies tracked species composition over extended periods (24 months and post-red tide, respectively), identifying over 50 algal species per site, including green, brown, and red algae, with perennial species such as *Hizikia fusiformis* and *Polysiphonia morrowii* playing dominant roles. Key findings indicate that succession proceeds from pioneer perennial algae to later species like *Ulva conglobata* and *Corallina pilulifera*, while annual algae had minimal influence on successional trajectories. Environmental factors, including water temperature, salinity, and nitrite-nitrogen levels, were identified as critical drivers of species distribution, with red tide perturbations triggering cyclic seasonal recolonization patterns that ultimately restored typical community structures.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Patella vulgata",
+    "rocky shore in northern California"
+  ],
+  "resolution": 8.0
+}

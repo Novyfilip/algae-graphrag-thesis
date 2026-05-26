@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Saccharina japonica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "aquaculture"}], "relationships": [{"subject": "Saccharina japonica", "predicate": "BELONGS_TO", "object": "kelp", "confidence": 0.5}]}

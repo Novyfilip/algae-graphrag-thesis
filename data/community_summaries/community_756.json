@@ -1,0 +1,12 @@
+{
+  "community_id": 756,
+  "summary": "This cluster investigates the mechanisms of chloroplast retention (kleptoplasty) in sacoglossan sea slugs, specifically focusing on *Placida dendritica* and its symbiosis with the green alga *Bryopsis* spp. Transcriptomic analysis revealed that horizontal gene transfer (HGT) is not the primary driver of chloroplast maintenance in this species, as only a single actin gene, PdActin04, showed high identity with the algal BpActin03, while phylogenetic analyses of other genes were incongruent with known algal phylogenies. The findings challenge the traditional HGT-centric explanation for long-term chloroplast function in animals, suggesting an alternative, non-genetic mechanism for sustaining the photosynthetic organelles. Geographically and ecologically, the research centers on marine intertidal systems where *P. dendritica* feeds on *Bryopsis*, positioning this symbiosis as a critical model for studying the evolutionary and physiological implications of chloroplast transfer from algae to metazoans.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Beta actin",
+    "Lates calcarifer"
+  ],
+  "resolution": 8.0
+}

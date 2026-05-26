@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Togyo Reservoir"}, {"environment_name": "Chulwon, Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Togyo Reservoir", "predicate": "FOUND_IN", "object": "Chulwon, Korea", "confidence": 1.0}]}

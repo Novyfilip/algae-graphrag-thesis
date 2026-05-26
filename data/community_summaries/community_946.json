@@ -1,0 +1,12 @@
+{
+  "community_id": 946,
+  "summary": "This cluster examines the antioxidant potential of enzymatic extracts derived from brown seaweeds, with a particular focus on species such as *Ecklonia cava* and *Sargassum lomentaria*. The studies employed a range of carbohydrases and proteases to generate extracts, which were then evaluated using DPPH decolorization assays and lipid peroxidation inhibition tests. A key finding across the cluster was that the enzymatic extract of *Ecklonia cava* exhibited the most potent free radical scavenging activity, while the Neutrase extract of *S. lomentaria* achieved complete suppression of lipid peroxidation. The research highlights these brown seaweeds as promising natural sources for food preservation and antioxidant supplementation, though the geographic or ecological scope of the species collection was not specified.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "crude carbohydrate",
+    "phenol-sulfuric acid reaction"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. capensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "ocean basin"}], "markers": [], "applications": [], "relationships": [{"subject": "S. capensis", "predicate": "FOUND_IN", "object": "ocean basin", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "B. plumosa", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "proteomic study"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "B. plumosa", "predicate": "STUDIED_WITH", "object": "proteomic study", "confidence": 1.0}]}

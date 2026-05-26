@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlorella", "taxonomic_rank": "genus"}], "compounds": [], "methods": [{"method_name": "SGR"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chlorella", "predicate": "STUDIED_WITH", "object": "SGR", "confidence": 1.0}]}

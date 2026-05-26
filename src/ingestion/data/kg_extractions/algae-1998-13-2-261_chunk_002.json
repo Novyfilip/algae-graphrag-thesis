@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. siliquosa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "tissue culture"}], "relationships": [{"subject": "P. siliquosa", "predicate": "STUDIED_WITH", "object": "tissue culture", "confidence": 0.5}]}

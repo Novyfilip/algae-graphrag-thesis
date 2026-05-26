@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Porphyra pulchella", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "Mucilage"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Porphyra pulchella", "predicate": "PRODUCES", "object": "Mucilage", "confidence": 1.0}]}

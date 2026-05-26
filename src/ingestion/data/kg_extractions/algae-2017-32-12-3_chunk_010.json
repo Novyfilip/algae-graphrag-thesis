@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "analyzing images"}, {"method_name": "measuring changes in mean fresh wet weights"}], "environments": [{"environment_name": "ocean"}], "markers": [], "applications": [], "relationships": [{"subject": "samples", "predicate": "FOUND_IN", "object": "ocean", "confidence": 1.0}]}

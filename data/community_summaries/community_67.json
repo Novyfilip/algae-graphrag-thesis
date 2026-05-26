@@ -1,0 +1,20 @@
+{
+  "community_id": 67,
+  "summary": "This cluster of papers is heavily centered on Korean coastal waters, with a strong emphasis on the taxonomy, ecophysiology, and harmful algal bloom (HAB) dynamics of dinoflagellates, including species such as *Alexandrium*, *Cochlodinium polykrikoides*, *Gymnodinium catenatum*, and *Prorocentrum*, as well as the mixotrophic and kleptoplastidic behaviors of genera like *Shimiella gracilenta*, *Yihiella yeosuensis*, and *Ansanella granifera*. A major theme was the use of molecular tools—such as qPCR, ddPCR, and rDNA sequencing—to quantify species distribution, resolve cryptic diversity, and track bloom formation, with studies also investigating the genetic inheritance of paralytic shellfish poisoning (PSP) toxins and the effects of temperature, salinity, and irradiance on growth and feeding rates. The research further encompassed red and brown macroalgae, including *Ecklonia cava*, *Pyropia yezoensis*, and *Gracilaria* species, focusing on antioxidant extraction, stress physiology, and the impact of environmental factors like ocean acidification and sedimentation on early life stages. Geographically, the work was predominantly set in the Northwest Pacific, particularly Korea and Japan, with additional contributions from the Mediterranean, New Zealand, and the Pacific coast of the Americas.",
+  "n_entities": 185,
+  "n_papers": 190,
+  "n_papers_with_summaries": 188,
+  "entity_sample": [
+    "28-1483R",
+    "96-well white plate assay",
+    "AY154957",
+    "AY154965",
+    "Alexandrium",
+    "Alexandrium hiranoi",
+    "Alexandrium insuetum",
+    "Alexandrium margalefii",
+    "Alexandrium mediterraneum",
+    "Alexandrium monilatum"
+  ],
+  "resolution": 8.0
+}

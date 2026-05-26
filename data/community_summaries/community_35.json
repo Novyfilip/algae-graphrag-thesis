@@ -1,0 +1,20 @@
+{
+  "community_id": 35,
+  "summary": "This cluster of papers is united by a focus on the bioactivity and biotechnological potential of marine algae, particularly brown seaweeds from Korean waters, including *Ecklonia cava*, *Undaria pinnatifida*, *Sargassum horneri*, and *Ishige okamurae*, alongside microalgae such as *Nannochloropsis oculata* and *Chlorella* species. Key findings consistently demonstrated that isolated compounds—such as phlorotannins (e.g., eckol, dieckol, phlorofucofuroeckol-A), fucoidans, and sterol-rich fractions—exhibited significant antioxidant, anti-inflammatory, anti-cancer, and anti-melanogenesis activities in vitro and in vivo, often through the suppression of NF-κB and MAPK pathways or reactive oxygen species clearance. The geographic scope was heavily centered on Jeju Island and the southern coast of Korea, with additional studies from Sri Lanka, Antarctica, and the tropical western Atlantic, reflecting a broad ecological and latitudinal range. Methodologically, the cluster emphasized enzyme-assisted extraction, solvent fractionation, and the use of zebrafish and murine macrophage models to evaluate bioactivity, while also addressing taxonomic and phylogenetic questions through molecular and ultrastructural analyses.",
+  "n_entities": 236,
+  "n_papers": 82,
+  "n_papers_with_summaries": 82,
+  "entity_sample": [
+    "0.4 m depth",
+    "1.5 m depth",
+    "1H NMR spectroscopy",
+    "1H nuclear magnetic resonance analysis",
+    "2-NBDG",
+    "5β-hydroxypalisadin B",
+    "A-fucoidan",
+    "A. nodusum",
+    "AB assay",
+    "ALAD activity measurement"
+  ],
+  "resolution": 8.0
+}

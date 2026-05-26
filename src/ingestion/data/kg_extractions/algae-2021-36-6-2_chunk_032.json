@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. monotis", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "microscopic study"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. monotis", "predicate": "STUDIED_WITH", "object": "microscopic study", "confidence": 1.0}]}

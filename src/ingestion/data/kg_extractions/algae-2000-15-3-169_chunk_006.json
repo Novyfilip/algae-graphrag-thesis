@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Spirogyra", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Spirogyra", "predicate": "STUDIED_WITH", "object": "pH", "confidence": 1.0}]}

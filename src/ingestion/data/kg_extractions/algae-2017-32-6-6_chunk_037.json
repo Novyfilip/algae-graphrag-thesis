@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "lipid"}, {"compound_name": "protein"}], "methods": [{"method_name": "FTIR"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "lipid", "predicate": "AFFECTS", "object": "protein", "confidence": 0.5}]}

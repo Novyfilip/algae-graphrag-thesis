@@ -1,0 +1,12 @@
+{
+  "community_id": 995,
+  "summary": "Research on marine holocarpic oomycete pathogens, particularly the revised taxonomy of *Olpidiopsis saprolegniae*, has been advanced through reanalysis of 18S rRNA sequence data, revealing the need for phylogenetic refinement within this group. The cluster emphasizes the provisional retention of existing taxonomic names pending more robust molecular analyses, reflecting a broader pattern of taxonomic instability among related oomycete species. This work is geographically and ecologically focused on marine environments, where these pathogens infect algal hosts, and underscores the critical role of molecular methods in resolving evolutionary relationships. The findings highlight ongoing challenges in classifying holocarpic oomycetes and the necessity for further revision to clarify species boundaries and ecological impacts.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "holocarpic oomycetes",
+    "partial 18S sequences"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "Trimmomatic"}, {"method_name": "PEAR"}, {"method_name": "SOAPdenovo2"}, {"method_name": "IDBA-UD"}, {"method_name": "OMEGA"}], "environments": [], "markers": [], "applications": [], "relationships": []}

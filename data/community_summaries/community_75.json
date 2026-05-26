@@ -1,0 +1,20 @@
+{
+  "community_id": 75,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, biodiversity, and ecological distribution of freshwater and marine algae, with particular emphasis on species from Korea, India, and other regions of Asia. Key taxa investigated include cyanobacteria (e.g., *Dolichospermum hangangense*, *Microcystis* spp.), diatoms (e.g., *Cocconeis coreana*, *Nitzschia palea*), dinoflagellates (e.g., *Cochlodinium polykrikoides*, *Scrippsiella lachrymosa*), and red algae (e.g., *Sheathia* spp., *Compsopogon coeruleus*). Many studies employed polyphasic approaches combining morphological analysis with molecular phylogenetics (e.g., rbcL, 16S rRNA, SSU rDNA) to resolve cryptic species, describe new taxa, and revise existing classifications. Geographically, the research spanned diverse habitats including freshwater streams, reservoirs, estuaries, coastal waters, and artificial substrates, with a recurring emphasis on the impact of environmental factors such as nutrient loading, pH, temperature, and pollution on algal community structure and bloom dynamics.",
+  "n_entities": 180,
+  "n_papers": 148,
+  "n_papers_with_summaries": 147,
+  "entity_sample": [
+    "16S ribosomal RNA (rRNA) gene",
+    "16S ribosomal RNA gene phylogeny",
+    "A. aequalis",
+    "A. inariensis",
+    "A. thumensis",
+    "Acrochaetium keralayensis",
+    "Acrochaetium-Audouinella-Chantransia complex",
+    "Alabama",
+    "Amphora libyca",
+    "Aphanizomenon sp."
+  ],
+  "resolution": 8.0
+}

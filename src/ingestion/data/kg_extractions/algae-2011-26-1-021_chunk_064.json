@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bostrychia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [{"method_name": "next-generation-sequencing"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Bostrychia", "predicate": "STUDIED_WITH", "object": "next-generation-sequencing", "confidence": 1.0}]}

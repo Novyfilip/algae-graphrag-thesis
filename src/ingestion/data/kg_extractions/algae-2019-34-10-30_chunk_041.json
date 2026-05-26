@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sheathia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Eastern Himalaya"}], "markers": [], "applications": [], "relationships": [{"subject": "Sheathia", "predicate": "FOUND_IN", "object": "Eastern Himalaya", "confidence": 0.5}]}

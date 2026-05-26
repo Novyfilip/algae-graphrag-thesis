@@ -1,0 +1,12 @@
+{
+  "community_id": 594,
+  "summary": "This cluster of research focuses on the ecology of eutrophic, alkaline aquatic systems, specifically examining a Bolivian pond from July 1989 to June 1990. The studies identified a phytoplankton community dominated by the cyanobacteria *Anabaena*, *Spirulina*, and *Oscillatoria*, whose distribution was strongly correlated with high nitrate concentrations. The water chemistry was characterized by elevated phosphate and sulfate levels, a stable pH of approximately 10, and a carbonate-bicarbonate buffering system. The research employed the Shannon species diversity index to confirm the pond's prolonged eutrophic state, linking species abundance to seasonal water level fluctuations and nutrient dynamics.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Amazonian system",
+    "plains (tropical region)"
+  ],
+  "resolution": 8.0
+}

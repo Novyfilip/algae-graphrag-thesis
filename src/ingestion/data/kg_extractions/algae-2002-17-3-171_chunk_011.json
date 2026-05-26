@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Chlorophyll a"}], "methods": [], "environments": [{"environment_name": "\ubb3c\uae08"}, {"environment_name": "\uad6c\ud3ec"}, {"environment_name": "\uc120\uc554"}], "markers": [], "applications": [], "relationships": [{"subject": "Chlorophyll a", "predicate": "FOUND_IN", "object": "\uc120\uc554", "confidence": 1.0}]}

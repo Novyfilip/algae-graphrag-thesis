@@ -1,0 +1,12 @@
+{
+  "community_id": 785,
+  "summary": "This cluster focuses on the taxonomic revision and morphological characterization of freshwater diatoms, specifically within the genus *Pseudostaurosiropsis*. The research, conducted in the United States, employed scanning electron microscopy (SEM) to identify two new species distinguished by lanceolate valves, sub-rostrate apices, dentate spines, and a unique rotae configuration. Key findings demonstrate that the structural features of the *rotae* and *olae* are critical for differentiating these taxa from previously classified genera, resolving long-standing taxonomic ambiguities. The work underscores the necessity of integrating detailed morphological analysis with additional data to achieve accurate classification within this diatom group.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Nanofrustulum",
+    "Nanofrustulum trainori"
+  ],
+  "resolution": 8.0
+}

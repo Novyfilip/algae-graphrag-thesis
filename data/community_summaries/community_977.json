@@ -1,0 +1,12 @@
+{
+  "community_id": 977,
+  "summary": "Research on freshwater and marine algae in Korean waters has centered on nutrient-driven growth dynamics and biochemical profiling for aquaculture and biotechnology applications. Studies on the cyanobacterium *Microcystis aeruginosa* from the Nakdong River demonstrated that high total nitrogen concentrations, particularly nitrate, strongly promote bloom formation, while phosphate exerts a more subtle influence on growth rates. Concurrently, intraspecific variation in the cryptophyte *Teleaulax amphioxeia* was documented across mass-cultured strains, revealing significant differences in fatty acid composition, including EPA and DHA levels, which suggest potential for selective strain improvement. These investigations are supported by the Korea Marine Microalgae Culture Center, which maintains approximately 1,400 strains—84% from Korean waters—serving as a foundational resource for taxonomic and applied research on local algal species.",
+  "n_entities": 2,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "FeCl3·6H2O",
+    "ferric ammonium citrate"
+  ],
+  "resolution": 8.0
+}

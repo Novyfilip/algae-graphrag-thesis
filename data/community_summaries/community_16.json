@@ -1,0 +1,20 @@
+{
+  "community_id": 16,
+  "summary": "This cluster of research is heavily centered on the biodiversity, ecology, and physiology of marine microalgae and macroalgae in Korean coastal waters, with a strong emphasis on harmful algal bloom (HAB) species. Key dinoflagellates such as *Cochlodinium polykrikoides*, *Alexandrium* spp., *Gymnodinium catenatum*, and *Prorocentrum micans* were frequently studied for their bloom dynamics, toxin production, mixotrophic capabilities, and responses to environmental stressors like elevated CO2, temperature, and pollutants. Diatoms, including *Chaetoceros debilis*, *Skeletonema costatum*, and *Thalassiosira* species, were also central to studies on phytoplankton community structure and primary production, particularly around nuclear power plants and estuaries. Geographically, the research focused on the southern and eastern coasts of Korea, including Jeju Island, Jinhae Bay, and the East China Sea, with additional work on macroalgae like *Ecklonia cava*, *Sargassum horneri*, and *Undaria pinnatifida* for their antioxidant, anti-inflammatory, and aquacultural value. A recurring pattern across the cluster was the use of molecular tools (e.g., qPCR, ddPCR, rDNA sequencing) to quantify species abundance and resolve phylogenetic relationships, alongside ecophysiological experiments assessing growth, grazing, and toxin production under changing environmental conditions.",
+  "n_entities": 312,
+  "n_papers": 146,
+  "n_papers_with_summaries": 144,
+  "entity_sample": [
+    "10 µmol photons m–2 s–1 light",
+    "100 µmol photons m–2 s–1 light",
+    "12L:12D photoperiod",
+    "17°C water temperature",
+    "20 µmol photons m–2 s–1 light",
+    "200 µmol photons m–2 s–1 light",
+    "20:5n-3 eicosapentaenoic acid (EPA)",
+    "22:6n-3 decosahexaenoic acid (DHA)",
+    "24S rDNA",
+    "25°C water temperature"
+  ],
+  "resolution": 8.0
+}

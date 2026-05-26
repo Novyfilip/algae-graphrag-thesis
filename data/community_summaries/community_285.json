@@ -1,0 +1,15 @@
+{
+  "community_id": 285,
+  "summary": "This cluster investigates the role of ship ballast water as a vector for the global dispersal of harmful algal bloom (HAB) species, specifically focusing on dinoflagellate cysts. Research conducted in Tampa Bay, Florida, USA, recovered 1,633 dinoflagellate cysts and cyst-like cells from ballast water and sediment samples, demonstrating that ships exchanging ballast water in this region can transport HAB species to other ports. The findings highlight a significant risk of cross-contamination and the potential expansion of existing blooms into new geographic areas, contributing to a broader understanding of how maritime traffic impacts marine ecosystem health.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Flotec FP5112 impeller pump",
+    "Hatch sampling",
+    "ballast hatches",
+    "ballast waters",
+    "tank bottom"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 245,
+  "summary": "This cluster of research focuses on brown macroalgae (Phaeophyceae) from the Northwest Pacific region, particularly around Jeju Island, Korea, and Japan, with species such as *Sargassum ringgoldianum subsp. coreanum*, *Eisenia bicyclis*, *Hizikia fusiformis*, and *Ascophyllum nodosum* being central to the investigations. A shared theme is the isolation and characterization of bioactive compounds—including loliolide, phlorotannins, and fucose-containing polymers—which demonstrated antioxidant, antibacterial, and immune-modulatory activities, often with potential nutraceutical or pharmaceutical applications. Ecological studies within the cluster documented macroalgal assemblage patterns, succession on artificial reefs, and biomass zonation, identifying dominant species like *Ecklonia cava* and *Sargassum fusiforme* and highlighting the role of grazers such as urchins in community dynamics. Additionally, the research spans taxonomic discovery (e.g., *Hypoglossum sabahense* in Malaysia and *Coolia malayensis* in Tunisia) and unique cellular biology (cytokinesis without mitosis in *Ascophyllum nodosum*), while also addressing applied themes like microalgal bioremediation of nutrient-rich waste streams.",
+  "n_entities": 47,
+  "n_papers": 10,
+  "n_papers_with_summaries": 10,
+  "entity_sample": [
+    "C. elegans",
+    "COSTAT",
+    "Caenorhabditis elegans",
+    "Claudea batanensis",
+    "FCP",
+    "Fisher’s least significant difference test",
+    "HCN",
+    "HCN production assessment",
+    "Pseudomonas aeruginosa",
+    "Sargassum duplicatum"
+  ],
+  "resolution": 8.0
+}

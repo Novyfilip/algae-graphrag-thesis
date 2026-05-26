@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "brevetoxin"}], "methods": [{"method_name": "mouse bioassay"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "brevetoxin", "predicate": "STUDIED_WITH", "object": "mouse bioassay", "confidence": 1.0}]}

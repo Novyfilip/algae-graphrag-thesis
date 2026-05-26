@@ -1,0 +1,20 @@
+{
+  "community_id": 74,
+  "summary": "This cluster of research is geographically centered on Korean coastal waters and the broader Northwest Pacific, with additional studies from Antarctica, Europe, and the Americas, and is unified by a focus on the taxonomy, ecophysiology, and ecological interactions of diverse algal and protist groups, particularly dinoflagellates, red algae, and cyanobacteria. Key findings include the discovery and phylogenetic characterization of numerous new species and genera—such as *Ansanella granifera*, *Capillus* spp., *Shimiella gracilenta*, and *Tsunamia transpacifica*—often identified through molecular methods like LSU and SSU rDNA sequencing, qPCR, and metabarcoding. The research extensively examines the impacts of abiotic stressors—including elevated temperature, CO₂, UV radiation, salinity changes, and nutrient limitation—on species like *Chattonella marina*, *Cochlodinium polykrikoides*, *Gymnodinium catenatum*, and kelp early life stages, revealing species-specific vulnerabilities and potential range shifts under climate change. A major thematic pattern is the investigation of mixotrophic and heterotrophic feeding behaviors among dinoflagellates (e.g., *Gyrodinium dominans*, *Oxyrrhis marina*, *Ansanella granifera*), demonstrating their significant roles in red tide dynamics, trophic interactions, and carbon cycling within coastal and estuarine ecosystems.",
+  "n_entities": 180,
+  "n_papers": 114,
+  "n_papers_with_summaries": 111,
+  "entity_sample": [
+    "100 m depth",
+    "150 m depth",
+    "170 m depth",
+    "180 m depth",
+    "210 m depth",
+    "75 m depth",
+    "Achradina",
+    "Amphilothus",
+    "Amphitholus",
+    "Asterodinium"
+  ],
+  "resolution": 8.0
+}

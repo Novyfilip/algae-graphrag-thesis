@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Goniomonas", "taxonomic_rank": "genus"}], "compounds": [], "methods": [{"method_name": "phylogenomic study"}], "environments": [], "markers": [{"marker_name": "ITS2"}], "applications": [], "relationships": [{"subject": "phylogenomic study", "predicate": "STUDIED_WITH", "object": "ITS2", "confidence": 0.5}]}

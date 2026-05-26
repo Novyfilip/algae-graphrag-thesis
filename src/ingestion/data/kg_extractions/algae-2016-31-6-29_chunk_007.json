@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "phytosterol"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "phytosterol", "predicate": "PRODUCES", "object": "microalgae", "confidence": 0.5}, {"subject": "phytosterol", "predicate": "AFFECTS", "object": "cancer cells", "confidence": 1.0}]}

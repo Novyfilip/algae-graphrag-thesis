@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Umbraulva yunseulla", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "natural habitat"}], "markers": [], "applications": [], "relationships": [{"subject": "Umbraulva yunseulla", "predicate": "FOUND_IN", "object": "natural habitat", "confidence": 1.0}]}

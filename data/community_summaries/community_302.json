@@ -1,0 +1,15 @@
+{
+  "community_id": 302,
+  "summary": "This cluster of research investigates phytoplankton community dynamics in Korean freshwater and coastal ecosystems, focusing on how hydrological and environmental factors drive species composition and bloom events. Studies in Dokdo’s coastal waters and Lake Unmun both identified shifts in dominant taxa—including Chrysophyceae, Bacillariophyceae, Dinophyceae, Peridinium sp., Microcystis aeruginosa, Aulacoseira distans, and Asterionella formosa—in response to variations in turbidity, nutrients (soluble reactive phosphorus, total nitrogen, total phosphorus), and precipitation. The findings demonstrate that reduced water flow and stagnation, combined with concentrated pollutants from heavy rainfall, accelerate bloom development, while relatively clean conditions in Dokdo still require ongoing monitoring to preserve biodiversity. Geographically, the work spans the East Sea coast of Dokdo Island and a reservoir in Gyeongsangbuk-do, underscoring a regional focus on Korean water bodies.",
+  "n_entities": 5,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Dongchan Stream",
+    "Lugol’s 용액으로 처리",
+    "Unmun Stream",
+    "van Dorn 채수기",
+    "운문댐"
+  ],
+  "resolution": 8.0
+}

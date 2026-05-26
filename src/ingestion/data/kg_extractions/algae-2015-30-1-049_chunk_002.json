@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "K. brevis", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "Kernel density estimation"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "K. brevis", "predicate": "STUDIED_WITH", "object": "Kernel density estimation", "confidence": 1.0}]}

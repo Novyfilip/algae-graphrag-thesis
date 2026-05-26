@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Palmaria palmata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Northern Ireland"}], "markers": [], "applications": [], "relationships": [{"subject": "Palmaria palmata", "predicate": "FOUND_IN", "object": "Northern Ireland", "confidence": 1.0}]}

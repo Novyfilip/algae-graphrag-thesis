@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "microcystin LR"}], "methods": [{"method_name": "chemiluminescence assay"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "microcystin LR", "predicate": "STUDIED_WITH", "object": "chemiluminescence assay", "confidence": 1.0}]}

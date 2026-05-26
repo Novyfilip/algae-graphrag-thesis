@@ -1,0 +1,12 @@
+{
+  "community_id": 1006,
+  "summary": "This cluster focuses on the molecular phylogeny and taxonomy of crustose brown algae, specifically within the Ralfsiaceae family, from the Northwest Pacific region. Researchers utilized rbcL and COI-5P gene sequences to delineate new genera and species, including *Ramipedicella miniloba*, *Ramipedicella longicellularis*, *Endoplura jejuensis*, and *Endoplura koreana*, from Korea and Japan. Key findings revealed significant genetic divergence and distinct morphological traits—such as thallus size, color, and reproductive structures—that differentiate these taxa from established *Ralfsia* and *Endoplura* species. The work collectively expands the known diversity of crustose brown algae and clarifies their evolutionary relationships within the Ralfsiaceae family.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Dumunjin Port, Baekryeongdo, Incheon, Korea",
+    "koreana"
+  ],
+  "resolution": 8.0
+}

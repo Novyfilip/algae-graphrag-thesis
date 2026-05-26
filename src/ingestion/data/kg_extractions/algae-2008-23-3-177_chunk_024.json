@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cosmarium subalatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Rei River, Lachchhiwala, Dehradun"}], "markers": [], "applications": [], "relationships": [{"subject": "Cosmarium subalatum", "predicate": "FOUND_IN", "object": "Rei River, Lachchhiwala, Dehradun", "confidence": 1.0}]}

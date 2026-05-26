@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chaetomorpha", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "sea slugs", "predicate": "AFFECTS", "object": "Chaetomorpha", "confidence": 0.5}]}

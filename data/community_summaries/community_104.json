@@ -1,0 +1,20 @@
+{
+  "community_id": 104,
+  "summary": "This cluster of research is geographically centered on Korean and Northwest Pacific coastal waters, with additional studies from Japan, China, and the broader Indo-Pacific, and focuses heavily on the taxonomy, phylogeny, and ecological dynamics of diverse algal groups. A dominant theme is the use of molecular markers—particularly 16S rRNA, rbcL, cox1, and SSU rDNA sequences—to resolve cryptic diversity and refine phylogenetic relationships across cyanobacteria (e.g., *Microcystis*, *Arthrospira*, *Synechococcus*), dinoflagellates (e.g., *Scrippsiella*, *Amphidinium*, *Cochlodinium polykrikoides*), and macroalgae (e.g., *Hypnea flexicaulis*, *Plocamium*, *Gloiopeltis furcata*). Key findings include the identification of numerous new species and lineages (e.g., *Ansanella granifera*, *Yihiella yeosuensis*, *Tsunamia transpacifica*), the widespread mixotrophic capabilities of dinoflagellates, and the significant impacts of abiotic stressors such as temperature, salinity, and UV radiation on early life stages and bloom dynamics. The research also emphasizes the role of ocean currents (e.g., Kuroshio Current), substrate type, and nutrient loading in shaping community structure, biomass, and biogeographic distribution, with particular attention to harmful algal blooms, carbon flux in vegetated bays, and the ecological consequences of floating *Sargassum* rafts and plastic debris.",
+  "n_entities": 153,
+  "n_papers": 87,
+  "n_papers_with_summaries": 86,
+  "entity_sample": [
+    "10 m depth of station 30",
+    "16S-23S ITS sequencing",
+    "16S-23S internal transcribed spacer (ITS) sequences",
+    "Aizikia fusiformis",
+    "Bakreswar thermal spring",
+    "Canonical correspondence analysis",
+    "Dokdo area",
+    "Dokdo area around the Ulleung Basin",
+    "East Australian Current (EAC)",
+    "East China Sea"
+  ],
+  "resolution": 8.0
+}

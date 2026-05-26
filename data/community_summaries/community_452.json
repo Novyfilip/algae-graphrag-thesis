@@ -1,0 +1,13 @@
+{
+  "community_id": 452,
+  "summary": "This cluster connects two distinct research threads through the shared focus on microalgae, specifically the genera *Chlorella*, *Scenedesmus*, and *Oscillatoria*, and their roles in both commercial biotechnology and ecological monitoring. The first thread examined the cultivation and commercialization of species such as *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis* for nutraceuticals, cosmetics, and biofuel production, emphasizing historical development and optimization of production methods. The second thread investigated epilithic algal communities in the Geum River, Korea, identifying 160 species dominated by Chlorophyceae and diatoms, and established specific taxa—including *Aulacoseira granulata*, *Cyclotella meneghiniana*, *Nitzschia palea*, and *Oscillatoria tenuis*—as indicators of organic pollution, with standing crop values ranging from 105.5 × 10⁶ to 322.0 × 10⁶ cells·mm⁻² and diversity indices between 1.56 and 2.11. Geographically, the cluster spans global commercial contexts and a specific Korean riverine ecosystem, united by the application of microalgae as valuable resources—whether for industrial products or as bioindicators for water quality assessment.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Oscillatoria nigra",
+    "Phormidium nigrum",
+    "Sangju/Gyeongbuk (36°30′46″ N, 128°09′39″ E), reservoir, surface water"
+  ],
+  "resolution": 8.0
+}

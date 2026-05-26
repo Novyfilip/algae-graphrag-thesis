@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chondrus crispus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Nova Scotia, Canada"}], "markers": [], "applications": [], "relationships": [{"subject": "Chondrus crispus", "predicate": "FOUND_IN", "object": "Nova Scotia, Canada", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Microcystis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Darling River"}], "markers": [], "applications": [], "relationships": [{"subject": "Microcystis", "predicate": "FOUND_IN", "object": "Darling River", "confidence": 1.0}]}

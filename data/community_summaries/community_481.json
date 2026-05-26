@@ -1,0 +1,13 @@
+{
+  "community_id": 481,
+  "summary": "This cluster synthesizes taxonomic and nomenclatural revisions within the freshwater algal class Conjugatophyceae (formerly Zygnematophyceae), focusing on the reclassification of key genera such as *Mougeotia*, *Mougeotiopsis*, and *Transeauina*. The research collectively traces the historical evolution of the group’s classification, documenting significant shifts in ordinal and familial boundaries that have redefined species distributions within the class. By referencing AlgaeBase data, the studies establish a standardized framework for the number of currently described species and their ecological scope, which is predominantly restricted to freshwater habitats. The findings underscore a pattern of ongoing taxonomic refinement driven by nomenclatural rules and phylogenetic insights, providing a foundational reference for future biodiversity and evolutionary studies of these streptophyte algae.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Bengal, India",
+    "Streptonema",
+    "Streptonema trilobatum"
+  ],
+  "resolution": 8.0
+}

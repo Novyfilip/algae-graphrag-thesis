@@ -1,0 +1,12 @@
+{
+  "community_id": 1106,
+  "summary": "This cluster investigates the metabolic flexibility of carbon allocation in marine diatoms, specifically *Chaetoceros muellerii*, in response to short-term metabolic perturbations. Using Fourier-transform infrared (FTIR) spectroscopy, the research demonstrates that inhibiting amino acid, protein, and RNA synthesis rapidly alters cellular organic composition and nutrient partitioning. These findings highlight how changes in carbon allocation, driven by metabolic inhibitors, can influence the efficiency of the biological carbon pump and nutrient cycling, with implications for trophic web stability across marine ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Bonferroni post-tests",
+    "two ways ANOVA"
+  ],
+  "resolution": 8.0
+}

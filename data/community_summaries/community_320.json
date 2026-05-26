@@ -1,0 +1,14 @@
+{
+  "community_id": 320,
+  "summary": "This cluster synthesizes research on freshwater green algae, primarily within the classes Chlorophyta and Conjugatophyceae, with a strong emphasis on taxonomy, phylogenetics, and bioprospecting. Phylogenetic analysis of the mitochondrial coxIII gene was used to reevaluate the *Staurastrum* complex, revealing a close relationship with *Xanthidium* and a clear distinction from *Staurodesmus*, while separate nomenclatural work reclassified the Conjugatophyceae and detailed the distribution of genera like *Mougeotia* and *Transeauina*. A geographically focused survey of stone cultural properties in Korea identified 29 taxa of aerial algae, including newly recorded species such as *Haplaosiphon fontinalis* and *Stigonema turfaceum*, and documented a correlation between increased chlorophyll concentration and higher biopollution levels. Additionally, a screening of 154 freshwater microalgal strains, including *Sphaerocystis schroeteri*, identified strains with enhanced anticancer, antidiabetic, and antibiotic activities under stress conditions, highlighting the pharmaceutical potential of these organisms.",
+  "n_entities": 4,
+  "n_papers": 4,
+  "n_papers_with_summaries": 4,
+  "entity_sample": [
+    "Roya",
+    "Roya obtusa",
+    "Roya pseudoclosterium",
+    "external surfaces of historic buildings in Porto Alegre"
+  ],
+  "resolution": 8.0
+}

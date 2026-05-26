@@ -1,0 +1,20 @@
+{
+  "community_id": 177,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and biodiversity of red algae (Rhodophyta), with significant contributions to the discovery and description of new species and genera across diverse geographic regions, including Korea, Australia, India, New Zealand, and the Hawaiian Islands. Researchers frequently employed molecular markers such as *rbcL*, COI-5P, and 16S rRNA, alongside detailed morphological and ultrastructural analyses, to resolve cryptic species complexes and revise taxonomic classifications, as seen in studies of *Herposiphonia*, *Polysiphonia*, *Bostrychia*, and *Pterosiphonia*. The cluster also encompasses investigations into red algal biology, including mitochondrial dynamics during sporogenesis in *Audouinella botryocarpa*, synchronized nuclear division in *Griffithsia monilis*, and the characterization of novel parasites like *Rhodophyllis parasitica* and *Symphyocolax koreana*. Additionally, applied research on bioactive compounds from red algae, such as antioxidant and ACE-inhibitory extracts from Jeju Island species, and the development of molecular tools like DNA barcoding primers and optimized extraction methods, further connect these studies.",
+  "n_entities": 100,
+  "n_papers": 105,
+  "n_papers_with_summaries": 104,
+  "entity_sample": [
+    "2,4’-dimethylaminostyryl-N- ethylpyridinium iodide (DASPEI)",
+    "3,3’-dihexyloxacarbocyanine iodide [DiOC6(3)]",
+    "4',6'-diamidino-2-phenylindole",
+    "4',6-diamidino-2-pheno-lindole",
+    "4’-6 diamidino-2-phenolindole (DAPI)",
+    "A Simple Method for DNA Extraction",
+    "Acrochaetiales",
+    "AntiFade DAKO fluorescent mounting media",
+    "Antithamnion cruciatum",
+    "Audouinella botryocarpa"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gracilaria", "taxonomic_rank": "genus"}, {"species_name": "Gracilaria chorda", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Gracilaria chorda", "predicate": "BELONGS_TO", "object": "Gracilaria", "confidence": 1.0}]}

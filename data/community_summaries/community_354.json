@@ -1,0 +1,14 @@
+{
+  "community_id": 354,
+  "summary": "This cluster investigates the use of continuous subculture techniques in *Chlamydomonas reinhardtii* to enrich for insertional mutations, specifically high-cell-density (HCD) phenotypes, as a method for improving biomass production. Key findings demonstrate that gradual increases in culture density select for mutants with mitochondrial dysfunction, with two HCD mutants identified as carrying gain-of-function mutations linked to altered mitochondrial function. The research employed inverse PCR to map insertion loci, revealing a direct connection between specific genetic disruptions and enhanced growth performance relative to wild-type strains. The geographic and ecological scope is limited to laboratory-based cultivation, focusing on the model green alga *C. reinhardtii* without reference to field or environmental sampling.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "RNA sequencing (RNA-seq)",
+    "de novo approach",
+    "reference mapping-based approach",
+    "transcriptome assembly"
+  ],
+  "resolution": 8.0
+}

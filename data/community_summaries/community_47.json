@@ -1,0 +1,20 @@
+{
+  "community_id": 47,
+  "summary": "This cluster of research is geographically centered on Korean and Indian freshwater and coastal ecosystems, with additional studies from Antarctica, Bangladesh, and the western Pacific, and is methodologically unified by the use of molecular phylogenetics (e.g., 16S rRNA, rbcL, and 18S rDNA sequences) and culture-based techniques to resolve taxonomic and ecological questions. A major thematic focus was the characterization of bloom-forming and harmful algae, particularly cyanobacteria such as *Microcystis aeruginosa*, *Anabaena flos-aquae*, and *Oscillatoria* species, whose population dynamics, toxin production (e.g., anatoxin-a and saxitoxin), and nutrient uptake kinetics were extensively studied in Korean rivers and reservoirs. Concurrently, the research documented high biodiversity in understudied regions, including the discovery of numerous new taxa of desmids, euglenophytes, and diatoms from the Indian Himalayas and Orissa, as well as the first records of genera like *Menoidium* and *Colacium* in Korean freshwaters. Across the cluster, key patterns included the use of environmental factors (temperature, pH, nitrogen, and phosphorus) to explain phytoplankton succession and trophic state transitions, and the application of algal biomass for bioremediation, aquaculture feed, and the extraction of bioactive compounds such as astaxanthin, SQMGs, and radioprotective phytochemicals.",
+  "n_entities": 217,
+  "n_papers": 114,
+  "n_papers_with_summaries": 114,
+  "entity_sample": [
+    "22:6(n-3)",
+    "AGP spike test",
+    "Actinella",
+    "Actinella cholnokii",
+    "Anabaena azollae",
+    "Anabaena crassa",
+    "Anabaena fusca",
+    "Anabaena lemmermannii",
+    "Anabaena spiroides",
+    "Ascoglena"
+  ],
+  "resolution": 8.0
+}

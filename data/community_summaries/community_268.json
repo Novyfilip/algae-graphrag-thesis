@@ -1,0 +1,17 @@
+{
+  "community_id": 268,
+  "summary": "This cluster investigates the trophic interactions and population dynamics of marine protists, particularly those involved in red tide formation. Research focused on the feeding behaviors of heterotrophic dinoflagellates and ciliates, including *Oxyrrhis marina*, *Gyrodinium dominans*, and *Noctiluca scintillans*, demonstrated that these organisms can consume the nanoflagellate *Katablepharis japonica* and the mixotrophic dinoflagellate *Ansanella granifera*, though such predation was found to have a relatively minor impact on prey growth and mortality. A key finding across the cluster was that *Gyrodinium dominans* exhibited the highest ingestion and growth rates among the heterotrophic protists studied, while *Ansanella granifera* showed low mortality from grazing, potentially facilitating its bloom formation. Additionally, genetic and morphological analysis of the parasitoid species *Parvilucifera infectans* and *P. sinerae* revealed them to be genetically identical, with only minor variations in sporangium wall thickness, indicating that morphological traits alone are unreliable for species distinction within this parasitoid complex. The geographic scope of these studies is centered on coastal marine ecosystems, with a focus on red tide dynamics in temperate waters.",
+  "n_entities": 7,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "coasts of Jangheung, Korea",
+    "coasts of Jeongok, Korea",
+    "coasts of Jinhae, Korea",
+    "coasts of Kunsan, Korea",
+    "coasts of Masan, Korea",
+    "coasts of Saemankeum, Korea",
+    "plankton samples"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Martensia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Jeju Island"}], "markers": [], "applications": [], "relationships": [{"subject": "Martensia", "predicate": "FOUND_IN", "object": "Jeju Island", "confidence": 1.0}]}

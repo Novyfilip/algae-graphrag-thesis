@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Closterium lunula var. massartii", "taxonomic_rank": "variety"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Gola River, Lalkuan"}], "markers": [], "applications": [], "relationships": [{"subject": "Closterium lunula var. massartii", "predicate": "FOUND_IN", "object": "Gola River, Lalkuan", "confidence": 1.0}]}

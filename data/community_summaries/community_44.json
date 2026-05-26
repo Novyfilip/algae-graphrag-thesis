@@ -1,0 +1,20 @@
+{
+  "community_id": 44,
+  "summary": "This cluster of papers is unified by a focus on the taxonomic revision, phylogenetic discovery, and biogeographic distribution of marine macroalgae, primarily red (Rhodophyta), brown (Phaeophyceae), and green (Chlorophyta) species, with a strong geographic emphasis on the coastal waters of Korea, Japan, and the broader Pacific region. Key findings across the cluster include the frequent use of molecular markers such as *rbcL*, *cox1*, and ITS sequences to resolve cryptic species complexes, delineate new taxa, and clarify evolutionary relationships, as seen in the reclassification of genera like *Pterocladiella*, *Polysiphonia*, and *Herposiphonia*. The research also highlights patterns of endemism, introduction events, and the influence of environmental factors such as salinity, temperature, and ocean acidification on species distribution and community structure, with specific attention to economically important taxa like *Pyropia yezoensis*, *Sargassum thunbergii*, and *Pterocladiella capillacea*. Additionally, the cluster addresses applied aspects of algal biology, including aquaculture development, pathogen control (e.g., *Pythium* species), and the ecological impacts of harmful algal blooms and green tides, particularly in Korean and East Asian marine ecosystems.",
+  "n_entities": 221,
+  "n_papers": 129,
+  "n_papers_with_summaries": 128,
+  "entity_sample": [
+    "3 km north of Goose Bay",
+    "40 Snares Is., South Promontory",
+    "41 Auckland Is., Monumental Island",
+    "42 Campbell Is.",
+    "43 Antipodes Is.",
+    "44 Bounty Is.",
+    "45 Chatham Is., Wharekauri",
+    "46 Chatham Is., Port Hutt",
+    "47 Chatham Is., Waitangi",
+    "48 Chatham Is., Owenga"
+  ],
+  "resolution": 8.0
+}

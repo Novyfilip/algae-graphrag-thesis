@@ -1,0 +1,12 @@
+{
+  "community_id": 1026,
+  "summary": "This cluster of research investigates the ecological roles and genetic diversity of marine micro- and macroalgae, with a shared focus on species-level adaptations to environmental stress and habitat-specific community composition. Studies employed molecular methods, including next-generation sequencing and metabarcoding of the rbcL gene, to reveal cryptic diversity and delayed life-stage development in taxa such as *Porosira pseudodenticulata*, *Ascophyllum nodosum*, and benthic diatoms like *Nitzschia*, *Navicula*, and *Amphora*. Key findings demonstrated that diatom community structure in tidal flats is driven by sediment characteristics such as sand proportion and air exposure, while macroalgal research highlighted taxonomic relationships within the *Scytosiphonaceae* and *Phaeophyceae* families across diverse geographic locations. The geographic scope spanned Korean tidal flats, particularly Guenso Bay, and broader marine ecosystems, emphasizing how microscopic life stages and molecular tools can elucidate resilience and distribution patterns in challenging intertidal and coastal environments.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "microorganisms",
+    "molecular-based approaches"
+  ],
+  "resolution": 8.0
+}

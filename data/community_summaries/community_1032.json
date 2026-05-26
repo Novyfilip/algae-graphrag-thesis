@@ -1,0 +1,12 @@
+{
+  "community_id": 1032,
+  "summary": "Research in this cluster centered on the acoustic assessment of seagrass habitats, specifically targeting *Zostera marina* (eelgrass) beds in Kwangyang Bay, South Korea. A digital echosounder was employed to measure canopy cover and biomass by analyzing acoustic reflectivity, successfully mapping a total dry weight biomass of 4.1 tons across an area of 4.05 km². The findings demonstrated that this method effectively quantified patch sizes and biomass over large spatial scales, establishing it as a valuable technique for monitoring submerged aquatic vegetation. The geographic scope was confined to a single temperate coastal bay in South Korea, with the work emphasizing the utility of hydroacoustic surveys for non-destructive, large-area seagrass assessment.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "map seagrass beds",
+    "multi-beam"
+  ],
+  "resolution": 8.0
+}

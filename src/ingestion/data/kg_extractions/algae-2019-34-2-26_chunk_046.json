@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "SoEM method"}], "environments": [{"environment_name": "marine environment"}], "markers": [], "applications": [], "relationships": [{"subject": "SoEM method", "predicate": "STUDIED_WITH", "object": "marine environment", "confidence": 0.5}]}

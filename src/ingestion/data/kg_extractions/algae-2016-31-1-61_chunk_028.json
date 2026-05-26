@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlamydomonas sp.", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Arctic"}], "markers": [], "applications": [], "relationships": [{"subject": "Chlamydomonas sp.", "predicate": "FOUND_IN", "object": "Arctic", "confidence": 0.5}]}

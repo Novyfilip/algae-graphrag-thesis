@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Skeletonema costatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "South China Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "Skeletonema costatum", "predicate": "FOUND_IN", "object": "South China Sea", "confidence": 0.5}]}

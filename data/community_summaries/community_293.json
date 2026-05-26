@@ -1,0 +1,15 @@
+{
+  "community_id": 293,
+  "summary": "This cluster focuses on the discovery and taxonomic characterization of new green algal species from the mesophotic and bloom-prone coastal waters of Jeju Island, Korea. Researchers employed DNA barcoding of the *rbcL* and *tufA* genes to identify five bloom-forming *Ulva* species, including the novel ecotype *U. pseudo-ohnoi* sp. nov., which contributes to the frequent green tides in the Yellow Sea. Concurrently, a distinct iridescent species, *Umbraulva yunseulla* sp. nov., was described from subtidal habitats, possessing the pigment siphonaxanthin that enables its deep-water survival. Together, these studies underscore the high, previously unrecognized macroalgal biodiversity in Korean mesophotic ecosystems and the necessity of molecular phylogenetics for distinguishing cryptic bloom-forming taxa.",
+  "n_entities": 5,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Kimura two-parameter distance method",
+    "Kimura-2-parameter distance method",
+    "MEGA 5.1 software",
+    "genetic distance (p-distance) estimates",
+    "neighbor-joining algorithm"
+  ],
+  "resolution": 8.0
+}

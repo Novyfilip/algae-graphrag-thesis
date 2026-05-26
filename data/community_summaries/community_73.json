@@ -1,0 +1,20 @@
+{
+  "community_id": 73,
+  "summary": "This cluster of papers focuses on the ecology, physiology, and cultivation of diverse marine algae and protists in Korean coastal waters, with a strong emphasis on dinoflagellates, macroalgae, and diatoms. Key species studied include the green alga *Caulerpa okamurae*, the red alga *Pyropia yezoensis*, the brown kelp *Saccharina japonica*, and harmful dinoflagellates such as *Cochlodinium polykrikoides* and *Alexandrium tamarense*, with research often addressing temperature-dependent growth, maturation, and thermal stress responses. The geographic scope is predominantly the southeastern coast of Korea, including Busan, Jinhae Bay, Masan Bay, and Jeju Island, with additional studies on benthic diatom communities in hypersaline salterns and macroalgal responses to ocean acidification and heated effluents. Common methods included field sampling via SCUBA, controlled culture experiments, qPCR for species quantification, and biochemical analyses of lipids, pigments, and polysaccharides, revealing patterns such as temperature thresholds for gametangial development, mixotrophic feeding interactions among dinoflagellates, and the potential of seaweeds for aquaculture, nutraceuticals, and biofuel production.",
+  "n_entities": 182,
+  "n_papers": 111,
+  "n_papers_with_summaries": 108,
+  "entity_sample": [
+    "10-L culture system",
+    "100-L scale system cultivation",
+    "100-L semi-continuous cultivation system",
+    "5% acidic Lugol’s solution fixation",
+    "Acropora microphtalma",
+    "Alexandrium andersonii",
+    "Amoebophrya",
+    "Amoebophrya sp.",
+    "Amoebophrya sp. ex H. triquetra",
+    "Amoebophrya spp."
+  ],
+  "resolution": 8.0
+}

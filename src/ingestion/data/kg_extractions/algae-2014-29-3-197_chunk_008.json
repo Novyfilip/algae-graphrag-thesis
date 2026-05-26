@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. sanguinea", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "upper Caloosahatchee Estuary"}], "markers": [], "applications": [], "relationships": [{"subject": "A. sanguinea", "predicate": "FOUND_IN", "object": "upper Caloosahatchee Estuary", "confidence": 1.0}]}

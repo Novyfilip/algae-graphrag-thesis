@@ -1,0 +1,12 @@
+{
+  "community_id": 656,
+  "summary": "Research on the commercial cultivation and application of microalgae, specifically *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis*, was synthesized to highlight their shared value across nutraceutical, cosmetic, and biofuel industries. The cluster traced the historical progression from fundamental natural science studies to optimized production methods and commercialization strategies. Key findings emphasized the ongoing refinement of cultivation techniques to enhance biomass yield and compound extraction, positioning these species as versatile biological resources. The geographic and ecological scope was global, reflecting widespread industrial interest rather than a specific regional focus.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cosmarium striatum",
+    "Seogwipo/Jeju (33°15′29″ N, 126°16′41″ E), pond, surface water"
+  ],
+  "resolution": 8.0
+}

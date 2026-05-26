@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gomphosphaeria aponina", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "fresh water"}], "markers": [], "applications": [], "relationships": [{"subject": "Gomphosphaeria aponina", "predicate": "FOUND_IN", "object": "fresh water", "confidence": 1.0}]}

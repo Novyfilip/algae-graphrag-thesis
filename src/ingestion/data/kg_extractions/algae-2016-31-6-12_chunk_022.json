@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "GABA"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "functional food"}], "relationships": [{"subject": "Sea tangle", "predicate": "PRODUCES", "object": "GABA", "confidence": 0.5}, {"subject": "GABA", "predicate": "CONTAINS", "object": "functional food", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "red algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "red algae", "predicate": "CONTAINS", "object": "plasmids", "confidence": 1.0}, {"subject": "plasmids", "predicate": "FOUND_IN", "object": "red algae", "confidence": 1.0}]}

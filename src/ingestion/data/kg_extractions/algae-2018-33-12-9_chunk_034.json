@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "pond water purification"}, {"application_name": "algae cultivation"}], "relationships": [{"subject": "pond water purification", "predicate": "AFFECTS", "object": "algae cultivation", "confidence": 0.5}]}

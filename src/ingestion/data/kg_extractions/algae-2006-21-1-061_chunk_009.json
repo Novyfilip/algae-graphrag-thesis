@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Euglena acus Ehrenberg var. angularis Johnson", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "paramylum"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Euglena acus Ehrenberg var. angularis Johnson", "predicate": "CONTAINS", "object": "paramylum", "confidence": 1.0}]}

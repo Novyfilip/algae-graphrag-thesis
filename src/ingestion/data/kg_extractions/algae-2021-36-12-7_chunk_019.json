@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "blastp"}, {"method_name": "TransDecoder"}, {"method_name": "CD-HIT"}, {"method_name": "fastq-dump"}, {"method_name": "de novo transcriptome assembly"}], "environments": [], "markers": [], "applications": [], "relationships": []}

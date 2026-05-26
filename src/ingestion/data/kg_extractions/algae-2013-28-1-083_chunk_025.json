@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bostrychia tenella", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Philippines"}], "markers": [], "applications": [], "relationships": [{"subject": "Bostrychia tenella", "predicate": "FOUND_IN", "object": "Philippines", "confidence": 1.0}]}

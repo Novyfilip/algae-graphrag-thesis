@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Microcystis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [{"method_name": "square root transformation"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Microcystis", "predicate": "STUDIED_WITH", "object": "square root transformation", "confidence": 1.0}]}

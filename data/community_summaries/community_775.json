@@ -1,0 +1,12 @@
+{
+  "community_id": 775,
+  "summary": "This cluster connects through the discovery and characterization of novel algal strains from distinct aquatic environments, specifically Lake Okeechobee, Florida, and mangrove ecosystems. The alkaliphilic diatoms *Chloroidium sp. 154-1*, *Chlorella sp. 154-2*, and *Fustulifera sp. 154-3* were isolated and found to accumulate 20-30% dry weight lipids rich in palmitoleic acid (52%), palmitic acid (17%), and eicosapentaenoic acid (15%), highlighting their biofuel potential. In contrast, the newly described red alga *Bostrychia anomala* from the *Bostrychia moritziana-B. radicans* complex exhibited unique monosiphonous growth and cell-death patterns involving adjacent cell division and filament fragmentation, which may facilitate propagation in mangrove habitats. Across the cluster, research emphasizes species-specific physiological adaptations—such as alkaliphily in diatoms and novel cell death mechanisms in *Bostrychia*—that inform both biotechnological applications and ecological reproductive strategies.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Metropolis-coupled Markov chain Monte Carlo",
+    "MrBayes 3.6"
+  ],
+  "resolution": 8.0
+}

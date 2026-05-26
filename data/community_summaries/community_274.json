@@ -1,0 +1,16 @@
+{
+  "community_id": 274,
+  "summary": "This cluster investigates the use of low-diversity algal systems, particularly monocultures, for biodiesel production within open reactor systems fed by wastewater. A key finding was that monocultures produced significantly higher concentrations of fatty acid methyl ester (FAME) than diverse algal assemblages, with over 80% of lipids converted to FAME. The research demonstrated effective wastewater bioremediation, including the removal of nitrate and phosphorus, alongside reductions in temperature, dissolved solids, pH, and dissolved oxygen. The geographic and ecological scope is defined by controlled, outdoor tank experiments conducted over a 14-week period, highlighting a cost-effective pathway for integrating biofuel generation with wastewater treatment.",
+  "n_entities": 6,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "City of Houston wastewater treatment plant",
+    "continuous-flow reactors",
+    "fine bubbler diffuser",
+    "open tank bioreactors",
+    "open-top plastic tanks",
+    "outdoor experiments"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 56,
+  "summary": "This cluster of research is geographically centered on the marine environments of Korea and the Northwest Pacific, with a strong emphasis on the taxonomy, phylogeography, and ecological dynamics of red algae (Rhodophyta), particularly the genera *Pyropia*, *Grateloupia*, *Gelidium*, and *Chondrus*. Key findings revealed high cryptic diversity and complex phylogeographic patterns, as demonstrated by the identification of numerous new species (e.g., *Symphyocladia glabra*, *Amalthea rubida*) and distinct genetic lineages within morphologically similar groups like *Grateloupia filicina* and *Plocamium telfairiae*, often resolved using molecular markers such as *rbcL*, *cox1*, and *COI-5P*. The studies also investigated the impacts of environmental stressors, including thermal effluents from nuclear power plants and sea urchin grazing, on macroalgal community structure and biomass, alongside applied research into the cultivation, bioactive properties (e.g., hepatoprotective, anti-inflammatory), and disease management (e.g., oomycete pathogens) of economically significant species like *Pyropia yezoensis* and *Saccharina japonica*.",
+  "n_entities": 198,
+  "n_papers": 158,
+  "n_papers_with_summaries": 158,
+  "entity_sample": [
+    "AP018129",
+    "AY435175-6",
+    "Analysis of cross sections",
+    "Bodega, California, USA",
+    "Boiler Bay",
+    "CH",
+    "California, USA",
+    "Changjiang",
+    "China",
+    "China (Taiwan)"
+  ],
+  "resolution": 8.0
+}

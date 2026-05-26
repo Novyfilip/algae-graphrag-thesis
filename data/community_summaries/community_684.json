@@ -1,0 +1,12 @@
+{
+  "community_id": 684,
+  "summary": "This cluster focuses on the restoration and transplantation of the brown alga *Ecklonia cava* in coastal environments, specifically investigating optimal methods to counteract habitat degradation and declining seaweed biodiversity. Research centered on the successful transplantation of *Ecklonia cava* sporophytes onto artificial seaweed reef structures, with key findings demonstrating that smaller blades (5-10 cm) transplanted in March exhibited significantly higher survival and growth rates compared to larger blades (20-30 cm) transplanted later in April. The studies collectively emphasize that precise blade size and seasonal timing are critical parameters for the effective re-establishment of this species in degraded coastal ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "East (Japan) Sea of Korea",
+    "light-weighted transplantation structures"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 894,
+  "summary": "This cluster of research focuses on the taxonomy, community composition, and ecological dynamics of freshwater phytoplankton, particularly Chlorophyceae (green algae) and Bacillariophyta (diatoms), in Korean lentic systems and North American fish ponds. Studies conducted in the Chilgok-Kun area and on dam lakes and reservoirs across South Korea, such as Togyo Reservoir, documented a high diversity of taxa, including *Chlamydomonas angulosa* and *Chlamydomonas epiphytica*, and consistently found that diatoms, especially pennate forms, often outnumbered green algae in periphyton and phytoplankton communities. In fertilized fish ponds in Illinois, higher nutrient loadings were correlated with a decline in Chlorophyta abundance but an increase in overall phytoplankton density and species diversity, linking nutrient enrichment to secondary succession. Across Korean dam lakes, trophic state assessments using the Lake Trophic Status Index (LTSI) revealed a range from mesotrophic to eutrophic conditions, with seasonal shifts in dominance from diatoms in winter to cyanobacteria like *Microcystis* in summer.",
+  "n_entities": 2,
+  "n_papers": 4,
+  "n_papers_with_summaries": 4,
+  "entity_sample": [
+    "Genus Tetraedron",
+    "Tetraedron minimum"
+  ],
+  "resolution": 8.0
+}

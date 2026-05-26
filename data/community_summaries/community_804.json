@@ -1,0 +1,12 @@
+{
+  "community_id": 804,
+  "summary": "This cluster centers on the discovery and taxonomic description of a new red algal species, *Amalthea rubida sp. nov.*, from Korea, which is distinguished by its unique foliose, membranous thallus and specific medullary filament patterns. The research employed rbcL gene phylogeny to confirm the species' placement within the Halymeniales order, thereby expanding the known distribution of the genus *Amalthea* into the southwestern Pacific. The findings underscore the utility of molecular phylogenetic methods in resolving taxonomic relationships and highlight the Korean peninsula as a significant site for algal biodiversity discovery.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AY583301",
+    "Pachymenia laciniata"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Conferva decimina", "taxonomic_rank": "species"}, {"species_name": "Spirogyra", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Conferva decimina", "predicate": "BELONGS_TO", "object": "Spirogyra", "confidence": 0.5}]}

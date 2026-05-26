@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ascophyllum nodosum", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "surfactant"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ascophyllum nodosum", "predicate": "CONTAINS", "object": "surfactant", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "diatom", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Seogwipo, Cheju Island"}], "markers": [], "applications": [], "relationships": [{"subject": "diatom", "predicate": "FOUND_IN", "object": "Seogwipo, Cheju Island", "confidence": 1.0}]}

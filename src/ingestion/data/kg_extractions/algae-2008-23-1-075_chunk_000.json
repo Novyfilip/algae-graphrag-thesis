@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Zostera", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Southern Coast of Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Zostera", "predicate": "FOUND_IN", "object": "Southern Coast of Korea", "confidence": 1.0}]}

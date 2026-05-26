@@ -1,0 +1,12 @@
+{
+  "community_id": 658,
+  "summary": "This cluster focuses on the taxonomy and systematics of the freshwater algal class Conjugatophyceae (Zygnematophyceae), with a particular emphasis on clarifying the nomenclature and classification of key genera such as *Mougeotia*, *Mougeotiopsis*, and *Transeauina*. The research synthesizes historical classification changes and redefines the group as a distinct class, drawing on data from AlgaeBase to document the number of currently described species and their global distribution. The geographic scope is implicitly broad, covering freshwater habitats worldwide, while the core findings highlight significant taxonomic revisions and the evolutionary relationships within this morphologically diverse lineage.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cosmocladium",
+    "Cosmocladium pulchellum"
+  ],
+  "resolution": 8.0
+}

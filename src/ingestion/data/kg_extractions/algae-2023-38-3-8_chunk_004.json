@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pyropia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Pyropia", "predicate": "AFFECTS", "object": "crop yield", "confidence": 1.0}, {"subject": "Pyropia", "predicate": "AFFECTS", "object": "quality", "confidence": 1.0}]}

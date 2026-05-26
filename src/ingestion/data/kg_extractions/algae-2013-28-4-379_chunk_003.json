@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Lactoferrin"}, {"compound_name": "lactotransferrin"}, {"compound_name": "lactoferricin"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Lactoferrin", "predicate": "CONTAINS", "object": "lactoferricin", "confidence": 1.0}]}

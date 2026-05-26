@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "L. inclinatorhiza", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Taujskaya Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "L. inclinatorhiza", "predicate": "FOUND_IN", "object": "Taujskaya Bay", "confidence": 1.0}]}

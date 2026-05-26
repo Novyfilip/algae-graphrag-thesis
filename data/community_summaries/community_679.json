@@ -1,0 +1,12 @@
+{
+  "community_id": 679,
+  "summary": "This cluster of research examines the seasonal dynamics and species composition of phytoplankton communities in the coastal waters of Cheju Island, Korea, based on monthly data collected from 1988 to 1989. The studies identified 245 phytoplankton species, predominantly diatoms (196 species), which accounted for 80% of total occurrences, alongside dinoflagellates, silicoflagellates, euglena, and blue-green algae. A key finding was that benthic and tychopelagic species constituted over 80% of the community year-round, with a notable increase during winter, and that distribution patterns were strongly influenced by the Kuroshio currents and prevailing winds. The community structure remained relatively stable, as indicated by high species diversity indices, except during blooms of the diatom *Chaetoceros socialis*.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Diatomeen",
+    "Sweden and Finland"
+  ],
+  "resolution": 8.0
+}

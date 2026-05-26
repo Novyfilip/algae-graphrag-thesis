@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "macroalgal assemblage", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Marado, Jeju Island, Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "macroalgal assemblage", "predicate": "FOUND_IN", "object": "Marado, Jeju Island, Korea", "confidence": 1.0}]}

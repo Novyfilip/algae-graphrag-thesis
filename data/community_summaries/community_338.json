@@ -1,0 +1,14 @@
+{
+  "community_id": 338,
+  "summary": "This cluster investigates the ecological risks and invasion dynamics of the red alga *Kappaphycus alvarezii*, specifically its interaction with coral reef ecosystems in the Gulf of Mannar, India. Research conducted at Kurusadai Island revealed a highly localized infestation covering only 76.7 square meters (less than 0.0035% of the total coral area), with a slow daily growth rate of 0.7%. Key findings attributed the alga’s limited invasive potential to its constrained reproductive cycle and low spore viability, as it was absent from adjacent islands and cultivation sites in Palk Bay. The geographic scope is narrowly focused on the marine bioreserve of Kurusadai Island, with surveys conducted during 2008 and 2009 emphasizing the species’ minimal threat to *Acropora* corals under current conditions.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Kaneohe Bay",
+    "Kappaphycus sp.",
+    "northern part of Kaneohe Bay",
+    "southcentral part of Kaneohe Bay"
+  ],
+  "resolution": 8.0
+}

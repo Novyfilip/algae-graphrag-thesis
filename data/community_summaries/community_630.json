@@ -1,0 +1,12 @@
+{
+  "community_id": 630,
+  "summary": "Research within this cluster centered on the antiviral potential of phlorotannins derived from the edible brown alga *Eisenia bicyclis*, specifically targeting the murine norovirus (MNV). The compounds dieckol and phlorofucofuroeckol-A were identified as the primary active agents, with phlorofucofuroeckol-A demonstrating superior efficacy and a higher selective index (668.87) compared to dieckol (550.60), based on a 50% effective concentration (EC50) of 0.9 μM. The findings collectively highlighted the species *E. bicyclis* as a promising natural source for antiviral agents, though the geographic or ecological scope of the research was not explicitly addressed in the corpus.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "CC50 value determination",
+    "cytotoxicity evaluation"
+  ],
+  "resolution": 8.0
+}

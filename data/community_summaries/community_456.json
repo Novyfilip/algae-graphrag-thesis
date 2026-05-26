@@ -1,0 +1,13 @@
+{
+  "community_id": 456,
+  "summary": "This cluster of research is united by a focus on the cultivation, collection, and commercialization of microalgae, with a strong emphasis on species such as *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis* for industrial applications in nutraceuticals, cosmetics, and biofuel. A key pattern across the cluster is the transition from foundational natural science studies to optimized production methods and commercial strategies, supported by centralized culture collections. Geographically, the research is heavily centered on Korean waters, as exemplified by the Korea Marine Microalgae Culture Center (KMMCC), which maintains approximately 1,400 marine strains—84% originating from Korea—with 48% in an axenic state. The initial purpose of these collections was to supply live food for aquaculture, but they have since expanded to support broader taxonomic diversity and research applications.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Paracylopina nana",
+    "food value",
+    "mass culture and food value"
+  ],
+  "resolution": 8.0
+}

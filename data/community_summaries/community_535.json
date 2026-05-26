@@ -1,0 +1,13 @@
+{
+  "community_id": 535,
+  "summary": "This cluster focuses on the rapid quantification of lipids in marine dinoflagellates, specifically *Alexandrium minutum*, *Prorocentrum micans*, *P. minimum*, and *Lingulodinium polyedrum*, using the sulpho-phospho-vanillin (SPV) colorimetric method. Key findings established a significant positive correlation between optical density and lipid content, requiring only small sample volumes (1-5 mL) for analysis, while also revealing a negative correlation between cell size and lipid content. The research was conducted to support applications in biofuel production and to better understand the ecological roles of these species, with the method providing a rapid, low-biomass alternative for lipid screening.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "o-phosphoric acid",
+    "phosphovanillin reagent",
+    "vanillin"
+  ],
+  "resolution": 8.0
+}

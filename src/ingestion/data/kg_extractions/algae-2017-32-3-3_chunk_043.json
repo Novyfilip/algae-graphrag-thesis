@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "seaweed aquaculture"}], "relationships": [{"subject": "seaweed aquaculture", "predicate": "AFFECTS", "object": "nitrogen removal", "confidence": 1.0}, {"subject": "seaweed aquaculture", "predicate": "AFFECTS", "object": "carbon removal", "confidence": 1.0}]}

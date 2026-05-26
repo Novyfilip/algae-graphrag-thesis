@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Entocladia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Entocladia", "predicate": "BELONGS_TO", "object": "macroalgae", "confidence": 0.5}]}

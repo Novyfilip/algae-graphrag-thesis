@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "ascorbic acid"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "food processing industry"}], "relationships": [{"subject": "ascorbic acid", "predicate": "AFFECTS", "object": "food processing industry", "confidence": 0.5}]}

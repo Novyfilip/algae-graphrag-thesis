@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ascophyllum", "taxonomic_rank": "genus"}, {"species_name": "Vertebrata", "taxonomic_rank": "genus"}], "compounds": [], "methods": [{"method_name": "RLCs"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Vertebrata", "predicate": "STUDIED_WITH", "object": "RLCs", "confidence": 1.0}]}

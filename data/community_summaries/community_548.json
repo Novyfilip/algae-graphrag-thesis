@@ -1,0 +1,13 @@
+{
+  "community_id": 548,
+  "summary": "This cluster investigates the immunomodulatory and anti-pathogenic properties of a fucose-containing polymer (FCP) derived from the brown alga *Ascophyllum nodosum*. Using the nematode *Caenorhabditis elegans* as a model host, the studies demonstrated that FCP treatment upregulates key innate immune response genes while attenuating the virulence of *Pseudomonas aeruginosa* through the inhibition of quorum sensing, biofilm formation, and pathogen motility. The research collectively suggests that this algal compound functions as a natural defense mechanism, with potential applications in functional foods or therapeutics to bolster host immunity against bacterial infection. The geographic scope is not specified, but the work focuses on a temperate North Atlantic algal species and a globally prevalent opportunistic pathogen.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "filter paper assay",
+    "hydrocyanic acid",
+    "sodium picrate"
+  ],
+  "resolution": 8.0
+}

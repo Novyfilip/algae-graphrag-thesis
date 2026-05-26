@@ -1,0 +1,12 @@
+{
+  "community_id": 1041,
+  "summary": "This cluster focuses on the taxonomic and phylogenetic characterization of the genus *Cryptomonas* (Cryptophyceae, Cryptophyta), primarily using molecular data to resolve species boundaries. By analyzing 47 strains from Korea, researchers employed Bayesian and maximum likelihood phylogenetic methods to delineate nine identified and four unidentified species, revealing a monophyletic tree with fourteen distinct lineages. Key findings highlighted the limitations of traditional morphological classification, as some strains exhibited unique pyrenoid chloroplast structures and variations in inner periplast component (IPC) architecture that did not align with existing taxonomy. The geographic scope is centered on Korean freshwater environments, and the collective work advocates for integrating molecular phylogenetics to improve species delineation within this cryptophyte genus.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "nuclear partial LSU",
+    "nucleomorph SSU rDNA"
+  ],
+  "resolution": 8.0
+}

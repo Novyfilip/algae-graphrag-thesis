@@ -1,0 +1,12 @@
+{
+  "community_id": 1124,
+  "summary": "This cluster of research focuses on the metabolic versatility of microalgae, specifically their ability to operate under autotrophic, heterotrophic, and mixotrophic growth regimes to remediate carbon-rich waste streams. A central theme is the manipulation of these metabolic pathways to enhance the removal of nutrient-derived pollutants, particularly nitrates and dissolved organic nitrogen, from wastewater. The studies emphasize the identification and application of extremophilic algal strains to improve the efficiency of this bioremediation process. Geographically and ecologically, the work is situated in the context of industrial and municipal wastewater treatment, aiming to mitigate eutrophication through a novel, algae-based approach.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "chloroplast stroma",
+    "β-CAH6"
+  ],
+  "resolution": 8.0
+}

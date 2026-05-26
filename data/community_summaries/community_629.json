@@ -1,0 +1,12 @@
+{
+  "community_id": 629,
+  "summary": "This cluster focuses on the discovery and taxonomic characterization of the freshwater red alga *Caloglossa beccarii* in riverine ecosystems of Kerala, India. Researchers identified the species in the Periyar and Chalakkudy rivers, documenting its tetrasporangiate life stage and spore discharge mechanisms, which indicate a close morphological relationship to *Caloglossa fluviatilis*. The studies emphasize the species’ leaf shape and rhizoid arrangement to confirm its placement within the *Caloglossa* genus, while also mapping its broader geographic distribution across southeast Asia, including India, Burma, Malaysia, Indonesia, and Australia.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "C. saigonensis",
+    "Szechwan Province near Peh-pei on the Jialing River"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,14 @@
+{
+  "community_id": 346,
+  "summary": "This cluster focuses on the discovery and characterization of novel dinoflagellate species from coastal marine environments, specifically in Korean waters. The research centers on the morphological and genetic description of *Ansanella granifera*, which is distinguished by unique features such as a grana-like thylakoid structure, a zigzag cingular margin, and a peridinin pigment composition. The species was identified through a combination of distinct amphiesmal vesicle arrangements, a pusule system, and a unique SSU rDNA sequence that separates it from other Suessiaceae. These findings highlight the use of integrated morphological and molecular methods to uncover hidden dinoflagellate biodiversity in temperate Asian coastal ecosystems.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "EF419283",
+    "EF419287",
+    "KC816670",
+    "Symbiodinium sp. (clade C)"
+  ],
+  "resolution": 8.0
+}

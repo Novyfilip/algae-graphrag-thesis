@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "BLASTN searches"}, {"method_name": "QUAST v4.5"}, {"method_name": "BUSCO v3"}, {"method_name": "Prokka v1.12"}], "environments": [], "markers": [], "applications": [], "relationships": []}

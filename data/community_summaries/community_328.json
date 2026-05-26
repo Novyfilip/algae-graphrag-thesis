@@ -1,0 +1,14 @@
+{
+  "community_id": 328,
+  "summary": "This cluster investigates the population dynamics and bloom ecology of the mixotrophic ciliate *Myrionecta rubra* (syn. *Mesodinium rubrum*), a key red tide species, within the Keum River Estuary in Korea. Research focused on semiweekly variations during spring, revealing that peak abundances of *M. rubra* reached 272 cells mL⁻¹ and followed strikingly similar fluctuation patterns across fixed monitoring stations. The onset of significant ciliate growth in late April was closely linked to intermittent periods of low salinity and the dominance of the diatom *Skeletonema costatum*, while cyanobacteria such as *Aphanizomenon flos-aquae* and *Phormidium* sp. replaced other phytoplankton during these events. A central finding across the cluster is that controlling freshwater discharge levels could serve as a management tool to influence the timing and intensity of spring blooms in this temperate estuarine system.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Auto-analyzer (Bran-Luebbe TRAACS 2000)",
+    "NH4+-N",
+    "NO2--N",
+    "NO3--N"
+  ],
+  "resolution": 8.0
+}

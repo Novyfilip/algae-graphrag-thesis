@@ -1,0 +1,12 @@
+{
+  "community_id": 616,
+  "summary": "This cluster investigates the physiological and competitive dynamics of cyanobacterial phenotypes under changing water quality conditions, specifically focusing on the effects of increased dissolved organic matter (DOM). Research on *Pseudanabaena* demonstrated that red and green pigment phenotypes coexist without one gaining a competitive advantage under elevated DOM, highlighting how artificial lake browning drives niche differentiation rather than exclusion. The studies employed genomic sequencing and controlled laboratory experiments to assess phylogenetic relationships and cellular performance, revealing that both phenotypes remain physiologically unaffected by DOM regimes. Geographically and ecologically, this work centers on temperate freshwater systems undergoing anthropogenic browning, emphasizing the role of DOM in shaping cyanobacterial community structure and pigment diversity.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "BLASTP search",
+    "Kyoto Encyclopedia of Genes and Genomes (KEGG)'s BlastKOALA annotation tool"
+  ],
+  "resolution": 8.0
+}

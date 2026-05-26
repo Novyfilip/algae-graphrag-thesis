@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Scinaia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Jeju Island"}], "markers": [], "applications": [], "relationships": [{"subject": "Scinaia", "predicate": "FOUND_IN", "object": "Jeju Island", "confidence": 1.0}]}

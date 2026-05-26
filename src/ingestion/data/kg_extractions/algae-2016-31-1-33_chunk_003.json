@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Aglaothamnion uruguayense", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Garopaba"}], "markers": [], "applications": [], "relationships": [{"subject": "Aglaothamnion uruguayense", "predicate": "FOUND_IN", "object": "Garopaba", "confidence": 0.5}]}

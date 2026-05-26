@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "M. albida", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Jeju Island coast"}], "markers": [], "applications": [], "relationships": [{"subject": "M. albida", "predicate": "FOUND_IN", "object": "Jeju Island coast", "confidence": 1.0}]}

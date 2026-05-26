@@ -1,0 +1,20 @@
+{
+  "community_id": 168,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and distribution of red algae (Rhodophyta) and brown algae (Phaeophyceae) across the Northwest Pacific, particularly in Korea, Japan, and China. Researchers consistently employed plastid markers such as *rbcL* and mitochondrial *cox1* or *COI-5P* to resolve cryptic species, revise genera, and document new taxa, including *Haraldiophyllum udoensis*, *Grateloupia jejuensis*, *Symphyocladia glabra*, and multiple new *Polysiphonia* and *Herposiphonia* species. Key findings revealed high genetic diversity and shallow phylogeographic structure in species like *Chondrus* and *Plocamium*, while studies on *Gelidium*, *Pterocladiella*, and *Hypnea flexicaulis* demonstrated the importance of integrating morphology with molecular data to clarify species boundaries and biogeographic patterns. The geographic scope was predominantly coastal Korea and Japan, with additional records from the Pacific Ocean, Mediterranean Sea, and Indian Ocean, emphasizing the region as a hotspot for algal biodiversity and taxonomic revision.",
+  "n_entities": 108,
+  "n_papers": 125,
+  "n_papers_with_summaries": 125,
+  "entity_sample": [
+    "AY865137",
+    "AY865138",
+    "AY865139",
+    "AY865140",
+    "AY865141",
+    "AY865142",
+    "AY865143",
+    "AY865144",
+    "Akkeshi Lagoon (Hokkaido, Japan)",
+    "Atlantic waters"
+  ],
+  "resolution": 8.0
+}

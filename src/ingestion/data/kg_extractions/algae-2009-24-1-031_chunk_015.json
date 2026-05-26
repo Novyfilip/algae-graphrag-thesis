@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Padina concrescens", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "stereoscopic microscope observation"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Padina concrescens", "predicate": "STUDIED_WITH", "object": "stereoscopic microscope observation", "confidence": 1.0}]}

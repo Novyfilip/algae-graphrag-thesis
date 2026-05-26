@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Neosiphonia ramirezii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Lagunillas, Pisco, Ica, Peru"}], "markers": [], "applications": [], "relationships": [{"subject": "Neosiphonia ramirezii", "predicate": "FOUND_IN", "object": "Lagunillas, Pisco, Ica, Peru", "confidence": 1.0}]}

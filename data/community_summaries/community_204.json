@@ -1,0 +1,20 @@
+{
+  "community_id": 204,
+  "summary": "This cluster focuses on the ecology, distribution, and restoration of seagrasses (primarily *Zostera marina*) and macroalgae, alongside the dynamics of phytoplankton and harmful algal bloom (HAB) species, predominantly in Korean coastal waters and Tampa Bay, Florida. Key findings include the high carbon capture potential of eelgrass beds and macroalgal vegetation, the effectiveness of chlorophyll a fluorescence and loess coating for assessing seagrass transplant success and enhancing seed germination, and the significant role of epiphytic diatoms and dinoflagellates in seagrass meadow productivity. Studies on phytoplankton communities identified dominant species such as *Chaetoceros debilis*, *Skeletonema costatum*, and the mixotrophic ciliate *Myrionecta rubra*, with blooms linked to nutrient inputs, freshwater discharge, and thermal effluents from nuclear power plants. The geographic scope is heavily centered on the southern coast of Korea and the Yellow Sea, with additional work in Tampa Bay, the Gulf of California, and Antarctica, reflecting a shared emphasis on coastal ecosystem function, anthropogenic impacts, and restoration ecology.",
+  "n_entities": 83,
+  "n_papers": 27,
+  "n_papers_with_summaries": 27,
+  "entity_sample": [
+    "Achomosphaera ramulifera",
+    "Alexandrium balechii",
+    "Alexandrium balechiia",
+    "Ataxiodinium choane",
+    "Azpeitia sp.",
+    "Bacillaria paxillifera",
+    "Bacteriastrum sp.",
+    "Bitectatodinium tepikiense",
+    "C. hircus",
+    "C. subtilis"
+  ],
+  "resolution": 8.0
+}

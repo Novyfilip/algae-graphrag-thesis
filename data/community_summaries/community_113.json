@@ -1,0 +1,20 @@
+{
+  "community_id": 113,
+  "summary": "This cluster of research is geographically centered on Korean coastal and freshwater ecosystems, with additional studies from India, Antarctica, and the White Sea, and is unified by a focus on the taxonomy, ecology, and physiological responses of diverse algal groups, particularly diatoms, dinoflagellates, and red algae. Key connecting themes include the use of molecular techniques such as DNA barcoding, phylogenetics (e.g., rbcL, LSU rDNA, psbA), and quantitative PCR to resolve species boundaries, assess genetic diversity, and monitor harmful algal blooms, notably those caused by *Cochlodinium polykrikoides*, *Karlodinium veneficum*, and *Chattonella antiqua*. The studies also extensively investigated environmental drivers of community structure, including salinity gradients, nutrient loading (nitrogen and phosphorus), temperature, and light, with findings that salinity thresholds (~300 psu) and nutrient ratios significantly shape benthic diatom and phytoplankton assemblages. Additionally, applied research on antioxidant activities (e.g., from *Achnanthes longipes*, *Ecklonia cava*, and *Pyropia yezoensis*), cryopreservation of bloom-forming cyanobacteria, and the development of cultivation methods for species like *Undaria pinnatifida* and *Petalonia fascia* highlight a translational focus on algal biotechnology and resource management.",
+  "n_entities": 145,
+  "n_papers": 127,
+  "n_papers_with_summaries": 125,
+  "entity_sample": [
+    "Acharya Vihar, Bhubaneswar",
+    "Actinocyclus curvatulus",
+    "Amphora Ehrenberg ex Kütz- ing, 1844",
+    "Amphora coffeaeformis var. perpusilla",
+    "Anmyundo/Chungnam coast",
+    "Antarctic nearshore waters",
+    "Aulacoseira sp.",
+    "Bacillaria",
+    "Bacillaria paradoxa",
+    "Biota-environment analysis"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "EPA"}], "methods": [], "environments": [{"environment_name": "estuary"}, {"environment_name": "coast"}, {"environment_name": "surface water"}], "markers": [], "applications": [{"application_name": "aquaculture"}], "relationships": [{"subject": "EPA", "predicate": "CONTAINS", "object": "high protein and lipid", "confidence": 0.5}]}

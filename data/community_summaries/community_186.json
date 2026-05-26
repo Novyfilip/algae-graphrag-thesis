@@ -1,0 +1,20 @@
+{
+  "community_id": 186,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, phylogeny, and biodiversity of marine and freshwater algae, with a particular emphasis on species discovery and revision using molecular markers such as rbcL, COI-5P, and ITS sequences. Key findings include the identification of numerous cryptic and new species across diverse genera, including *Carpophyllum*, *Spirogyra*, *Sargassum*, *Radicilingua*, *Tauya basicrassa*, *Alaria paradisea*, *Ramipedicella*, *Fissipedicella orientalis*, *Polysiphonia*, *Symphyocladia glabra*, *Porphyra birdiae*, *Herposiphonia*, *Martensia palmata*, *Pseudostaurosiropsis*, and *Endoplura*, often revealing significant genetic divergence and challenging previous morphological classifications. Geographically, the research spans a wide range of regions, including New Zealand, Korea, Japan, Russia (Sea of Okhotsk, Kurile Islands, Kamchatka), the White Sea, the Gulf of Mannar, the East China Sea, the western Atlantic, Mexico, and Antarctica, with many studies highlighting endemic or region-specific algal floras. The cluster also investigates ecological and physiological themes, such as the effects of wave exposure on morphology, the impact of sedimentation on kelp spore survival, the role of phototropins in phototropic movement, and the dynamics of phytoplankton communities in response to environmental change.",
+  "n_entities": 96,
+  "n_papers": 144,
+  "n_papers_with_summaries": 143,
+  "entity_sample": [
+    "5'COI",
+    "Aarösund, Kieler Bucht, Germany",
+    "Ac. leptonema",
+    "Ac. sancti-thomae",
+    "Ac. sanctt-thomae",
+    "Acinetosporaceae G. Hamel ex Feldmann",
+    "B. pyriformis-complex",
+    "Bachelotiaceae T. Silberfeld, M. -F. Racault, R. L. Fletcher, A. F. Peters, F. Rousseau & B. de Reviers",
+    "Baekdo",
+    "Bangioideae"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 247,
+  "summary": "This cluster of papers is united by a focus on the physiological, ecological, and molecular responses of marine and freshwater algae to environmental stressors, with particular emphasis on harmful algal blooms (HABs), toxin production, and cultivation optimization in Korean coastal waters. Key species investigated include the toxic dinoflagellates *Gymnodinium catenatum*, *Alexandrium tamarense*, and *Cochlodinium polykrikoides*, as well as the cyanobacterium *Microcystis aeruginosa* and the red alga *Pyropia yezoensis*, with studies examining growth inhibition by blue-min treatment, heat tolerance via downregulation of the secretory protein PyHRG1, and the role of an endogenous annual clock in cyst germination. The geographic scope is heavily centered on Korean coastal waters (e.g., Yeosuhae Bay, Namhae Island, Lake Daecheong), where researchers documented seasonal and spatial dynamics of phytoplankton communities, including vertical distribution of *Microcystis* spp. and short-term community shifts driven by temperature and nutrient fluctuations. Methodologically, the cluster integrates transcriptomics, scanning electron microscopy for diatom fine structure (e.g., *Thalassiosira* species), and chemiluminescence immunochromatographic assays for microcystin quantification, while also exploring biotechnological applications such as recombinant protein expression in *Chlorella vulgaris* and plasmid-based transformation vectors for *Porphyra tenera*. A recurring pattern is the dual focus on fundamental biological processes—such as gamete recognition in red algae, phototropin divergence in *Spirogyra varians*, and atypical cell division in *Ascophyllum nodosum*—alongside applied goals like bioremediation of nutrient-rich waste streams and development of rapid toxin detection methods.",
+  "n_entities": 46,
+  "n_papers": 31,
+  "n_papers_with_summaries": 31,
+  "entity_sample": [
+    "24S rRNA",
+    "Alexandrium lusitanicum",
+    "Alexandrium minutum Halim CCMP1888",
+    "Anabaena PCC 7120",
+    "Arabidopsis",
+    "Blocking Experiment of Gamete Binding",
+    "CAI",
+    "Coastal Current Entrained Texa",
+    "Cochlodinium polykokoides",
+    "GFP"
+  ],
+  "resolution": 8.0
+}

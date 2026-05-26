@@ -1,0 +1,12 @@
+{
+  "community_id": 703,
+  "summary": "This cluster focused on the taxonomic revision of the red algal genus *Polysiphonia* from Korean coastal waters, primarily through morphological analysis of herbarium specimens collected between 1980 and 1986. The research examined seven species—*P. morrowi*, *P. subtilissima*, *P. atlantica*, *P. tongatensis*, *P. yendoi*, *P. japonica*, and *P. sphaerocarpa*—and identified key distinguishing features in their growth habits, habitat preferences, and rhizoid development. A central finding was that the shape and branching patterns of rhizoids served as critical characters for taxonomic distinction among these species. The geographic scope was strictly limited to the Korean peninsula, with no broader ecological or molecular analyses conducted.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "GM",
+    "P. brodiaci"
+  ],
+  "resolution": 8.0
+}

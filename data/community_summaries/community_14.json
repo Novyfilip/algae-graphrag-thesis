@@ -1,0 +1,20 @@
+{
+  "community_id": 14,
+  "summary": "This cluster of papers is heavily centered on Korean coastal and marine ecosystems, with a strong emphasis on the ecology, physiology, and aquaculture of key macroalgal and seagrass species, particularly *Pyropia yezoensis*, *Zostera marina*, *Ascophyllum nodosum*, and various *Sargassum* and *Ulva* species. A unifying theme is the investigation of environmental stressors—including temperature, salinity, light, nutrient loading, and thermal effluents from power plants—on growth, reproduction, photosynthetic performance, and community structure. Methodologically, the studies frequently employed chlorophyll *a* fluorescence, pigment analysis, and molecular phylogenetics to assess physiological status and taxonomic relationships. Geographically, the research was predominantly conducted in Korean waters (e.g., Jeju Island, Jindong Bay, the East and South coasts), with additional studies in Nova Scotia, the Gulf of California, and the Antarctic, reflecting a broad but regionally focused investigation into the resilience and productivity of marine algae under changing environmental conditions.",
+  "n_entities": 313,
+  "n_papers": 183,
+  "n_papers_with_summaries": 179,
+  "entity_sample": [
+    "2-way ANOVA",
+    "4’-6-diamidino-2-phenolindole (DAPI)",
+    "A. nodosum",
+    "ANOSIMs",
+    "ASP toxin",
+    "Aglaothamnion oosumiens",
+    "Aleutian Islands (Akun Island to Attu Island)",
+    "Analysis of phospholipid-phosphorus and protein content",
+    "Antithamnion defectum",
+    "Apophlaea"
+  ],
+  "resolution": 8.0
+}

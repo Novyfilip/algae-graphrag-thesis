@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Grammatophora marina", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Jeju"}], "markers": [], "applications": [], "relationships": [{"subject": "Grammatophora marina", "predicate": "FOUND_IN", "object": "Jeju", "confidence": 1.0}]}

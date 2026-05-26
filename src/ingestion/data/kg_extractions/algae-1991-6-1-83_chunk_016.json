@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "phycocyanin"}, {"compound_name": "chl a"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "phycocyanin", "predicate": "CONTAINS", "object": "chl a", "confidence": 0.5}]}

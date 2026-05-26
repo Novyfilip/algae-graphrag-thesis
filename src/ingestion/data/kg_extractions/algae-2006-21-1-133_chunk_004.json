@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Spirulina", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Texcoco"}], "markers": [], "applications": [], "relationships": [{"subject": "Spirulina", "predicate": "FOUND_IN", "object": "Texcoco", "confidence": 0.5}]}

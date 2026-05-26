@@ -1,0 +1,17 @@
+{
+  "community_id": 262,
+  "summary": "This cluster focuses on the discovery and taxonomic description of new marine macroalgae species from under-explored deep-water habitats. Researchers identified two new Rhodymeniales species, *Halopeltis* and *Leptofauchea huawelau*, from the mesophotic zone of the Hawaiian Islands, representing the deepest known records for these genera. The studies employed molecular phylogenetic analysis alongside morphological characterization to delineate the new taxa, with *L. huawelau* noted for its large size, reaching up to 21 cm in height. Collectively, the findings underscore the Hawaiian mesophotic zone as a significant biodiversity hotspot for previously undocumented macroalgae.",
+  "n_entities": 7,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Anasococol",
+    "Dichotoma",
+    "Lepidoziaceae",
+    "Solenia",
+    "above light",
+    "above points",
+    "occasional"
+  ],
+  "resolution": 8.0
+}

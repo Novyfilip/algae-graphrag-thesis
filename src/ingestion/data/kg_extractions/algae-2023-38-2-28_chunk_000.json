@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Karenia", "taxonomic_rank": "genus"}, {"species_name": "Karenia mikimotoi", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Karenia mikimotoi", "predicate": "BELONGS_TO", "object": "Karenia", "confidence": 1.0}]}

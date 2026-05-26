@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chaetoceros", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "28S rDNA"}], "applications": [], "relationships": [{"subject": "28S rDNA", "predicate": "IDENTIFIED_BY", "object": "Chaetoceros", "confidence": 1.0}]}

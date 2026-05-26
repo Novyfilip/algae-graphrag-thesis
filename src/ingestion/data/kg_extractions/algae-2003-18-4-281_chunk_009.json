@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Heterocapsa circularisquama", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Uranouchi"}], "markers": [], "applications": [], "relationships": [{"subject": "Heterocapsa circularisquama", "predicate": "FOUND_IN", "object": "Uranouchi", "confidence": 1.0}]}

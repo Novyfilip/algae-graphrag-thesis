@@ -1,0 +1,13 @@
+{
+  "community_id": 461,
+  "summary": "This cluster investigates the ecological roles of dinoflagellate communities in hypoxic marine environments, specifically within the bottom waters of Jinhae Bay and Masan Bay, Korea. Through metabarcoding analyses, researchers documented a significant increase in the abundance of heterotrophic dinoflagellate species under low-oxygen conditions, identifying 36 species spanning autotrophic, mixotrophic, and heterotrophic trophic modes. The findings establish a foundational understanding of how these protists contribute to nutrient cycling and trophic dynamics in oxygen-depleted zones, emphasizing the utility of metabarcoding for characterizing microbial eukaryotic diversity in such stressed ecosystems.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Autotrophic dinoflagellate",
+    "Mixotrophic dinoflagellate",
+    "Phototrophic dinoflagellate"
+  ],
+  "resolution": 8.0
+}

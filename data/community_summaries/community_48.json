@@ -1,0 +1,20 @@
+{
+  "community_id": 48,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, phylogeny, and biodiversity of algae, with an emphasis on species delineation through morphological and molecular methods, particularly rbcL, psbA, and ITS sequencing. Key findings include the discovery and reclassification of numerous taxa, such as new species of *Sheathia*, *Pterocladiella*, and *Spirogyra*, as well as the identification of cryptic diversity within genera like *Portieria* and *Gracilariopsis*. The geographic scope is heavily centered on Korean coastal and freshwater ecosystems, with additional studies from India, Brazil, the United States, and the Northwest Pacific, highlighting the role of environmental factors like salinity, pH, and temperature in shaping algal community structure and distribution.",
+  "n_entities": 217,
+  "n_papers": 96,
+  "n_papers_with_summaries": 96,
+  "entity_sample": [
+    "3차 주성분분석",
+    "ANOSIM test",
+    "Africa",
+    "Allozyme 분석",
+    "Analysis of Small-Subunit rDNA Sequences",
+    "Angiosperm",
+    "Asia Pacific",
+    "BLAST검색",
+    "Bray-Curtis coefficient",
+    "CLUSTER.BAS"
+  ],
+  "resolution": 8.0
+}

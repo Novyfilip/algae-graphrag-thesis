@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Anabaena cylindrica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Anabaena cylindrica", "predicate": "STUDIED_WITH", "object": "bacterium", "confidence": 1.0}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 246,
+  "summary": "This cluster synthesizes research on the taxonomy, floristics, and ecology of freshwater algae, with a strong emphasis on euglenophytes, across South Korea and India. Studies in Changnyong county, South Korea, documented numerous new records for the country, including species of *Peranemaceae*, *Ureceolus*, *Astaciaceae*, *Menoidium*, and *Epipyxis*, identified through morphological analysis of samples from local swamps and reservoirs. Concurrent research in Chol-La Nam-Do, Korea, and Orissa State, India, further expanded the known distribution of Euglenaceae genera such as *Colacium*, *Lepocinclis*, *Phacus*, and *Trachelomonas*, with the Indian study utilizing GPS for precise site documentation across 30 locations. A seasonal study of phytoplankton communities in the Paksil and Jungyang marshes in Korea revealed that Euglenophyceae were a consistent component among 421 identified taxa, though Bacillariophyceae dominated in abundance, highlighting the ecological role of euglenophytes within diverse freshwater habitats.",
+  "n_entities": 47,
+  "n_papers": 6,
+  "n_papers_with_summaries": 6,
+  "entity_sample": [
+    "Changchok Reservoir",
+    "Changchok reservoir",
+    "Chosanji",
+    "Cystodinium iners",
+    "Dinobryon suecicum var. longispinum",
+    "Dinococcus africanus",
+    "Epipyxis utriculus var. acutum",
+    "Euglena acus Ehrenberg var. angularis Johnson",
+    "Kamgok reservoir",
+    "Lagynion reductum"
+  ],
+  "resolution": 8.0
+}

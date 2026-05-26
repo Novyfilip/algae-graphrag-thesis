@@ -1,0 +1,20 @@
+{
+  "community_id": 99,
+  "summary": "This cluster of papers is primarily connected by a focus on the biodiversity, taxonomy, and ecology of freshwater and marine algae, with a strong geographic emphasis on Korea, East Asia, and parts of India. Key findings include the discovery and molecular characterization of numerous new species and taxa, such as *Haraldiophyllum udoensis*, *Sheathia assamica*, and *Endoplura jejuensis*, often using genetic markers like *rbcL* and *cox1* to resolve cryptic diversity and phylogenetic relationships. The research spans diverse habitats, from intertidal zones and coastal waters around Jeju Island to freshwater reservoirs, swamps, and rivers in Korea and India, with studies also documenting the dynamics of phytoplankton communities and the impacts of environmental stressors like salinity, temperature, and acidification on algal growth and community structure.",
+  "n_entities": 157,
+  "n_papers": 69,
+  "n_papers_with_summaries": 69,
+  "entity_sample": [
+    "Asia",
+    "Aska sugar factory, Ganjam",
+    "Bayesian multi-locus species (BP&P) delimitation method",
+    "Bayesian multi-locus species delimitation method",
+    "Bomunho Kyeongju",
+    "Buyeo",
+    "Calliglena",
+    "Cheonnam",
+    "Compso- pogon",
+    "Crumenula texta"
+  ],
+  "resolution": 8.0
+}

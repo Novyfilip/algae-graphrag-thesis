@@ -1,0 +1,20 @@
+{
+  "community_id": 116,
+  "summary": "This cluster of papers is unified by a strong focus on the biodiversity, taxonomy, and ecology of macroalgae and microalgae across the Northwest Pacific, particularly in Korea and Japan, with additional studies from the Mediterranean, the Caribbean, and Antarctica. Key findings include the discovery and phylogenetic characterization of numerous new species and cryptic lineages, such as *Nodosilinea coculeatus*, *Coolia malayensis*, *Neosiphonia japonica*, and *Pterocladiella capillacea*, using molecular markers like rbcL, cox1, and ITS. The research frequently employs polyphasic approaches combining morphology, DNA barcoding, and chemotaxonomy to resolve taxonomic ambiguities, while also addressing applied themes such as seaweed cultivation, biomass estimation, and the ecological impacts of thermal effluents and invasive species. Geographically, the studies emphasize intertidal and subtidal zones along the Korean Peninsula, Jeju Island, and the Yellow Sea, with comparative work in the tropical western Atlantic, Southern Tunisia, and the Antarctic.",
+  "n_entities": 142,
+  "n_papers": 98,
+  "n_papers_with_summaries": 97,
+  "entity_sample": [
+    "3-10 m depth",
+    "Acanthopeltis",
+    "Ashizuri, Tosa Bay, Japan",
+    "Baekgryongdo, Korea",
+    "Banks Bay, Isla Isabela, Galápagos Islands",
+    "Beckerella",
+    "Capreolia",
+    "Capreolia implexa",
+    "Doduri, Jeju",
+    "Ecklonia avac"
+  ],
+  "resolution": 8.0
+}

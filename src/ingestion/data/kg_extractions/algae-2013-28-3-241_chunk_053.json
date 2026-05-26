@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. ogasawaraensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "LSU rRNA gene"}], "applications": [], "relationships": [{"subject": "C. ogasawaraensis", "predicate": "IDENTIFIED_BY", "object": "LSU rRNA gene", "confidence": 1.0}]}

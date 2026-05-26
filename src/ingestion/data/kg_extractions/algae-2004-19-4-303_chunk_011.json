@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Porphyra seriata", "taxonomic_rank": "species"}, {"species_name": "Porphyra tenuipedalis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Porphyra seriata", "predicate": "STUDIED_WITH", "object": "Porphyra tenuipedalis", "confidence": 0.5}]}

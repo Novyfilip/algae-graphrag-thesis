@@ -1,0 +1,14 @@
+{
+  "community_id": 321,
+  "summary": "This cluster examines the biological and ecological characteristics of marine algae and protists from the North Atlantic and broader coastal environments, with a focus on species-specific traits and environmental interactions. Research on the perennial brown alga *Ascophyllum nodosum* in Nova Scotia revealed that annual growth increments are influenced by frond age, though this factor accounts for less than 12% of length variation, while segment mass and diameter remained age-independent and showed no significant correlation with regional water or air temperatures. Concurrently, studies on the dinoflagellate genus *Alexandrium* identified bioluminescence in nine species, including *A. catenella* and *A. tamarense*, with quantified intensity and phylogenetic clustering that linked luminescence capacity to variations in toxicity and mixotrophy. Together, these findings underscore the role of intrinsic biological factors—such as age and phylogeny—in shaping growth and functional traits across diverse algal and protistan lineages, while highlighting the limited direct influence of regional temperature variability on *Ascophyllum* growth patterns.",
+  "n_entities": 4,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "200-second-integrated bioluminescence intensity per cell calculation",
+    "averaging",
+    "bioluminescence intensity per cell calculation",
+    "maximum bioluminescence intensity per cell per second calculation"
+  ],
+  "resolution": 8.0
+}

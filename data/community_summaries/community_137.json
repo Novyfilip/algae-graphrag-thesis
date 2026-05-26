@@ -1,0 +1,20 @@
+{
+  "community_id": 137,
+  "summary": "This cluster of papers is unified by a focus on the taxonomy, phylogeny, and biogeography of red algae (Rhodophyta), with significant attention to the discovery and characterization of new species and genera across diverse geographic regions, particularly the Pacific Ocean, including Australia, Korea, Japan, New Zealand, and India. Key findings include the identification of novel species such as *Bangiopsis franklynotti*, *Erythrolobus australicus*, *Bostrychia anomala*, and *Tsunamia transpacifica*, often resolved through molecular markers like rbcL, psbA, and SSU rDNA, alongside morphological and ultrastructural analyses. The studies frequently address taxonomic revisions within families such as the Bangiophyceae, Porphyridiophyceae, and Ceramiaceae, and highlight the importance of chemotaxonomic markers (e.g., osmolytes, floridoside) and DNA barcoding for resolving cryptic diversity. Ecologically, the research spans intertidal, mangrove, freshwater, and drift plastic habitats, with several papers examining salinity tolerance, reproductive strategies (e.g., spermatial release), and the impacts of environmental stressors like oil spills and pathogens such as *Pythium porphyrae* on algal populations.",
+  "n_entities": 124,
+  "n_papers": 62,
+  "n_papers_with_summaries": 61,
+  "entity_sample": [
+    "AY119774",
+    "AY119775",
+    "Akaike information criterion (AIC)",
+    "Bostrychia arbuscula",
+    "Champia novae-zelandiae",
+    "Culture methods",
+    "Cyanidiales",
+    "Digeneaside",
+    "Electron Microscopy",
+    "Erythrolobus"
+  ],
+  "resolution": 8.0
+}

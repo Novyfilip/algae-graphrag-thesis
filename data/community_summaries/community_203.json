@@ -1,0 +1,20 @@
+{
+  "community_id": 203,
+  "summary": "This cluster of research is strongly centered on the ecology, taxonomy, and physiology of phytoplankton and macroalgae in Korean coastal and freshwater systems, with a particular emphasis on harmful algal blooms (HABs) and nutrient dynamics. Key species such as *Alexandrium tamarense*, *Gymnodinium catenatum*, *Karlodinium veneficum*, and *Cochlodinium polykrikoides* were frequently studied for their toxin production, mixotrophic behavior, and bloom dynamics, often in relation to environmental factors like temperature, salinity, and nutrient limitation (e.g., phosphate and silicate). Methodologically, the studies relied heavily on molecular tools such as real-time PCR, metabarcoding, and transcriptomics for species detection and quantification, alongside traditional morphological analysis and electron microscopy. Geographically, the work was concentrated in Korean waters—including the Nakdong River, Jinhae Bay, Masan Bay, and the East China Sea—with additional studies extending to Antarctic, Arctic, and Pacific Northwest sites, reflecting a broad but regionally focused investigation into algal community structure, red tide formation, and the ecological impacts of eutrophication and climate change.",
+  "n_entities": 84,
+  "n_papers": 74,
+  "n_papers_with_summaries": 73,
+  "entity_sample": [
+    "Bodega Bay, CA",
+    "Campylodiscus undulatus",
+    "Chatonella sp.",
+    "Cylindrotheca sp.",
+    "Cymatosira lorenziana",
+    "Friday Harbor WA, USA",
+    "Geojedo/Gyeongnam (34°43′25″ N, 128°29′24″ E), coast, surface water",
+    "Gymnodinium nagasakiense",
+    "HPF method",
+    "Haeundae/Busan (35°09′06″ N, 129°09′07″ E), coast, surface water"
+  ],
+  "resolution": 8.0
+}

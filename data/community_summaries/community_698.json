@@ -1,0 +1,12 @@
+{
+  "community_id": 698,
+  "summary": "This cluster of research focuses on the taxonomic and morphological characterization of diatoms, specifically the newly reported variety *Cyclotella atomus* var. *marina* (Bacillariophyceae), in Korean coastal waters. The studies are connected by their detailed examination of frustule morphology, including distinct features such as the flat, disc-shaped valve, small marginal striate zone, and the presence of five or six marginal fultoportulae. Key findings center on the discovery of this taxon within epiphytic communities on eelgrass, establishing its ecological niche in shallow, temperate marine habitats. The geographic scope is exclusively limited to Korean coastal areas, contributing to regional biodiversity inventories of microalgae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Frustulia",
+    "Frustulia operculata"
+  ],
+  "resolution": 8.0
+}

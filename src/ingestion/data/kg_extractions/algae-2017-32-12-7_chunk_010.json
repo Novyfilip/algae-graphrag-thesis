@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean rocky shores"}, {"environment_name": "coastal rocky shores"}], "markers": [], "applications": [], "relationships": [{"subject": "Korean rocky shores", "predicate": "FOUND_IN", "object": "coastal rocky shores", "confidence": 0.5}]}

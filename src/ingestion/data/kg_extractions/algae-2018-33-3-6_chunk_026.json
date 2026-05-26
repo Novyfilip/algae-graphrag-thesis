@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "PCR"}], "environments": [], "markers": [{"marker_name": "ITS"}, {"marker_name": "\u03b2-tubulin"}], "applications": [], "relationships": [{"subject": "PCR", "predicate": "STUDIED_WITH", "object": "ITS", "confidence": 1.0}, {"subject": "PCR", "predicate": "STUDIED_WITH", "object": "\u03b2-tubulin", "confidence": 1.0}]}

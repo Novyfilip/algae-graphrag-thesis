@@ -1,0 +1,12 @@
+{
+  "community_id": 1042,
+  "summary": "This cluster investigates the taxonomy and characterization of cold-adapted microalgae, specifically focusing on the Antarctic cryophilic species *Porosira pseudodenticulata*. Researchers employed molecular markers, including nuclear SSU rDNA and plastid *rbcL* sequences, alongside morphological traits such as the solitary labiate process and cribra, to confirm species identity. The studies collectively contribute to the KCCPM database of polar cryophilic microalgae, establishing a molecular and morphological baseline for this strain. The geographic scope is centered on Antarctic cryophilic environments, with findings supporting the use of integrated molecular profiling for polar algal biodiversity assessment.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cryothecomonas",
+    "nuclear-encoded small subunit ribosomal RNA"
+  ],
+  "resolution": 8.0
+}

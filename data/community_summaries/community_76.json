@@ -1,0 +1,20 @@
+{
+  "community_id": 76,
+  "summary": "This cluster of research is unified by a focus on the biodiversity, community structure, and ecological dynamics of marine macroalgae along the Korean Peninsula and adjacent waters, with a strong emphasis on species such as *Hizikia fusiformis*, *Sargassum thunbergii*, *Corallina pilulifera*, and *Ulva pertusa*. Key findings across the corpus include the consistent identification of vertical zonation patterns in intertidal and subtidal zones, seasonal shifts in biomass and species composition, and the impacts of anthropogenic stressors such as thermal effluents from nuclear power plants on algal community structure. The geographic scope is predominantly the coastal waters of Korea, including the East Sea, Yellow Sea, South Sea, and Jeju Island, with additional studies extending to Japan, the White Sea, and the Gulf of California. The research collectively underscores the ecological importance of dominant brown and red algal species, their role in coastal ecosystem stability, and the need for taxonomic and phylogenetic clarification, particularly within the genera *Sargassum*, *Corallina*, and *Pyropia*.",
+  "n_entities": 179,
+  "n_papers": 146,
+  "n_papers_with_summaries": 146,
+  "entity_sample": [
+    "Artificial seed production",
+    "Bactrophycus",
+    "C. equilibra",
+    "Caprella scaura",
+    "Chumunjin",
+    "Chumunjin on the East Coast of Korea",
+    "Colpomenia ecuticulata",
+    "Colpomenia expansa",
+    "Corallina pilylifera",
+    "Daeho"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "sorbitol"}, {"compound_name": "digeneaside"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "sorbitol", "predicate": "AFFECTS", "object": "digeneaside", "confidence": 0.5}]}

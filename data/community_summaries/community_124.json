@@ -1,0 +1,20 @@
+{
+  "community_id": 124,
+  "summary": "This cluster of papers is unified by a focus on the ecology, physiology, and biotechnological applications of marine and freshwater algae, predominantly from Korean coastal waters, including the South Sea, Jeju Island, and the Nakdong River. Key species studied include the brown algae *Ecklonia cava*, *Hizikia fusiformis*, and *Sargassum horneri*; the red algae *Pyropia yezoensis*, *Gloiopeltis furcata*, and *Corallina pilulifera*; the green alga *Caulerpa okamurae*; and the cyanobacteria *Microcystis aeruginosa* and *Anabaena flos-aquae*. Research themes centered on community structure and seasonal dynamics of algal assemblages, the effects of environmental factors such as temperature, salinity, irradiance, and nutrient loading on growth and reproduction, and the extraction of bioactive compounds—including phlorotannins, fucoidans, and antioxidants—for potential use in aquaculture, bioremediation, and human health. The geographic scope was heavily focused on the Korean Peninsula, with additional studies from the Pacific Northwest, Antarctica, and the tropical western Atlantic, reflecting a broad interest in both temperate and extreme algal ecosystems.",
+  "n_entities": 137,
+  "n_papers": 158,
+  "n_papers_with_summaries": 155,
+  "entity_sample": [
+    "APC",
+    "APCα subunit",
+    "APCβ subunit",
+    "Anacystis",
+    "Anacystis nidulans",
+    "B-phycoerythrin",
+    "BOD",
+    "Bead-Beater",
+    "C. okamurae",
+    "COD"
+  ],
+  "resolution": 8.0
+}

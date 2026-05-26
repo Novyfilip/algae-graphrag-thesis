@@ -1,0 +1,12 @@
+{
+  "community_id": 969,
+  "summary": "This cluster focuses on the development of a bioindicator for coastal and estuarine eutrophication using the seagrass species *Zostera marina* (eelgrass). Research was conducted in Kosung Bay and Koje Bay on the south coast of Korea, where key findings revealed that eelgrass tissue nitrogen (N) content exhibits significant seasonal variation, peaking in winter and early spring and reaching its lowest levels in summer. A consistent negative correlation was identified between leaf N content and area normalized leaf mass, leading to the proposal that the ratio of these two metrics serves as a robust predictive indicator for environmental nitrogen levels and nutrient conditions in these temperate coastal ecosystems.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "early detection of coastal eutrophication",
+    "effective management of coastal and estuarine areas"
+  ],
+  "resolution": 8.0
+}

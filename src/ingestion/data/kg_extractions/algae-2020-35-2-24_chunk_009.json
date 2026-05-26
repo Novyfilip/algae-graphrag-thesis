@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Y. yeosuensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Y. yeosuensis", "predicate": "AFFECTS", "object": "prey populations", "confidence": 0.5}]}

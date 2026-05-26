@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "aerial algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "stoneworks in Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "aerial algae", "predicate": "FOUND_IN", "object": "stoneworks in Korea", "confidence": 1.0}]}

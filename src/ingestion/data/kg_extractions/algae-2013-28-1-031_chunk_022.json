@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "PCR"}, {"method_name": "amplification"}], "environments": [], "markers": [{"marker_name": "psaB"}], "applications": [], "relationships": [{"subject": "psaB", "predicate": "STUDIED_WITH", "object": "PCR", "confidence": 1.0}, {"subject": "psaB", "predicate": "STUDIED_WITH", "object": "amplification", "confidence": 1.0}]}

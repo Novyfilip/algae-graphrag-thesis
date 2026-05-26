@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "chlorophyll a"}], "methods": [{"method_name": "cell counting"}, {"method_name": "chl a estimation"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "cell counting", "predicate": "STUDIED_WITH", "object": "chl a estimation", "confidence": 1.0}]}

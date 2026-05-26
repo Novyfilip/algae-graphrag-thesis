@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Zostera marina L.", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "coastal ecosystems"}], "markers": [], "applications": [], "relationships": [{"subject": "Zostera marina L.", "predicate": "FOUND_IN", "object": "coastal ecosystems", "confidence": 1.0}]}

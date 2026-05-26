@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gracilaria sp.", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Rhizoids", "predicate": "PRODUCES", "object": "Gracilaria sp.", "confidence": 0.5}, {"subject": "Rhizoids", "predicate": "AFFECTS", "object": "Gracilaria sp.", "confidence": 0.5}]}

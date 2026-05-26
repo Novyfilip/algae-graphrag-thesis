@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Alang ship breaking yard"}, {"environment_name": "coastal area of Alang Ship breaking yard"}], "markers": [], "applications": [], "relationships": [{"subject": "Alang ship breaking yard", "predicate": "AFFECTS", "object": "coastal area of Alang Ship breaking yard", "confidence": 0.5}]}

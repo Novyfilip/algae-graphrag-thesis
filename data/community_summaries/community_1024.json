@@ -1,0 +1,12 @@
+{
+  "community_id": 1024,
+  "summary": "This cluster of research focuses on the taxonomy, fine morphology, and spatial ecology of specific diatom species within the genus *Cyclotella*, particularly *C. stelligera*, *C. pseudostelligera*, and *C. woltereckii*, in the freshwater zone of South Korea's Naktong River. Studies conducted between 1992 and 1995 employed light and electron microscopy to resolve taxonomic ambiguities by documenting morphological variations, while also monitoring the species' abundance through spatial and seasonal analysis. The geographic scope is confined to a single river system, with findings emphasizing the ecological dominance of these *Cyclotella* taxa in that specific freshwater habitat.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "mid-stream to down-stream of the Naktong River",
+    "phytoplanktonic algae"
+  ],
+  "resolution": 8.0
+}

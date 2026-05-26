@@ -1,0 +1,12 @@
+{
+  "community_id": 841,
+  "summary": "This cluster focuses on the characterization and phylogenetic positioning of potentially toxic epiphytic dinoflagellates, specifically within the genus *Coolia*, from the Mediterranean Sea. Research confirmed the first presence of *Coolia malayensis* in the Southern Tunisia Gulf of Gabès, identifying unique morphological traits such as vesicles with spirally coiled fibers and establishing a phylogenetic relationship between *C. monotis* and *C. malayensis* through morphological analysis and sequencing. The geographic scope is centered on the Mediterranean and Atlantic regions, highlighting the expansion of known *Coolia* species distribution and the importance of molecular methods for accurate species identification in these waters.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Atlantic and Pacific",
+    "Quadrangula"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 242,
+  "summary": "This cluster of papers is geographically centered on the Korean Peninsula, with additional studies from India, Bolivia, New Zealand, and the White Sea, and focuses on the taxonomy, community dynamics, and ecological roles of freshwater and marine algae. Key connecting themes include the identification and classification of diverse algal groups—such as Euglenophytes (e.g., *Colacium*, *Phacus*), diatoms (e.g., *Chaetoceros debilis*, *Stephanodiscus hantzschii*), cyanobacteria (e.g., *Microcystis aeruginosa*, *Anabaena*), and dinoflagellates (e.g., *Peridinium*, *Akashiwo sanguinea*)—across varied habitats including rivers, reservoirs, estuaries, tidepools, and paddy fields. The research consistently examined phytoplankton community structure in relation to trophic states, nutrient loading, and environmental factors like salinity, temperature, and turbidity, often revealing eutrophic conditions and bloom dynamics driven by anthropogenic pollution or hydrological changes. Methodologically, the studies employed morphological identification, molecular markers (e.g., LSU rDNA, ITS regions, tufA gene), and pigment analysis (HPLC) to resolve phylogenetic relationships and species diversity, with several papers documenting new species records for Korea and contributing to regional algal checklists.",
+  "n_entities": 50,
+  "n_papers": 34,
+  "n_papers_with_summaries": 34,
+  "entity_sample": [
+    "Achnanthes laterostata",
+    "Aulacoseira distans",
+    "Batrachospermum kamschaticum",
+    "Bese Bay",
+    "Chaetophoraceae",
+    "Chaetophorales",
+    "Chaetosphaeridium",
+    "Chaetosphaeridium globosum",
+    "Chaetosphaeridium ovalis",
+    "Cheongdo-gun"
+  ],
+  "resolution": 8.0
+}

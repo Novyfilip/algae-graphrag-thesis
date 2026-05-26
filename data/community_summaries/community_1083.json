@@ -1,0 +1,12 @@
+{
+  "community_id": 1083,
+  "summary": "This cluster investigates the extraction, characterization, and bioactivity of polysaccharides from the brown alga *Ecklonia cava*, with a specific focus on enhancing anti-inflammatory properties through fermentation and enzyme-assisted extraction (EAE). The studies consistently employ microbial fermentation using *Lactobacillus brevis*, *Saccharomyces cerevisiae*, and *Candida utilis* to modify the algal biomass, followed by EAE to improve yields of carbohydrate and protein content. Key findings center on the ability of isolated polysaccharide fractions, particularly those greater than 30 kDa, to significantly inhibit nitric oxide (NO) production in LPS-stimulated RAW 264.7 macrophage cells, indicating potent anti-inflammatory activity. The geographic and ecological scope is centered on *E. cava*, a brown seaweed native to temperate coastal waters of East Asia, particularly Korea and Japan, reflecting a regional interest in marine-derived functional ingredients.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "sodium nitrite",
+    "standard curve analysis"
+  ],
+  "resolution": 8.0
+}

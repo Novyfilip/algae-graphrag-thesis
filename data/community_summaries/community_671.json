@@ -1,0 +1,12 @@
+{
+  "community_id": 671,
+  "summary": "Research on the red alga *Dasysiphonia chejuensis* from Korea has characterized the rare phenomenon of mixed-phase reproduction, where tetrasporangia form on female gametophytes, by linking it to specific environmental triggers and developmental stages. Using nuclear DNA content analysis and imaging, studies identified that this reproductive plasticity occurs under controlled conditions of 15°C, a light intensity of 20 µmol photons m⁻² s⁻¹, and a 16:8 light-dark photoperiod, with older plants showing the highest frequency of mixed-phase structures. The observed pattern of nuclear volume distribution suggests a genetic buffering mechanism that may protect the species from mutations, highlighting how environmental factors and life stage interact to drive reproductive strategy in florideophycean red algae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "DAPI-stained nuclear volumes",
+    "Dasyasiphonia chejuensis"
+  ],
+  "resolution": 8.0
+}

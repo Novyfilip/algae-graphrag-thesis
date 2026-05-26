@@ -1,0 +1,20 @@
+{
+  "community_id": 100,
+  "summary": "This cluster of research is geographically centered on Korean coastal and freshwater ecosystems, with additional studies from Japan, India, Antarctica, and North America, and is unified by a focus on the ecology, physiology, and applied uses of diverse algal groups, particularly diatoms, dinoflagellates, and macroalgae. Key connecting themes include the impacts of nutrient dynamics (nitrogen, phosphorus, silicate) and environmental stressors (salinity, light, temperature, pollution) on phytoplankton community structure, bloom formation, and species succession, as seen in studies of the Nakdong River, various Korean reservoirs, and coastal bays. The papers also heavily investigate the biotechnological and bioremediation potential of specific species, such as the use of *Ulva*, *Gracilaria*, and *Porphyra* for nutrient bioextraction, the production of bioactive compounds (e.g., fucoidan, astaxanthin, anti-inflammatory agents) from *Ecklonia cava*, *Laurencia snackeyi*, and microalgae like *Haematococcus pluvialis*, and the optimization of cultivation conditions for seaweeds like *Eucheuma serra* and *Undaria pinnatifida*. A significant subset examines trophic interactions, including mixotrophy, grazing by heterotrophic protists, and the role of algicidal bacteria in regulating red tide organisms such as *Cochlodinium polykrikoides* and *Mesodinium rubrum*, alongside taxonomic and phylogenetic studies that refine classifications of diatoms, dinoflagellates, and cyanobacteria.",
+  "n_entities": 155,
+  "n_papers": 178,
+  "n_papers_with_summaries": 176,
+  "entity_sample": [
+    "90% ethanol로 비등 추출",
+    "AGP test",
+    "Auto Analyzer (Bran Luebble, AACS-II)",
+    "C. fusiformis",
+    "CAF-MALDI mass spectrometry",
+    "CT",
+    "CT assay",
+    "CT uptake rate measurement",
+    "Cd-coil reduction method",
+    "Chlorophyll-a"
+  ],
+  "resolution": 8.0
+}

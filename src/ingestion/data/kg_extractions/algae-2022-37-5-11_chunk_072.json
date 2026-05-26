@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Philippines"}], "markers": [], "applications": [{"application_name": "seaweed cultivation"}], "relationships": [{"subject": "seaweed cultivation", "predicate": "FOUND_IN", "object": "Philippines", "confidence": 1.0}]}

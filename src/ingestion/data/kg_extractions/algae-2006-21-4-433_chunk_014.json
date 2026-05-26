@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. bipes var. occultatum", "taxonomic_rank": "variety"}], "compounds": [], "methods": [], "environments": [{"environment_name": "water tank"}], "markers": [], "applications": [], "relationships": [{"subject": "P. bipes var. occultatum", "predicate": "AFFECTS", "object": "O. latipes", "confidence": 0.5}]}

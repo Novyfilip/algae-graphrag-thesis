@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Euglena deses", "taxonomic_rank": "species"}, {"species_name": "Euglenophyceae", "taxonomic_rank": "class"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Euglena deses", "predicate": "BELONGS_TO", "object": "Euglenophyceae", "confidence": 1.0}]}

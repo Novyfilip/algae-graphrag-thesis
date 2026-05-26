@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "maximum-likelihood"}, {"method_name": "PAUP*"}, {"method_name": "Bootstrap values using maximum likelihood analyses"}, {"method_name": "PHYML"}, {"method_name": "Bayesian analyses"}, {"method_name": "MrBayes version 3.0b4"}], "environments": [], "markers": [], "applications": [], "relationships": []}

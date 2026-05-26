@@ -1,0 +1,12 @@
+{
+  "community_id": 638,
+  "summary": "This cluster examines the ecological distribution of *Spirogyra* spp. in freshwater systems, specifically in relation to stream pH. A 1999 survey of nine water systems in Korea identified 11 species, with *Spirogyra ternata* being the most widespread, while species such as *S. ellipsospora* and *S. jugalis* favored slightly acidic to neutral conditions and *S. crassa* and *S. nitida* were more abundant in neutral to slightly basic waters. The research demonstrates that pH is a key determinant of *Spirogyra* community composition and biomass, with species-specific preferences across a pH range of 5.6 to 9.2.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Characeae",
+    "Woods Hole region, Massachusetts"
+  ],
+  "resolution": 8.0
+}

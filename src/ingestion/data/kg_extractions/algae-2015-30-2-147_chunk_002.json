@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "FCP"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "functional food source"}], "relationships": [{"subject": "FCP", "predicate": "PRODUCES", "object": "functional food source", "confidence": 0.5}]}

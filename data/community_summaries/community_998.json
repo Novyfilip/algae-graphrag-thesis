@@ -1,0 +1,12 @@
+{
+  "community_id": 998,
+  "summary": "This cluster focuses on the ecological dynamics of cryophilic diatoms, specifically *Navicula glaciei* and *N. perminuta*, within the Antarctic coastal environment. The research documented pronounced seasonal population increases for these species during austral autumn and spring, with peak cell numbers observed in March and May. Key findings linked these blooms to physical drivers such as frazil ice formation and fluctuations in seawater temperature and salinity. The studies also quantified high chlorophyll *a* concentrations (1.38 µg/cm²), with micro- and nano-sized algae contributing over 54% of total chlorophyll *a* in July, underscoring the significant role of these diatoms in the region's primary production.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Nitzschia lecointei",
+    "ice samples"
+  ],
+  "resolution": 8.0
+}

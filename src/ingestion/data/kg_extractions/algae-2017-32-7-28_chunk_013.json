@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "ContigExpress"}, {"method_name": "BLASTN search"}, {"method_name": "CLUSTALX 1.83"}, {"method_name": "MacClade 4.08"}, {"method_name": "Modeltest v.3.7"}], "environments": [], "markers": [], "applications": [], "relationships": []}

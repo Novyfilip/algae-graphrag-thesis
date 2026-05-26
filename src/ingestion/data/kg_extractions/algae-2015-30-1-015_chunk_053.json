@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. gasparrinii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Bermuda"}], "markers": [], "applications": [], "relationships": [{"subject": "C. gasparrinii", "predicate": "FOUND_IN", "object": "Bermuda", "confidence": 1.0}]}

@@ -1,0 +1,17 @@
+{
+  "community_id": 266,
+  "summary": "This cluster of research focuses on the seasonal dynamics of phytoplankton communities in the Pyeongtaek Reservoir, Korea, driven by nutrient inputs from watershed streams and hydrological conditions. The studies identified 43 genera and 71 species, with Bacillariophyceae and Chlorophyceae present year-round, while Cyanophyceae proliferated in June and September, and Euglenophyceae and Dinophyceae peaked in March and September. Peak phytoplankton biomass occurred in March and December, with maximum cell densities observed in March and June, followed by increases in September and December, reflecting significant seasonal shifts in species abundance. The findings underscore the influence of anthropogenic disturbance and water retention time on phytoplankton composition, with Bacillariophyceae, Chlorophyceae, and Cyanophyceae dominating, while all other groups collectively contributed less than 3–7% of the total abundance.",
+  "n_entities": 7,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Anseong Stream (ANS)",
+    "GPS",
+    "Jinwi Stream (CHI)",
+    "Pyeongtaek Reservoir Watershed",
+    "reservoir downstream (R3)",
+    "reservoir midstream (R2)",
+    "reservoir upstream (R1)"
+  ],
+  "resolution": 8.0
+}

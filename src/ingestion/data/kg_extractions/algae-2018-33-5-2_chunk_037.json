@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "D. hangangense", "taxonomic_rank": "species"}, {"species_name": "D. planctonicum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "D. hangangense", "predicate": "BELONGS_TO", "object": "D. planctonicum", "confidence": 0.3}]}

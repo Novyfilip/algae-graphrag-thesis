@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "sampling protocol"}], "environments": [{"environment_name": "ballast tanks"}, {"environment_name": "Tampa Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "sampling protocol", "predicate": "STUDIED_WITH", "object": "ballast tanks", "confidence": 0.5}]}

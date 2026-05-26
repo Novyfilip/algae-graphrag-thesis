@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. glandula", "taxonomic_rank": null}, {"species_name": "A. sanguinea", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "A. glandula", "predicate": "AFFECTS", "object": "A. sanguinea", "confidence": 0.5}]}

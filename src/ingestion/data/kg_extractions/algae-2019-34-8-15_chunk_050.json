@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Platysiphon glacialis", "taxonomic_rank": "species"}, {"species_name": "Pl. verticillatus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Platysiphon glacialis", "predicate": "STUDIED_WITH", "object": "Pl. verticillatus", "confidence": 0.5}]}

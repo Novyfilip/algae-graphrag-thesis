@@ -1,0 +1,13 @@
+{
+  "community_id": 515,
+  "summary": "This cluster focuses on the molecular biology and genetic manipulation of red algae, specifically centered on the species *Porphyra tenera*. The research details the development of a simple and rapid method for plasmid isolation from this alga, adapted from a standard *E. coli* protocol using SDS-alkaline lysis. A key finding is the successful purification of plasmid DNA without the need for ultra-centrifugation, which was then evaluated for its potential in constructing vector systems. The shared theme is the foundational genetic characterization of *Porphyra tenera* to enable future transformation applications, with no specific geographic or ecological scope mentioned beyond the species itself.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "cesium chloride gradient",
+    "eukaryotic transformation vectors",
+    "sucrose gradient ultracentrifugation"
+  ],
+  "resolution": 8.0
+}

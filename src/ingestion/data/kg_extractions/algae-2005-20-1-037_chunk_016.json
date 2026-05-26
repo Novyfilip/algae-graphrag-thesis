@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. cornu-cervi", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "confocal laser scanning microscope"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "S. cornu-cervi", "predicate": "STUDIED_WITH", "object": "confocal laser scanning microscope", "confidence": 1.0}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 148,
+  "summary": "This cluster of research primarily investigates the diversity, ecology, and physiological responses of microalgae and macroalgae in Korean coastal waters, with a strong emphasis on harmful algal bloom (HAB) species such as *Cochlodinium polykrikoides*, *Gymnodinium catenatum*, and *Chattonella marina*. Studies frequently examined the effects of environmental stressors—including temperature, salinity, irradiance, elevated pCO₂, and UV-B radiation—on growth, photosynthesis, and toxin production, while also exploring mitigation strategies like blue-min treatment and sodium hypochlorite. Taxonomic and phylogenetic work was prominent, using molecular markers (e.g., LSU rDNA, coxIII, rbcL) to resolve species boundaries within genera such as *Chaetoceros*, *Coolia*, *Cosmarium*, and *Herposiphonia*, often revealing cryptic diversity and new species. Geographically, the research focused overwhelmingly on Korean waters, including Jeju Island, Dokdo, the Nakdong River estuary, and the South Sea, with additional comparative studies from Antarctica, the Gulf of California, and Long Island Sound.",
+  "n_entities": 120,
+  "n_papers": 61,
+  "n_papers_with_summaries": 61,
+  "entity_sample": [
+    "18S-28S rDNA",
+    "18S-28S rDNAs",
+    "28S Bayesian tree",
+    "28S rDNA",
+    "28S rDNA D1",
+    "28S rDNA D1-D3",
+    "28S rDNA D2",
+    "28S rDNA D3",
+    "28S rDNA sequencing",
+    "ATS"
+  ],
+  "resolution": 8.0
+}

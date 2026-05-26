@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlamydomonas", "taxonomic_rank": "genus"}, {"species_name": "Porphyra tenera", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean"}], "markers": [], "applications": [], "relationships": [{"subject": "Porphyra tenera", "predicate": "FOUND_IN", "object": "Korean", "confidence": 1.0}]}

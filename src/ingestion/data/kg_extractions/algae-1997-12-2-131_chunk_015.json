@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "intertidal algal community"}, {"environment_name": "Padori, west coast of Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "intertidal algal community", "predicate": "FOUND_IN", "object": "Padori, west coast of Korea", "confidence": 1.0}]}

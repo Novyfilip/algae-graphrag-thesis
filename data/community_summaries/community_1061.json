@@ -1,0 +1,12 @@
+{
+  "community_id": 1061,
+  "summary": "This cluster of papers centers on methodological advancements in establishing axenic cultures of macroalgae, particularly focusing on red seaweed species. The research describes a protocol employing a serial antibiotic mixture of penicillin G, streptomycin, polymyxin B, and chloramphenicol combined with mechanical spore washing in Provasoli’s Enriched Seawater (PES) medium to eliminate microbial contaminants. A key finding is that this approach achieves high success rates for multicellular seaweeds, contrasting with the greater difficulty of obtaining axenic cultures from unicellular algae. The geographic and ecological scope is broad, as the method is applicable to diverse seaweed species without restriction to a specific region.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "laminarialean sporophytes",
+    "punching method treated with absolute ethanol and flame"
+  ],
+  "resolution": 8.0
+}

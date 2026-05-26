@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. crispus", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Nova Scotian populations"}], "markers": [], "applications": [], "relationships": [{"subject": "C. crispus", "predicate": "FOUND_IN", "object": "Nova Scotian populations", "confidence": 1.0}]}

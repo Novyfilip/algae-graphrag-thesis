@@ -1,0 +1,12 @@
+{
+  "community_id": 843,
+  "summary": "This cluster investigates the phylogenetic relationships within the Zygnematophyceae, specifically focusing on the genera *Staurastrum* and *Staurodesmus*. Using nuclear (18S rDNA) and chloroplast (*atpB*) gene sequences, the research revealed a strong phylogenetic divergence between the two genera, with *Staurastrum* forming a distinct clade within *Staurodesmus*. A key finding was the recommendation to reclassify certain *Staurastrum* species into *Staurodesmus*, highlighting the utility of the *atpB* marker for resolving taxonomic boundaries in streptophyte algae. The geographic and ecological scope of the analysis was not specified, but the work contributes to the broader molecular systematics of freshwater desmids.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "RELL bootstrap",
+    "two-tailed test"
+  ],
+  "resolution": 8.0
+}

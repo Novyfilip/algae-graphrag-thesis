@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Geomundo Islands"}, {"environment_name": "southern coast of Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Geomundo Islands", "predicate": "FOUND_IN", "object": "southern coast of Korea", "confidence": 1.0}]}

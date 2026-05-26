@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "E. arborea", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "intertidal"}], "markers": [], "applications": [], "relationships": [{"subject": "E. arborea", "predicate": "FOUND_IN", "object": "intertidal", "confidence": 1.0}]}

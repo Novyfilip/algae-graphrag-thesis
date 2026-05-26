@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Brown algal", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Brown algal", "predicate": "CONTAINS", "object": "physodes", "confidence": 1.0}, {"subject": "physodes", "predicate": "CONTAINS", "object": "vesicles", "confidence": 1.0}]}

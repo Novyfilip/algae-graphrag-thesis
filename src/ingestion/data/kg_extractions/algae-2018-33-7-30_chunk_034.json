@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Dictyota", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Canary Islands"}], "markers": [], "applications": [], "relationships": [{"subject": "Dictyota", "predicate": "FOUND_IN", "object": "Canary Islands", "confidence": 1.0}]}

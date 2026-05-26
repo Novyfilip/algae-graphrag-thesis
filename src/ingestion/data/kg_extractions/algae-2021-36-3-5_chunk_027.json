@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sargassum", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "alginic"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Sargassum", "predicate": "CONTAINS", "object": "alginic", "confidence": 1.0}]}

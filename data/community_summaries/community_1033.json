@@ -1,0 +1,12 @@
+{
+  "community_id": 1033,
+  "summary": "This cluster investigates the population genetics and morphological plasticity of the brown alga *Ecklonia cava* across its range in Korea and Japan. Studies employed molecular markers, such as RAPD analysis, alongside morphometric assessments to reveal that genetic differentiation among populations is primarily shaped by oceanographic connectivity rather than simple geographic proximity. Key findings identified two distinct morphological groups with significant underlying genetic separation, while analyses of gene flow and Nei’s genetic distance suggested that dispersal distances may be greater than previously assumed. The research underscores how environmental factors like wave exposure interact with genetic structure to drive phenotypic variation within this ecologically important kelp species.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Euclidean distance matrix",
+    "nMDS plots"
+  ],
+  "resolution": 8.0
+}

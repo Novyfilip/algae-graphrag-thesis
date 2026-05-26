@@ -1,0 +1,13 @@
+{
+  "community_id": 539,
+  "summary": "This cluster of research is connected by a focus on the phylogenetic and evolutionary origins of cyanobacteria and algal plastids, utilizing molecular markers such as 16S rRNA gene sequences. One study isolated and characterized two novel cyanobacterial strains, *Amazonocrinis thailandica* sp. nov., from moist rice field soil in Thailand, employing a polyphasic approach that included morphological analysis and secondary structure examination to confirm their distinct phylogenetic position. This work aligns with a broader phylogenetic investigation that traced the primary endosymbiotic origin of algal plastids from a single cyanobacterial ancestor, which gave rise to the primary lineages Chlorophyta, Rhodophyta, and Glaucocystophyta. The latter study further demonstrated that secondary endosymbiotic events, involving the uptake of these primary algae, independently generated the complex plastids of Cryptophyta, Haptophyta, and Heterokonta. Geographically, the cluster spans a localized field site in Thailand and a global evolutionary scope, united by the use of ribosomal DNA sequencing to resolve deep phylogenetic relationships.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "maximum likelihood phylogenetic analysis",
+    "maximum parsimony phylogenetic analysis",
+    "plastid-encoded small subunit ribosomal rDNA"
+  ],
+  "resolution": 8.0
+}

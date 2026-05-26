@@ -1,0 +1,12 @@
+{
+  "community_id": 1073,
+  "summary": "This cluster focuses on the taxonomic revision of unicellular red algae within the order *Rhodellales*, specifically the genus *Rhodella*. Research integrated molecular phylogenetic analyses with ultrastructural and morphological comparisons to resolve species boundaries, leading to the reclassification of *Porphyridium violaceum* under *Rhodella* and the designation of *Rhodella violacea* as the accepted name for a lineage previously associated with *Rhodella maculata*. The studies established revised familial emendations within the order, clarifying the evolutionary relationships between *R. maculata* and closely related species. The geographic scope of the source material was not specified, but the work centered on foundational taxonomic principles rather than ecological distribution.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Capsosiphon sp.",
+    "seawall at Friday Harbor, WA, USA"
+  ],
+  "resolution": 8.0
+}

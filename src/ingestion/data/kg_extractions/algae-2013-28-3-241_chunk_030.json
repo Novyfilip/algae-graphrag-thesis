@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Colaconema sp.", "taxonomic_rank": "species"}, {"species_name": "Bostrychia simpliciuscula", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Colaconema sp.", "predicate": "FOUND_IN", "object": "Bostrychia simpliciuscula", "confidence": 1.0}]}

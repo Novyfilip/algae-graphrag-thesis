@@ -1,0 +1,12 @@
+{
+  "community_id": 847,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally reshaped over the past half-century by the integration of gene sequencing technologies, DNA barcoding, and phylogenetic analysis, which collectively revealed a far greater diversity of species than previously recognized. These molecular methods enabled the discovery of numerous cryptic species and prompted the division of historically broad genera into more taxonomically precise units, significantly expanding the known algal flora of the region. The geographic scope remains focused on the tropical and subtropical western Atlantic, with advances driven by increased phycological fieldwork, including the use of SCUBA for deeper collection. Key patterns across the cluster include the systematic revision of species boundaries based on genetic data and a marked acceleration in the identification of new taxa, underscoring the critical role of molecular tools in modern phycology.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Rhipilia tenaculosa",
+    "deep water off Barra Grande, near Pernambuco, Brazil"
+  ],
+  "resolution": 8.0
+}

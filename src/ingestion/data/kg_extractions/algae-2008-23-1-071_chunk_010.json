@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "estuarine regions"}], "markers": [], "applications": [], "relationships": [{"subject": "Salinity", "predicate": "AFFECTS", "object": "estuarine regions", "confidence": 0.5}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 575,
+  "summary": "This cluster synthesizes research on the taxonomy and biogeography of unarmored dinoflagellates in Korean coastal waters, primarily using morphological analysis and ribosomal DNA (rDNA) sequencing. Studies confirmed the presence and distinct genetic lineages of species such as *Akashiwo sanguinea*, *Cochlodinium polykrikoides*, *Gymnodinium catenatum*, *Gymnodinium impudicum*, *Karenia aureolum*, and the epiphytic *Amphidinium massartii* from Jeju Island. Key findings include identical SSU rDNA sequences across five species strengthening taxonomic relationships, and the discovery of unique LSU, SSU, and cytochrome b sequences in Korean *A. massartii* strains that distinguish them from Australian and American counterparts. The geographic scope is centered on temperate Korean waters, expanding the known range of *A. massartii* and highlighting regional phylogenetic diversity within these dinoflagellate groups.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "AF274254",
+    "Amphidinium longum"
+  ],
+  "resolution": 8.0
+}

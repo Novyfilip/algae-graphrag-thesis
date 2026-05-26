@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Callophyllis variegata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "East Pacific"}], "markers": [], "applications": [], "relationships": [{"subject": "Callophyllis variegata", "predicate": "FOUND_IN", "object": "East Pacific", "confidence": 1.0}]}

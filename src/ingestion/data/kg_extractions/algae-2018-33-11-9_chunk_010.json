@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "T. hispida", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "natural ecosystems"}], "markers": [], "applications": [], "relationships": [{"subject": "T. hispida", "predicate": "FOUND_IN", "object": "natural ecosystems", "confidence": 1.0}]}

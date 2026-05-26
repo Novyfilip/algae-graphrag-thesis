@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "aquaculture"}], "markers": [{"marker_name": "18S rRNA"}], "applications": [], "relationships": [{"subject": "aquaculture", "predicate": "FOUND_IN", "object": "aquaculture", "confidence": 1.0}]}

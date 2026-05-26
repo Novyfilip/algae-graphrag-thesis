@@ -1,0 +1,20 @@
+{
+  "community_id": 2,
+  "summary": "This cluster of papers focuses on the ecology, taxonomy, and community structure of marine macroalgae and phytoplankton along the Korean coastline, with particular emphasis on the effects of environmental stressors such as thermal effluents from nuclear power plants. Key species connecting these studies include *Sargassum* spp. (particularly *S. thunbergii*, *S. horneri*, and *S. yezoense*), *Corallina pilulifera*, *Ulva pertusa*, *Hizikia fusiformis*, and *Caulerpa okamurae*, with the latter being the first record on the west coast of Korea. The research consistently documented seasonal and vertical zonation patterns, with biomass peaking in spring and summer, and identified temperature as a critical driver of growth, maturation, and community composition—for example, *C. okamurae* required temperatures above 13°C for development and approximately 270 degree-days for maturation. Geographically, the studies were concentrated in the temperate waters of the Korean Peninsula, including the East, South, and West coasts, with specific sites such as Busan, Jeju Island, and the discharge canals of the Gori, Wolseong, and Ulchin nuclear power plants, where heated effluents shifted communities toward warm-tolerant and opportunistic species like *Enteromorpha compressa* and *Caulacanthus ustulatus*.",
+  "n_entities": 433,
+  "n_papers": 76,
+  "n_papers_with_summaries": 76,
+  "entity_sample": [
+    "(R+C)/P",
+    "(R+C)/P ratio",
+    "(R+C)/P 비 계산",
+    "(R+C)/P값",
+    "1 m 수심",
+    "10 m 수심",
+    "10% 포르말린-해수 용액 고정",
+    "1호기 취수로",
+    "3, 6, 9, 12 m 수심",
+    "5 m 수심"
+  ],
+  "resolution": 8.0
+}

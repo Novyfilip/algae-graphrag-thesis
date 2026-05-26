@@ -1,0 +1,20 @@
+{
+  "community_id": 53,
+  "summary": "This cluster is unified by a strong focus on the taxonomy, phylogeny, and biodiversity of algae, with an emphasis on resolving species boundaries through molecular markers such as rbcL, 18S rDNA, ITS, and cox1. A significant portion of the research centers on red algae (Rhodophyta), including revisions of genera like *Polysiphonia*, *Pterocladiella*, *Grateloupia*, and *Plocamium*, as well as the description of new species from Korea, Japan, and the Northwest Pacific. Cyanobacteria are also a major focus, with studies describing new taxa (e.g., *Capillus*, *Dolichospermum hangangense*, *Violetonostoc minutum*) and investigating their ecological roles in freshwater and terrestrial habitats across Asia, Antarctica, and the Americas. Geographically, the work is heavily concentrated in Korean and Japanese waters, with additional contributions from the Arctic, Antarctic, New Zealand, and the Mediterranean, reflecting a global effort to catalog algal diversity and refine phylogenetic classifications using polyphasic approaches.",
+  "n_entities": 205,
+  "n_papers": 162,
+  "n_papers_with_summaries": 162,
+  "entity_sample": [
+    "16S rRNA",
+    "16S rRNA gene sequence analysis",
+    "16S rRNA gene sequence similarity analysis",
+    "16S rRNA gene sequences",
+    "16S rRNA gene sequencing",
+    "16S rRNA gene-based identification",
+    "16S rRNA sequencing",
+    "16S rRNA-based phylogenetic tree",
+    "16S-23S ITS",
+    "16S-23S ITS gene"
+  ],
+  "resolution": 8.0
+}

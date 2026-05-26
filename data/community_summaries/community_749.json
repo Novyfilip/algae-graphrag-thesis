@@ -1,0 +1,12 @@
+{
+  "community_id": 749,
+  "summary": "This cluster of research centers on the industrial cultivation and commercialization of specific microalgae species, particularly *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis*, for their high-value bioproducts. Key findings across the corpus detail the historical progression of these species from basic scientific study to large-scale production, with a focus on optimizing cultivation methods to enhance yields of nutraceuticals, cosmetics, and biofuel feedstocks. The geographic and ecological scope is global, reflecting widespread commercial interest, though the studies emphasize the need for continued refinement of production and downstream processing strategies to fully realize the economic potential of these microalgae as sustainable resources.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Kirchneriella obesa (West) West & G. S. West",
+    "Selenastrum obesum W. West"
+  ],
+  "resolution": 8.0
+}

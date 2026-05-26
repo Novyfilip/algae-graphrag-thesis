@@ -1,0 +1,20 @@
+{
+  "community_id": 144,
+  "summary": "This cluster of research is geographically centered on the Northwest Pacific, particularly the coastal waters of Korea, Japan, and the broader North Pacific and Bering Sea region, with additional studies from Antarctica, Sri Lanka, and India. A major theme is the investigation of bioactive compounds from macroalgae and microalgae, including fucoidans, phlorotannins, loliolide, gallic acid derivatives, and mycosporine-like amino acids (MAAs), which were characterized for their antioxidant, anti-inflammatory, hepatoprotective, and antiviral properties, often using in vitro models like RAW 264.7 macrophages and human keratinocytes. Concurrently, the cluster heavily emphasizes the physiological and ecological impacts of ultraviolet radiation (UVR) on marine algae, with multiple studies demonstrating that UV-B and UV-A exposure significantly reduces photosynthetic carbon fixation, growth, and nitrate uptake in diatoms like *Skeletonema costatum* and *Chaetoceros neogracile*, while also documenting the protective role of MAAs in Antarctic rhodophytes. Finally, the research integrates molecular and genetic approaches, including phylogeographic analyses of *Pyropia* and *Chondrus* species using *rbcL* and *COI-5P* markers, the development of genetic tools like transformation vectors for *Porphyra tenera*, and the characterization of novel cyanobacterial and dinoflagellate species through polyphasic taxonomy and phylotranscriptomics.",
+  "n_entities": 121,
+  "n_papers": 42,
+  "n_papers_with_summaries": 42,
+  "entity_sample": [
+    "1-O-[(7E)-9-hydroxyoctadec-7-enoyl]-3-O-(6-sulfo-α-D-quinovopyranosyl)-sn-glycerol",
+    "1-palmitoyl-3-O-(6-sulfo-α-D-quinovopyranosyl)-sn-glycerol",
+    "1-stearoyl-3-O-(6-sulfo-α-D-quinovopyranosyl)-sn-glycerol",
+    "1H NMR spectrum",
+    "Anabaena variabilis ATCC 29413",
+    "Antiproliferative",
+    "Artemis 18.0.2",
+    "BLASTP",
+    "Bakreswar geothermal springs",
+    "Bakreswar thermal spring complex"
+  ],
+  "resolution": 8.0
+}

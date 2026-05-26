@@ -1,0 +1,20 @@
+{
+  "community_id": 45,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, phylogeny, and biodiversity of marine algae, particularly red algae (Rhodophyta) and cyanobacteria, often employing molecular markers such as *rbcL*, *COI-5P*, and *16S rRNA* to resolve cryptic species and revise generic boundaries. Key findings include the discovery of numerous new species and genera—such as *Capillus*, *Violetonostoc*, *Haraldiophyllum hawaiiense*, and *Symphyocladia glabra*—across diverse geographic regions, including Korea, Japan, the Northwest Pacific, the Hawaiian Islands, Brazil, and the Arctic. The research frequently addresses the challenges of morphological identification, the importance of polyphasic approaches integrating molecular and morphological data, and the ecological roles of algae in habitats ranging from intertidal zones and coral reefs to mesophotic depths and freshwater streams.",
+  "n_entities": 219,
+  "n_papers": 114,
+  "n_papers_with_summaries": 113,
+  "entity_sample": [
+    "5-6 m depth",
+    "76 m",
+    "78 m",
+    "80 m depth in Hawaiian MCEs",
+    "88 and 92 m depth",
+    "Acropeltis australis",
+    "Agardhinula",
+    "Agardhinula browneae",
+    "Al Mukha, Yemen",
+    "Ansanella natalensis"
+  ],
+  "resolution": 8.0
+}

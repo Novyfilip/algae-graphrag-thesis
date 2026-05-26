@@ -1,0 +1,12 @@
+{
+  "community_id": 953,
+  "summary": "This cluster focuses on the unicellular green alga *Dunaliella salina* as a model organism for studying abiotic stress responses, particularly its highly regulated isoprenoid and carotenoid biosynthesis pathways. Research has leveraged genomic, proteomic, and metabolic engineering approaches to understand and enhance the production of these valuable compounds. Key findings center on the development of transformation techniques and the genetic manipulation of stress-response mechanisms to boost biotechnological yields. The geographic and ecological scope is implicitly global, as *D. salina* is a halophilic extremophile of interest for industrial cultivation in saline environments worldwide.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "cytosolic oil bodies",
+    "triacylglycerides"
+  ],
+  "resolution": 8.0
+}

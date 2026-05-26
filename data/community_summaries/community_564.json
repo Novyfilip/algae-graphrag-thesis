@@ -1,0 +1,12 @@
+{
+  "community_id": 564,
+  "summary": "This cluster investigates the biosynthesis, ecological role, and photoprotective function of mycosporine-like amino acids (MAAs) in algae and cyanobacteria. Research on the cyanobacterium *Sphaerospermopsis torques-reginae* ITEP-024 identified a novel MAA biosynthetic pathway utilizing sedoheptulose 7-phosphate and the shikimic acid pathway, with production enhanced by UV exposure. Studies on marine macroalgae, particularly Antarctic rhodophytes, characterized seven distinct MAAs—including mycosporine-glycine, shinorine, and porphyra-334—and demonstrated that higher MAA concentrations correlate with greater tolerance to UV-B and UV-A radiation. The findings collectively establish that MAA formation is regulated by both UV and photosynthetically active radiation (PAR), highlighting a complex physiological role for these compounds as natural UV protectants across diverse aquatic environments.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "4-deoxygadusol",
+    "zebrafish"
+  ],
+  "resolution": 8.0
+}

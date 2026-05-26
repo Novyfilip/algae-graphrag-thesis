@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Lithothamnion muelleri", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Western Port Bay, Victoria"}], "markers": [], "applications": [], "relationships": [{"subject": "Lithothamnion muelleri", "predicate": "FOUND_IN", "object": "Western Port Bay, Victoria", "confidence": 1.0}]}

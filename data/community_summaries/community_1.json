@@ -1,0 +1,20 @@
+{
+  "community_id": 1,
+  "summary": "This cluster of research is unified by a strong focus on the biodiversity, taxonomy, and ecological dynamics of marine macroalgae, particularly red and brown algae, across the North Pacific and adjacent seas. Key species such as *Corallina pilulifera*, *Sargassum thunbergii*, *Ecklonia cava*, and *Ulva pertusa* were repeatedly studied in the context of community structure, vertical zonation, and biomass seasonality, often in Korean coastal waters, the Sea of Okhotsk, the Aleutian Islands, and the Bering Sea. Molecular phylogenetic methods, including analyses of *rbcL*, *psbA*, and COI-5P markers, were commonly employed to resolve taxonomic ambiguities, identify cryptic species, and revise genera such as *Psilothallia*, *Radicilingua*, *Pyropia*, and *Alaria*. The geographic scope was predominantly temperate and subarctic, with a notable emphasis on the Korean Peninsula, the Russian Far East, and the Aleutian Archipelago, reflecting a shared interest in the biogeographic patterns and environmental drivers shaping these algal assemblages.",
+  "n_entities": 530,
+  "n_papers": 134,
+  "n_papers_with_summaries": 134,
+  "entity_sample": [
+    "A high rhamnose-containing sulfated polysaccharide",
+    "A. crispata",
+    "A. fusiformis",
+    "A. ochotensis",
+    "Acrochaetium alariae",
+    "Acrosiphonia arcta",
+    "Acrosiphonia duriscula",
+    "Acrosiphonia duriuscula",
+    "Acrosiphonia mertensii",
+    "Acrosiphonia saxatilis"
+  ],
+  "resolution": 8.0
+}

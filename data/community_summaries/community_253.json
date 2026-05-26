@@ -1,0 +1,20 @@
+{
+  "community_id": 253,
+  "summary": "This cluster of research is unified by a focus on the biodiversity, biogeography, and ecological resilience of marine macroalgae, particularly in cold-temperate and Arctic regions of the North Pacific and North Atlantic. Studies centered on the Keret Archipelago in the White Sea and the Aleutian Islands documented extensive species richness, including newly described endemic taxa such as *Boreophyllum aleuticum* and *Pyropia unabbottiae*, while phylogeographic analyses of *Gloiopeltis furcata* and Korean *Pyropia* species revealed cryptic diversity and post-glacial recolonization patterns driven by oceanic currents. Experimental work on *Ulva australis* in Korea and early life stages of kelps like *Eualaria fistulosa* and *Nereocystis luetkeana* demonstrated how wave exposure, grazing, and abiotic stressors such as rising temperature and low salinity shape community structure and species performance. Anthropogenic impacts were addressed through long-term monitoring of intertidal macroalgae in Hyogo Prefecture, Japan, which showed that recovery from oil pollution required four to five years, and through a review of biofouling by *Enteromorpha* and *Ulva* on artificial substrates. Additionally, biotechnological potential was explored in the microalga *Coelastrella rubescens*, which produces valuable keto-carotenoids under stress, linking natural product discovery to applied research.",
+  "n_entities": 41,
+  "n_papers": 11,
+  "n_papers_with_summaries": 11,
+  "entity_sample": [
+    "18SrRNA",
+    "Akun Island",
+    "Alaria fragilis",
+    "Alaska Peninsula",
+    "Aleutians",
+    "Bangia 2",
+    "Boreophyllum",
+    "Boreophyllum aestivale",
+    "Boreophyllum aleuticum",
+    "Boreophyllum ambiguum"
+  ],
+  "resolution": 8.0
+}

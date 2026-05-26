@@ -1,0 +1,12 @@
+{
+  "community_id": 770,
+  "summary": "This cluster synthesizes research on the taxonomy, classification, and biogeography of marine algae along the Korean coastline. The studies employed morphological characterization and phylogenetic analyses to resolve taxonomic relationships and species boundaries within major algal groups, including Chlorophyta and Chromophyta. Specific species such as *Cladophora crystallina* and *Sphacelaria apicalis* were examined to refine their placement and distribution patterns. The geographic scope is narrowly focused on Korean waters, with the work collectively contributing to the development of a comprehensive regional checklist and a methodological framework for grouping morphologically similar algae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "L. eystocarpioideum",
+    "Mesophyllum cystocarpioideum"
+  ],
+  "resolution": 8.0
+}

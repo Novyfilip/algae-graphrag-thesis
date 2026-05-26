@@ -1,0 +1,20 @@
+{
+  "community_id": 239,
+  "summary": "This cluster of papers is geographically centered on the intertidal and subtidal zones of the Korean Peninsula, with additional studies from Canada, Australia, and the United States, and focuses on the community structure, distribution, and environmental responses of macroalgae. Key connecting species include *Corallina pilulifera*, *Sargassum thunbergii*, *Chondrus ocellatus*, and *Grateloupia* spp., which frequently appear as dominant or indicator taxa in studies of intertidal zonation and biomass. A recurring pattern is the impact of anthropogenic stressors—such as thermal effluents from nuclear power plants, sea urchin grazing, and nutrient pollution—on algal community composition, often leading to shifts in dominance from canopy-forming brown algae (e.g., *Sargassum* and *Saccharina*) to turf or opportunistic green algae (e.g., *Enteromorpha* and *Cladophora*). Several papers also employ molecular phylogenetics (e.g., *rbcL* and *cox3* sequences) to resolve taxonomic boundaries within red algal genera like *Grateloupia*, *Laurencia*, and *Bostrychia*, revealing cryptic species and clarifying biogeographic distributions. The research collectively underscores the sensitivity of intertidal macroalgal communities to both natural gradients (temperature, light, season) and human-mediated disturbances, with implications for aquaculture, bioindication, and conservation.",
+  "n_entities": 57,
+  "n_papers": 42,
+  "n_papers_with_summaries": 42,
+  "entity_sample": [
+    "43°43.32′ N, 69°59.46′ W",
+    "Bailey’s Island, Harpswell, ME",
+    "Chaetomorpha picquotiana",
+    "Dreissena polymorpha",
+    "Grateloupia livida",
+    "Gulf of Maine",
+    "Hariotina polychorda",
+    "Hygrophila polysperma",
+    "Konin Lakes",
+    "Konin-Pątnów powerhouse cooling system"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Capsosiphon groenlandicus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Amaknak Island, Alaska"}], "markers": [], "applications": [], "relationships": [{"subject": "Capsosiphon groenlandicus", "predicate": "FOUND_IN", "object": "Amaknak Island, Alaska", "confidence": 1.0}]}

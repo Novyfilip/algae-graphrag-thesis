@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Digenea simplex", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Digenea simplex", "predicate": "BELONGS_TO", "object": "Alsidieae", "confidence": 0.5}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 11,
+  "summary": "This cluster of research is unified by a geographic focus on Korean coastal and estuarine ecosystems, with a strong emphasis on the ecology, physiology, and biotechnological applications of key macroalgae, seagrasses, and microalgae. Dominant species such as *Zostera marina*, *Ecklonia cava*, *Sargassum horneri*, *Hizikia fusiformis*, and *Undaria pinnatifida* were repeatedly studied for their roles in carbon flux, nutrient dynamics, and habitat restoration, with findings indicating that seagrass beds and macroalgal vegetation in bays like Jindong, Gamak, and Gwangyang Bay act as significant carbon sinks. The cluster also investigated the impacts of environmental stressors—including salinity gradients, thermal effluents, heavy metals, and ocean acidification—on community structure and physiological performance, while applied studies explored the use of these algae for bioremediation, antioxidant extraction, and anti-inflammatory compounds. Methodologically, the research frequently employed transplantation experiments, chlorophyll fluorescence, molecular phylogenetics, and metabarcoding to assess biodiversity, population genetics, and ecosystem function across intertidal and subtidal zones.",
+  "n_entities": 329,
+  "n_papers": 171,
+  "n_papers_with_summaries": 168,
+  "entity_sample": [
+    "20-30 m",
+    "96-hour acute toxicity test",
+    "Anpori",
+    "Busan, Gyeongsangnamdo",
+    "C. cupressoides v. lycopodium f. elegans",
+    "Callithamnion hookery",
+    "Chlorophyll a fluorescence measurements",
+    "Clark-type oxygen microelectrode measurement",
+    "Cochran's test",
+    "DPPH inhibition activity"
+  ],
+  "resolution": 8.0
+}

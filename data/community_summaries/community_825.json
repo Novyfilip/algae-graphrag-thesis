@@ -1,0 +1,12 @@
+{
+  "community_id": 825,
+  "summary": "This cluster synthesizes methodological advancements in bioinformatic analysis of next-generation sequencing (NGS) data, specifically applied to organelle genomes and metagenomes. The research is unified by a focus on overcoming computational challenges associated with high-throughput platforms such as Illumina and Ion Torrent, which are critical for processing complex algal genomic datasets. Key patterns across the cluster include the historical evolution of sequencing technologies and the development of tailored pipelines to handle the scale and complexity of organelle and metagenomic data. The geographic and ecological scope is broad, reflecting the global application of these methods to diverse environmental and taxonomic samples.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "PowerClean DNA Clean-Up Kit",
+    "cleaning process"
+  ],
+  "resolution": 8.0
+}

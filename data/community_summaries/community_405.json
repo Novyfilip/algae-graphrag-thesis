@@ -1,0 +1,13 @@
+{
+  "community_id": 405,
+  "summary": "This cluster of research focuses on the application of molecular phylogenetic methods, particularly DNA barcoding and gene sequencing (e.g., rbcL and cox1), to resolve taxonomic boundaries and uncover cryptic diversity within marine red algae (Rhodophyta). Studies centered on the tropical and subtropical western Atlantic and the Indo-Pacific, including the Andaman Sea, Japan, and Taiwan, demonstrated that traditional morphology-based classifications have significantly underestimated species richness. For instance, molecular analysis of the genus *Actinotrichia* confirmed the distinctiveness of *A. fragilis* and *A. robusta* and documented new geographic records, while broader reviews of the western Atlantic flora highlighted the division of long-recognized genera and the discovery of new species. The findings collectively underscore a paradigm shift in phycology, where genetic data are essential for accurate species delineation and for understanding the evolutionary relationships and biogeographic patterns of benthic marine algae.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Dichotomaria",
+    "Dichotomaria marginata",
+    "Dichotomaria obtusata"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 956,
+  "summary": "This cluster investigates the vertical zonation and community structure of benthic macroalgae in wave-exposed coastal environments, with a specific geographic focus on Ohori, Korea. The research employed transect methods to analyze species abundance, biomass, and vertical distribution, identifying distinct seasonal shifts with abundance peaks in July and January. A key finding was the strong vertical zonation observed in January, which was attributed to the influence of wave action on species distribution patterns in the subtidal zone. The studies collectively aimed to elucidate how physical factors, particularly wave motion, shape the structure and seasonal dynamics of benthic algal communities.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Tr. A",
+    "deepest zone"
+  ],
+  "resolution": 8.0
+}

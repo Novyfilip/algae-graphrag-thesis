@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "cyanobacteria", "taxonomic_rank": null}, {"species_name": "cyanoprokaryotic", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "cyanobacteria", "predicate": "BELONGS_TO", "object": "cyanoprokaryotic", "confidence": 0.5}]}

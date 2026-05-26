@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Keret Archipelago"}, {"environment_name": "White Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "Keret Archipelago", "predicate": "BELONGS_TO", "object": "White Sea", "confidence": 0.5}]}

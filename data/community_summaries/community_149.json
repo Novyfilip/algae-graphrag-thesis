@@ -1,0 +1,20 @@
+{
+  "community_id": 149,
+  "summary": "This cluster focuses on the ecology, taxonomy, and bioactive potential of macroalgae, particularly brown algae such as *Sargassum* species, *Hizikia fusiformis*, *Ecklonia cava*, and *Undaria pinnatifida*, as well as red algae like *Pyropia yezoensis* and *Corallina pilulifera*, primarily along the Korean coast and adjacent waters of the Yellow Sea, East Sea, and Jeju Island. Key findings include temperature-driven growth and maturation patterns, as seen in *Caulerpa okamurae* and *Porphyra vietnamensis*, and the dominance of *Sargassum thunbergii* and *Corallina pilulifera* in intertidal and subtidal communities, with seasonal biomass fluctuations linked to water temperature and substrate type. The cluster also highlights the antioxidant, anti-inflammatory, and anticoagulant activities of compounds such as phlorotannins, fucoidan, and fucoxanthin from species like *Ecklonia cava* and *Sargassum siliquastrum*, alongside molecular phylogenetic studies that clarified taxonomic boundaries within genera like *Sargassum*, *Grateloupia*, and *Polysiphonia*. Geographically, the research spans Korean coastal regions, the Gulf of California, the Northwest Pacific, and the tropical western Atlantic, with additional studies on invasive species like *Kappaphycus alvarezii* in India and *Codium fragile* in Tunisia, reflecting a broad ecological and applied focus on seaweed biodiversity, cultivation, and bioprospecting.",
+  "n_entities": 119,
+  "n_papers": 105,
+  "n_papers_with_summaries": 105,
+  "entity_sample": [
+    "125I",
+    "137Cs",
+    "60Co",
+    "Acanthophora spicifera",
+    "Acrochaetium sp.",
+    "Ahnfeltiopsis pygmaea",
+    "Amphiroa fragilissima",
+    "Atlantic coast",
+    "Bangia fergusoni Grunow",
+    "Betaphycus gelatinus"
+  ],
+  "resolution": 8.0
+}

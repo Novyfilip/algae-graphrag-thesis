@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "O. marina", "taxonomic_rank": null}, {"species_name": "Strobilidium sp.", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "O. marina", "predicate": "AFFECTS", "object": "Strobilidium sp.", "confidence": 0.5}]}

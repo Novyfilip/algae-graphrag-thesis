@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. bifurcatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "open ocean"}], "markers": [], "applications": [], "relationships": [{"subject": "G. bifurcatum", "predicate": "FOUND_IN", "object": "open ocean", "confidence": 0.5}]}

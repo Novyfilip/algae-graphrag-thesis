@@ -1,0 +1,12 @@
+{
+  "community_id": 1056,
+  "summary": "This cluster of research is unified by a focus on the biological and ecological roles of marine algae, spanning from molecular-level anti-inflammatory compounds to large-scale biogeographic patterns. A key connection is the investigation of bioactive metabolites, exemplified by the isolation of diphlorethohydroxycarmalol (DPHC) from the brown alga *Ishige okamurae*, which demonstrated suppression of fine dust-induced inflammation in keratinocytes, macrophages, and zebrafish embryos. At a broader ecological scale, studies on dinoflagellate resting cysts in the Yellow Sea identified 25 species, with Gonyaulacales cysts dominating over 50% of the population and exhibiting a concentric distribution pattern linked to the sea’s circular currents and sedimentary properties. Additionally, the cluster examines the applied potential of microalgae, including extremophiles, for bioremediation of carbon-rich waste streams, specifically targeting the removal of nitrates and organic nitrogen through autotrophic, heterotrophic, and mixotrophic growth regimes.",
+  "n_entities": 2,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Huang He (Yellow River) system",
+    "polycyclic aromatic hydrocarbons"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 118,
+  "summary": "This cluster of research focuses on the physiological, biochemical, and molecular responses of diverse algal species to environmental stressors, with a strong emphasis on antioxidant and bioactive compound production. Key species investigated include the red algae *Pyropia yezoensis* and *Ecklonia cava*, the green algae *Spirogyra varians* and *Bryopsis plumosa*, and the dinoflagellate *Cochlodinium polykrikoides*, with studies examining wound repair, cold and heat tolerance, UV radiation effects, and oxidative stress. A recurring pattern across the cluster was the identification and characterization of specific proteins, genes, and secondary metabolites—such as phototropins, mycosporine-like amino acids, phlorotannins, and lectins—that mediate stress acclimation, defense signaling, or biotechnological applications like antioxidant and antiviral activities. Geographically, the research was concentrated in Korean coastal waters (Jeju Island, the Yellow Sea, and southern coasts), with additional studies in Antarctic, Arctic, and tropical coral reef ecosystems, reflecting a broad ecological scope from polar to temperate marine environments.",
+  "n_entities": 140,
+  "n_papers": 120,
+  "n_papers_with_summaries": 120,
+  "entity_sample": [
+    "0.8% agarose gel",
+    "5-methylcytosine",
+    "A Simple Method for RNA Extraction from Marine Macroalgae",
+    "Acridine orange",
+    "AgNPs",
+    "Arlequin ver. 3.0",
+    "Assays",
+    "B-mercaptoethanol",
+    "CDNA synthesis",
+    "CTAB"
+  ],
+  "resolution": 8.0
+}

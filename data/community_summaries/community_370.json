@@ -1,0 +1,13 @@
+{
+  "community_id": 370,
+  "summary": "This cluster synthesizes a comprehensive taxonomic revision and biogeographic survey of marine macroalgae from the Northwest Coast of the Bering Sea and Southeast Kamchatka, drawing on historical expedition data from the 18th and 19th centuries. The research cataloged over 600 species across ten distinct distributional regions, with a specific focus on resolving the classification of previously uncertain taxa. By integrating legacy collections from explorers such as Steller, Krasheninnikov, and Litke, the work established a foundational floristic baseline for the subarctic North Pacific. The findings underscore the region’s high macroalgal diversity and provide a critical ecological and evolutionary framework for future studies in these under-surveyed, cold-water environments.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Acrosiphonia ochotensis",
+    "Spongomorpha lanosa",
+    "Spongomorpha spinescens"
+  ],
+  "resolution": 8.0
+}

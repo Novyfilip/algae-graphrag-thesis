@@ -1,0 +1,20 @@
+{
+  "community_id": 98,
+  "summary": "This cluster of papers is geographically centered on the marine algal flora of the Korean Peninsula, with significant extensions to the Northwest Pacific, the Bering Sea, and the Antarctic, and is unified by a focus on community structure, distribution, and ecological dynamics of benthic macroalgae. A core connecting thread is the repeated identification of key species—such as *Corallina pilulifera*, *Sargassum thunbergii*, *Hizikia fusiformis*, and *Ulva pertusa*—as dominant or foundational components of intertidal and subtidal communities across numerous studies, with vertical zonation patterns and seasonal biomass fluctuations (typically peaking in spring or summer) being consistently documented. The research frequently examined anthropogenic impacts, particularly the effects of thermal effluents from nuclear power plants (e.g., Gori, Wolsong, Taean) on algal species composition and biomass, often noting shifts toward opportunistic or warm-tolerant species like *Enteromorpha* spp. and *Ulva pertusa* in discharge areas. Additionally, a substantial subset of the cluster focused on the genus *Pyropia* (formerly *Porphyra*), investigating its genetics, heat tolerance, disease resistance (e.g., against *Pythium* pathogens), cultivation improvements, and bioactive compound extraction, reflecting the economic importance of this alga in Korean aquaculture.",
+  "n_entities": 158,
+  "n_papers": 137,
+  "n_papers_with_summaries": 136,
+  "entity_sample": [
+    "2,3,5-triphenyltetrazolium chloride",
+    "337 mz UV-absorbing substance",
+    "Aleutian littoral zone",
+    "Ariakekai Bay",
+    "Attu I",
+    "Audinellu codicola",
+    "Bangia 3",
+    "Bangiales",
+    "Betaine·HCl",
+    "Bunsei(I)"
+  ],
+  "resolution": 8.0
+}

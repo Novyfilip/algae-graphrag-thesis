@@ -1,0 +1,13 @@
+{
+  "community_id": 427,
+  "summary": "This cluster synthesizes the historical documentation and early taxonomic exploration of marine algae in the upper North Pacific and Bering Sea region, spanning the late 1730s to 1900. The papers are connected by their focus on the collections and contributions of Russian and British expeditions, including those led by Steller, Chamisso, and Voznesenskii, which documented diverse algal species across a specific geographic scope encompassing the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands. Key findings across the cluster detail the discovery and initial scientific investigation of these species, establishing a foundational record of algal biodiversity in this subarctic and Arctic marine environment. The research collectively emphasizes the role of early naturalists in cataloging the region's flora, providing a historical baseline for subsequent phycological studies.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Devaleraea compressa (Rupr.) O.N. Selivanova & N.G. Klochkova in Klochkova & Selivanova",
+    "Halosaccion compressum Rupr.",
+    "Kamchatka, Siberia, Russia"
+  ],
+  "resolution": 8.0
+}

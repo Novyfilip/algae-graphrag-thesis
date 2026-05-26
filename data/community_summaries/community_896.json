@@ -1,0 +1,12 @@
+{
+  "community_id": 896,
+  "summary": "This cluster investigates the ecological role of heterotrophic dinoflagellates in regulating red tide dynamics in the South Sea of Korea. Key species such as *Polykrikos* spp. and naked ciliates (NCs) were identified as dominant grazers, exerting significant top-down control on red tide-forming algae through high grazing coefficients during specific bloom phases. The research quantifies the grazing rates and abundance of these protistan predators, including heterotrophic dinoflagellates (HTDs) and tintinnid ciliates (TCs), to assess their impact on bloom termination and succession. Geographically focused on Korean coastal waters, the findings underscore the critical role of microzooplankton, particularly mixotrophic and heterotrophic dinoflagellates, in shaping harmful algal bloom dynamics.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Tintinnids",
+    "coastal regions of Sundarban Mangrove wetland, India"
+  ],
+  "resolution": 8.0
+}

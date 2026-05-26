@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Southern Ocean"}, {"environment_name": "Antarctic"}], "markers": [], "applications": [], "relationships": [{"subject": "Southern Ocean", "predicate": "FOUND_IN", "object": "Antarctic", "confidence": 0.5}]}

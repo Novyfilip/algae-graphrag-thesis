@@ -1,0 +1,12 @@
+{
+  "community_id": 987,
+  "summary": "This cluster focuses on the taxonomic revision and phylogenetic re-evaluation of unicellular red algae within the order *Rhodellales*, specifically the genus *Rhodella*. Research integrated molecular phylogenetic analyses with ultrastructural and morphological comparisons to resolve longstanding ambiguities, particularly clarifying the relationship between *Rhodella maculata* and *Rhodella violacea*. A key finding was the reclassification of *Porphyridium violaceum* as a lineage belonging to *Rhodella*, demonstrating that traditional morphology-based taxonomy had obscured evolutionary relationships. The geographic scope of the constituent studies is not specified, but the work establishes a revised taxonomic framework for these globally distributed microalgae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "gamma distributed rate heterogeneity (G)",
+    "general time reversible (GTR) substitution"
+  ],
+  "resolution": 8.0
+}

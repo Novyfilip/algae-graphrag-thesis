@@ -1,0 +1,14 @@
+{
+  "community_id": 327,
+  "summary": "This cluster focuses on the taxonomic identification and phylogenetic characterization of a newly discovered red algal species from Korea. Researchers established *Griffithsia okiensis* as a distinct species through detailed morphological analysis of its thallic dimensions and cell ratios, combined with genetic sequencing of the psbA and rbcL markers. The work delineates its evolutionary relationship to *Griffithsia japonica* and documents its specific geographic distribution within Korean waters.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AY295155",
+    "AY295156",
+    "AY295173",
+    "Halurus flosculosus"
+  ],
+  "resolution": 8.0
+}

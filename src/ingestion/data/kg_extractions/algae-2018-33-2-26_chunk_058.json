@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "North Pacific"}, {"environment_name": "North Atlantic"}], "markers": [], "applications": [], "relationships": [{"subject": "North Pacific", "predicate": "CONTAINS", "object": "biota", "confidence": 0.5}, {"subject": "North Atlantic", "predicate": "CONTAINS", "object": "biota", "confidence": 0.5}]}

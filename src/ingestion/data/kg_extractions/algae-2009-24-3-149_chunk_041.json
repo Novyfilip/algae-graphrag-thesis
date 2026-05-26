@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "chlorophyll a"}], "methods": [{"method_name": "simple linear regression analyses"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "chlorophyll a", "predicate": "STUDIED_WITH", "object": "simple linear regression analyses", "confidence": 1.0}]}

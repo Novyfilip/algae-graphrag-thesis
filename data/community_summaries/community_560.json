@@ -1,0 +1,12 @@
+{
+  "community_id": 560,
+  "summary": "This cluster of research is united by a focus on the accuracy and reliability of DNA barcoding for algal taxonomy, specifically addressing the prevalence of erroneous sequences in public databases. A key finding across the cluster is that approximately 2% of over 4.1 million barcode sequences were identified as erroneous, with these errors showing uneven taxonomic distributions, which complicates species-level identification. The studies emphasize the necessity of cross-validating ambiguous taxa with additional barcode loci or morphological data to mitigate database inaccuracies. The geographic and ecological scope is broad, reflecting a global concern for the integrity of molecular data used in algal biodiversity assessments.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "16S ribosomal RNA",
+    "bacterial"
+  ],
+  "resolution": 8.0
+}

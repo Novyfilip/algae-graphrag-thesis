@@ -1,0 +1,15 @@
+{
+  "community_id": 294,
+  "summary": "This cluster investigates the establishment of axenic (bacteria-free) cultures of marine microalgae and cyanobacteria through antibiotic optimization, with a shared focus on cold-tolerant species for biofuel applications. Key findings include species-specific antibiotic sensitivities, such as chloramphenicol showing the highest overall lethality while penicillin G was least effective, and the identification of 2,000 ppm dihydrostreptomycin as optimal for *Chlorella ellipsoidea* and neomycin or chloramphenicol for *Isochrysis galbana* and *Heterosigma ahashiwo*. The research extends to Arctic environments, where *Nodularia spumigena* KNUA005 was isolated from a cyanobacterial bloom in Ny-Ålesund, Svalbard, and successfully purified into axenic culture at low temperatures (15–20°C) using kanamycin, highlighting its potential as a cold-tolerant feedstock for biofuel production. Geographically, the cluster spans temperate marine microalgae and polar cyanobacteria, with ecological implications for utilizing cold-adapted strains in genetic modification strategies to enhance winter resilience.",
+  "n_entities": 5,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Brevundimonas sp. CB2",
+    "Imipenem",
+    "Rhizobium sp. CB1",
+    "Strep- tomyces cattleya",
+    "kanamycin"
+  ],
+  "resolution": 8.0
+}

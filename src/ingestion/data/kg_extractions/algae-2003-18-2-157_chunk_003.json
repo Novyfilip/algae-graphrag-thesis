@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Nakdong river basin"}, {"environment_name": "sewage and waste water plant effluent"}], "markers": [], "applications": [], "relationships": [{"subject": "sewage and waste water plant effluent", "predicate": "FOUND_IN", "object": "Nakdong river basin", "confidence": 0.5}]}

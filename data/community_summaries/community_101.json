@@ -1,0 +1,20 @@
+{
+  "community_id": 101,
+  "summary": "This cluster of papers is unified by a strong focus on the biodiversity, taxonomy, and phylogenetics of marine and freshwater algae, predominantly from Korean coastal waters and the broader Northwest Pacific region. Key species frequently studied include red algae such as *Grateloupia*, *Polysiphonia*, *Pterocladiella*, and *Plocamium*, brown algae like *Hizikia fusiformis*, *Sargassum* spp., and *Ecklonia cava*, as well as dinoflagellates including *Cochlodinium polykrikoides* and *Amphidinium massartii*. Researchers commonly employed molecular markers such as *rbcL*, *psbA*, *coxIII*, and LSU rDNA to resolve phylogenetic relationships, delineate cryptic species, and revise taxonomic classifications, often revealing distinct lineages and new species records. The geographic scope is heavily centered on the Korean Peninsula, including Jeju Island, the South Sea, and the Yellow Sea, with additional studies extending to Japan, China, Australia, Antarctica, and the Pacific coast of Mexico. A recurring pattern across the cluster is the integration of morphological analysis with molecular phylogenetics to clarify species boundaries, document community structure and vertical zonation, and assess the impacts of environmental factors such as temperature, acidification, and power plant effluents on algal distribution and biomass.",
+  "n_entities": 154,
+  "n_papers": 101,
+  "n_papers_with_summaries": 101,
+  "entity_sample": [
+    "40S ribosomal protein S8",
+    "AB103389",
+    "AB103390",
+    "AB477347",
+    "ABI PRISM 3100 Genetic Analyzer",
+    "AF236787",
+    "AF488384",
+    "AF488387",
+    "AY295143",
+    "AY295144"
+  ],
+  "resolution": 8.0
+}

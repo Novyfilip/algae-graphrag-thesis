@@ -1,0 +1,12 @@
+{
+  "community_id": 803,
+  "summary": "Transcriptome analyses of *Neopyropia yezoensis* (Rhodophyta) elucidated the molecular mechanisms by which light intensity and culture density govern the development of free-living sporangial filaments, revealing that high-light conditions upregulate genes associated with carbon dioxide concentration and photosynthesis, while low-light conditions inhibit conchospore release. Key differentially expressed genes, including the brefeldin A-inhibited guanine nucleotide exchange protein (BIG), were identified, and vacuole formation was shown to directly influence the hollow morph of these filaments. This cluster of research focuses specifically on the genetic regulation of sporangial filament development in *N. yezoensis*, a commercially important red alga, without extending to other species or broader ecological contexts.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "PES medium culture",
+    "laboratories of the Institute of Oceanology, Chinese Academy of Sciences (Qingdao, China)"
+  ],
+  "resolution": 8.0
+}

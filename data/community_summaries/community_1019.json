@@ -1,0 +1,12 @@
+{
+  "community_id": 1019,
+  "summary": "This cluster of research investigates the antioxidant properties of diverse microalgae species, specifically *Halochlorococcum porphyrae*, *Oltamannsiellopsis unicellularis*, *Pediastrum duplex*, and *Dactylococcopsis fascicularis*, using both solvent fractionation and enzymatic digestion methods. Key findings across the studies demonstrated that these algae produce compounds with significant DPPH and superoxide anion scavenging activity, often exceeding that of commercial antioxidants, and effectively inhibited lipid peroxidation and reduced oxidative stress. The research spanned distinct ecological contexts, with one study focusing on tidal pool microalgae from Jeju Island, Korea, and another on freshwater species, yet both converged on the conclusion that these microalgae are promising sources of natural antioxidants for food and pharmaceutical applications.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "absorbance measurement at 562 nm",
+    "method of Decker and Welch (1990)"
+  ],
+  "resolution": 8.0
+}

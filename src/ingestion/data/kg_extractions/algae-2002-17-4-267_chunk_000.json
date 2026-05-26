@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Phytoplankton", "taxonomic_rank": "community"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Naktong River"}], "markers": [], "applications": [], "relationships": [{"subject": "Phytoplankton", "predicate": "FOUND_IN", "object": "Naktong River", "confidence": 1.0}]}

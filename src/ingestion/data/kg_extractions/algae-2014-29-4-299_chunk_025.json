@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. psygmophilum", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "serially sectioned TEM analysis"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "S. psygmophilum", "predicate": "STUDIED_WITH", "object": "serially sectioned TEM analysis", "confidence": 1.0}]}

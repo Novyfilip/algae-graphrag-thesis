@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. impudica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Bhiravapalem mangroves of Godavari estuary"}], "markers": [], "applications": [], "relationships": [{"subject": "C. impudica", "predicate": "FOUND_IN", "object": "Bhiravapalem mangroves of Godavari estuary", "confidence": 1.0}]}

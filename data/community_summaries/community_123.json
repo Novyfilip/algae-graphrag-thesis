@@ -1,0 +1,20 @@
+{
+  "community_id": 123,
+  "summary": "This cluster of papers is geographically centered on the coastal waters of Korea and Japan, with additional studies from North America, the Pacific, and India, and focuses heavily on the cultivation, ecophysiology, and environmental responses of both macroalgae and microalgae. Key species investigated include *Eucheuma serra*, *Gracilaria vermiculophylla*, *Undaria pinnatifida*, *Macrocystis pyrifera*, *Ulva pertusa*, and the dinoflagellate *Cochlodinium polykrikoides*, with recurring themes of optimizing growth conditions through manipulation of temperature, salinity, nutrient sources, and substrate type. A major pattern across the cluster is the assessment of anthropogenic impacts, such as the effects of heated effluents from nuclear power plants on intertidal macroalgal community structure, the bioaccumulation of heavy metals (copper, zinc, lead) by kelp and seagrasses, and the toxicity of pollutants like polychlorinated biphenyls and bisphenol A on phytoplankton. Additionally, several studies explored biotechnological applications, including the use of deep seawater for enhanced cultivation, the production of bioactive compounds (e.g., fucoidan, β-carotene, and astaxanthin), and the potential of algae for bioremediation and biodiesel production from wastewater.",
+  "n_entities": 137,
+  "n_papers": 89,
+  "n_papers_with_summaries": 88,
+  "entity_sample": [
+    "AZA",
+    "Al",
+    "Alang ship breaking yard",
+    "Amphora costata",
+    "Anthophysa",
+    "Atomic Absorption Spectrometer (AAS)",
+    "Atomic Absorption Spectrophotometer",
+    "C",
+    "C medium culture",
+    "C. ehrenbergii"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Trimethyltin chloride"}, {"compound_name": "TMT"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Trimethyltin chloride", "predicate": "PRODUCES", "object": "TMT", "confidence": 1.0}]}

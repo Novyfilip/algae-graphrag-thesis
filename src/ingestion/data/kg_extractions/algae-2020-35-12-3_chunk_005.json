@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Umbraulva", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "carotenoid"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Umbraulva", "predicate": "CONTAINS", "object": "carotenoid", "confidence": 0.5}]}

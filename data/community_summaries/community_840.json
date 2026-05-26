@@ -1,0 +1,12 @@
+{
+  "community_id": 840,
+  "summary": "This cluster investigates the genomic basis of pathogenicity in oomycetes, specifically focusing on *Pythium porphyrae*, a pathogen responsible for devastating red algal diseases in aquaculture. Comparative genomic analyses revealed that *P. porphyrae* possesses a gene repertoire with conserved enzymes for degrading red algal biomass, such as crinklers and cellulose-binding elicitor lectin-like proteins, while lacking the RxLR effector family typical of plant pathogens. The findings indicate that this pathogen is a reformed plant pathogen, with its predicted enzymatic activity showing significant overlap with other *Pythium* species, suggesting a shared evolutionary toolkit for infecting marine algae. The research was conducted through ab initio detection and proteome comparisons across eight *Pythium* species, highlighting a geographic and ecological focus on the global threat to red algal production systems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Pythium oligandrum",
+    "biocontrol agent"
+  ],
+  "resolution": 8.0
+}

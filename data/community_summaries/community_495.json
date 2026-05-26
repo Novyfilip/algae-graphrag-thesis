@@ -1,0 +1,13 @@
+{
+  "community_id": 495,
+  "summary": "Research in this cluster focused on the population dynamics and community ecology of brown algae along the Korean Peninsula, specifically examining *Myagropsis myagroides* at Tongyeong and the broader benthic algal community at Chuckdo in Eastern Korea. Key findings revealed that the *M. myagroides* population was dominated by small, less-than-three-year-old individuals, with a maximum recorded length of 70.5 cm and weight of 191.8 g during a growth period of approximately 70.5 days in April and May 2003, exhibiting slower growth relative to other locations. The community-level study at Chuckdo identified 103 algal species and demonstrated that species composition varied seasonally, with water movement and substrate inclination acting as primary limiting factors, while species diversity gradually decreased with increasing depth. Both investigations employed field-based sampling methods—direct measurement and quadrat surveys along transect lines—to characterize local population structure and community associations, highlighting the influence of environmental conditions on algal growth and distribution in Korean coastal waters.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Waterloo Bay, South Australia",
+    "algal ecology",
+    "seagrass ecology"
+  ],
+  "resolution": 8.0
+}

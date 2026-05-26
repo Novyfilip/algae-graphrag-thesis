@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Kumanoa", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "stream at Kas, Satara district, Maharashtra, India"}], "markers": [], "applications": [], "relationships": [{"subject": "Kumanoa", "predicate": "BELONGS_TO", "object": "stream at Kas, Satara district, Maharashtra, India", "confidence": 1.0}]}

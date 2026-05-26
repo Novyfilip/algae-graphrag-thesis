@@ -1,0 +1,13 @@
+{
+  "community_id": 522,
+  "summary": "This cluster focuses on the sustainable management and cultivation of commercially valuable macroalgae, specifically the red alga *Palmaria palmata* (Dulse) in Nova Scotia, Canada, and the brown kelps *Undaria pinnatifida* and *Saccharina japonica* in Korea. Research on *P. palmata* employed a mathematical model based on field data to demonstrate that current harvest rates of approximately 50% are sustainable due to high growth rates exceeding 4% per day. In contrast, studies on Korean kelps emphasized aquaculture expansion, cultivar development with UPOV protection, and strategies like Integrated Multi-Trophic Aquaculture (IMTA) to enhance production and blue carbon sequestration. Both geographic contexts share a core interest in balancing commercial harvest or cultivation with ecological sustainability, though the Korean work explicitly links aquaculture to carbon sequestration goals.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "New Brunswick shores of the Bay of Fundy",
+    "Nova Scotia coast of the Bay of Fundy",
+    "harvest"
+  ],
+  "resolution": 8.0
+}

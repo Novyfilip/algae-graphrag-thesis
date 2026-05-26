@@ -1,0 +1,20 @@
+{
+  "community_id": 244,
+  "summary": "This cluster is unified by a strong focus on the taxonomy, phylogeny, and biogeography of red algae (Rhodophyta), with extensive use of molecular markers such as *rbcL*, *COI-5P*, and ITS to resolve cryptic species and revise generic boundaries across diverse geographic regions. Key findings include the discovery and formal description of numerous new species and genera—such as *Haraldiophyllum udoensis*, *Polysiphonia ulleungensis*, *Symphyocladia glabra*, and *Sheathia assamica*—from localities including Korea, Japan, the Aleutian Islands, Brazil, India, and the Northwest Pacific, highlighting significant hidden diversity in both temperate and tropical waters. The studies consistently demonstrate that morphological traits alone are insufficient for species delineation, with molecular phylogenies revealing cryptic lineages, misidentifications, and complex phylogeographic patterns, such as in *Gloiopeltis furcata*, *Bostrychia tenella*, and *Plocamium* species. Geographically, the research spans freshwater and marine environments, with a pronounced emphasis on the Northwest Pacific (especially Korea and Japan), the Antarctic, the Caribbean, and the Indian Ocean, underscoring the global scope of taxonomic revision in red algae.",
+  "n_entities": 49,
+  "n_papers": 122,
+  "n_papers_with_summaries": 122,
+  "entity_sample": [
+    "16S rDNA",
+    "16S rDNA gene sequencing",
+    "16S-23S internal transcribed spacer (ITS)",
+    "16S−23S internal transcribed spacer (ITS) region",
+    "18S small subunit rRNA gene (18SV4)",
+    "ABI 3100 Genetic Analyzer sequencing",
+    "ABI BigDye Terminator v3.1 Cycle Sequencing Kit",
+    "AccuPower PCR PreMix",
+    "AccuPrep PCR Purification Kit",
+    "Andaman coast of Thailand"
+  ],
+  "resolution": 8.0
+}

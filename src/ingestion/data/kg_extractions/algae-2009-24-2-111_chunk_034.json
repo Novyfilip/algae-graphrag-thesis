@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "simulated RPCs"}, {"method_name": "simulated coefficients"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "simulated RPCs", "predicate": "STUDIED_WITH", "object": "simulated coefficients", "confidence": 0.5}]}

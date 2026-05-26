@@ -1,0 +1,12 @@
+{
+  "community_id": 996,
+  "summary": "This cluster investigates the negative impacts of endophytic algae on commercially or ecologically important red algal hosts, specifically focusing on the growth responses of *Chondrus ocellatus* to infection by the brown endophyte *Mikrosyphar zosterae* and the green endophyte *Ulvella ramosa*. Experimental culture studies demonstrated that both endophytes significantly inhibited the growth of *C. ocellatus*, with *M. zosterae* causing more severe suppression than *U. ramosa*. The research revealed that *U. ramosa* specifically targeted the host’s apical meristems, while *C. ocellatus* exhibited a compensatory growth strategy by developing lateral branches. The geographic and ecological scope is limited to controlled laboratory culture conditions, focusing on physiological host-endophyte interactions rather than field-based ecological surveys.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "endophytic algae",
+    "host seaweeds"
+  ],
+  "resolution": 8.0
+}

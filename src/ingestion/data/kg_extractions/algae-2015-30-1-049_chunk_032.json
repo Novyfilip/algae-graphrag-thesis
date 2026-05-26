@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "brevetoxin"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "shellfish harvesting area regulations"}], "relationships": [{"subject": "brevetoxin", "predicate": "AFFECTS", "object": "shellfish harvesting area regulations", "confidence": 0.5}]}

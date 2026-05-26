@@ -1,0 +1,12 @@
+{
+  "community_id": 1123,
+  "summary": "This cluster of research focuses on the therapeutic potential of antioxidants derived from macroalgae (seaweed) for human health, particularly in mitigating oxidative stress and cardiovascular disease. The studies collectively demonstrate significant antioxidant capacity across diverse seaweed species, with findings supported by both laboratory assays and clinical trials. A key pattern across the cluster is the emphasis on direct consumption of seaweed as a natural alternative to synthetic antioxidants, though the research acknowledges challenges in comparing results due to varied assay methodologies and economic barriers to utilization. The geographic and ecological scope is broad, encompassing multiple marine environments, with a consistent call for further investigation to standardize methods and validate clinical applications.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Bromophenol",
+    "α-Glucosidase inhibition"
+  ],
+  "resolution": 8.0
+}

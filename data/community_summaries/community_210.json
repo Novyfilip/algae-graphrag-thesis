@@ -1,0 +1,20 @@
+{
+  "community_id": 210,
+  "summary": "This cluster focuses on the taxonomy, phylogeny, and ecological dynamics of diverse algal and protist groups, particularly dinoflagellates, diatoms, and red algae, in Korean coastal waters and other global regions. Key findings include the discovery and characterization of new species such as *Ansanella granifera*, *Gymnodinium smaydae*, and *Yihiella yeosuensis*, alongside investigations into mixotrophy, bioluminescence, and harmful algal blooms. Molecular methods, including LSU rDNA sequencing, qPCR, and transcriptomics, were used to resolve phylogenetic relationships, identify cryptic species, and assess physiological responses to environmental stressors like temperature, salinity, and nutrient availability. The research spans temperate and tropical ecosystems, from the Han River estuary and Jeju Island to the Mediterranean Sea and Antarctic waters, emphasizing the role of environmental gradients in shaping community structure and species distribution.",
+  "n_entities": 77,
+  "n_papers": 83,
+  "n_papers_with_summaries": 83,
+  "entity_sample": [
+    "BFA",
+    "BFA treatment",
+    "Chromalveolates",
+    "Cryptomonads",
+    "Cryptophytes",
+    "Cyanidioschyzon merolae 10D",
+    "Dinoflagellates",
+    "EST analysis",
+    "Halimeda tuna",
+    "Haptopflagellates"
+  ],
+  "resolution": 8.0
+}

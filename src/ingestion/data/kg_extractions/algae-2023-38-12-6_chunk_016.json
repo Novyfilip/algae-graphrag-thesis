@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "PCR"}, {"method_name": "AMPure beads purification"}, {"method_name": "quantitative PCR (qPCR)"}, {"method_name": "TapeStation D1000 ScreenTape"}, {"method_name": "paired-end sequencing"}, {"method_name": "Illumina MiSeq platform sequencing"}], "environments": [], "markers": [], "applications": [], "relationships": []}

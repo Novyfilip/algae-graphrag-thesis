@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Asterochloris", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Asterochloris", "predicate": "IDENTIFIED_BY", "object": "chloroplast and pyrenoid types", "confidence": 1.0}]}

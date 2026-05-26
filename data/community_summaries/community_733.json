@@ -1,0 +1,12 @@
+{
+  "community_id": 733,
+  "summary": "This cluster investigates the occurrence and analytical detection of cyanobacterial neurotoxins, specifically anatoxin-a and saxitoxin, in freshwater systems. Using high-performance liquid chromatography-mass spectrometry, researchers identified these potent neurotoxins, characterized as \"very fast death factors,\" within cyanobacteria strains including *Anabaena flos-aquae*, *Anabaena spiroides*, and *Oscillatoria* species. The geographic scope centers on the Nakdong River and Hoedong Reservoir system, where the studies emphasize the acute toxicological risks these compounds pose to aquatic organisms and the critical need for ongoing monitoring in drinking water resources.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cyanobacterial Neurotoxins",
+    "High-Performance Liquid Chromatography-Mass Spectrometry"
+  ],
+  "resolution": 8.0
+}

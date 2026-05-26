@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Navicula glaciei", "taxonomic_rank": "species"}, {"species_name": "Navicula perminuta", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Navicula glaciei", "predicate": "STUDIED_WITH", "object": "f/2 media", "confidence": 1.0}]}

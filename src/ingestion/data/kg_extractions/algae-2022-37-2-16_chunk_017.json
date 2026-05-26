@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "FD"}], "methods": [{"method_name": "microinjection"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "FD", "predicate": "STUDIED_WITH", "object": "microinjection", "confidence": 1.0}]}

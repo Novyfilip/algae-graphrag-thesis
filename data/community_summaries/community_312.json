@@ -1,0 +1,15 @@
+{
+  "community_id": 312,
+  "summary": "This cluster investigates the seasonal dynamics of phytoplankton communities in temperate river systems, specifically the Youngsan River in South Korea, from 1995 to 1996. The research identified 466 taxa, with dominant species including the diatoms *Aulacoseira ambigua*, *Cyclotella meneghiniana*, and *Stephanodiscus hantzschii* f. *tenuis*, as well as the chlorophyte *Chlorella vulgaris*. A key finding was that standing crop variations (ranging from 10.6% to 94.7%) showed only low positive or negative correlations with environmental factors such as water temperature, pH, and nutrient concentrations (NH₄, NO₂, NO₃, PO₄), indicating a complex interplay of drivers beyond simple nutrient limitation. The study also noted the seasonal dominance of the chrysophyte genus *Dinobryon* at specific sites, highlighting shifts in community composition across the phytoplankton classes Chrysophyceae, Bacillariophyceae, and Chlorophyceae.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "국내, 외의 여러 호수",
+    "북유럽의 산간호수",
+    "상수원",
+    "생산성이 높은 호수",
+    "황갈조강"
+  ],
+  "resolution": 8.0
+}

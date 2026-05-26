@@ -1,0 +1,20 @@
+{
+  "community_id": 151,
+  "summary": "This cluster of papers is unified by a strong focus on the biodiversity, taxonomy, and biogeography of marine algae, particularly red algae (Rhodophyta) and brown algae (Phaeophyceae), in the Northwest Pacific, with a pronounced emphasis on Korean coastal waters, including Jeju Island, the East Sea, and the Yellow Sea. Key findings across the corpus include the frequent discovery and description of new species and cryptic diversity through molecular phylogenetic analyses using markers such as *rbcL*, *COI-5P*, and *cox1*, with genera like *Polysiphonia*, *Grateloupia*, *Gelidium*, *Herposiphonia*, and *Haraldiophyllum* being repeatedly revised. The studies consistently documented vertical zonation patterns and community structure, identifying dominant species such as *Corallina pilulifera*, *Sargassum thunbergii*, *Hizikia fusiformis*, and *Ecklonia cava*, and examined ecological dynamics including succession, biomass seasonality, and the impacts of environmental stressors like sedimentation, temperature, and salinity on kelp and macroalgal spore stages.",
+  "n_entities": 117,
+  "n_papers": 162,
+  "n_papers_with_summaries": 161,
+  "entity_sample": [
+    "17 m deep",
+    "82 m depth",
+    "87 m depth",
+    "88-91 m depth",
+    "93 m depth",
+    "Amalthea rubida",
+    "Anin, Gangneung, Korea",
+    "Argentina",
+    "Atlantic Europe",
+    "Bostrychia intricata"
+  ],
+  "resolution": 8.0
+}

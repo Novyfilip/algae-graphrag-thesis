@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Alexandrium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "large subunit ribosomal DNA"}], "applications": [], "relationships": [{"subject": "Alexandrium", "predicate": "STUDIED_WITH", "object": "large subunit ribosomal DNA", "confidence": 1.0}]}

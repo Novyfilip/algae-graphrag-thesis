@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Membranoptera", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "Internal transcribed spacer"}], "applications": [], "relationships": [{"subject": "Membranoptera", "predicate": "STUDIED_WITH", "object": "Internal transcribed spacer", "confidence": 1.0}]}

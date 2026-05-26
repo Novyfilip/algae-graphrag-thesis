@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "FcA"}, {"compound_name": "FcB"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "FcA", "predicate": "AFFECTS", "object": "HT1080 cells", "confidence": 1.0}, {"subject": "FcB", "predicate": "AFFECTS", "object": "HT1080 cells", "confidence": 1.0}]}

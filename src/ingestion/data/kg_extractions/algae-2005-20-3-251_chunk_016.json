@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "gallic acid"}], "methods": [{"method_name": "Folin-Ciocalteu reagent protocol"}, {"method_name": "absorbance measurement at 725 nm"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Folin-Ciocalteu reagent protocol", "predicate": "STUDIED_WITH", "object": "gallic acid", "confidence": 0.5}]}

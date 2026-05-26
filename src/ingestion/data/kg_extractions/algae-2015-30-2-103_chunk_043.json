@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Chl a"}], "methods": [{"method_name": "O2 evolution experiments"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "O2 evolution experiments", "predicate": "STUDIED_WITH", "object": "Chl a", "confidence": 0.5}]}

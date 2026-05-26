@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. monotis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Biscay Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "C. monotis", "predicate": "FOUND_IN", "object": "Biscay Bay", "confidence": 1.0}]}

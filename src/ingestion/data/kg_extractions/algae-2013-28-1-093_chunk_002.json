@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "biofuel production"}], "relationships": [{"subject": "biofuel production", "predicate": "STUDIED_WITH", "object": "algae", "confidence": 0.5}]}

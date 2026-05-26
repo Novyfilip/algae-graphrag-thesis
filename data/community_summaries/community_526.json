@@ -1,0 +1,13 @@
+{
+  "community_id": 526,
+  "summary": "This cluster of research focuses on red algae (Rhodophyta) of the orders Bangiales and Ceramiales, specifically examining species of economic and taxonomic significance in the Northwest Pacific and Australia. Studies on *Porphyra seriata* and *Pyropia yezoensis* from Korea and Japan investigated life history traits, environmental controls on growth and spore production, and the development of molecular markers (such as mitochondrial rnl and cox1 gene structure) to improve aquaculture strain management. Concurrently, taxonomic revisions of Australian Laurenciaceae used morphological analysis and ribosomal DNA sequences (rbcL and COI-5P) to propose *Palisada rigida* and *Laurencia decussata* as distinct species, highlighting seven key anatomical characters for differentiation. Collectively, the cluster demonstrates a shared emphasis on integrating laboratory culture, genetic characterization, and detailed morphology to resolve species boundaries and support the cultivation of economically important red algae.",
+  "n_entities": 3,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "P. perforata",
+    "intronic ORF analysis",
+    "mtDNA size variation analysis"
+  ],
+  "resolution": 8.0
+}

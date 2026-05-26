@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Anabaena PCC 7120", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "patS gene"}], "applications": [], "relationships": [{"subject": "Anabaena PCC 7120", "predicate": "CONTAINS", "object": "patS gene", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Mycophycias", "taxonomic_rank": null}, {"species_name": "Ascophyllum", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Mycophycias", "predicate": "FOUND_IN", "object": "Ascophyllum", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Thalassiosira decipiens", "taxonomic_rank": "species"}, {"species_name": "Thalassiosira spp.", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Thalassiosira decipiens", "predicate": "BELONGS_TO", "object": "Thalassiosira spp.", "confidence": 1.0}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 201,
+  "summary": "This cluster focuses on the taxonomy, phylogeny, and life history of macroalgae and microalgae, with a strong emphasis on molecular systematics using markers such as rbcL, 16S rRNA, ITS, and cox1 to resolve species boundaries and evolutionary relationships. Key species studied include *Caulerpa okamurae*, *Pyropia yezoensis*, *Spirogyra varians*, *Kappaphycus alvarezii*, and *Haematococcus pluvialis*, with investigations spanning growth responses to temperature and substrate, heat tolerance, phototropin function, and astaxanthin biosynthesis. Geographically, the research was concentrated in Korean coastal waters, the Gulf of Mannar, the Mediterranean, and the White Sea, with additional studies from Antarctica, the Philippines, and the tropical western Atlantic. A recurring pattern across the cluster was the use of combined morphological and molecular approaches to describe new species and cryptic diversity, as seen in *Polysiphonia*, *Symphyocladia*, *Dolichospermum*, and *Ceramium*, while applied studies explored biofuel production, bioremediation, and the invasive potential of cultivated seaweeds.",
+  "n_entities": 84,
+  "n_papers": 101,
+  "n_papers_with_summaries": 100,
+  "entity_sample": [
+    "16S",
+    "16S gene (cpSSU)",
+    "18S rRNA gene",
+    "23S",
+    "AF compounds",
+    "Allas sp.",
+    "C. filiformis",
+    "C. gelatinosa",
+    "C. moewesii",
+    "CS-cpSSU.i1"
+  ],
+  "resolution": 8.0
+}

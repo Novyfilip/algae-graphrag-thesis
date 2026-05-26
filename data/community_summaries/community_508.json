@@ -1,0 +1,13 @@
+{
+  "community_id": 508,
+  "summary": "This cluster focuses on the high-throughput cultivation and biotechnological application of the bioluminescent heterotrophic dinoflagellate *Noctiluca scintillans*. The research centers on an automated 100-liter scale system that uses the microalga *Dunaliella salina* as a prey source, achieving a density of 45 cells mL-1 under specific light regimes of 300 and 20 μmol photons m-2 s-1. Key findings demonstrate a reproducible method for producing high densities of *N. scintillans*, enabling further study of its bioluminescent properties and ecological role. The geographic and ecological scope is not explicitly defined in the summaries, but the work implies a controlled laboratory setting rather than a specific natural habitat.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Dunaliella salina DSJH1710",
+    "coastal waters of Jinhae, Korea",
+    "f/2-Si medium culture"
+  ],
+  "resolution": 8.0
+}

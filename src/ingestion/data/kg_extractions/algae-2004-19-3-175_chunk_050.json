@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Dictyota", "taxonomic_rank": "genus"}, {"species_name": "P. coriaceum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. coriaceum", "predicate": "BELONGS_TO", "object": "Dictyota", "confidence": 0.5}]}

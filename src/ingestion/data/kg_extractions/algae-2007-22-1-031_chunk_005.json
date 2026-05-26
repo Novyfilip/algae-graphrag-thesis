@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bangia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "stock cultures"}], "markers": [], "applications": [], "relationships": [{"subject": "Bangia", "predicate": "STUDIED_WITH", "object": "stock cultures", "confidence": 0.5}]}

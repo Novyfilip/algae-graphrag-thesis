@@ -1,0 +1,20 @@
+{
+  "community_id": 128,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomy, phylogeny, and biogeography of red algae (Rhodophyta), particularly within the orders Ceramiales and Bangiales, across the North Pacific and Korean coastal waters. Key genera such as *Campylaephora*, *Ceramium*, *Centroceras*, *Polysiphonia*, and *Porphyra* were frequently examined using integrated morphological and molecular approaches, including rbcL, psbA, and COI-5P barcoding, to resolve cryptic species and refine taxonomic boundaries. Studies repeatedly documented the discovery of new species (e.g., *Ceramium riosmenae*, *Hypoglossum sabahense*, *Griffithsia okiensis*) and revised phylogenetic placements, such as the transfer of *Psilothallia dentata* to the tribe Ptiloteae. Geographically, the research concentrated on the temperate and subarctic regions of Korea, Japan, the Russian Far East (Kamchatka, Commander Islands), and the Pacific coast of North America, with additional contributions from tropical and subtropical sites like Bermuda, the Gulf of California, and the Andaman Sea. A secondary theme involved the bioactivity of red and brown algal compounds, including fucoxanthin derivatives from *Sargassum siliquastrum* and sulfated polysaccharides, which were investigated for anti-inflammatory and antioxidant properties, though these studies were less central to the cluster’s core taxonomic focus.",
+  "n_entities": 133,
+  "n_papers": 96,
+  "n_papers_with_summaries": 96,
+  "entity_sample": [
+    "AY865145",
+    "AY865146",
+    "Acetabularia calyculus",
+    "Acrothamnion J. Agardh",
+    "Acrothamnion pulchellum",
+    "Aglaothamnion",
+    "Antithamnieae",
+    "Antithamnion uncinatum",
+    "Antithamnionella nagati",
+    "Ballia"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cyclotella pseudostelligera", "taxonomic_rank": "species"}, {"species_name": "C. meneghiniana", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Cyclotella pseudostelligera", "predicate": "STUDIED_WITH", "object": "C. meneghiniana", "confidence": 0.5}]}

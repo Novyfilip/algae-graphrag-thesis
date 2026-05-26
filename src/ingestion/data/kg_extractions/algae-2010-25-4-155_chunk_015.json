@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "antioxidant compounds"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "seaweeds", "predicate": "PRODUCES", "object": "antioxidant compounds", "confidence": 0.5}, {"subject": "antioxidant compounds", "predicate": "AFFECTS", "object": "ROS", "confidence": 0.5}]}

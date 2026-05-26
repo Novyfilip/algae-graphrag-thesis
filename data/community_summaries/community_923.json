@@ -1,0 +1,12 @@
+{
+  "community_id": 923,
+  "summary": "The papers in this cluster share a focus on the ecological impacts of anthropogenic stressors on freshwater algal communities, specifically examining species-level responses to environmental perturbation. Research centered on the epilithic diatom *Achnanthes minutissima*, identified as a dominant, acid-tolerant colonizer, and the green alga *Coenochloris polycocca*, which exhibited differential sensitivity to pH reduction. Experimental acidification was a key methodological approach, conducted within mesocosm systems using artificial substrates to track community succession over time. The geographic scope was restricted to the Togyo reservoir near the Korean Demilitarized Zone, a region under unique ecological regulation due to restricted human access.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "addition of sulfuric acid",
+    "experimental chamber"
+  ],
+  "resolution": 8.0
+}

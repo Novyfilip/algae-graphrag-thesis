@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Prorocentrum spp.", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "diverse marine environments"}], "markers": [], "applications": [], "relationships": [{"subject": "Prorocentrum spp.", "predicate": "FOUND_IN", "object": "diverse marine environments", "confidence": 1.0}]}

@@ -1,0 +1,14 @@
+{
+  "community_id": 350,
+  "summary": "This cluster of research investigates the adaptive strategies and life-cycle complexities of marine macroalgae and microalgae under environmental stress, with a focus on delayed development in microscopic stages. Key species examined include the brown alga *Ascophyllum nodosum*, the red alga *Porphyra pulchella*, and the dinoflagellate *Cochlodinium polykrikoides*, alongside the diatom *Porosira pseudodenticulata*, all of which demonstrate morphological and molecular adaptations to challenging conditions. Taxonomic relationships within the families *Scytosiphonaceae* and *Phaeophyceae* were clarified through molecular data, revealing cryptic diversity across broad geographic distributions. The findings collectively emphasize that microscopic life stages serve as critical resilience mechanisms, enabling these algae to persist across diverse marine ecosystems.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "collecting pieces of substrate",
+    "monitoring them for recruitment",
+    "placing them in sunlight to kill all algal forms",
+    "transplanting them back in the field"
+  ],
+  "resolution": 8.0
+}

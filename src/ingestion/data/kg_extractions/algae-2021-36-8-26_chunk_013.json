@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "FPKM"}, {"method_name": "Bowtie2"}, {"method_name": "edgeR"}, {"method_name": "Trinity-bundled Differential Expression analysis script PtR"}, {"method_name": "BLASTX"}], "environments": [], "markers": [], "applications": [], "relationships": []}

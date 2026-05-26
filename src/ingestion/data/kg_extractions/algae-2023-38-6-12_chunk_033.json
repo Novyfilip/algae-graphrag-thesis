@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Geminocystaceae", "taxonomic_rank": "family"}, {"species_name": "Microcrocis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Microcrocis", "predicate": "BELONGS_TO", "object": "Geminocystaceae", "confidence": 1.0}]}

@@ -1,0 +1,13 @@
+{
+  "community_id": 441,
+  "summary": "This cluster investigates the phylogeography and population genetics of the red algal species *Gloiopeltis furcata* sensu lato, primarily across Korea and Japan. Using mitochondrial COI-5P sequences from hundreds of individuals, the research identified eleven distinct genetic lineages, revealing high cryptic diversity and the presence of potential glacial refugia in the southern Korea-Japan region. Key findings highlighted the influence of oceanic circulation and anthropogenic factors on recent migration patterns and population structure, particularly in Japan's Hakodate region. The geographic scope is narrowly focused on the Northwest Pacific, emphasizing the role of historical climate events and contemporary currents in shaping the distribution of this intertidal seaweed.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Lineage 5",
+    "south and north of Japan (KYU, SKK, THK, and HOK)",
+    "south of Korea (JJK and SOK)"
+  ],
+  "resolution": 8.0
+}

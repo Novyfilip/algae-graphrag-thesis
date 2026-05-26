@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "PE"}], "methods": [{"method_name": "SDS-PAGE analysis"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "SDS-PAGE analysis", "predicate": "STUDIED_WITH", "object": "PE", "confidence": 0.5}]}

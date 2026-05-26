@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chondria crassicau- lis", "taxonomic_rank": "species"}, {"species_name": "U. pertusa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chondria crassicau- lis", "predicate": "AFFECTS", "object": "U. pertusa", "confidence": 0.5}]}

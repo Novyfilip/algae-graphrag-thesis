@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "lactoferrin N-lobe"}], "methods": [{"method_name": "electrotransformation"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "lactoferrin N-lobe", "predicate": "STUDIED_WITH", "object": "electrotransformation", "confidence": 0.5}]}

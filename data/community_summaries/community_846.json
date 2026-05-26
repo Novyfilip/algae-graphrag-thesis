@@ -1,0 +1,12 @@
+{
+  "community_id": 846,
+  "summary": "This cluster of papers is united by the taxonomic revision and discovery of new algal species, primarily red algae (Rhodophyta), using integrated morphological and molecular phylogenetic methods. Key findings include the description of *Rhodophyllis parasitica sp. nov.* in New Zealand, three novel *Halopeltis* species from the Northern Hemisphere (Korea and North Carolina) that challenge the genus’s previously assumed Southern Hemisphere distribution, and *Rosenvingea orientalis* from Chiapas, Mexico, which expands knowledge of brown algal (Phaeophyceae) biodiversity. Across the cluster, genetic sequencing of plastid, mitochondrial, and nuclear DNA markers was critical for resolving species boundaries and evolutionary relationships, often revealing cryptic diversity and necessitating taxonomic reclassification to maintain monophyly. The geographic scope spans the Pacific and Atlantic coasts, including New Zealand, Mexico, and warm temperate waters of the Northern Hemisphere, highlighting understudied regional algal floras.",
+  "n_entities": 2,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Molecular methods",
+    "Red algal parasites"
+  ],
+  "resolution": 8.0
+}

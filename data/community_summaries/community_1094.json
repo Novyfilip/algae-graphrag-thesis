@@ -1,0 +1,12 @@
+{
+  "community_id": 1094,
+  "summary": "Research within this cluster focused on the reproductive biology of the freshwater green alga *Spirogyra varians*, specifically investigating the molecular mechanisms underlying its conjugation process. Using FITC-conjugated lectins as probes, researchers identified that lectin-carbohydrate recognition events are critical for key stages of sexual reproduction, including alignment, protrusion, and zygote formation. The study demonstrated that FITC-ConA labeled filaments throughout conjugation, while FITC-RCA specifically labeled developing protrusions, and inhibition experiments with complementary sugars significantly reduced conjugation rates. This work, conducted in a laboratory setting without a specified geographic scope, provides foundational insights into the cell-cell recognition factors that govern sexual reproduction in filamentous freshwater algae under changing environmental conditions.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "signaling glycoconjugates",
+    "surface carbohydrates"
+  ],
+  "resolution": 8.0
+}

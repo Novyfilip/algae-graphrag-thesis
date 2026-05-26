@@ -1,0 +1,13 @@
+{
+  "community_id": 512,
+  "summary": "This cluster investigates the physiological responses of intertidal brown macroalgae to desiccation stress, specifically comparing the germlings of *Fucus spiralis* and *Pelvetia canaliculata*. Research demonstrated that *F. spiralis* germlings exhibited faster growth rates than *P. canaliculata* under emersion conditions, though growth for both species declined with prolonged exposure duration. Notably, germlings of both species performed better in mixed cultures, yet the presence of *F. spiralis* had a more pronounced adverse effect on *P. canaliculata*, highlighting species-specific competitive dynamics under stress. The geographic and ecological scope focuses on temperate rocky intertidal zones, where periodic emersion is a defining environmental factor.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "artificial tidal tanks",
+    "culture-room",
+    "periodic submergence experiment"
+  ],
+  "resolution": 8.0
+}

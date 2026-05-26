@@ -1,0 +1,13 @@
+{
+  "community_id": 556,
+  "summary": "This cluster of research focuses on the biodiversity and community structure of intertidal marine macroalgae in the coastal waters of the Korean Peninsula. The studies surveyed the summer algal flora of uninhabited islands in Dochodo, southwestern Korea, identifying 53 species dominated by *Enteromorpha compressa*, *Ishige okamurae*, *Gloiopeltis furcata*, *Ulva pertusa*, and *Sargassum thunbergii*. Species richness varied spatially, with the highest counts at Jeongdo and Gyeongchido and the lowest at Hugdo and Mido. The algal communities were classified into six functional groups—coarsely branched, filamentous, sheet, thick leathery, jointed calcareous, and crustose forms—reflecting distinct ecological zonation patterns.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "도초도 15개 무인도",
+    "온대성 또는 한대성 해조상",
+    "외양성 특징 가진 전형적인 온난대성 지역"
+  ],
+  "resolution": 8.0
+}

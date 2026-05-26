@@ -1,0 +1,13 @@
+{
+  "community_id": 399,
+  "summary": "This cluster investigates the seasonal dynamics of phytoplankton communities in aquaculture ponds in Bangladesh, focusing on the succession of key cyanobacteria and green algae species. The research identified distinct seasonal peaks, with *Microcystis* sp. and *Anabaena* sp. dominating during spring and early autumn, while *Chlorella vulgaris* and *Scenedesmus denticulatus* prevailed in the rainy season and Bacillariophyceae in winter. A central finding across the studies is the strong influence of physicochemical water quality parameters on these succession patterns. The geographic scope is limited to subtropical aquaculture systems in Bangladesh, emphasizing the ecological interactions within managed freshwater ponds.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cyanodictyon",
+    "Cyanodictyon imperfectum",
+    "Cyanodictyon planktonicum"
+  ],
+  "resolution": 8.0
+}

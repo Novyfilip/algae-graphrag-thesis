@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Paralia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [{"method_name": "analysis"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "analysis", "predicate": "STUDIED_WITH", "object": "Paralia", "confidence": 0.5}]}

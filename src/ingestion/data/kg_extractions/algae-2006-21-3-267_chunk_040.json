@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Tsudo, Oki Island, Japan"}, {"environment_name": "western coasts of North Pacific"}], "markers": [], "applications": [], "relationships": [{"subject": "Tsudo, Oki Island, Japan", "predicate": "FOUND_IN", "object": "western coasts of North Pacific", "confidence": 0.5}]}

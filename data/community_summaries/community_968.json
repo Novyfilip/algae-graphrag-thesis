@@ -1,0 +1,12 @@
+{
+  "community_id": 968,
+  "summary": "This cluster of research focuses on the spatial ecology and genetic diversity of the picocyanobacterium *Synechococcus*, specifically examining how hydrographic features and water mass properties drive its distribution in the seas adjacent to Korea. Using methods such as barcoded amplicon sequencing and flow cytometry, the studies identified distinct *Synechococcus* clades (clade I and clade II) that were partitioned by water mass origin, with clade I dominating cold, shelf-influenced waters of the East China Sea and north East Sea, while clade II was associated with the warm, saline Kuroshio Current. The findings collectively underscore that physicochemical gradients, rather than geographic distance alone, are the primary determinants of *Synechococcus* community structure in these temperate and subpolar marginal seas during the spring season.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "clade II Synechococcus",
+    "eastern part of the East China Sea"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "thioredoxin"}, {"compound_name": "methionine sulfoxide reductase"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "thioredoxin", "predicate": "PRODUCES", "object": "methionine sulfoxide reductase", "confidence": 0.5}]}

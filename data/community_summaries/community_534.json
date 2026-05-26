@@ -1,0 +1,13 @@
+{
+  "community_id": 534,
+  "summary": "This cluster investigates the distribution and environmental drivers of dinoflagellate cysts in the coastal waters of the Southwestern Sea of Korea. The research identified distinct regional groupings—western Mokpo and Jindo, the central South Sea, and coastal areas near the Archipelago—using principal component analysis, with cyst density and dominant species varying across these zones. Key findings demonstrated that eutrophication, sea current flow, sediment facies, and the presence of motile cells collectively influence cyst formation and spatial patterns. The geographic scope is confined to Korean coastal waters, with the study emphasizing how anthropogenic and hydrodynamic factors shape cyst ecology in this temperate marine environment.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Southern coastal water of Korea",
+    "Tsushima warm water",
+    "outer sea area of the central parts of the South Sea"
+  ],
+  "resolution": 8.0
+}

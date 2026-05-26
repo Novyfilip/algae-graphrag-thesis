@@ -1,0 +1,20 @@
+{
+  "community_id": 18,
+  "summary": "This cluster of research is geographically centered on Korean coastal and freshwater ecosystems, with significant attention to Jeju Island, the Nakdong River, and the Yellow Sea, alongside comparative studies from Antarctica, Japan, and other regions. A unifying theme is the investigation of microalgal and macroalgal responses to environmental stressors—including salinity, temperature, light intensity, UV radiation, and nutrient limitation—with species such as *Dunaliella salina*, *Haematococcus pluvialis*, *Ecklonia cava*, and *Pyropia yezoensis* frequently studied for their adaptive physiology and production of high-value compounds like astaxanthin, fucoxanthin, β-carotene, and phlorotannins. The cluster also emphasizes applied biotechnological outcomes, including the optimization of cultivation conditions (e.g., LED light regimes, nitrogen sources, and chelator substitutes) for enhanced biomass, lipid, and pigment yields, as well as the development of anti-inflammatory, antioxidant, and hepatoprotective extracts from seaweeds. Additionally, several papers address harmful algal blooms and toxin monitoring, particularly of *Microcystis*, *Cochlodinium polykrikoides*, and *Alexandrium* species, linking their population dynamics to water quality parameters and ecological impacts in Korean waters.",
+  "n_entities": 301,
+  "n_papers": 145,
+  "n_papers_with_summaries": 144,
+  "entity_sample": [
+    "14-deoxyamijiol",
+    "19-butanoyloxyfucoxanthin",
+    "19’-butanoyloxyfucoxanthin",
+    "19’-hexanoyloxyfucoxanthin",
+    "250 mL Erlenmeyer flask",
+    "3-(3,4-dichlorophenyl)-1,1-dimethylurea",
+    "3S, 3'S astaxanthin isomer",
+    "9-cis stereoisomers",
+    "AF159369",
+    "ALA"
+  ],
+  "resolution": 8.0
+}

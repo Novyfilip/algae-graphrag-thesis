@@ -1,0 +1,12 @@
+{
+  "community_id": 832,
+  "summary": "Research on the cultivation and commercialization of *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis* formed a central theme, with studies focusing on optimizing production methods for applications in nutraceuticals, cosmetics, and biofuel production. The cluster traced the historical progression of microalgae culture from fundamental natural science to industrial-scale operations, emphasizing strategies to enhance biomass yield and compound extraction. Key findings across the cluster highlighted the economic viability of these species as high-value resources, with a geographic scope that was global but particularly attentive to commercial production systems in Asia and North America.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Chroococcus minutus (Kützing) Nägeli",
+    "Protococcus minutus Kützing"
+  ],
+  "resolution": 8.0
+}

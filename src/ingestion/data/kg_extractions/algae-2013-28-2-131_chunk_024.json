@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "chlorophyll"}, {"compound_name": "secondary carotenoids"}, {"compound_name": "sporopollenin"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "secondary carotenoids", "predicate": "PRODUCES", "object": "sporopollenin", "confidence": 0.5}]}

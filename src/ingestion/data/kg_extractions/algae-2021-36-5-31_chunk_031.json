@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Benthic dinoflagellates", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean waters"}], "markers": [], "applications": [], "relationships": [{"subject": "Benthic dinoflagellates", "predicate": "FOUND_IN", "object": "Korean waters", "confidence": 1.0}]}

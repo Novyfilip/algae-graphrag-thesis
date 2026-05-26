@@ -1,0 +1,12 @@
+{
+  "community_id": 1065,
+  "summary": "This cluster focuses on the taxonomic and genetic characterization of tropical and subtropical red algae, specifically within the genera *Lithothamnion* and *Kappaphycus*, in the coastal zones of Brazil and the Philippines. Research on *Lithothamnion steneckii* sp. nov. and *Pneophyllum conicum* from Brazilian coral reefs revealed novel anatomical combinations, underscoring the need for a taxonomic reassessment of coralline algae in that region. Concurrently, DNA barcoding of wild *Kappaphycus alvarezii* and *Kappaphycus striatus* populations in the Philippines identified nine novel haplotypes from mitochondrial COI-5P and cox2-3 spacer sequences, highlighting significant genetic diversity. These findings collectively emphasize the high endemism and cryptic diversity of red algae in understudied tropical marine ecosystems, with implications for biodiversity conservation and the development of improved algal cultivars.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Ponto Oeste site",
+    "reef flat"
+  ],
+  "resolution": 8.0
+}

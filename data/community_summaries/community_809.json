@@ -1,0 +1,12 @@
+{
+  "community_id": 809,
+  "summary": "This cluster of research focuses on the taxonomic classification and biogeographic distribution of marine macroalgae along the Korean coastline. The studies integrate morphological characterization with phylogenetic analyses to resolve the taxonomic placement of species within divisions such as Chlorophyta and Chromophyta, with specific attention to taxa like *Cladophora crystallina* and *Sphacelaria apicalis*. A key methodological pattern across the cluster is the use of combined morphological and molecular data to establish species boundaries and propose systematic groupings. The geographic scope is confined to Korean waters, emphasizing the creation and refinement of regional species checklists to document local marine algal biodiversity.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Derbesia lamourouxti",
+    "Pedobesia lamourouxti"
+  ],
+  "resolution": 8.0
+}

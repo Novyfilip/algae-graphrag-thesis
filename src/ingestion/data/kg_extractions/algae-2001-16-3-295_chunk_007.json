@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Chlorophylla"}], "methods": [{"method_name": "liquid scintillation counter"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chlorophylla", "predicate": "STUDIED_WITH", "object": "liquid scintillation counter", "confidence": 1.0}]}

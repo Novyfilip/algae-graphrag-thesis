@@ -1,0 +1,12 @@
+{
+  "community_id": 922,
+  "summary": "This cluster investigates the cellular mechanisms of cyst formation in the giant unicellular green alga *Acetabularia calyculus*, specifically focusing on the role of the cytoskeleton. Using indirect immunofluorescence, the studies revealed that microtubule bundles undergo a dynamic process of radial expansion and ring-like contraction to partition the cytoplasm into discrete spheres, each containing a single nucleus. This developmental process, which ultimately leads to spore differentiation, highlights a unique form of cytoplasmic segregation that is distinct from typical cytokinesis in other algal models. The research is primarily laboratory-based and does not address a specific geographic or ecological scope, instead emphasizing *A. calyculus* as a model organism for studying spatial and temporal cytoskeletal organization.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "actin polymerization inhibition",
+    "cytochalasin B"
+  ],
+  "resolution": 8.0
+}

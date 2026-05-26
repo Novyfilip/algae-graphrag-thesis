@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ascophyllum", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "sheltered habitats"}], "markers": [], "applications": [], "relationships": [{"subject": "Ascophyllum", "predicate": "AFFECTS", "object": "sheltered habitats", "confidence": 0.5}]}

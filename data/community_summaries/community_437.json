@@ -1,0 +1,13 @@
+{
+  "community_id": 437,
+  "summary": "This cluster investigates the molecular diversity and biogeography of the red algal genus *Actinotrichia* (Galaxauraceae, Rhodophyta) across the Indo-Pacific region. Phylogenetic analyses using rbcL and cox1 gene sequences confirmed the genetic distinctiveness of *Actinotrichia fragilis* and *Actinotrichia robusta*, with the latter newly recorded in the Andaman Sea and also documented in Japan and Taiwan. The research revealed that *A. fragilis* is widespread throughout the Indo-Pacific and temperate northeast Asia, while *A. calcea* was identified as a Vietnamese species characterized by small fronds. These findings highlight significant cryptic diversity within the genus and underscore the need for comprehensive taxonomic revision through expanded geographic sampling.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Actinotrichia robusta Itono",
+    "Koh Pachumba, Phang Nga, Thailand",
+    "Similan Islands, Phang Nga, Thailand"
+  ],
+  "resolution": 8.0
+}

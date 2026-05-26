@@ -1,0 +1,12 @@
+{
+  "community_id": 831,
+  "summary": "This cluster investigates the environmental drivers of harmful algal blooms (HABs) in Japanese coastal waters, specifically focusing on the dinoflagellate *Heterocapsa circularisquama*. Research conducted in Uranouchi Bay, Kochi Prefecture, utilized hydrographic and chemical monitoring to document bloom dynamics, revealing that rapid increases in cell density in early autumn were associated with high nutrient conditions in the bottom layer. A key finding across the cluster was that low dissolved inorganic phosphorus (DIP) and dissolved organic nitrogen (DIN) concentrations may act as limiting factors for *H. circularisquama* growth, suggesting that the annual recurrence of these blooms is linked to nutrient stratification. The studies collectively emphasize the need for improved water quality management in semi-enclosed bays to mitigate the ecological and economic impacts of these recurring dinoflagellate blooms.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Prorocentrum sigmoides",
+    "Uranouchi Inlet, Kochi, Japan"
+  ],
+  "resolution": 8.0
+}

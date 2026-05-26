@@ -1,0 +1,20 @@
+{
+  "community_id": 184,
+  "summary": "This cluster of papers is predominantly focused on the ecology, taxonomy, and physiological responses of microalgae and macroalgae in Korean freshwater and coastal ecosystems, with a strong emphasis on bloom dynamics, trophic state assessment, and biotechnological applications. Key species investigated include *Microcystis aeruginosa*, *Peridinium bipes*, *Anabaena flos-aquae*, and *Mesodinium rubrum*, with studies frequently employing nutrient limitation experiments, molecular phylogenetics (e.g., rDNA, *cox1*, *cob*), and field surveys to assess water quality and algal community structure. A recurring pattern is the use of chlorophyll *a*, total nitrogen, and total phosphorus as indicators of eutrophication, with several papers reporting hypertrophic conditions in Korean reservoirs and rivers, such as the Naktong River and Lake Unmun, and documenting seasonal shifts from diatom to cyanophyte dominance. The geographic scope is heavily centered on South Korea, including specific sites like Togyo Reservoir, Masan-Jinhae Bay, and Jeju Island, with additional molecular studies extending to the Aleutian Islands and global *Arthrospira* strains, reflecting a blend of local ecological monitoring and broader phylogenetic investigations.",
+  "n_entities": 97,
+  "n_papers": 58,
+  "n_papers_with_summaries": 58,
+  "entity_sample": [
+    "Allen's medium",
+    "Biotin",
+    "CCD camera",
+    "Carefoot Medium",
+    "Carefoot culture medium",
+    "Chuam dam reservoir",
+    "Chulwon, Korea",
+    "Cleistoperidinium",
+    "Cobalt",
+    "Cyanocobalamin"
+  ],
+  "resolution": 8.0
+}

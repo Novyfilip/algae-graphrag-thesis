@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Gupo"}, {"environment_name": "Kumho River"}], "markers": [], "applications": [], "relationships": [{"subject": "Gupo", "predicate": "FOUND_IN", "object": "Kumho River", "confidence": 0.5}]}

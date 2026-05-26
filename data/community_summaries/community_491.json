@@ -1,0 +1,13 @@
+{
+  "community_id": 491,
+  "summary": "This cluster investigates the interactive effects of solar ultraviolet radiation (UVR) and nutrient limitation on the photosynthetic performance of the marine diatom *Skeletonema costatum*. Researchers found that exposure to UV-A and UV-B significantly diminished photochemical quantum yield while increasing non-photochemical quenching, with these detrimental effects being exacerbated under nitrate-limited conditions. The studies collectively demonstrate that nutrient stress amplifies the photoinhibitory impact of UVR on this species, highlighting a critical ecological interaction in marine environments. The geographic scope is broadly relevant to coastal and oceanic waters where both UV penetration and nitrogen availability fluctuate.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "UV-A induced inhibition calculation",
+    "UV-B induced inhibition calculation",
+    "significant differences determination"
+  ],
+  "resolution": 8.0
+}

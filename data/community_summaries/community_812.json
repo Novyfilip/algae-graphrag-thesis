@@ -1,0 +1,12 @@
+{
+  "community_id": 812,
+  "summary": "This cluster investigates the ecophysiology and trophic ecology of the mixotrophic dinoflagellate *Polykrikos lebourae*, isolated from Korean coastal sand beds. Research focused on its phagotrophic behavior and growth dynamics revealed that this species exhibits high gross growth efficiency at low prey concentrations, yet remains dependent on specific growth factors and light regimes, indicating a predominantly heterotrophic lifestyle. Studies also characterized its unique morphology, including the formation of multinucleated pseudocolonies, and clarified its distinct evolutionary lineage within the dinoflagellate family. The geographic scope is limited to temperate Korean coastal sediments, where the species' sand-dwelling cultivation was essential for examining its physiological and ecological roles.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Pheopolykrikos",
+    "Pheopolykrikos beauchamphii"
+  ],
+  "resolution": 8.0
+}

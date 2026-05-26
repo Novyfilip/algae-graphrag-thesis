@@ -1,0 +1,12 @@
+{
+  "community_id": 1059,
+  "summary": "Research on hypersaline algal mats in the British Virgin Islands characterized the layered community structure of cyanobacteria and benthic organisms across six distinct ponds, identifying key species such as *Oscillatoria* sp. and *Johannesbaptistia pellucida*. Using cluster analysis and principal component analysis, the studies revealed variations in mat thickness and species distribution linked to localized hypersaline conditions. This cluster focuses on the microbial ecology of Caribbean hypersaline environments, emphasizing how cyanobacterial assemblages structure themselves in response to extreme salinity gradients.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "SYSTAT v. 5.2.1",
+    "principle component analysis"
+  ],
+  "resolution": 8.0
+}

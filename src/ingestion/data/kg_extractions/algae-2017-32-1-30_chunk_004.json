@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "coastal estuarine systems"}, {"environment_name": "marine systems"}], "markers": [], "applications": [], "relationships": [{"subject": "coastal estuarine systems", "predicate": "AFFECTS", "object": "marine systems", "confidence": 0.5}]}

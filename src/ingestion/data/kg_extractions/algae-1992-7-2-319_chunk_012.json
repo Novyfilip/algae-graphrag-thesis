@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "red algae", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "cell biological methods"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "red algae", "predicate": "STUDIED_WITH", "object": "cell biological methods", "confidence": 1.0}]}

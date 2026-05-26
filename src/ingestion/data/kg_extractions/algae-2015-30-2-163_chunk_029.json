@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "eckol"}, {"compound_name": "arbutin"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "eckol", "predicate": "PRODUCES", "object": "tyrosinase inhibition", "confidence": 1.0}, {"subject": "arbutin", "predicate": "PRODUCES", "object": "tyrosinase inhibition", "confidence": 1.0}]}

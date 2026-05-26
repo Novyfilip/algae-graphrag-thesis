@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pterocladiella", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean"}], "markers": [], "applications": [], "relationships": [{"subject": "Pterocladiella", "predicate": "FOUND_IN", "object": "Korean", "confidence": 0.5}]}

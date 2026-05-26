@@ -1,0 +1,20 @@
+{
+  "community_id": 81,
+  "summary": "This cluster of papers focuses on the ecology, taxonomy, and biogeography of macroalgae along the Korean Peninsula and adjacent waters, with a strong emphasis on community structure, species distribution, and environmental drivers. Key species such as *Caulerpa okamurae*, *Hizikia fusiformis*, *Sargassum thunbergii*, *Corallina pilulifera*, and *Ecklonia cava* were repeatedly documented across intertidal and subtidal zones, with studies examining how water temperature, wave exposure, substrate type, and thermal effluents from power plants influenced growth, maturation, biomass, and vertical zonation. The geographic scope was predominantly the coasts of Korea—including the East Sea, Yellow Sea, South Sea, and Jeju Island—with additional studies extending to Japan, the Bering Sea, and the Northwest Pacific. Taxonomic revisions and molecular phylogenetic analyses (e.g., using rbcL, cox1, and ITS sequences) were employed to resolve species boundaries within genera such as *Polysiphonia*, *Sargassum*, *Pterocladiella*, and *Herposiphonia*, while applied research explored the antioxidant, antiviral, and ACE-inhibitory bioactivities of algal extracts, as well as the use of seaweeds in carbon flux studies, bioremediation, and artificial reef restoration.",
+  "n_entities": 173,
+  "n_papers": 173,
+  "n_papers_with_summaries": 172,
+  "entity_sample": [
+    "1 m",
+    "1 to 5 m depths",
+    "13-cis and 13′-cis-(6′R) fucoxanthin complex",
+    "3-3.5 m depth",
+    "5 m",
+    "9′-cis-(6′R) fucoxanthin",
+    "Agarum",
+    "Amphiroa spp.",
+    "Aomori",
+    "Aomori Japan"
+  ],
+  "resolution": 8.0
+}

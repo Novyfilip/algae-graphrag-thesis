@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ecklonia cava", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "algal RNA purification"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ecklonia cava", "predicate": "STUDIED_WITH", "object": "algal RNA purification", "confidence": 1.0}]}

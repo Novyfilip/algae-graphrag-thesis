@@ -1,0 +1,12 @@
+{
+  "community_id": 697,
+  "summary": "Research in this cluster focused on the cryopreservation of marine microalgae, particularly the species *Tetraselmis*, using cryoprotectants such as dimethylsulfoxide (Me2SO) and glycerol to mitigate the effects of climate change on coastal ecosystems. Key findings indicated that while these cryoprotectants had minimal impact on cell density during preservation, the cooling method significantly affected the viability and growth of *Tetraselmis* species, unlike other tested microalgae. The geographic scope centered on coastal marine environments, where cryopreservation techniques were evaluated as a strategy to safeguard microalgal biodiversity against climate-induced stressors.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Freeze-drying",
+    "Serial transference"
+  ],
+  "resolution": 8.0
+}

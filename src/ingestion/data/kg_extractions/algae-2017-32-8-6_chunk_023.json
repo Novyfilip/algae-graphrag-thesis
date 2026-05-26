@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Haematococcus pluvialis", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "secondary carotenoids"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Haematococcus pluvialis", "predicate": "PRODUCES", "object": "secondary carotenoids", "confidence": 0.5}]}

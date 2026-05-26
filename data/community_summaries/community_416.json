@@ -1,0 +1,13 @@
+{
+  "community_id": 416,
+  "summary": "This cluster synthesizes the early historical documentation and taxonomic exploration of marine algae in the North Pacific and Bering Sea region, primarily during the 18th and 19th centuries. The connecting theme is the foundational work of Russian and British naturalists—including Steller, Chamisso, and Voznesenskii—who conducted expeditions to remote coastlines such as the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands. These investigations resulted in the initial discovery, collection, and scientific description of diverse algal species, establishing the baseline floristic knowledge for this high-latitude, subarctic marine ecosystem. The cluster’s geographic scope is tightly constrained to the upper North Pacific and Bering Sea, reflecting a shared focus on the historical biogeography and early natural history of cold-water macroalgae.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Fucus saccatus Lepech.",
+    "Halosaccion saccatum (Lepech.) Kjellm.",
+    "Nootka Sound, Vancouver Island, Canada"
+  ],
+  "resolution": 8.0
+}

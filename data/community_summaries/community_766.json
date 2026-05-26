@@ -1,0 +1,12 @@
+{
+  "community_id": 766,
+  "summary": "This cluster investigates the use of the green alga *Chlorella vulgaris* in conjunction with the bacterium *E. coli* W3110 for bioremediation, specifically focusing on the removal of total organic carbon from continuous river water flow systems. The research examined the dynamics of this algal-bacterial association under varying organic carbon concentrations and cell densities, finding that the highest algal density reached 8.3 x 10⁶ cells·ml⁻¹ while bacterial densities peaked at 2.0 x 10⁸ CFU·ml⁻¹. A key temporal pattern was observed where algal populations increased during the first 11 days before rapidly declining, with the study concluding that wider nutrient availability was necessary to support heterotrophic bacterial growth at lower carbon concentrations. The geographic and ecological scope is centered on freshwater river systems, with the work conducted in a controlled experimental context rather than a specific field location.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Mediterranean Europe",
+    "waste stabilization ponds"
+  ],
+  "resolution": 8.0
+}

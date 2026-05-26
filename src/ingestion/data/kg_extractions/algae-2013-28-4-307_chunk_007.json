@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cryptomonas", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "salt water"}], "markers": [], "applications": [], "relationships": [{"subject": "Cryptomonas", "predicate": "FOUND_IN", "object": "salt water", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 1002,
+  "summary": "The papers in this cluster share a focus on the distribution, community structure, and vertical zonation of Antarctic macroalgae, specifically within the littoral and infralittoral zones of Maxwell Bay, King George Island. A total of 36 algal species were identified, including five green, one yellow-brown, twelve brown, and 18 red algae, with perennial brown algae such as *Desmarestia menziesii*, *Ascoseira mirabilis*, and *Himantothallus grandifolius* dominating the lower-infralittoral zones, while ephemeral algae rapidly colonized the littoral zone. A consistent pattern of vertical stratification was observed, with *Palmaria decipiens* occupying the surface, *Desmarestia menziesii* and *Ascoseira mirabilis* at mid-levels, and *Himantothallus grandifolius* at the bottom. The research integrated paleobotanical data from British and Swedish expeditions to contextualize the relatively recent history of marine flora in this Antarctic region.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Phyllophora antarctica",
+    "inner Antarctic continental coasts"
+  ],
+  "resolution": 8.0
+}

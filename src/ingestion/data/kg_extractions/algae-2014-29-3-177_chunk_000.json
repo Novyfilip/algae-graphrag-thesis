@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pyropia koreana", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "South Island, New Zealand"}], "markers": [], "applications": [], "relationships": [{"subject": "Pyropia koreana", "predicate": "FOUND_IN", "object": "South Island, New Zealand", "confidence": 1.0}]}

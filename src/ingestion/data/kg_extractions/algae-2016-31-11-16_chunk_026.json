@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "H. borgesenii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Abrol"}], "markers": [], "applications": [], "relationships": [{"subject": "H. borgesenii", "predicate": "FOUND_IN", "object": "Abrol", "confidence": 0.5}]}

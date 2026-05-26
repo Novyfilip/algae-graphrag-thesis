@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "Lagrangian particle tracking experiments"}, {"method_name": "satellite image"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Lagrangian particle tracking experiments", "predicate": "STUDIED_WITH", "object": "satellite image", "confidence": 0.5}]}

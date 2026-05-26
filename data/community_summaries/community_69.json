@@ -1,0 +1,20 @@
+{
+  "community_id": 69,
+  "summary": "This cluster of papers is predominantly centered on the biodiversity, community structure, and ecological dynamics of marine macroalgae and phytoplankton along the coastlines of the Korean Peninsula, with additional studies from Japan, Russia, India, and the Americas. Key connecting species include the brown algae *Sargassum thunbergii*, *Hizikia fusiformis*, and *Ecklonia cava*, the red algae *Corallina pilulifera* and *Chondrus ocellatus*, and the green algae *Ulva pertusa*, which frequently appear as dominant or indicator species across intertidal and subtidal zones. A major pattern across the cluster is the investigation of anthropogenic impacts, particularly thermal effluents from nuclear power plants (e.g., Gori, Wolseong, and Kori), which were shown to shift community composition toward warm-tolerant and opportunistic species such as *Enteromorpha compressa* and *Caulacanthus ustulatus*. The geographic scope is heavily focused on Korean waters—including the East, West, and South Seas, as well as Jeju Island and the Yellow Sea—with additional contributions from the Bering Sea, White Sea, Gulf of Mannar, and Hawaiian mesophotic zones, reflecting a temperate to subtropical ecological gradient.",
+  "n_entities": 184,
+  "n_papers": 120,
+  "n_papers_with_summaries": 118,
+  "entity_sample": [
+    "Acinetospora crinita",
+    "Acinetospora pusilla",
+    "Acrosorium flabellaum",
+    "Acrosorium yendot",
+    "Agmenellum thermale",
+    "Ahnfeltia plicata",
+    "Alatocladia modesta",
+    "Antithamnion plumula",
+    "Auduinella daviesii",
+    "Auduinella sp."
+  ],
+  "resolution": 8.0
+}

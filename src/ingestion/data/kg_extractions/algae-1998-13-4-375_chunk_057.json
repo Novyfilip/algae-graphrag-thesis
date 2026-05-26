@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ulvaria splendens", "taxonomic_rank": "species"}, {"species_name": "Monostroma splendens", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ulvaria splendens", "predicate": "BELONGS_TO", "object": "Monostroma splendens", "confidence": 1.0}]}

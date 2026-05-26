@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Scenedesmus", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Scenedesmus", "predicate": "AFFECTS", "object": "conditions in the medium", "confidence": 0.5}]}

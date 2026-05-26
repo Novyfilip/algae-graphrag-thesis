@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "dinoflagellate", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "aquaculture industry"}], "relationships": [{"subject": "dinoflagellate", "predicate": "STUDIED_WITH", "object": "aquaculture industry", "confidence": 0.5}]}

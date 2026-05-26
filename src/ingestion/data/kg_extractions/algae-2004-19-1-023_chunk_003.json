@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "cyanobacterial bloom", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Sayeon dam reservoir"}], "markers": [], "applications": [], "relationships": [{"subject": "cyanobacterial bloom", "predicate": "FOUND_IN", "object": "Sayeon dam reservoir", "confidence": 1.0}]}

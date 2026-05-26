@@ -1,0 +1,12 @@
+{
+  "community_id": 866,
+  "summary": "This cluster investigates the phylogeography and taxonomy of macroalgae in the coastal waters of Korea and Japan, focusing on two distinct genera. Using COI-5P barcoding, researchers identified eleven cryptic lineages within *Gloiopeltis furcata* sensu lato, revealing high genetic diversity in southern Korea-Japan that suggests glacial refugia and recent migration influenced by oceanic circulation. Concurrently, a morphological study of the genus *Sargassum* (subgenus *Bactrophycus*, section *Teretia*) classified eight Korean species based on traits such as leaf thickness and holdfast type, establishing a taxonomic framework for future distributional research. Both studies underscore the region’s significant cryptic diversity and the influence of historical and contemporary oceanographic factors on population structure.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Sargassum thunbergii f. latifolium",
+    "Tsugaru Strait"
+  ],
+  "resolution": 8.0
+}

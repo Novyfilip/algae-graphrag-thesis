@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Microcystis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Lower Nakdong River"}], "markers": [], "applications": [], "relationships": [{"subject": "Microcystis", "predicate": "FOUND_IN", "object": "Lower Nakdong River", "confidence": 1.0}]}

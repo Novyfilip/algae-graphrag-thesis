@@ -1,0 +1,13 @@
+{
+  "community_id": 433,
+  "summary": "This cluster focuses on the cultivation and biological characterization of the red alga *Gracilaria chorda*, an economically valuable agarophyte, primarily within Korean coastal waters. Research centered on developing a reliable method for vegetative regeneration from cuttings, successfully demonstrating significant increases in thallus length, wet weight, and branching numbers compared to prior attempts. The studies integrated morphological and anatomical analyses, including growth measurements and branch counts, to address challenges in species identification within the Gracilariales. Collectively, this work establishes a foundational cultivation protocol to support the commercial utilization of *G. chorda* for agar production.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ihoijin aquafarm",
+    "lower part of Deungnyang Bay",
+    "rope-hanging method"
+  ],
+  "resolution": 8.0
+}

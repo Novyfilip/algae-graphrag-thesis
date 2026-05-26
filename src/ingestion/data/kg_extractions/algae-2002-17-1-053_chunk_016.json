@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "streptophytes", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "MLS"}], "applications": [], "relationships": [{"subject": "streptophytes", "predicate": "IDENTIFIED_BY", "object": "MLS", "confidence": 0.5}]}

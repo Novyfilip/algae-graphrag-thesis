@@ -1,0 +1,12 @@
+{
+  "community_id": 1080,
+  "summary": "This cluster investigates the oomycete pathogen *Pythium porphyrae* (syn. *Pythium chondricola*), the causative agent of red rot disease in commercially cultivated red algae. Research focused on a New Zealand isolate of *P. porphyrae* from wild *Pyropia plicata* demonstrated its infectivity across multiple Bangiales species, including *Pyropia*, but not sporophytic phases, with genetic analyses supporting its conspecificity with strains from Korea and the Netherlands. The studies highlight the pathogen’s significant economic threat to *Pyropia* aquaculture industries in Korea and Japan, while also documenting its presence in natural populations in New Zealand, expanding the known geographic and ecological scope of this disease.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "GMYC web server",
+    "single threshold (sGMYC)"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. latissima", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Casco Bay, Maine"}], "markers": [], "applications": [], "relationships": [{"subject": "S. latissima", "predicate": "FOUND_IN", "object": "Casco Bay, Maine", "confidence": 1.0}]}

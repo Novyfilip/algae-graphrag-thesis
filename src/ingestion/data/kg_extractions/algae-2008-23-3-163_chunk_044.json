@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "alginate"}, {"compound_name": "phenolic compounds"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "alginate", "predicate": "CONTAINS", "object": "phenolic compounds", "confidence": 1.0}]}

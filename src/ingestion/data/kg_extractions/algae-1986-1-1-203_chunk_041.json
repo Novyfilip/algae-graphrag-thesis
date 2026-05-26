@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ulva pertusa", "taxonomic_rank": "species"}, {"species_name": "Enteromorpha", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ulva pertusa", "predicate": "BELONGS_TO", "object": "Enteromorpha", "confidence": 1.0}]}

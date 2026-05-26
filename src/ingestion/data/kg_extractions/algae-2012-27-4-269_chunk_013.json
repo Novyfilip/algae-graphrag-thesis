@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "microscope"}, {"method_name": "diversity calculation"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "microscope", "predicate": "STUDIED_WITH", "object": "Samples", "confidence": 1.0}]}

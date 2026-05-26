@@ -1,0 +1,12 @@
+{
+  "community_id": 927,
+  "summary": "This cluster focuses on methodological advancements for genomic analysis of the red alga *Porphyra tenera*, a species of significant economic and ecological importance in coastal regions. The papers are connected by a shared emphasis on optimizing DNA extraction and purification techniques, specifically employing diatomaceous earth columns to obtain high molecular weight DNA (50-100 kb) with minimal nuclease degradation. Key findings demonstrate that this method yields highly reproducible samples suitable for downstream applications such as RAPD analysis, enabling reliable genetic fingerprinting. The geographic scope is implicitly tied to temperate marine environments where *P. tenera* is cultivated, reflecting a broader research interest in improving molecular tools for seaweed aquaculture and conservation genetics.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "RAPD analyses",
+    "arbitrary primed PCR"
+  ],
+  "resolution": 8.0
+}

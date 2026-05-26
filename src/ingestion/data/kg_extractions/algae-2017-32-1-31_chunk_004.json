@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Tauya", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Sea of Okhotsk"}], "markers": [], "applications": [], "relationships": [{"subject": "Tauya", "predicate": "FOUND_IN", "object": "Sea of Okhotsk", "confidence": 0.5}]}

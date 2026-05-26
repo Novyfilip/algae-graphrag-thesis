@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "An. macrospora var. crassa", "taxonomic_rank": "variety"}, {"species_name": "M. flos-aquae", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "An. macrospora var. crassa", "predicate": "STUDIED_WITH", "object": "M. flos-aquae", "confidence": 1.0}]}

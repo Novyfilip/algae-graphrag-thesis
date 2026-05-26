@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "benthic algal community", "taxonomic_rank": "community"}], "compounds": [], "methods": [], "environments": [{"environment_name": "intertidal zone"}], "markers": [], "applications": [], "relationships": [{"subject": "benthic algal community", "predicate": "FOUND_IN", "object": "intertidal zone", "confidence": 1.0}]}

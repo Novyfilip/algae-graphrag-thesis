@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Laminaria saccharina", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Laminaria saccharina", "predicate": "STUDIED_WITH", "object": "P-T curve", "confidence": 1.0}]}

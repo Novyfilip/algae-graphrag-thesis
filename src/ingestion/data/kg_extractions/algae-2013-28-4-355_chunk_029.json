@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Corallina officinalis", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "chlorophyll a"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Corallina officinalis", "predicate": "PRODUCES", "object": "chlorophyll a", "confidence": 1.0}]}

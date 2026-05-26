@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "trachelomonad", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "scanning electron microscopy (SEM) analysis"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "trachelomonad", "predicate": "STUDIED_WITH", "object": "scanning electron microscopy (SEM) analysis", "confidence": 1.0}]}

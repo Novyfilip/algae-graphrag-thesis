@@ -1,0 +1,12 @@
+{
+  "community_id": 1029,
+  "summary": "This cluster investigates the use of algal growth potential testing (AGPT) as a bioassay tool for monitoring water fertility and predicting red-tide events in stagnant watersheds. The research specifically examines the physiological and biochemical responses of *Oscillatoria agardhii* and *Coelastrum reticulatum* to nitrogen and phosphorus starvation, revealing species-specific differences in cell division rates and maximal PSII quantum yields as indicators of adaptation to nutrient limitations. The findings demonstrate that nutrient availability critically governs algal bloom dynamics in these lentic systems, with the proposed AGPT method offering a practical approach for forecasting harmful algal blooms. The geographic and ecological scope is centered on stagnant freshwater watersheds, where nutrient-driven eutrophication poses a recurring risk.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "monitoring system to forecast red-tide",
+    "physio-chemical analyses"
+  ],
+  "resolution": 8.0
+}

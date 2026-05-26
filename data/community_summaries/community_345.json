@@ -1,0 +1,14 @@
+{
+  "community_id": 345,
+  "summary": "This cluster examines the ecological succession of epilithic diatom communities during early biofilm formation on artificial substrates in the Kumho River, South Korea, over a 70-day period in 2002. Researchers identified 126 diatom taxa, comprising 114 species and 12 varieties, and used cluster analysis to delineate three distinct successional stages (early, middle, and later). The findings characterize the temporal dynamics and species composition shifts that define the initial phases of benthic diatom community assembly in this freshwater ecosystem.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Saprophilous taxa",
+    "epilithic diatom species",
+    "saproxenous taxa",
+    "statistic classification"
+  ],
+  "resolution": 8.0
+}

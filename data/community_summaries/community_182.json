@@ -1,0 +1,20 @@
+{
+  "community_id": 182,
+  "summary": "This cluster of papers is united by a strong focus on the discovery, taxonomic revision, and biogeographic distribution of macroalgae and cyanobacteria, with a particular emphasis on the Northwest Pacific region, including Korea, Japan, and the Russian Far East. Researchers frequently employed polyphasic approaches, combining molecular phylogenetics (using markers such as *rbcL*, *cox1*, and 16S rRNA) with detailed morphological analysis to resolve cryptic species complexes and describe new taxa, such as *Haraldiophyllum udoensis*, *Nodosilinea* species, and *Polysiphonia ulleungensis*. A significant subset of studies investigated the ecological impacts of anthropogenic stressors, including thermal effluents from nuclear power plants and oil spills, on intertidal and subtidal algal community structure and biomass, often documenting shifts in dominance toward opportunistic species like *Ulva pertusa* and *Corallina pilulifera*. The geographic scope was heavily concentrated on the Korean Peninsula and adjacent waters, with additional contributions from the North Pacific, Bering Sea, and tropical regions, highlighting a shared interest in both baseline biodiversity surveys and applied conservation concerns.",
+  "n_entities": 98,
+  "n_papers": 99,
+  "n_papers_with_summaries": 98,
+  "entity_sample": [
+    "Aedo, Namhae, Korea",
+    "Australasia",
+    "Aypnea saidana",
+    "Boshyu",
+    "C. ciliata",
+    "COI-5P data",
+    "COI-5P gene",
+    "Calliblepharis",
+    "Calliblepharis celatospora",
+    "Calliblepharis ciliata"
+  ],
+  "resolution": 8.0
+}

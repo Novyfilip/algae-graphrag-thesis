@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "laboratory culture"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "germlings", "predicate": "STUDIED_WITH", "object": "laboratory culture", "confidence": 1.0}]}

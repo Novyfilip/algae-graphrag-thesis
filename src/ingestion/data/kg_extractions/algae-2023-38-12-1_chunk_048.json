@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "sulfated polysaccharides"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "skin health and cosmetics"}, {"application_name": "moisturization"}], "relationships": [{"subject": "sulfated polysaccharides", "predicate": "PRODUCES", "object": "moisturization", "confidence": 0.5}]}

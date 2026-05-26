@@ -1,0 +1,12 @@
+{
+  "community_id": 947,
+  "summary": "This cluster focuses on the antioxidant potential of phlorotannins derived from the brown seaweed *Hizikia fusiformis*. The research specifically compared the radical scavenging activity of different extracts, finding that the crude hydrophilic phlorotannin extract (CHPE) demonstrated significantly higher antioxidant activity than the organic extract (OE) across multiple assays. These findings highlight the potential of *H. fusiformis* as a source of hydrophilic phlorotannins for nutraceutical applications, though the geographic or ecological scope of the study was not specified.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "crude hydrophilic phlorotannins",
+    "preparation using commercial enzymes"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 212,
+  "summary": "This cluster examines the composition and biomass of marine algal communities in the vicinity of three nuclear power plants along the Korean coast, specifically at Ulchin, Wolsong, and Yonggwang. Researchers identified a total of 250 algal species, with the highest richness (189 species) and mean biomass recorded at Wolsong, while Yonggwang exhibited the lowest values. Seasonal variation was pronounced, with peak species diversity in spring (121 species) and a minimum in autumn (63 species). The dominant macroalgae across sites were *Ulva pertusa*, *Sargassum thunbergii*, and *Corallina pilulifera*, though a notably higher proportion of blue-green algae was observed at Wolsong. Annual biomass fluctuations ranged from 72.54 to 224.68 g-dry wt/m², highlighting distinct ecological differences among the three thermal discharge zones.",
+  "n_entities": 77,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "ACRO YEN",
+    "AHNF PLI",
+    "AMPH BEA",
+    "AMPH ZON",
+    "BANG ATR",
+    "CALL CRI",
+    "CARP COR",
+    "CAUL OKA",
+    "CHON CRA",
+    "CHON OCE"
+  ],
+  "resolution": 8.0
+}

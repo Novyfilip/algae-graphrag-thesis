@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gloiopeltis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "NW Pacific"}], "markers": [], "applications": [], "relationships": [{"subject": "Gloiopeltis", "predicate": "FOUND_IN", "object": "NW Pacific", "confidence": 0.5}]}

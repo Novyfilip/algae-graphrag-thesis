@@ -1,0 +1,13 @@
+{
+  "community_id": 425,
+  "summary": "This cluster focuses on the taxonomy and ecology of marine and estuarine diatoms, particularly within the genera *Amphora*, *Cocconeis*, *Navicula*, and *Nitzschia*. Research integrated molecular phylogenetics with morphological analysis to clarify the phylogenetic placement of *Amphora sensu lato* species, leading to the identification of *Amphora terroris* as a new species and supporting the reclassification of *Halamphora* as a distinct genus. Ecologically, studies on the southern coast of Korea documented 81 epiphytic diatom species on *Zostera* seagrasses, revealing that community composition—such as the prevalence of *Cocconeis* on *Z. japonica*—was closely tied to host plant morphology and lifespan. Collectively, the cluster underscores the global distribution of these diatoms and their significant contributions to primary production and biomass in seagrass meadow ecosystems.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "AY485466",
+    "CCMP410",
+    "Grammatophora oceanica"
+  ],
+  "resolution": 8.0
+}

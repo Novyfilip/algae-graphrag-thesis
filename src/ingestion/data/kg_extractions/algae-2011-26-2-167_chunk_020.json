@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "floridoside"}, {"compound_name": "digeneaside"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "floridoside", "predicate": "CONTAINS", "object": "LMWCs", "confidence": 1.0}, {"subject": "digeneaside", "predicate": "CONTAINS", "object": "LMWCs", "confidence": 1.0}]}

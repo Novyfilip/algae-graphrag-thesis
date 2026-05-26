@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Micractinium pusillum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "ponds"}], "markers": [], "applications": [], "relationships": [{"subject": "Micractinium pusillum", "predicate": "FOUND_IN", "object": "ponds", "confidence": 1.0}]}

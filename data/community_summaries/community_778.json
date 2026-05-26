@@ -1,0 +1,12 @@
+{
+  "community_id": 778,
+  "summary": "This cluster synthesizes historical and taxonomic research on marine macroalgae from the North Pacific and Bering Sea, spanning the Kamchatka Peninsula, Alaska, the Aleutian and Kuril Islands. The papers are connected by their reliance on early Russian and British expeditions—led by figures such as Steller, Krasheninnikov, and Lütke—to document and revise the region’s algal flora, with one study cataloging over 600 species across ten distinct biogeographic zones. Key findings include the taxonomic clarification of previously uncertain species and the establishment of a distributional framework for the Northwest Coast of the Bering Sea and Southeast Kamchatka. Together, these works provide a foundational ecological and evolutionary baseline for future research in these subarctic marine environments.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Myelophycus intestinalis",
+    "Myelophycus intestinalis f. complanata"
+  ],
+  "resolution": 8.0
+}

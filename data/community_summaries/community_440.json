@@ -1,0 +1,13 @@
+{
+  "community_id": 440,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally reshaped over the past half-century by the integration of gene sequencing, DNA barcoding, and phylogenetic analysis, which have collectively revealed a substantial increase in recognized species diversity. These molecular methods have enabled the discovery of numerous cryptic species and prompted the division of previously unified genera, driven by the expanded efforts of phycologists and researchers employing SCUBA for field collection. The geographic scope remains focused on the tropical and subtropical western Atlantic, where advances in sequencing technologies have directly challenged historical taxonomic assumptions and documented a far richer algal flora than previously understood.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Liagora valida",
+    "Sand Key, Florida, USA",
+    "Titanophycus"
+  ],
+  "resolution": 8.0
+}

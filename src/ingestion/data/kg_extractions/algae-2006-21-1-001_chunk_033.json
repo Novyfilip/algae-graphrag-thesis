@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "ClustalX"}, {"method_name": "T-COFFEE"}, {"method_name": "MUSCLE"}, {"method_name": "Neighbor-Joining"}, {"method_name": "Minimum Evolution"}, {"method_name": "parsimony"}, {"method_name": "likelihood methods"}, {"method_name": "PHYML"}], "environments": [], "markers": [], "applications": [], "relationships": []}

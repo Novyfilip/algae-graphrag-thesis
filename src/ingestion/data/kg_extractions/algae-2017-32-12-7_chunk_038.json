@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "U. pertusa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "intertidal zone"}], "markers": [], "applications": [], "relationships": [{"subject": "U. pertusa", "predicate": "FOUND_IN", "object": "intertidal zone", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pyropia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "biostimulant"}, {"application_name": "agriculture"}], "relationships": [{"subject": "Pyropia", "predicate": "PRODUCES", "object": "biostimulant", "confidence": 0.5}]}

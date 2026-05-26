@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Karlodinium veneficum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Tongyeong, Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Karlodinium veneficum", "predicate": "FOUND_IN", "object": "Tongyeong, Korea", "confidence": 1.0}]}

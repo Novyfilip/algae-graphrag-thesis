@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ecklonia cava", "taxonomic_rank": null}], "compounds": [{"compound_name": "phlorotannins"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "phlorotannins", "predicate": "PRODUCES", "object": "Ecklonia cava", "confidence": 1.0}]}

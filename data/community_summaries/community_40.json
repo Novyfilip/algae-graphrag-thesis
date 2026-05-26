@@ -1,0 +1,20 @@
+{
+  "community_id": 40,
+  "summary": "This cluster of research is geographically centered on Korean coastal waters, including the East Sea, South Sea, Yellow Sea, and specific estuaries and bays, with additional studies extending to Antarctic, Arctic, Japanese, and Tunisian waters. A central theme is the ecology, taxonomy, and physiological responses of diatoms (e.g., *Chaetoceros* spp., *Skeletonema costatum*, *Stephanodiscus hantzschii*, *Thalassiosira* spp.) and dinoflagellates (e.g., *Cochlodinium polykrikoides*, *Alexandrium* spp., *Gymnodinium catenatum*, *Prorocentrum* spp.) to environmental stressors such as salinity gradients, nutrient loading, thermal effluents from nuclear power plants, and light quality. Key findings included the identification of salinity thresholds (~300 psu) for live diatoms, the role of phosphate and nitrogen as limiting nutrients for bloom formation, and the significant impact of heated effluents on macroalgal community structure, often favoring warm-tolerant species like *Enteromorpha compressa* and *Ulva pertusa*. The cluster also emphasized methodological advancements in taxonomy (e.g., revised diatom classification systems, molecular phylogenetics for species delimitation), ecophysiology (e.g., mixotrophy, photoadaptation, and UV radiation effects), and applied research, including the use of microalgae for omega-3 production, bioremediation, and biofuel potential.",
+  "n_entities": 226,
+  "n_papers": 133,
+  "n_papers_with_summaries": 131,
+  "entity_sample": [
+    "3/a",
+    "A. spp.",
+    "AO",
+    "ASP",
+    "Alaska coasts",
+    "Anmyeondo/Chungnam",
+    "Argentine Sea",
+    "Asan Bay/Chungnam (36°54′51″ N, 126°54′16″ E)",
+    "Automated ascorbic acid reduction method",
+    "Bacillaria paxillifer"
+  ],
+  "resolution": 8.0
+}

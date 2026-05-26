@@ -1,0 +1,12 @@
+{
+  "community_id": 941,
+  "summary": "This cluster investigates the composition and distribution of summer macroalgal flora along the eastern coast of Korea, specifically within Youngil Bay, based on surveys conducted in July 1984. The research identified 134 algal species, including key taxa such as *Ulva pertusa*, *Dictyota dichotoma*, *Sargassum thunbergii*, and melobesioidean algae, with red algae being the most diverse group. A central finding was that dry weight biomass was slightly higher inside the bay compared to outside, indicating localized ecological variation. The geographic scope is narrowly focused on the temperate coastal waters of the Korean Peninsula, providing a baseline for understanding seasonal and spatial patterns in algal vegetation.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "coast of Deok-jeok Islands",
+    "ivvrroaleae"
+  ],
+  "resolution": 8.0
+}

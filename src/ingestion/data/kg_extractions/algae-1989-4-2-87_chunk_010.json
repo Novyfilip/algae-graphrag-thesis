@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Acetabularia calyculus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Acetabularia calyculus", "predicate": "STUDIED_WITH", "object": "Microtubules", "confidence": 1.0}]}

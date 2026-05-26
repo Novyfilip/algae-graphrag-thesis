@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. amplacapilli", "taxonomic_rank": "species"}, {"species_name": "Polysiphonia sensu lato", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. amplacapilli", "predicate": "BELONGS_TO", "object": "Polysiphonia sensu lato", "confidence": 1.0}]}

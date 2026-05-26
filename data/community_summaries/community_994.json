@@ -1,0 +1,12 @@
+{
+  "community_id": 994,
+  "summary": "This cluster of research focuses on the therapeutic potential of sulfated polysaccharides, specifically fucoidan fractions, derived from brown seaweed. Key findings demonstrated that these fucans possess significant antithrombotic activity, with studies evaluating their efficacy in rabbit models for the prophylactic treatment of deep venous thrombosis. The research involved chemical degradation and characterization of the polysaccharides to isolate specific bioactive fractions, comparing their effects to those of unfractionated heparin. The geographic and ecological scope is broadly centered on marine macroalgae, with the work emphasizing the unique properties of fucans, such as their long lifespan and molecular size, as promising candidates for clinical anticoagulant applications.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "high-molecular-weight fucan",
+    "low-molecular weight fucoidan"
+  ],
+  "resolution": 8.0
+}

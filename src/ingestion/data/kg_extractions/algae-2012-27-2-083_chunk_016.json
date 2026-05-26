@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. pusillum", "taxonomic_rank": "species"}, {"species_name": "Gelidium crinale", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "G. pusillum", "predicate": "BELONGS_TO", "object": "Gelidium crinale", "confidence": 0.5}]}

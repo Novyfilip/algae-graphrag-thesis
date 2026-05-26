@@ -1,0 +1,14 @@
+{
+  "community_id": 329,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally reshaped over the past half-century by the integration of gene sequencing technologies, DNA barcoding, and phylogenetic analysis, which have revealed extensive cryptic diversity and led to the division of previously recognized genera. These molecular methods, combined with increased field access via SCUBA, have significantly expanded the known species richness across this geographic scope, highlighting a pattern of previously overlooked taxonomic complexity. The cluster underscores a shift from morphology-based identification to molecular systematics as the primary driver of new species discovery and taxonomic revision in this region.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "B. curassavicum",
+    "Bakothamnion",
+    "Balliella pseudocorticata",
+    "Curaçao, Netherland Antilles"
+  ],
+  "resolution": 8.0
+}

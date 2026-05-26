@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sphacelariales", "taxonomic_rank": "order"}, {"species_name": "Phaeophyceae", "taxonomic_rank": "class"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Sphacelariales", "predicate": "BELONGS_TO", "object": "Phaeophyceae", "confidence": 0.5}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 633,
+  "summary": "This cluster synthesizes the historical documentation and early taxonomic exploration of marine algae in the upper North Pacific and Bering Sea region, primarily during the 18th and 19th centuries. The papers are connected by their focus on the collection and identification of diverse algal species from specific geographic locales, including the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands. Key findings center on the contributions of Russian and British expeditions, led by figures such as Steller, Chamisso, and Voznesenskii, who systematically documented the region’s algal biodiversity. The cluster establishes a foundational baseline for the historical biogeography and species discovery of North Pacific marine algae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Carpacanthus trichophyllus",
+    "Sargassum trichophyllum"
+  ],
+  "resolution": 8.0
+}

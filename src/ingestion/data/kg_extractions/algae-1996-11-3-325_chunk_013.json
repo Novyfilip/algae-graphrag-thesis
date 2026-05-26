@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "phase contrast microscopy"}, {"method_name": "Sedgwick-Rafter chamber counting"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "phase contrast microscopy", "predicate": "STUDIED_WITH", "object": "Sedgwick-Rafter chamber counting", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "N. scintillans", "taxonomic_rank": null}, {"species_name": "D. salina", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "N. scintillans", "predicate": "CONTAINS", "object": "D. salina", "confidence": 0.5}]}

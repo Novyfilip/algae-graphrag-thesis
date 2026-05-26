@@ -1,0 +1,20 @@
+{
+  "community_id": 130,
+  "summary": "This cluster of papers is united by a focus on the biodiversity, taxonomy, and ecological dynamics of freshwater and marine algae, with a strong geographic emphasis on the Korean Peninsula, India, and other regions such as Antarctica and the Eastern Pacific. Key species frequently studied include diatoms (e.g., *Stephanodiscus hantzschii*, *Aulacoseira* spp.), cyanobacteria (e.g., *Microcystis aeruginosa*, *Oscillatoria* spp.), and green algae (e.g., *Closterium*, *Cosmarium*, *Spirogyra*), often in the context of eutrophication, water quality assessment, and bloom dynamics. Methodologically, the research relied on morphological identification, molecular phylogenetics (e.g., rDNA ITS, tufA, 16S), and pigment analysis to characterize algal communities across diverse habitats, including rivers, reservoirs, marshes, stone cultural properties, and intertidal zones. A recurring pattern was the influence of hydrological factors, nutrient loading (TN, TP), and seasonal temperature shifts on phytoplankton composition and standing crop, with many studies reporting shifts from diatom dominance in winter to cyanobacterial blooms in summer.",
+  "n_entities": 131,
+  "n_papers": 96,
+  "n_papers_with_summaries": 95,
+  "entity_sample": [
+    "Ankistrodesmaceae",
+    "Ankistrodesmus",
+    "Ankistrodesmus bernardii",
+    "Ankistrodesmus biplex",
+    "Ankistrodesmus lundbergii",
+    "Ankistrodesmus sp. 1507",
+    "Ankistrodesmus spiralis",
+    "Ankyra ocellata",
+    "Antarctic region",
+    "Asterochloris sp."
+  ],
+  "resolution": 8.0
+}

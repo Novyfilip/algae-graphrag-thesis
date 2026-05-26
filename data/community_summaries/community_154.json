@@ -1,0 +1,20 @@
+{
+  "community_id": 154,
+  "summary": "This cluster of research is predominantly centered on Korean coastal and freshwater ecosystems, with a strong emphasis on the ecology, physiology, and biotechnological applications of diatoms and dinoflagellates. Key findings reveal that salinity thresholds (~300 psu) and nutrient dynamics (particularly phosphate and silicate limitation) critically structure benthic and planktonic diatom communities, as seen in studies of solar salterns and the Nakdong River, while species such as *Stephanodiscus*, *Chaetoceros*, and *Cochlodinium polykrikoides* are recurrent subjects of bloom dynamics and harmful algal event monitoring. The cluster also integrates applied phycology, investigating antioxidant and anti-inflammatory compounds from macroalgae like *Ecklonia cava* and *Hizikia fusiformis*, alongside the characterization of novel pathogens (e.g., the diatom virus SpalV and the parasitoid *Pseudopirsonia* sp.) and genetic markers for strain differentiation in *Pyropia yezoensis*. Methodologically, the papers frequently employ molecular tools (qPCR, metabarcoding, phylogenetic analysis), physiological assays (photosynthetic performance, antioxidant activity), and field surveys to address themes of biodiversity, environmental stress (UV-B, nutrient limitation), and the ecological roles of microalgae in Korean waters and polar regions.\n\n**Note:** The above paragraph is a synthesis of the provided summaries, but it is important to note that the original request included a paper summary titled \"The Impact of Neural Networks on Natural Language Processing\" and \"The Impact of Machine Learning on Data Science,\" which are clearly unrelated to algae research. These have been omitted from the synthesis as they do not belong to the thematic cluster.",
+  "n_entities": 117,
+  "n_papers": 99,
+  "n_papers_with_summaries": 98,
+  "entity_sample": [
+    "A and B sites",
+    "A3",
+    "AB183590",
+    "AM501957",
+    "Achnanthes sp. 1",
+    "Amphora sp.",
+    "Amphora sp.a",
+    "Antioxidants",
+    "B6",
+    "BR"
+  ],
+  "resolution": 8.0
+}

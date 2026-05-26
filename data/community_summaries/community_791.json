@@ -1,0 +1,12 @@
+{
+  "community_id": 791,
+  "summary": "This cluster centers on the long-term curation and application of marine microalgae strains, specifically through the Korea Marine Microalgae Culture Center (KMMCC), which was established in 1995. The collection, comprising approximately 1,400 strains with 84% originating from Korean waters and 48% maintained in an axenic state, was initially developed to supply live food for aquaculture before expanding to support broader taxonomic and research applications. The geographic scope is predominantly coastal Korea, reflecting a national effort to preserve and utilize local biodiversity. Key findings highlight the strategic shift from a purely aquacultural purpose to a foundational resource for scientific investigation, emphasizing the importance of strain purity and regional provenance.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Buan coast surface water",
+    "Nitzschia fonticula"
+  ],
+  "resolution": 8.0
+}

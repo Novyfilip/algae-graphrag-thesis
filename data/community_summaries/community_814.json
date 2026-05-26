@@ -1,0 +1,12 @@
+{
+  "community_id": 814,
+  "summary": "This cluster of research focused on the ecological and evolutionary significance of the carotenoid pigment siphonaxanthin in marine green algae, particularly its role in adaptation to deep-water environments. Studies demonstrated that deep-water algal species, in contrast to shallow-water species, commonly contain siphonaxanthin, which was identified as a key adaptation for surviving under reduced light and increased ultraviolet radiation. The research traced the evolutionary transition from lutein to siphonaxanthin in these algae, linking changes in thallus color and photosynthetic pigment composition directly to specific environmental pressures. The geographic scope was centered on marine habitats, with findings suggesting that siphonaxanthin originated in deep-water lineages as a critical evolutionary innovation for colonizing low-light niches.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Marine Green Algae",
+    "Photosynthetic Pigments"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bostrychia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Bostrychia", "predicate": "STUDIED_WITH", "object": "fertilization", "confidence": 0.5}]}

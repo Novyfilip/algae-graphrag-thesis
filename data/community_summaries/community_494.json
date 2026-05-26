@@ -1,0 +1,13 @@
+{
+  "community_id": 494,
+  "summary": "This cluster synthesizes historical and taxonomic research on marine macroalgae from the North Pacific and Bering Sea, spanning the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands. The papers are connected by their reliance on early Russian and British expeditions—particularly those led by Steller, Krasheninnikov, Litke, and Voznesenskii—to document and revise the region’s algal flora, with one study cataloging over 600 species. Key findings include the taxonomic clarification of previously uncertain species and the delineation of ten distinct biogeographic regions along the Northwest Coast of the Bering Sea and Southeast Kamchatka. The geographic scope is narrowly focused on subarctic and Arctic Pacific waters, emphasizing the foundational role of 18th- and 19th-century collections in establishing modern species inventories and distributional patterns.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Alaria valida",
+    "Unga, Alaska",
+    "west coast of Whidbey Island, Washington"
+  ],
+  "resolution": 8.0
+}

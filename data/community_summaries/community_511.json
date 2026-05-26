@@ -1,0 +1,13 @@
+{
+  "community_id": 511,
+  "summary": "This cluster investigates oxylipin-mediated stress signaling and defense mechanisms in brown algae, specifically focusing on the potent oxidative burst triggered by prostaglandin A2 (PGA2) in *Laminaria digitata*. The research demonstrates that PGA2 induces a dose-dependent, diphenylene iodonium-insensitive response that is significantly stronger than other known chemical elicitors, suggesting a novel and specific defense pathway distinct from those in other algal models like *Ectocarpus siliculosus*. The studies are primarily laboratory-based, examining biochemical and physiological responses at the cellular level rather than field ecology, and they highlight the role of oxylipins as conserved yet species-specific immune signals in brown macroalgae.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "brown algal models",
+    "control the attack of eukaryotic endophytes",
+    "control the growth of bacterial biofilms"
+  ],
+  "resolution": 8.0
+}

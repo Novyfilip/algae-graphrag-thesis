@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "chloramphenicol"}, {"compound_name": "3-acetoxy chloramphenicol"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "chloramphenicol", "predicate": "PRODUCES", "object": "3-acetoxy chloramphenicol", "confidence": 0.5}]}

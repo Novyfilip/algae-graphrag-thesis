@@ -1,0 +1,20 @@
+{
+  "community_id": 197,
+  "summary": "This cluster of research focuses extensively on the diversity, ecology, and molecular characterization of dinoflagellates and other protists in Korean coastal waters, with a particular emphasis on mixotrophic and harmful algal bloom species such as *Yihiella yeosuensis*, *Ansanella granifera*, *Karlodinium veneficum*, and *Cochlodinium polykrikoides*. Studies employed quantitative PCR, droplet digital PCR, and metabarcoding to track species distributions, grazing impacts, and responses to environmental factors like temperature, salinity, and hypoxia, revealing strong seasonal and spatial patterns in Jinhae Bay, Masan Bay, and Tongyeong. The cluster also includes work on red and green algae such as *Spirogyra varians*, *Bostrychia moritziana*, and *Pyropia yezoensis*, focusing on gene expression, phototropin function, RNA extraction methods, and biotechnological applications including recombinant protein production and bioactive compound isolation. Across the corpus, a shared methodological emphasis on molecular tools—real-time PCR, transcriptomics, proteomics, and phylogenetics—was used to resolve taxonomic ambiguities, characterize physiological responses to light and stress, and assess the ecological roles of these algae in temperate marine and freshwater systems.",
+  "n_entities": 87,
+  "n_papers": 48,
+  "n_papers_with_summaries": 47,
+  "entity_sample": [
+    "1,3-diphosphoglycerate",
+    "18:4/18:4 DGDG",
+    "18:5/18:4 DGDG",
+    "18:5/18:4 MGDG",
+    "18:5/18:5 DGDG",
+    "18:5/18:5 MGDG",
+    "2−ΔΔCT method",
+    "30S",
+    "36:9 DGDG",
+    "36:9 MGDG"
+  ],
+  "resolution": 8.0
+}

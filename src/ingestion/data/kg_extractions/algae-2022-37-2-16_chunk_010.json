@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Griffithsia monilis", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "microinjection of fluorescent tracers"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Griffithsia monilis", "predicate": "STUDIED_WITH", "object": "microinjection of fluorescent tracers", "confidence": 1.0}]}

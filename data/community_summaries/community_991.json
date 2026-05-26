@@ -1,0 +1,12 @@
+{
+  "community_id": 991,
+  "summary": "This cluster focuses on the taxonomic revision and phylogenetic resolution of morphologically challenging red algae within the genus *Gelidium* (Gelidiales, Rhodophyta), primarily using mitochondrial *cox1* and plastid *rbcL* gene sequences. Key findings include the confirmation of *Gelidium crinale* as a distinct, cosmopolitan species distributed across East Asia, Australia, Europe, and North America, while *G. pusillum* is restricted to Europe and Atlantic North America, with a sister relationship to *G. coulteri* and *G. capense*. The studies also propose the combination *Gelidium zollingeri* and reveal high *cox1* haplotype diversity in that species, indicating a significant evolutionary history. Geographically, the research spans East Asia, Australia, Europe, and North America, and it consistently highlights the difficulty of differentiating small, morphologically plastic species within the genus, underscoring the need for molecular markers to resolve taxonomic ambiguities.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "DnaSP software",
+    "haplotype and nucleotide diversity measurements"
+  ],
+  "resolution": 8.0
+}

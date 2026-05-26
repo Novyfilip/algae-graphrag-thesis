@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "shore"}], "markers": [], "applications": [], "relationships": [{"subject": "germling growth", "predicate": "AFFECTS", "object": "shore", "confidence": 0.5}, {"subject": "germling survival", "predicate": "AFFECTS", "object": "shore", "confidence": 0.5}]}

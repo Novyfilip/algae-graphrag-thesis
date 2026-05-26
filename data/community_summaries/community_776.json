@@ -1,0 +1,12 @@
+{
+  "community_id": 776,
+  "summary": "This cluster of papers investigates the phylogenetic relationships and ecological distribution of diverse dinoflagellate species, specifically those collected from coastal waters off Korea. Using LSU rDNA sequences, the research reconstructed a phylogenetic tree encompassing 74 species, including the first reports of *Amylax triacantha*, *Gonyaulax verior*, and *Katodinium glaucum* in the region. A key finding was the formation of a strongly supported monophyletic group within the Dinophyceae, which highlighted distinct evolutionary lineages among the orders Dinoflagellate, Gymnodiniales, and Peridiniales. The work emphasizes the geographic and ecological specificity of these organisms along the Korean coast, contributing to a broader understanding of dinoflagellate biodiversity and evolutionary history in temperate Northeast Asian waters.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AIC model selection strategy",
+    "MrModeltest 2.2"
+  ],
+  "resolution": 8.0
+}

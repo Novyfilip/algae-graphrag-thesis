@@ -1,0 +1,12 @@
+{
+  "community_id": 675,
+  "summary": "This cluster investigates the seasonal dynamics and community structure of phytoplankton in freshwater marsh ecosystems, specifically the Paksil and Jungyang marshes, over a one-year period from April 2002 to March 2003. The research identified 421 phytoplankton taxa, with Bacillariophyceae (diatoms) dominating in abundance, followed by Chlorophyceae and other algal classes, and found that peak algal densities occurred in October for Paksil marsh and July for Jungyang marsh. A key pattern across the cluster is the significant temporal variation in phytoplankton diversity, which was inversely correlated with the dominance index, and a marked difference in overall algal composition and diversity between the two geographically distinct marshes.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Desmids류",
+    "우포늪"
+  ],
+  "resolution": 8.0
+}

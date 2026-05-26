@@ -1,0 +1,12 @@
+{
+  "community_id": 913,
+  "summary": "This cluster of papers investigates the antimicrobial properties of volatile and lipid fractions extracted from marine algae, spanning the taxonomic groups Chlorophyceae, Phaeophyceae, and Rhodophyceae. Key findings demonstrated that Chlorophyceae species exhibited the strongest activity against *Bacillus subtilis*, while the brown algae *Sargassum sagamianum* and *Laminaria religiosa* were particularly effective against *Staphylococcus aureus*. The research further characterized that neutral fractions of volatiles showed notable broad-spectrum activity, whereas phenolic and acidic fractions displayed variable efficacy depending on the target microbial strain. Geographically and ecologically, the studies focused on temperate marine macroalgae, with compositional analyses revealing significant interspecies variation in carbohydrate, protein, and amino acid profiles, notably high levels of aspartic and glutamic acids.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ura pertusa",
+    "volatile acids"
+  ],
+  "resolution": 8.0
+}

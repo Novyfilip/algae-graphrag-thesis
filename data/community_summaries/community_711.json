@@ -1,0 +1,12 @@
+{
+  "community_id": 711,
+  "summary": "This cluster focuses on the taxonomy and systematics of the freshwater algal class Conjugatophyceae (formerly Zygnematophyceae), with a particular emphasis on resolving the nomenclature and classification of key genera such as *Mougeotia*, *Mougeotiopsis*, and *Transeauina*. The research synthesizes historical taxonomic revisions and reclassifications, tracing the evolution of the group from an order to a newly defined class. A central finding is the significant reorganization of species boundaries and higher-level groupings, with the number of currently described species and their distribution within the class being updated based on data from AlgaeBase. The geographic and ecological scope is exclusively freshwater, reflecting the habitat of these conjugating green algae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ghosella",
+    "Ghosella indica"
+  ],
+  "resolution": 8.0
+}

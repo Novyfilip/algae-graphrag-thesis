@@ -1,0 +1,13 @@
+{
+  "community_id": 503,
+  "summary": "This cluster of papers focuses on the occurrence and characterization of cyanotoxins, specifically microcystin-type hepatotoxins, in eutrophic freshwater reservoirs. The research identified a novel toxin closely related to microcystin-LR in the Sonaktong Reservoir, with concentrations ranging from 335 to 823 µg/g dry weight as determined by HPLC. A positive correlation was established between toxin levels and chlorophyll a, indicating a link between algal biomass and toxicity, while Microtox™ and mouse bioassays confirmed significant acute toxicity (LD50 of 150-700 mg/kg). The findings underscore the ecological and public health risks posed by cyanobacterial blooms in temperate, eutrophic water bodies, particularly regarding water quality management and potential exposure for local human and animal populations.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Microtox™ Toxicity test system",
+    "blue green algal blooms",
+    "in vivo bioluminescence assays"
+  ],
+  "resolution": 8.0
+}

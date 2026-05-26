@@ -1,0 +1,12 @@
+{
+  "community_id": 844,
+  "summary": "This cluster focuses on the taxonomic discovery and morphological characterization of freshwater algae, with a particular emphasis on the genera *Epipyxis* and *Dinobryon*. The research was conducted in South Korea, specifically within the swamps and reservoirs of Changnyong county, including the Tchokjibul region. Key findings include the identification of ten new species and varieties, such as *Dinobryon suecicum var. longispinum*, distinguished by features like cylindrical loricae, solitary arrangements, and the presence of yellow-brown chromatophores. The studies relied on microscopic examination and detailed drawings to document these novel taxa, expanding the known biodiversity of Korean freshwater ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Kugae reservoir",
+    "Raphidiopsis mediterranea"
+  ],
+  "resolution": 8.0
+}

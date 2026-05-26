@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Spatoglossum crassum", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "Indoor culture"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Spatoglossum crassum", "predicate": "STUDIED_WITH", "object": "Indoor culture", "confidence": 1.0}]}

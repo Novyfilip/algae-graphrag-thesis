@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. saccharophila", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "Confocal imaging"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. saccharophila", "predicate": "STUDIED_WITH", "object": "Confocal imaging", "confidence": 1.0}]}

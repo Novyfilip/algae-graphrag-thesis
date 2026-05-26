@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "L. elsbetiae", "taxonomic_rank": "species"}, {"species_name": "Ectocarpales", "taxonomic_rank": "order"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "L. elsbetiae", "predicate": "BELONGS_TO", "object": "Ectocarpales", "confidence": 1.0}]}

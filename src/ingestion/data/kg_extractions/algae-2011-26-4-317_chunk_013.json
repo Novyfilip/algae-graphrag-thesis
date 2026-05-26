@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gambierdiscus polynesiensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Pakistan Waters"}], "markers": [], "applications": [], "relationships": [{"subject": "Gambierdiscus polynesiensis", "predicate": "FOUND_IN", "object": "Pakistan Waters", "confidence": 1.0}]}

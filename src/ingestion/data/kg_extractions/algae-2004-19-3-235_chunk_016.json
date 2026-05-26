@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Mara-do"}, {"environment_name": "U-do"}, {"environment_name": "Subji"}], "markers": [], "applications": [], "relationships": [{"subject": "PO,-P", "predicate": "AFFECTS", "object": "pH", "confidence": 1.0}]}

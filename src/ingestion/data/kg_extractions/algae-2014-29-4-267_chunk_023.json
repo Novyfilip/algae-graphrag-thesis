@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ulva sp.", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Yellow Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "Ulva sp.", "predicate": "FOUND_IN", "object": "Yellow Sea", "confidence": 1.0}]}

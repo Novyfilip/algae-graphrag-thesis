@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "L. multiplicata", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "microscopic observations"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "L. multiplicata", "predicate": "STUDIED_WITH", "object": "microscopic observations", "confidence": 1.0}]}

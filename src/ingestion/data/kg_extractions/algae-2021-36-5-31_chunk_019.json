@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Gambierdiscus sp. type 2", "taxonomic_rank": "species"}, {"species_name": "Gambierdiscus", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Gambierdiscus sp. type 2", "predicate": "BELONGS_TO", "object": "Gambierdiscus", "confidence": 1.0}]}

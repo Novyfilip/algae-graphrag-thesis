@@ -1,0 +1,12 @@
+{
+  "community_id": 835,
+  "summary": "This cluster connects through a shared focus on microalgae, particularly diatoms and green algae such as *Chlorella vulgaris* and *Spirulina platensis*, though the research diverges sharply between applied biotechnology and ecological field studies. One line of work investigated the commercial cultivation and industrial applications of these species for nutraceuticals, cosmetics, and biofuels, emphasizing historical optimization of production methods. In contrast, a separate ecological study conducted in the Togyo Reservoir in Chulwon, Korea, characterized natural phytoplankton and periphyton communities, identifying 150 taxa with a dominance of pennate diatoms over green algae and noting a significant increase in epipelic algae. The latter research highlighted the structural role of raphe-bearing diatoms within the periphyton, situating the findings within the specific freshwater ecosystem of the Korean reservoir.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Pseudodictyosphaerium",
+    "Pseudodictyosphaerium minusculum"
+  ],
+  "resolution": 8.0
+}

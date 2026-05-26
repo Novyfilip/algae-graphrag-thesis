@@ -1,0 +1,15 @@
+{
+  "community_id": 307,
+  "summary": "This cluster of research focuses on the metabolic versatility of microalgae, specifically their ability to operate under autotrophic, heterotrophic, and mixotrophic growth regimes to remediate carbon-rich waste streams. A key finding across the studies is the targeted removal of nutrient-derived compounds, particularly nitrates and dissolved organic nitrogen, from wastewater through novel bioremediation approaches. The investigations emphasize the identification and manipulation of extremophilic algal strains to enhance metabolic pathways for improved nutrient removal efficiency. The geographic and ecological scope is broadly defined by the application of these extremophiles in industrial and municipal wastewater treatment systems.",
+  "n_entities": 5,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Nitzschia cf pellucida",
+    "brominated metabolites",
+    "bromine cyanide",
+    "iodinated metabolites",
+    "iodine cyanide"
+  ],
+  "resolution": 8.0
+}

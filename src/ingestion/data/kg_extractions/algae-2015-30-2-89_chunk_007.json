@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "RAPD"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "RAPD", "predicate": "STUDIED_WITH", "object": "small-scale geographical research", "confidence": 1.0}, {"subject": "RAPD", "predicate": "STUDIED_WITH", "object": "inter- and intrapopulation differentiation", "confidence": 1.0}]}

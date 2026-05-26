@@ -1,0 +1,12 @@
+{
+  "community_id": 589,
+  "summary": "This cluster of research focuses on the taxonomic revision and discovery of hidden diversity within the freshwater red algal genus *Sheathia* (Batrachospermales, Rhodophyta), particularly the *Sheathia arcuata* morphospecies complex. Studies employed phylogenetic analysis of the *rbcL* gene and morphological comparisons to delineate new species, collectively expanding the recognized number of *Sheathia* species to 17 and revealing significant cryptic diversity across the Pacific and Eastern Himalayan regions. Key findings include the description of seven new species—*S. abscondita*, *S. californica*, *S. plantuloides*, *S. transpacifica*, *S. assamica*, *S. indonepalensis*, and *S. dispersa*—many of which share a morphological trait of lacking heterocortication. The geographic scope spans North America (California), East Asia, and the Eastern Himalaya biodiversity hotspot (northeast India and east Nepal), underscoring the genus’s broad but understudied distribution.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Acarposporophycos",
+    "Acarposporophytum"
+  ],
+  "resolution": 8.0
+}

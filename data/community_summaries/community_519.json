@@ -1,0 +1,13 @@
+{
+  "community_id": 519,
+  "summary": "This cluster synthesizes research employing molecular data and advanced sequencing technologies to resolve taxonomic and evolutionary relationships within red algae (Rhodophyta), specifically the family Delesseriaceae. Studies utilized next-generation sequencing (NGS) platforms such as Illumina and Ion Torrent to analyze organelle and metagenome data, enabling the revision of taxonomic frameworks for North American and North Pacific species. Molecular markers revealed a close genetic relationship between *Cumathamnion* and certain *Delesseria* species, leading to the reclassification of *D. decipiens* and *D. serrulata* into *Cumathamnion* under the proposed name *C. platyphylla*. The geographic scope centered on the North Atlantic, Baltic Sea, and North Pacific regions, with findings highlighting distinct evolutionary histories that challenge morphology-based classifications.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Geneious Pro",
+    "ORF Finder",
+    "gene prediction"
+  ],
+  "resolution": 8.0
+}

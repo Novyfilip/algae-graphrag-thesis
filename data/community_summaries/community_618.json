@@ -1,0 +1,12 @@
+{
+  "community_id": 618,
+  "summary": "This cluster investigates the taxonomy and biogeography of cold-adapted cyanobacteria, specifically focusing on the genus *Wilmottia* and the reclassified *W. arthurensis*, isolated from Antarctic and New Zealand environments. Researchers employed a polyphasic approach integrating morphological, cytological, and molecular analyses, including 16S rDNA sequencing, to resolve phylogenetic relationships and identify distinct morphotypes. Key findings included the confirmation of *W. murrayi* across a significantly expanded Antarctic range and the proposal of a novel combination for *Phormidium arthurensis*. The work underscores the taxonomic significance of these cyanobacteria and their distribution patterns across diverse polar and subpolar ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Bayesian posterior probability calculation",
+    "uncorrected pairwise genetic distances (p-distance) calculation"
+  ],
+  "resolution": 8.0
+}

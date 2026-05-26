@@ -1,0 +1,20 @@
+{
+  "community_id": 34,
+  "summary": "This cluster of research focuses on the cultivation, bioactive compound extraction, and genetic characterization of red and brown seaweeds, particularly from Korean and Jeju Island waters, with significant emphasis on species such as *Ecklonia cava*, *Undaria pinnatifida*, *Pyropia yezoensis*, and *Gracilaria* spp. Key findings across the cluster demonstrated that enzymatic hydrolysis, ultrasound-assisted extraction, and deep seawater cultivation enhanced yields of antioxidant, anti-inflammatory, and anticoagulant compounds, including fucoidans, phlorotannins, and polyphenols, with specific bioactivities confirmed against LPS-induced inflammation in RAW 264.7 macrophages and in zebrafish models. Genetic studies revealed moderate intraspecific diversity and shallow phylogeographic structure in *Chondrus* and *Hypnea* species across the northwest Pacific, while novel haplotypes of *Kappaphycus* from the Philippines and cryptic species of *Portieria* from Korea, Japan, and Taiwan highlighted the need for conservation of genetic resources. The geographic scope was predominantly centered on Korean coastal ecosystems, Jeju Island, and the northwest Pacific, with additional studies addressing seaweed diversity in India, Sri Lanka, Mexico, and Europe, and the ecological role of seaweeds in bioremediation, carbon sequestration, and as bioindicators of thermal pollution.",
+  "n_entities": 236,
+  "n_papers": 100,
+  "n_papers_with_summaries": 99,
+  "entity_sample": [
+    "1C-NMR",
+    "3,6-anhydro-D-galactose",
+    "3,6-anhydro-D-galactose-2-sulfate",
+    "3,6-anhydro-L-galactose",
+    "3,6-anhydrogalactose",
+    "AOAC (1990)",
+    "Acid extraction",
+    "Ameliorates hyperoxaluria",
+    "Angiotensin-converting enzyme (ACE)",
+    "Anti-HIV"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,20 @@
+{
+  "community_id": 167,
+  "summary": "This cluster of papers is predominantly centered on the taxonomic, phylogenetic, and ecological characterization of freshwater and marine microalgae from Korean coastal waters, estuaries, and inland wetlands, with a strong emphasis on dinoflagellates, euglenophytes, and cryptophytes. Researchers employed molecular markers such as SSU and LSU rDNA sequences alongside morphological analysis to resolve species boundaries, identify cryptic diversity, and document first records, including *Ansanella granifera*, *Pelagodinium bei*, and *Amphidinium massartii* from Korean waters. Key findings revealed that mixotrophic and heterotrophic feeding strategies, as seen in *Polykrikos lebourae* and *Gymnodinium smaydae*, influence bloom dynamics and omega-3 fatty acid production, while studies on *Euglena* and *Cryptomonas* highlighted the limitations of morphology-only taxonomy. Geographically, the research focused on the Korean Peninsula and Jeju Island, with additional comparisons to Arctic, Antarctic, and Pacific Ocean isolates, underscoring the region's role as a biodiversity hotspot for algal systematics and ecophysiology.",
+  "n_entities": 108,
+  "n_papers": 56,
+  "n_papers_with_summaries": 54,
+  "entity_sample": [
+    "12:0",
+    "14:0",
+    "16:0",
+    "16:0 fatty acid",
+    "16:2",
+    "16:2(n-6)",
+    "16:3",
+    "16:3(n-3)",
+    "16:4",
+    "16:4 fatty acid"
+  ],
+  "resolution": 8.0
+}

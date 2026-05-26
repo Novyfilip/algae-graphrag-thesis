@@ -1,0 +1,20 @@
+{
+  "community_id": 181,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and biogeography of marine and freshwater algae, predominantly from Korean coastal waters and the Northwest Pacific region. Researchers frequently employed molecular markers such as *rbcL*, *psbA*, and SSU rDNA to resolve species boundaries and cryptic diversity, leading to the description of numerous new taxa including *Griffithsia okiensis*, *Pyropia retorta*, *Alsidium oliveiranum*, *Grateloupia jejuensis*, and multiple *Polysiphonia* and *Ulva* species. A recurring pattern across the cluster was the use of morphological comparisons combined with DNA barcoding to reclassify previously confused species complexes, such as those within *Codium*, *Amphora*, and *Cocconeis*, while several studies highlighted the role of historical refugia and ocean currents in shaping the distribution of endemic species like *Pyropia* and *Chondrus* in the region. The geographic scope was heavily centered on South Korea, particularly Jeju Island, with additional contributions from Japan, India, the Antarctic, and the Mediterranean, reflecting a regional emphasis on documenting algal biodiversity and its ecological and evolutionary drivers.",
+  "n_entities": 98,
+  "n_papers": 58,
+  "n_papers_with_summaries": 58,
+  "entity_sample": [
+    "17 coastal Korean sites",
+    "A. cf. capitellata",
+    "A. cf. fogediana",
+    "A. coffeacformis",
+    "A. lineolata",
+    "A. marina",
+    "ABI PRISMTM 3730 xl DNA Sequencer",
+    "AJ243061",
+    "AJ535158",
+    "AM501958"
+  ],
+  "resolution": 8.0
+}

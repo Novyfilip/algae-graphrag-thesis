@@ -1,0 +1,12 @@
+{
+  "community_id": 1082,
+  "summary": "This cluster focuses on the cryopreservation of red algal species within the genus *Porphyra* from Korea, specifically *P. serata*, *P. yezoensis*, *P. tenera*, *P. pseudolinearis*, and *P. dentata*. The research established a two-step cooling method using liquid nitrogen and cryoprotectants such as dimethylsulfoxide and sorbitol to maintain sporothalli viability. Key findings demonstrated that this technique offers a viable long-term preservation alternative to liquid culture media, adapting principles from land plant freezing protocols to address the limitations of existing algal preservation methods.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Chlorella emersonii",
+    "slow cooling to -40°C"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. vanbosseae", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "spring"}], "markers": [], "applications": [], "relationships": [{"subject": "A. vanbosseae", "predicate": "FOUND_IN", "object": "spring", "confidence": 1.0}]}

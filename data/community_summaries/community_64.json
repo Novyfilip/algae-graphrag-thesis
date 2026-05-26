@@ -1,0 +1,20 @@
+{
+  "community_id": 64,
+  "summary": "This cluster of research is strongly centered on the red alga *Pyropia yezoensis* (also referred to as *Neopyropia yezoensis*), a species of significant economic importance in Korean aquaculture, with studies investigating its thermal and cold stress tolerance, light quality adaptation, asexual reproduction, genetic variation, and pathogen susceptibility to oomycetes like *Pythium chondricola* and *Pythium porphyrae*. A parallel focus on Korean seaweed aquaculture is evident, with research on the brown kelps *Undaria pinnatifida* and *Saccharina japonica* examining population structure, biochemical composition, and carbon sequestration potential, alongside work on *Gracilaria* and *Sargassum* species for cultivation and bioremediation. Methodologically, the cluster is unified by the use of molecular tools such as 16S rRNA and ITS sequencing for taxonomic characterization of novel cyanobacteria (e.g., *Violetonostoc minutum*, *Nodosilinea* spp.) and diatoms, as well as transcriptomic and gene expression analyses to understand stress responses and metabolic pathways. Geographically, the research is overwhelmingly centered on Korean coastal and freshwater ecosystems, with additional studies from Japan, China, the United States, and Thailand, reflecting a regional emphasis on optimizing seaweed production, disease management, and the biotechnological potential of microalgae for bioactive compounds, omega-3 fatty acids, and biofuels.",
+  "n_entities": 188,
+  "n_papers": 73,
+  "n_papers_with_summaries": 72,
+  "entity_sample": [
+    "18S rRNA phylogenetic analysis",
+    "70% ethanol extracts",
+    "Acetone",
+    "Acetone : methanol",
+    "Agar diffusion",
+    "Antarctic seawater",
+    "Aphaedo [Shinan]",
+    "Aphaedo, Shinan, Korea",
+    "Arachidonic acid",
+    "Asterarcys"
+  ],
+  "resolution": 8.0
+}

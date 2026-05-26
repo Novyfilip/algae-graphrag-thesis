@@ -1,0 +1,12 @@
+{
+  "community_id": 903,
+  "summary": "This cluster of research is connected by a focus on the isolation, genetic manipulation, and biotechnological application of specific algal species, primarily red and green algae. Methodologically, the papers share a reliance on molecular techniques, including DNA extraction for *Porphyra tenera* using diatomaceous earth and the transformation of *Chlorella vulgaris* via the pCAMBIA1304 vector to express recombinant bovine lactoferrin. A key finding across the cluster is the characterization of novel alkaliphilic strains from Lake Okeechobee, Florida, particularly *Fustulifera sp. 154-3*, which demonstrated high lipid accumulation (20-30% dry weight) rich in palmitoleic acid and eicosapentanoic acid, highlighting a shared interest in biofuel and high-value compound production. The geographic scope spans both marine (*P. tenera*) and freshwater (Lake Okeechobee) environments, with a common emphasis on developing reproducible methods for strain evaluation and genetic engineering.",
+  "n_entities": 2,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Tris hydrochloride",
+    "resuspension"
+  ],
+  "resolution": 8.0
+}

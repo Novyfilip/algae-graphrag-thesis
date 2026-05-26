@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "subtidal"}, {"environment_name": "NSW"}, {"environment_name": "Queensland"}], "markers": [], "applications": [], "relationships": [{"subject": "subtidal", "predicate": "AFFECTS", "object": "plants", "confidence": 0.5}]}

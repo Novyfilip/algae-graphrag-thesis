@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "marine macroalgae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "hypersaline water"}], "markers": [], "applications": [], "relationships": [{"subject": "hypersaline water", "predicate": "AFFECTS", "object": "marine macroalgae", "confidence": 1.0}]}

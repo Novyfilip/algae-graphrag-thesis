@@ -1,0 +1,12 @@
+{
+  "community_id": 784,
+  "summary": "This cluster is connected by a focus on microalgae, particularly diatoms and green algae, and their ecological roles or commercial applications. Research on *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis* emphasized cultivation optimization for nutraceuticals, cosmetics, and biofuels, reflecting a broader pattern of industrial valorization. In contrast, a study of the Togyo Reservoir in Korea documented the dominance of pennate diatoms over green algae within the periphyton community, identifying 150 phytoplankton taxa and linking diatom prevalence to raphe structures. Together, these works span both applied biotechnology and freshwater ecology, with geographic scope ranging from general commercial systems to a specific Korean reservoir.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Nakdong River/Busan (35°06′17″ N, 128°53′42″ E), reservoir, surface water",
+    "Uroglena volvox"
+  ],
+  "resolution": 8.0
+}

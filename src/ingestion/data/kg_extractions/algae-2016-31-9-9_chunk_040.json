@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "E. deses", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "paramylon"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "E. deses", "predicate": "CONTAINS", "object": "paramylon", "confidence": 1.0}]}

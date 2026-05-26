@@ -1,0 +1,12 @@
+{
+  "community_id": 722,
+  "summary": "This cluster examines the ecological impacts of thermal effluent from three nuclear power plants on the east coast of Korea, focusing on the composition and biomass of marine algal communities. The studies consistently found that discharge canals hosted less diverse assemblages dominated by warm-tolerant species, including the first Korean records of the green algae *Urospora penicilliformis* and *Cladophora albida*. Dominant taxa across the sites included the brown alga *Padina arborescens* and the red alga *Amphiroa zonata*, with red algae forming a predominant group overall. The research documented a total of 103 to 107 species across the sites, with 43 species—spanning blue-green, green, brown, and red algae—occurring at a frequency exceeding one-sixth, reinforcing the pattern of a thermally influenced, warm-adapted flora.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Gyeongbuk Gyeongju-si",
+    "Wolsong Nuclear Power Plant"
+  ],
+  "resolution": 8.0
+}

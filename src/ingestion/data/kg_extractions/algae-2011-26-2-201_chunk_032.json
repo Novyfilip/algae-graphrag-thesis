@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "H2O2"}, {"compound_name": "loliolide"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "loliolide", "predicate": "AFFECTS", "object": "H2O2", "confidence": 0.5}, {"subject": "loliolide", "predicate": "AFFECTS", "object": "Vero cells", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Lympha mucosa", "taxonomic_rank": "species"}, {"species_name": "Lympha", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Lympha mucosa", "predicate": "BELONGS_TO", "object": "Lympha", "confidence": 1.0}]}

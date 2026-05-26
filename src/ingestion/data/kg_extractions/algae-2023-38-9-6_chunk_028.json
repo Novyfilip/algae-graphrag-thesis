@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. monilis", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "staining microtubules using fluorescent antibodies"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "staining microtubules using fluorescent antibodies", "predicate": "STUDIED_WITH", "object": "G. monilis", "confidence": 1.0}]}

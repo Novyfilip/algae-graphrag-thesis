@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "spectroscopy"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "spectroscopy", "predicate": "STUDIED_WITH", "object": "autotrophic cells", "confidence": 0.5}]}

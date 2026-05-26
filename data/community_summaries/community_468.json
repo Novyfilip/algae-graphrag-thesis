@@ -1,0 +1,13 @@
+{
+  "community_id": 468,
+  "summary": "This cluster of papers investigates the genetic diversity and population structure of cultivated *Undaria pinnatifida* in Korea, using allozyme variation analysis via starch gel electrophoresis as a core methodological approach. Key findings revealed high genetic diversity at the species level (0.146 Hrel) but relatively low variation within individual populations (0.068 Hrel), with approximately 86% of total genetic diversity distributed within populations and a gene flow estimate of 1.54. The research attributes this pattern to biological factors including sexual reproduction, high fecundity, and colonization processes, highlighting the ecological and aquacultural significance of genetic management in Korean seaweed cultivation.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Sagittaria isoetiformis",
+    "Sagittaria teris",
+    "isolated wetlands"
+  ],
+  "resolution": 8.0
+}

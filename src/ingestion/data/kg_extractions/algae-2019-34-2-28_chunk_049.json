@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "H. minima", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Celtic Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "H. minima", "predicate": "FOUND_IN", "object": "Celtic Sea", "confidence": 1.0}]}

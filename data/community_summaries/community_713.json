@@ -1,0 +1,12 @@
+{
+  "community_id": 713,
+  "summary": "This cluster synthesizes the historical documentation and early taxonomic exploration of marine algae in the North Pacific and Bering Sea region, spanning the late 18th to early 20th centuries. The research is unified by a geographic focus on the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands, where expeditions led by figures such as Steller, Chamisso, and Voznesenskii collected and described diverse algal species. Key findings center on the foundational cataloging of marine flora, establishing the species composition and distribution patterns of the region’s macroalgae. The cluster reflects a shared methodological reliance on expedition-based collection and morphological identification, laying the groundwork for future phycological studies in this subarctic and boreal marine environment.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Farlow mollis",
+    "Gigartina mollis"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "freshwater red algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "India"}], "markers": [], "applications": [], "relationships": [{"subject": "freshwater red algae", "predicate": "FOUND_IN", "object": "India", "confidence": 1.0}]}

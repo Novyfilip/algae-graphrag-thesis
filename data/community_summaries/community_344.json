@@ -1,0 +1,14 @@
+{
+  "community_id": 344,
+  "summary": "Research on the dwarf haploid parthenosporophyte *Tauya basicrassa* (Phaeophyceae, Laminariales) from the Sea of Okhotsk, Russia, has established this alga as a novel laminariacean species through integrated morphological, molecular, and chromosomal analyses. The studies revealed that *T. basicrassa* exhibits a unique genetic profile, characterized by 100% sequence identity in plastid-encoded RuBisCo genes alongside a distinct nuclear rDNA sequence, confirming its status as a parthenosporophyte. Significant morphological differences between the dwarf and normal forms indicate a natural evolutionary divergence, highlighting the endemic and genetically distinct nature of this species within the cold-water ecosystems of the Sea of Okhotsk.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Sacharina bongardiana",
+    "Yuzhnaya Glubokaya Bay",
+    "exit site of underwater fumaroles",
+    "north-eastern Kamchatka"
+  ],
+  "resolution": 8.0
+}

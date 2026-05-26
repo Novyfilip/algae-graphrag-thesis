@@ -1,0 +1,12 @@
+{
+  "community_id": 945,
+  "summary": "Research on the red alga *Audouinella botryocarpa* (Acrochaetiales) focused on mitochondrial dynamics during monosporogenesis, using fluorescence microscopy with DiOC,(3) and DASPEI staining to track organelle behavior. Key findings revealed that mitochondrial number increased from approximately 75 to 200 during sporogenesis, closely correlating with sporangial size (r = 0.90), while mitochondrial shapes varied from spherical to ovoid or irregular. Distribution patterns shifted in response to metabolic demands and nuclear-cytoplasmic interactions, with mitochondrial complexes decreasing and aggregating in the central sporangial region after spore release. The study was conducted at the cellular and subcellular level, with no specific geographic or ecological scope reported beyond the laboratory-based examination of this freshwater or marine algal species.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "DAPI (4’,6-diamidino-2-phenolindole)",
+    "counterstain"
+  ],
+  "resolution": 8.0
+}

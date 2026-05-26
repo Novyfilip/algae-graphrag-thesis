@@ -1,0 +1,15 @@
+{
+  "community_id": 297,
+  "summary": "This cluster of research focuses on the bioactivity and ecological distribution of macroalgae, particularly their sulfated polysaccharides and antioxidant compounds, which are investigated for their potential to mitigate oxidative stress and address cardiovascular disease. The studies collectively examine species such as *Sargassum thunbergii*, *Neorhodomela aculeata*, and *Corallina pilulifera*, with a geographic focus on the Taean Peninsula in Korea, where seasonal community structure and vertical zonation were documented. Key findings include the identification of 42 medicinal seaweeds among 79 species, with biomass peaking in summer, and the characterization of sulfated polysaccharides from various seaweeds for their anticoagulant, anti-inflammatory, and antiviral properties. The cluster highlights challenges in standardizing extraction and assay methodologies, as well as economic barriers to commercial utilization, while emphasizing the need for further research and conservation to sustain biodiversity and health-related applications.",
+  "n_entities": 5,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "Anti-inflammatory",
+    "Bactericide",
+    "Hypertension",
+    "Inhibits H2O2 mediated DNA damage",
+    "Phlorotannins"
+  ],
+  "resolution": 8.0
+}

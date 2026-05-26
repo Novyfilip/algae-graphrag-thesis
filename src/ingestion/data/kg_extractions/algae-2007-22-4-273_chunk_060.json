@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Berghiella josephinae", "taxonomic_rank": "species"}, {"species_name": "Berghiella", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Berghiella josephinae", "predicate": "BELONGS_TO", "object": "Berghiella", "confidence": 1.0}]}

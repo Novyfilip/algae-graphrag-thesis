@@ -1,0 +1,12 @@
+{
+  "community_id": 758,
+  "summary": "This cluster focuses on the taxonomic documentation and ecological assessment of desmid green algae in the Garhwal region of Uttarakhand, India, specifically within the foothills of the Western Himalayas. The research identified 42 taxa across seven genera, including nine new species, collected from various water bodies distributed over a 2360 km² area. A key finding was the relatively pristine condition of these habitats compared to urbanized areas, underscoring their significance for freshwater biodiversity preservation. The geographic scope is narrowly confined to this Himalayan foothill region, with the work serving as a foundational biodiversity survey for these microalgae.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cosmarium spinuliferum",
+    "Laxmanjhoola, Rishikesh"
+  ],
+  "resolution": 8.0
+}

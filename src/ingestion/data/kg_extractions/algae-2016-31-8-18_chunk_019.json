@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Tetraselmis", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "ammonium"}, {"compound_name": "nitrogen"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Tetraselmis", "predicate": "CONTAINS", "object": "nitrogen", "confidence": 0.5}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 187,
+  "summary": "This cluster focuses on the cultivation, growth optimization, and taxonomic characterization of macroalgae and microalgae, primarily from Korean and neighboring Northwest Pacific coastal waters. Key species studied include the red seaweeds *Eucheuma serra*, *Pyropia yezoensis*, and *Grateloupia* spp., the green alga *Caulerpa okamurae*, and the brown kelps *Saccharina japonica* and *Undaria pinnatifida*, with research often linking environmental parameters such as temperature, light, salinity, and substrate type to growth rates, maturation, and biomass yield. A significant subset of papers addressed the impacts of abiotic stressors—including elevated CO₂, sedimentation, and ocean acidification—on species like *Chattonella marina*, *Nereocystis luetkeana*, and *Corallina officinalis*, while others investigated disease management in *Pyropia* aquaculture using biostimulants and calcium propionate. The geographic scope was heavily centered on Korean aquaculture sites (e.g., Tongyeong, Jeju Island, Busan) and the East China Sea, with additional studies from Baja California, the Gulf of Mannar, and the Antarctic coast, reflecting a shared emphasis on optimizing seaweed production and understanding ecological resilience under changing environmental conditions.",
+  "n_entities": 95,
+  "n_papers": 119,
+  "n_papers_with_summaries": 118,
+  "entity_sample": [
+    "14 h : 10 h light : dark cycle",
+    "Achnanthe lanceolata",
+    "Anamnia toxica",
+    "Bacteria",
+    "Benthic diatoms",
+    "Bolch (1997) method",
+    "Chondracanthus teedei",
+    "Cymbella turgida",
+    "Deep seawater",
+    "Deep seawater culture"
+  ],
+  "resolution": 8.0
+}

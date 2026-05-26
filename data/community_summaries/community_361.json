@@ -1,0 +1,13 @@
+{
+  "community_id": 361,
+  "summary": "This cluster investigates the photosynthetic physiology of the marine diatom *Coscinodiscus granii*, specifically its acclimation to varying light conditions. The research connects through a shared methodological framework that directly compares O₂ evolution, ¹⁴C assimilation, and variable chlorophyll fluorescence to quantify photosynthetic pathways. Key findings reveal a quantitative relationship between these different metrics and highlight significant variation in photosynthetic capacity at the single-cell level. The geographic and ecological scope is limited to laboratory-based studies of this specific diatom species, focusing on its physiological plasticity rather than a particular field environment.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "14C-based measures of photosynthesis",
+    "O2-based measures of photosynthesis",
+    "rETR rates"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,17 @@
+{
+  "community_id": 267,
+  "summary": "This cluster synthesizes research on the taxonomic revision and systematic classification of diatoms in South Korea, specifically adopting Simonsen’s classification framework. The studies reorganized the diatom hierarchy into 2 orders, 5 suborders, 21 families, 5 sub-families, and 160 genera, encompassing 7,800 genera and 147 families globally. A key finding was the introduction of the Korean vernacular term “dolmal” (meaning “silicified algae”) for 147 genera, standardizing nomenclature within a revised classification system. The geographic scope is exclusively focused on South Korea, reflecting a national effort to align local diatom taxonomy with international systematic standards.",
+  "n_entities": 7,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Campylodiscus Ehrenberg ex Kiitzing 1844",
+    "Cymatopleura Smith 1857",
+    "Entomoneis Ehrenberg 1845",
+    "Pseudonitzschia Peragallo in H. Peragallo et M. Peragallo 1900",
+    "Stenopterobia Brebisson ex. Van Heurck 1896",
+    "Surirella Turpin 1828",
+    "Surirellaceae Kiitzing 1844"
+  ],
+  "resolution": 8.0
+}

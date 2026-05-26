@@ -1,0 +1,12 @@
+{
+  "community_id": 930,
+  "summary": "This cluster of research focuses on the community structure and vertical zonation of intertidal marine benthic algae along the East Coast of Korea, specifically at Sokcho. Using quadrat and transect methods, the studies identified a total of 55 algal species, comprising 7 green, 12 brown, and 36 red algae, with a recorded total biomass of 111 g/m². Key species such as *Chaetomorpha moniligera*, *Bangia atropurpurea*, *Porphyra* spp., and *Gloiopeltis furcata* were documented, while *Sargassum yezoense* dominated the upper intertidal zone, and *Corallina pilulifera*, *Lomentaria hakodatensis*, *Chondria crassicaulis*, and *Polysiphonia spinosa* characterized the middle and lower zones. The findings collectively contribute to the regional understanding of algal distribution patterns and ecological dynamics along the Korean coastline.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Sokcho, mid-east coast of Korea",
+    "benthic marine algal species"
+  ],
+  "resolution": 8.0
+}

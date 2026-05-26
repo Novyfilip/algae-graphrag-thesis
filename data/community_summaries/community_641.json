@@ -1,0 +1,12 @@
+{
+  "community_id": 641,
+  "summary": "This cluster of research focuses on the taxonomic classification and morphological characterization of the brown macroalgal genus *Sargassum*, specifically the subgenus *Bactrophycus* section *Teretia* from Korean waters. The studies identified eight species within this group, distinguishing them through key morphological traits such as leaf thickness, holdfast types, leaf shape, and rhizoid length. The geographic scope is confined to Korea, with an emphasis on documenting the regional distribution and ecological significance of these species. A central finding across the cluster is the importance of precise taxonomic delineation for informing future research on the distribution, ecological roles, and potential applications of *Sargassum* species in the region.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Chinae et Japoniae maribus",
+    "Fucus thunbergii"
+  ],
+  "resolution": 8.0
+}

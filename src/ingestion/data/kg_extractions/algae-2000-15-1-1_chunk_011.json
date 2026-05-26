@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pyrenomonas helgolandii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "actin gene"}], "applications": [], "relationships": [{"subject": "Pyrenomonas helgolandii", "predicate": "CONTAINS", "object": "actin gene", "confidence": 1.0}]}

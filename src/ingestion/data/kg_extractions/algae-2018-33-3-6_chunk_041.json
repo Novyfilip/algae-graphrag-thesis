@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "SEM"}, {"method_name": "light microscope"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "zooids", "predicate": "STUDIED_WITH", "object": "SEM", "confidence": 1.0}, {"subject": "zoospores", "predicate": "STUDIED_WITH", "object": "light microscope", "confidence": 1.0}]}

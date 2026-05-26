@@ -1,0 +1,14 @@
+{
+  "community_id": 351,
+  "summary": "This cluster investigates terpenoid biosynthesis in red algae, specifically characterizing the molecular mechanisms of the 2-C-methyl-D-erythritol 4-phosphate (MEP) pathway in *Pyropia haitanensis*. The research focused on cloning and analyzing the first two genes, *PhDXS* and *PhDXR*, which encode key enzymes in this pathway, revealing their crucial roles in terpenoid production. A key finding was the identification of significant differences in gene expression patterns between the leafy thallus and conchocelis life stages, suggesting a unique MEP pathway in this species potentially linked to endosymbiotic processes. The geographic and ecological scope centered on *P. haitanensis*, a commercially cultivated red alga in East Asia, providing foundational insights into terpenoid metabolism in this economically important marine organism.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "DXS proteins",
+    "PhDXR gene",
+    "neighbor joining phylogenetic tree",
+    "statistical maximal parsimony method"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Aphanizomenon flos-aquae", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "phycocyanin"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Aphanizomenon flos-aquae", "predicate": "PRODUCES", "object": "phycocyanin", "confidence": 1.0}]}

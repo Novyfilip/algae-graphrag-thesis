@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cyanobacteria", "taxonomic_rank": "phylum"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Lake Daecheong"}], "markers": [], "applications": [], "relationships": [{"subject": "Cyanobacteria", "predicate": "FOUND_IN", "object": "Lake Daecheong", "confidence": 1.0}]}

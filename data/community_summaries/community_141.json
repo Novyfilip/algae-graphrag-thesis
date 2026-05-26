@@ -1,0 +1,20 @@
+{
+  "community_id": 141,
+  "summary": "This cluster of papers is unified by a strong geographic focus on Korean coastal waters, with extensive surveys of marine algal flora, community structure, and the impacts of anthropogenic stressors such as nuclear power plant thermal effluents and red tide events. Key species connecting the research include the brown algae *Hizikia fusiformis*, *Sargassum thunbergii*, and *Ecklonia cava*; the red algae *Corallina pilulifera*, *Gloiopeltis furcata*, and *Pyropia yezoensis*; and the diatoms *Skeletonema costatum*, *Chaetoceros debilis*, and *Thalassiosira* spp., alongside harmful dinoflagellates like *Cochlodinium polykrikoides* and *Gymnodinium catenatum*. A recurring pattern was the documentation of community shifts and reduced biodiversity in areas affected by heated effluents from power plants, with warm-tolerant species such as *Enteromorpha compressa* and *Padina arborescens* becoming dominant. Additionally, the cluster includes significant taxonomic and phylogenetic work on red algae, diatoms, and cyanobacteria, employing molecular markers (e.g., rbcL, 18S rDNA) to resolve cryptic species and revise classifications, with studies spanning Korea, Japan, Antarctica, and the tropical western Atlantic.",
+  "n_entities": 123,
+  "n_papers": 210,
+  "n_papers_with_summaries": 210,
+  "entity_sample": [
+    "18S rDNA gene",
+    "AF525672",
+    "Acrochaetium pulvinatum",
+    "Asparagopsis sp.",
+    "Audouinella pulvinata",
+    "Auduinelloid algae",
+    "Aureophycus aleuticus",
+    "Byssus purpurea",
+    "Calcareous algae",
+    "Cochlodinium heterolobatum"
+  ],
+  "resolution": 8.0
+}

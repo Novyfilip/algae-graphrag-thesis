@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Synechococcus", "taxonomic_rank": "genus"}, {"species_name": "Mesodinium rubrum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Mesodinium rubrum", "predicate": "CONTAINS", "object": "Synechococcus", "confidence": 1.0}]}

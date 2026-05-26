@@ -1,0 +1,12 @@
+{
+  "community_id": 974,
+  "summary": "This cluster examines the relationship between sea urchin density and macroalgal community composition along the east coast of South Korea, specifically within a transition zone between kelp forests and barren grounds. Researchers used quadrat image analysis to quantify urchin abundance and found that increasing urchin density correlated with a significant decrease in macroalgal species diversity and dominance index. Key macroalgal species positively associated with high urchin density included *Grateloupia divaricata*, *Polysiphonia morrowii*, *Chondracanthus intermedius*, *Delesseria violacea*, and *Desmarestia viridis*, indicating that urchin grazing pressure drives shifts toward a less diverse, disturbance-tolerant assemblage. The studies collectively demonstrate that sea urchin density is a primary driver of macroalgal vegetation patterns in this temperate Northwest Pacific ecosystem.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "erect foliose algae",
+    "shallower zone"
+  ],
+  "resolution": 8.0
+}

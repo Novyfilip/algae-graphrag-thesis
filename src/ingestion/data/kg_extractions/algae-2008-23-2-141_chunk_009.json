@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Codium amplevesciculatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Codium amplevesciculatum", "predicate": "AFFECTS", "object": "oceanographic conditions", "confidence": 0.5}]}

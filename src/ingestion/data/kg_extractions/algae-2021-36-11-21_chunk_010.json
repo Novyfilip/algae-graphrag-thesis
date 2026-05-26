@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. sculpera", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "PESI culture medium"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "S. sculpera", "predicate": "STUDIED_WITH", "object": "PESI culture medium", "confidence": 1.0}]}

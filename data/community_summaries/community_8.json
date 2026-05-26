@@ -1,0 +1,20 @@
+{
+  "community_id": 8,
+  "summary": "This cluster of papers is united by a strong focus on the phylogenetic and taxonomic reassessment of diverse algal groups, primarily using molecular markers such as rDNA ITS, LSU, SSU, rbcL, coxIII, and atpB sequences to resolve species boundaries and evolutionary relationships. Key findings include the identification of cryptic diversity and novel species across multiple lineages, such as the red algae *Porphyra birdiae*, *Tsunamia transpacifica*, and *Viator vitreocola*, the dinoflagellates *Coolia santacroce* and *Amphidinium massartii*, and the green algae *Micractinium* and *Astrochloris* from Antarctica. Geographically, the research spans a wide range of aquatic habitats, including coastal waters of Korea, Japan, the Northwest Pacific, the Sea of Okhotsk, the Caribbean, and the Antarctic, with a recurring emphasis on the Korean Peninsula and its surrounding seas as a hotspot for algal biodiversity. The studies collectively demonstrate that morphological plasticity often obscures taxonomic boundaries, necessitating integrated molecular and morphological approaches to accurately characterize species and their ecological roles.",
+  "n_entities": 340,
+  "n_papers": 89,
+  "n_papers_with_summaries": 89,
+  "entity_sample": [
+    "18S rDNA",
+    "18S rDNA 염기서열 분석",
+    "18S rDNA 유전자 분석",
+    "5.85 region sequencing",
+    "AY266344",
+    "AY553576",
+    "AY553577",
+    "AY553579",
+    "AY553580",
+    "AY553583"
+  ],
+  "resolution": 8.0
+}

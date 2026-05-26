@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Laminaria religiosa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "10-25\u00b0C"}], "markers": [], "applications": [], "relationships": [{"subject": "Laminaria religiosa", "predicate": "FOUND_IN", "object": "10-25\u00b0C", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Coscinodiscus wailesii", "taxonomic_rank": "species"}, {"species_name": "P. diadema", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Coscinodiscus wailesii", "predicate": "BELONGS_TO", "object": "P. diadema", "confidence": 1.0}]}

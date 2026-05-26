@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Colpomenia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "coast of mainland China"}], "markers": [], "applications": [], "relationships": [{"subject": "Colpomenia", "predicate": "FOUND_IN", "object": "coast of mainland China", "confidence": 1.0}]}

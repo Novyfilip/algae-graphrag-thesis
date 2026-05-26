@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Laingia pacifica", "taxonomic_rank": "species"}, {"species_name": "Congregatocarpus", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Laingia pacifica", "predicate": "BELONGS_TO", "object": "Congregatocarpus", "confidence": 1.0}]}

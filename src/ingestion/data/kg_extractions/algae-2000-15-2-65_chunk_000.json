@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cyanobacterial Crust", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Hong Kong"}], "markers": [], "applications": [], "relationships": [{"subject": "Cyanobacterial Crust", "predicate": "FOUND_IN", "object": "Hong Kong", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Staurastrum punctulatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Garhwal Region, India"}], "markers": [], "applications": [], "relationships": [{"subject": "Staurastrum punctulatum", "predicate": "FOUND_IN", "object": "Garhwal Region, India", "confidence": 1.0}]}

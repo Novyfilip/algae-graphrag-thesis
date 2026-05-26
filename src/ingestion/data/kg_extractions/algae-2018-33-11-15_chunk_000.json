@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sargassum horneri", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "coast of Jeju Island South Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Sargassum horneri", "predicate": "FOUND_IN", "object": "coast of Jeju Island South Korea", "confidence": 1.0}]}

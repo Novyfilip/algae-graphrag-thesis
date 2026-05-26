@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ascophyllum", "taxonomic_rank": "genus"}, {"species_name": "Fucaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ascophyllum", "predicate": "BELONGS_TO", "object": "Fucaceae", "confidence": 1.0}]}

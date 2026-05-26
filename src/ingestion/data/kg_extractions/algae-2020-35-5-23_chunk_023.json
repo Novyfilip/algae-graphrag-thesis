@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "NO"}, {"compound_name": "prostaglandin E2"}, {"compound_name": "nitrite"}], "methods": [{"method_name": "Statistical analysis"}, {"method_name": "DAF-DA assay"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "DAF-DA assay", "predicate": "STUDIED_WITH", "object": "nitrite", "confidence": 1.0}]}

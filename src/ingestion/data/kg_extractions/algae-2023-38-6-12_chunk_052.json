@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. atlanticum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "16S rRNA gene"}], "applications": [], "relationships": [{"subject": "G. atlanticum", "predicate": "IDENTIFIED_BY", "object": "16S rRNA gene", "confidence": 1.0}]}

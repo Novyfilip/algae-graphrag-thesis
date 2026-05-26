@@ -1,0 +1,12 @@
+{
+  "community_id": 689,
+  "summary": "This cluster focuses on the taxonomic and phylogenetic characterization of red algae, specifically within the family Delesseriaceae, using molecular and morphological methods. A key finding is the discovery and description of *Erythroglossum hyacinthinum*, a new species from deep waters off the Korean Peninsula, distinguished by its unique blade morphology and *rbcL* gene sequences. The research underscores the utility of DNA barcoding in resolving phylogenetic relationships and identifying cryptic diversity within the genus *Erythroglossum*. Geographically, the work centers on the temperate Northwest Pacific, expanding knowledge of regional macroalgal biodiversity.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Erythroglossum laciniatum",
+    "Polyneura gmelinii"
+  ],
+  "resolution": 8.0
+}

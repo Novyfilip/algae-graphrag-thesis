@@ -1,0 +1,12 @@
+{
+  "community_id": 1112,
+  "summary": "This cluster focuses on the phylogenetic resolution and biogeographic distribution of morphologically challenging red algae species within the Gelidiales order, specifically *Gelidium crinale* and *G. pusillum*. Using mitochondrial cox1 and rbcL gene sequences, the research established that *G. crinale* is genetically distinct enough to warrant classification as a separate genus, while *G. pusillum* was found to be sister to *G. coulteri* and *G. capense*. A key pattern across the cluster is the contrast in geographic scope: *G. crinale* was identified as a cosmopolitan species spanning East Asia, Australia, Europe, and North America, whereas *G. pusillum* was restricted to Europe and Atlantic North America. The findings collectively underscore the persistent taxonomic difficulties in differentiating small, morphologically plastic species within the genus, highlighting the necessity of molecular markers for accurate species delimitation.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Daram Inlet, East coast of Misoöl Island, Indonesia",
+    "var. minusculum"
+  ],
+  "resolution": 8.0
+}

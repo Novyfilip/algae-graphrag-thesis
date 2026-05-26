@@ -1,0 +1,12 @@
+{
+  "community_id": 690,
+  "summary": "This cluster investigates the use of the microalga *Ettlia* sp. YC001 for bioremediation and resource recovery from eutrophic freshwater systems. Research focused on optimizing cultivation parameters, specifically an N:P ratio of 16:1, to achieve simultaneous nutrient removal, turbidity reduction (up to 98%), and enhanced biomass and lipid productivity. The studies demonstrated that this species could be effectively cultivated in real eutrophic pond water, offering a cost-effective strategy for water treatment in landscape ponds while generating valuable algal biomass. The geographic and ecological scope is centered on the management of urban or ornamental freshwater bodies impacted by nutrient pollution.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Ettlia sp.",
+    "nitrate-contaminated groundwater"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Porosira pseudodenticulata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Antarctic"}], "markers": [], "applications": [], "relationships": [{"subject": "Porosira pseudodenticulata", "predicate": "FOUND_IN", "object": "Antarctic", "confidence": 1.0}]}

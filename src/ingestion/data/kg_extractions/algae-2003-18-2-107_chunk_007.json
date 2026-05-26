@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Polysiphonia decumbens", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Mihonoseki, Japan"}], "markers": [], "applications": [], "relationships": [{"subject": "Polysiphonia decumbens", "predicate": "FOUND_IN", "object": "Mihonoseki, Japan", "confidence": 1.0}]}

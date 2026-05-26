@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Spirulina", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Earthrise Farms"}], "markers": [], "applications": [], "relationships": [{"subject": "Spirulina", "predicate": "FOUND_IN", "object": "Earthrise Farms", "confidence": 1.0}]}

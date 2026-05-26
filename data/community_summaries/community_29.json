@@ -1,0 +1,20 @@
+{
+  "community_id": 29,
+  "summary": "This cluster of papers is united by a strong focus on the biodiversity, taxonomy, and biogeography of marine algae, particularly red algae (Rhodophyta) and dinoflagellates, across the Northwest Pacific, with a heavy emphasis on Korean coastal waters. Key findings include the discovery and phylogenetic characterization of numerous new species and cryptic species complexes, such as *Pyropia retorta*, *Hypoglossum sabahense*, and *Ansanella granifera*, often resolved through molecular markers like rbcL, COI-5P, and ITS sequences. The research extensively documents the distribution and seasonal dynamics of harmful algal bloom (HAB) species like *Cochlodinium polykrikoides*, *Karlodinium veneficum*, and *Chattonella antiqua*, as well as the ecological roles of mixotrophic dinoflagellates such as *Gymnodinium smaydae* and *Scrippsiella lachrymosa*. Geographically, the studies span from the Korean Peninsula and Japan to the Aleutian Islands, Kamchatka, and the Bering Sea, with additional contributions from tropical and subtropical regions including Brazil, Mexico, and the Hawaiian mesophotic zone, highlighting a global yet regionally concentrated effort to resolve algal phylogenies and understand ecological drivers of community structure.",
+  "n_entities": 245,
+  "n_papers": 156,
+  "n_papers_with_summaries": 156,
+  "entity_sample": [
+    "13-HOTE",
+    "15-HEPE",
+    "15-HETE",
+    "3 m depth",
+    "ABI 3730xl Genetic Analyzer",
+    "ABI PRISM BigDye Terminator v3.1 Kit",
+    "Alaria",
+    "Alaria marginata",
+    "Alaria paradisea",
+    "Alaria spp."
+  ],
+  "resolution": 8.0
+}

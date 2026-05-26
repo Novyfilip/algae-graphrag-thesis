@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. glandula", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "marine ecosystems"}], "markers": [], "applications": [], "relationships": [{"subject": "A. glandula", "predicate": "FOUND_IN", "object": "marine ecosystems", "confidence": 0.5}]}

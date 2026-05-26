@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Acetabularia calyculus", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "indirect immunofluorescence"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Acetabularia calyculus", "predicate": "STUDIED_WITH", "object": "indirect immunofluorescence", "confidence": 1.0}]}

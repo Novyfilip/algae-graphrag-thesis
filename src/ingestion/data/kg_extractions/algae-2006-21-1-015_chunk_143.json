@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "M. projecta", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Moonseom"}], "markers": [], "applications": [], "relationships": [{"subject": "M. projecta", "predicate": "FOUND_IN", "object": "Moonseom", "confidence": 1.0}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 79,
+  "summary": "This cluster of papers is geographically centered on Korean coastal waters, with additional studies from Japan, the broader North Pacific, and Antarctica, and focuses heavily on the ecological dynamics of macroalgae and microalgae in response to environmental stressors. Key species such as *Sargassum thunbergii*, *Corallina pilulifera*, *Undaria pinnatifida*, and *Cochlodinium polykrikoides* were frequently studied, alongside benthic diatoms like *Nitzschia* and *Amphora*. A major pattern across the cluster was the investigation of anthropogenic impacts—including thermal effluents from nuclear power plants, heavy metal toxicity, and eutrophication—on algal community structure, succession, and biomass, with several studies identifying salinity thresholds, temperature optima, and nutrient limitations as critical drivers. The research also encompassed applied themes such as bioremediation, biofuel production, and the discovery of novel species (e.g., *Capillus* spp., *Erythrolobus australicus*), reflecting a synthesis of fundamental ecological monitoring and biotechnological innovation.",
+  "n_entities": 176,
+  "n_papers": 136,
+  "n_papers_with_summaries": 134,
+  "entity_sample": [
+    "Alachlor",
+    "Alaria crispa",
+    "Bibatauín",
+    "Chlamydomonus rein-",
+    "Coast & Laboratory",
+    "Cr(VI)",
+    "East Coast water near Oiyeon-do Isl.",
+    "East Sea coast",
+    "Erythrocladia carnea",
+    "F-4500 Fluorescence spectrophotometer"
+  ],
+  "resolution": 8.0
+}

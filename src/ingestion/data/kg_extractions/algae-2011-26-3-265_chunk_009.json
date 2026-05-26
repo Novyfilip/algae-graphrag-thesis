@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "marine algae", "taxonomic_rank": null}], "compounds": [{"compound_name": "plastocyanin"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "marine algae", "predicate": "PRODUCES", "object": "plastocyanin", "confidence": 1.0}]}

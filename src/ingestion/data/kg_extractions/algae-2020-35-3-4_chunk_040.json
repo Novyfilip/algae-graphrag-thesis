@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Violetonostoc", "taxonomic_rank": "genus"}, {"species_name": "Minunostoc", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "16S-23S ITS"}], "applications": [], "relationships": [{"subject": "Violetonostoc", "predicate": "IDENTIFIED_BY", "object": "16S-23S ITS", "confidence": 1.0}]}

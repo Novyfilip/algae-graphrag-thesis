@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Lophosiphonia scopulorum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "rock"}], "markers": [], "applications": [], "relationships": [{"subject": "Lophosiphonia scopulorum", "predicate": "FOUND_IN", "object": "rock", "confidence": 1.0}]}

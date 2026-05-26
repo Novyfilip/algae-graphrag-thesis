@@ -1,0 +1,12 @@
+{
+  "community_id": 984,
+  "summary": "This cluster of research focuses on the mitigation of harmful algal blooms (HABs), specifically targeting the dinoflagellate *Cochlodinium polykrikoides* through the application of the biocide sodium hypochlorite (NaOCl). The studies consistently demonstrated that NaOCl exposure induces dose-dependent decreases in growth rate and pigment production, while simultaneously increasing antioxidant enzyme activity, indicating significant oxidative damage to the organism’s photosynthetic machinery. The effective concentration (EC50) was determined to be 0.584 mg L⁻¹, establishing a clear threshold for biocidal action. Geographically and ecologically, the research is centered on the control of marine HABs, with findings supporting NaOCl as a potential algicidal agent, though with noted risks to non-target photosynthetic processes in aquatic ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "free chlorine",
+    "standard DPD method"
+  ],
+  "resolution": 8.0
+}

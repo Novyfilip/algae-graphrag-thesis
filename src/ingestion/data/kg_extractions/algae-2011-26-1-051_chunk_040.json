@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Mazzaella splendens", "taxonomic_rank": "species"}, {"species_name": "Mazzaella linearis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Mazzaella linearis", "predicate": "FOUND_IN", "object": "winter", "confidence": 1.0}]}

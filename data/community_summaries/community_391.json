@@ -1,0 +1,13 @@
+{
+  "community_id": 391,
+  "summary": "This cluster synthesizes the historical documentation and early taxonomic exploration of marine algae in the North Pacific and Bering Sea region, focusing on expeditions from the late 1730s to 1900. The research is connected by the contributions of Russian and British naturalists—including Steller, Chamisso, and Voznesenskii—who collected and described diverse algal species from key geographic locales such as the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands. A central pattern across the corpus is the foundational role of these voyages in establishing the first scientific records of North Pacific macroalgae, linking species discovery to broader biogeographic and exploratory contexts. The geographic scope is exclusively circumarctic and subarctic, emphasizing the Bering Sea as a critical zone for early phycological investigation.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cape Nichta, Mamgabai, Äsä Island, Ochotsk Sea",
+    "Elachista fucicolia (Velley) Aresch.",
+    "Elachista lubrica Rupr."
+  ],
+  "resolution": 8.0
+}

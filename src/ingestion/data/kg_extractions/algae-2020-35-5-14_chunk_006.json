@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "polyphenols"}, {"compound_name": "proteins"}, {"compound_name": "iron"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "polyphenols", "predicate": "PRODUCES", "object": "proteins", "confidence": 0.3}]}

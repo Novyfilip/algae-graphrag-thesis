@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Phaeocystis antarctica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Arctic waters"}, {"environment_name": "Ross Sea"}], "markers": [], "applications": [], "relationships": [{"subject": "Phaeocystis antarctica", "predicate": "FOUND_IN", "object": "Ross Sea", "confidence": 1.0}]}

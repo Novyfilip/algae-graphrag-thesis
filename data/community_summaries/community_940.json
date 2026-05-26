@@ -1,0 +1,12 @@
+{
+  "community_id": 940,
+  "summary": "This cluster of research focuses on the colonization dynamics of periphytic and epilithic algae on artificial substrates within the Togyo Reservoir in Chulwon, Korea. Studies conducted in 1999 tracked the establishment of algal communities on materials such as vinyl sheets, glass slides, and ceramic tiles, with the highest standing crop recorded in September at 306,849 cells/cm² outside the mesocosm. Key findings revealed that unglazed ceramic tiles were more suitable than glass slides for community establishment, and that dominant species differed between inside and outside the mesocosm, with *Achnanthes minutissima*, *Synedra delicatissima*, and *Tabellaria flocculosa* prevalent in both environments. The research highlights the importance of substrate type and seasonal timing in shaping freshwater algal colonization in a temperate Korean reservoir.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "adnate and filamentous forms",
+    "coarser substrata"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "minima", "taxonomic_rank": "species"}, {"species_name": "Heterocapsa", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "minima", "predicate": "BELONGS_TO", "object": "Heterocapsa", "confidence": 0.5}]}

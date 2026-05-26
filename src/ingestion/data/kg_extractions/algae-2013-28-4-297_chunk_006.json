@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cochlodinium polykrikoides", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean waters"}], "markers": [], "applications": [], "relationships": [{"subject": "Cochlodinium polykrikoides", "predicate": "FOUND_IN", "object": "Korean waters", "confidence": 1.0}]}

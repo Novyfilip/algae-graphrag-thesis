@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "seed coating method"}], "environments": [], "markers": [], "applications": [{"application_name": "large-scale restoration"}], "relationships": [{"subject": "seed coating method", "predicate": "STUDIED_WITH", "object": "large-scale restoration", "confidence": 1.0}]}

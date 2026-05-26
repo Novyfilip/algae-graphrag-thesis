@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "polyphenols"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "polyphenols", "predicate": "CONTAINS", "object": "SLBS11P", "confidence": 0.5}, {"subject": "polyphenols", "predicate": "CONTAINS", "object": "SLGS1P", "confidence": 0.5}]}

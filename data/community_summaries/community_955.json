@@ -1,0 +1,12 @@
+{
+  "community_id": 955,
+  "summary": "This cluster focuses on the taxonomic discovery and characterization of a new green algal species, *Umbraulva yunseulla*, from the mesophotic subtidal zone of Jeju Island, Korea. The research is united by the use of phylogenetic analysis to confirm the species as a distinct taxon within the genus *Umbraulva*, supported by its unique morphology and the presence of the pigment siphonaxanthin. A key finding is that this pigment enables the algae to thrive in deeper, low-light waters, highlighting the adaptive strategies of macroalgae in Korean mesophotic ecosystems. The studies collectively emphasize the underexplored biodiversity of this geographic region and call for further investigation into its subtidal macroalgal communities.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Palmophyllum crassum",
+    "deep marine areas around Jeju"
+  ],
+  "resolution": 8.0
+}

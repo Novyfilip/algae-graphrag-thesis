@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Macrocystis pyrifera", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "northeast Pacific Ocean"}], "markers": [], "applications": [], "relationships": [{"subject": "Macrocystis pyrifera", "predicate": "FOUND_IN", "object": "northeast Pacific Ocean", "confidence": 1.0}]}

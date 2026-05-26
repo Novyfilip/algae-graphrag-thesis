@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cosmarium subalatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Gola River, Lalkuan"}], "markers": [], "applications": [], "relationships": [{"subject": "Cosmarium subalatum", "predicate": "FOUND_IN", "object": "Gola River, Lalkuan", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. caeruleus", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "microhabitats"}], "markers": [], "applications": [], "relationships": [{"subject": "C. caeruleus", "predicate": "FOUND_IN", "object": "microhabitats", "confidence": 1.0}]}

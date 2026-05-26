@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Desmids", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Garhwal Region of Uttarakhand, India"}], "markers": [], "applications": [], "relationships": [{"subject": "Desmids", "predicate": "FOUND_IN", "object": "Garhwal Region of Uttarakhand, India", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "N. scintillans", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Sagami Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "N. scintillans", "predicate": "FOUND_IN", "object": "Sagami Bay", "confidence": 0.5}]}

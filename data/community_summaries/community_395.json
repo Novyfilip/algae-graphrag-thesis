@@ -1,0 +1,13 @@
+{
+  "community_id": 395,
+  "summary": "This cluster focuses on the taxonomic documentation of desmid algae, specifically genera such as *Closterium*, *Euastrum*, *Staurastrum*, *Cosmarium*, and *Pleurotaenium*, collected from freshwater aquatic habitats in the foothills of the Western Himalayas. The research, conducted in the Uttaranchal and Pilibhit districts of Uttar Pradesh, India, resulted in the description of 48 distinct desmid taxa, including specific species like *Staurastrum pseudopachyrhyncum* and *Pleno-taenium niensteeni*. The geographic scope is narrowly defined to the Lalkuan, Kathgodam, and Pantnagar areas, highlighting a regional biodiversity survey. Key findings include the identification and morphological characterization of these taxa, contributing to the floristic knowledge of desmid diversity in this Indian sub-Himalayan region.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Chatta Tal, Pilibheet, Uttar Pradesh",
+    "Cosmarium scabrum",
+    "Cosmarium sexnotatum"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Fucus", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "Ge"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Ge", "predicate": "AFFECTS", "object": "Fucus", "confidence": 1.0}]}

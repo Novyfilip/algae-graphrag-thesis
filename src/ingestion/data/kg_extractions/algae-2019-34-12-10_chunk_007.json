@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ascophyllum nodosum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "pelagic environment"}], "markers": [], "applications": [], "relationships": [{"subject": "Ascophyllum nodosum", "predicate": "FOUND_IN", "object": "pelagic environment", "confidence": 0.5}]}

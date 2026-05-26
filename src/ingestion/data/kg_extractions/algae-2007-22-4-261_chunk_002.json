@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Aulacoseira sp.", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "water body"}], "markers": [], "applications": [], "relationships": [{"subject": "Aulacoseira sp.", "predicate": "FOUND_IN", "object": "water body", "confidence": 1.0}]}

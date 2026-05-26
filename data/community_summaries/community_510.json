@@ -1,0 +1,13 @@
+{
+  "community_id": 510,
+  "summary": "This cluster investigates the evolutionary biology and ecological impact of pathogenic and free-living algae, primarily through genomic and phylogenomic methods. Research focused on the red algal pathogen *Pythium porphyrae* identified a conserved gene repertoire for degrading red algal biomass, including enzymes like crinklers and cellulose-binding elicitor lectin-like proteins, suggesting its evolution from a plant pathogen. Concurrently, phylogenomic analyses of cyanobacteria and species such as *Scytosiphon gracilis* and Euglenophytes revealed that the Korean Peninsula and Jeju Island are key distribution hubs for cyanobacteria, with molecular data enabling the identification of novel species. The geographic scope centers on coastal ecosystems of Korea and Japan, with findings highlighting seasonal phytoplankton community shifts and the potential for future research into algal distribution and disease dynamics.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "comparative genomics",
+    "free-living algae",
+    "multi-gene phylogenetics"
+  ],
+  "resolution": 8.0
+}

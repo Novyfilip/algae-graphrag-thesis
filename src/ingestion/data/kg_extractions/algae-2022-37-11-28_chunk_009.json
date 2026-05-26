@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "Chl-a"}], "methods": [], "environments": [{"environment_name": "Korean Peninsula coastline"}], "markers": [], "applications": [], "relationships": [{"subject": "Chl-a", "predicate": "FOUND_IN", "object": "Korean Peninsula coastline", "confidence": 1.0}]}

@@ -1,0 +1,13 @@
+{
+  "community_id": 418,
+  "summary": "This cluster investigates the evolutionary origins and phylogenetic relationships of diverse algal lineages, with a focus on plastid endosymbiosis and Arctic brown algae taxonomy. One study uses molecular phylogenetic analyses of 16S rDNA sequences to support a single primary endosymbiotic event involving a cyanobacterium, which gave rise to the primary algal lineages Chlorophyta, Rhodophyta, and Glaucocystophyta, while secondary plastid origins were independently traced in Cryptophyta, Haptophyta, and Heterokonta. A second study reclassifies Arctic brown algae, synonymizing *Platysiphon verticillatus* and *Punctaria glacialis* into *Arcticophycus glacialis* based on shared genetic sequences, and establishes the new genus *Arcticophycus*, family Platysiphonaceae, and order Stschapoviales. This work highlights the discovery of novel cyst and dual sporangia types in Arcticophycus as key adaptations for Arctic winter survival, and documents the geographic and ecological scope of *Halosiphon*, *Arcticophycus*, and *Stschapovia* in polar environments.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Full genome comparisons",
+    "Homo sapiens",
+    "Pan troglodytes"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "dinoflagellates", "taxonomic_rank": null}], "compounds": [], "methods": [{"method_name": "transcriptomic analysis"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "dinoflagellates", "predicate": "STUDIED_WITH", "object": "transcriptomic analysis", "confidence": 1.0}]}

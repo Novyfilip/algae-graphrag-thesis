@@ -1,0 +1,12 @@
+{
+  "community_id": 743,
+  "summary": "This cluster focuses on the taxonomic classification and morphological characterization of brown macroalgae within the genus *Sargassum*, specifically the subgenus *Bactrophus* from Korean coastal ecosystems. The research synthesized detailed morphological comparisons—including variations in holdfasts, leaf shapes, vesicles, and main branch structures—to distinguish eight distinct species. These findings underscore the critical role of morphological analysis in resolving species boundaries and understanding the evolutionary relationships and geographical distribution of *Sargassum* in the region.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Jyono, Fukuoka Pref.",
+    "Sargassum kiushianum"
+  ],
+  "resolution": 8.0
+}

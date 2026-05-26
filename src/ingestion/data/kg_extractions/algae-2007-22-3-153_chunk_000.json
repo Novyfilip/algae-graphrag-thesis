@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Rhodophyta", "taxonomic_rank": "phylum"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Pacific Coast of Mexico"}], "markers": [], "applications": [], "relationships": [{"subject": "Rhodophyta", "predicate": "FOUND_IN", "object": "Pacific Coast of Mexico", "confidence": 1.0}]}

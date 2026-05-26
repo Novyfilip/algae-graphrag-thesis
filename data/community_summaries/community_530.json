@@ -1,0 +1,13 @@
+{
+  "community_id": 530,
+  "summary": "This cluster focuses on methodological advancements in establishing axenic (bacteria-free) cultures of macroalgae, specifically targeting red seaweed species. The connecting research theme involves the use of a defined antibiotic cocktail—comprising penicillin G, streptomycin, polymyxin B, and chloramphenicol—applied serially to spore-based cultures in PES medium to eliminate microbial contaminants. A key finding was that this approach achieved high success rates for multicellular seaweeds, contrasting with the persistent difficulties encountered when attempting similar axenic protocols for unicellular algae. The geographic and ecological scope is not explicitly defined in the corpus, but the methods are broadly applicable to marine macroalgal research requiring sterile culture conditions.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "antibiotic treatment of sporelings",
+    "mechanical spore-washing",
+    "mechanical washing of spores"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. glacialis", "taxonomic_rank": "species"}, {"species_name": "Pl. verticillatus", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "A. glacialis", "predicate": "BELONGS_TO", "object": "Pl. verticillatus", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlorella", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "glucose"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Chlorella", "predicate": "AFFECTS", "object": "glucose", "confidence": 1.0}, {"subject": "glucose", "predicate": "AFFECTS", "object": "Chlorella", "confidence": 1.0}]}

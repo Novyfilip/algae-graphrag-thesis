@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Euglena sanguinea", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Euglena sanguinea", "predicate": "AFFECTS", "object": "pH value", "confidence": 0.5}]}

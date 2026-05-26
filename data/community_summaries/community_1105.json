@@ -1,0 +1,12 @@
+{
+  "community_id": 1105,
+  "summary": "This cluster synthesizes taxonomic and phylogenetic research on the order Sphacelariales (Phaeophyceae), focusing on the delimitation and relationships among its five families: Cladostephaceae, Sphacelariaceae, Stypocaulaceae, Choristocarpaceae, and the genus *Alethocladus*. The studies emphasized that the family Choristocarpaceae is now recognized as belonging within Sphacelariales, and they identified a critical need for further molecular and morphological analyses to resolve generic boundaries. Geographically, the research highlighted that Sphacelariales species are predominantly distributed in temperate and tropical regions, with limited representation in cold environments, particularly within the subgenera *Propagulifera* and *Tribuloides*. The cluster collectively underscored the necessity of continued investigation into the unique characteristics of the *Alethocladus* genus to clarify its taxonomic position.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "S. ceylanica",
+    "tropical S.E. Asia"
+  ],
+  "resolution": 8.0
+}

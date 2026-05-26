@@ -1,0 +1,15 @@
+{
+  "community_id": 310,
+  "summary": "This cluster focuses on the development and application of advanced molecular methods for biodiversity assessment, specifically through the analysis of organelle genomes from marine environmental samples. The research centers on a novel, PCR-free approach called SoEM (Small Organelle Enriched Metagenomics), which leverages mitochondrial and plastid DNA to achieve significantly higher taxonomic resolution than traditional DNA metabarcoding. The studies collectively address the methodological and bioinformatic challenges of processing high-throughput sequencing data from platforms like Illumina and Ion Torrent, emphasizing the need for robust pipelines to handle organelle and metagenome datasets. Geographically and ecologically, the work is situated within marine environments, aiming to provide a more comprehensive and efficient alternative for assessing microbial and eukaryotic diversity without the biases inherent in PCR-based amplification.",
+  "n_entities": 5,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "IDBA-UD",
+    "MEGAHIT",
+    "MetaVelvet",
+    "RayMeta",
+    "metagenome assembly"
+  ],
+  "resolution": 8.0
+}

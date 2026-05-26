@@ -1,0 +1,12 @@
+{
+  "community_id": 1100,
+  "summary": "This cluster investigates the composition, distribution, and biomass of intertidal macroalgal communities along the Korean Peninsula, specifically in the Padori area of the Taean Peninsula during the 1992-1993 growing season. Researchers identified 84 species, predominantly red algae (55 species), with *Corallina pilulifera* as the dominant species and *Sargassum thunbergii*, *Gloiopeltis furcata*, and *Ulva pertusa* as subdominant groups. The flora was classified as a mixed-species community, exhibiting distinct vertical zonation where *Gloiopeltis furcata* occupied the upper zone, *Sargassum thunbergii* and *Corallina pilulifera* the middle, and *Ulva pertusa* and *Chondrus ocellatus* the lower zones. The total community biomass was measured at 254.3 g/m² in dry matter, providing a quantitative baseline for this temperate marine ecosystem.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Padori Area in the Taean Peninsula",
+    "the West Coast of Korea"
+  ],
+  "resolution": 8.0
+}

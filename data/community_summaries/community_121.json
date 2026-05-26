@@ -1,0 +1,20 @@
+{
+  "community_id": 121,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, phylogeny, and biogeography of red and brown macroalgae, particularly within the Northwest Pacific region, including Korea, Japan, the Sea of Okhotsk, and the Kurile Islands. Researchers frequently employed molecular markers such as *rbcL*, *cox1*, and *psbA* to resolve species boundaries and phylogenetic relationships, leading to the discovery of cryptic species, the reclassification of genera (e.g., *Psilothallia*, *Pterocladiella*, *Polysiphonia*), and the identification of endemic taxa like *Alaria paradisea* and *Tauya basicrassa*. The studies also documented regional floristic composition and vertical distribution patterns, with dominant genera including *Sargassum*, *Ecklonia*, *Corallina*, and *Grateloupia*, while highlighting the influence of environmental factors such as temperature, turbidity, and thermal effluents on community structure.",
+  "n_entities": 138,
+  "n_papers": 107,
+  "n_papers_with_summaries": 107,
+  "entity_sample": [
+    "Akkeshi, Hokkaido, Japan",
+    "Alsongheuneulpul",
+    "Anmado",
+    "BP",
+    "Bangpo, Taean, Korea",
+    "Berghiella Kofoid et Michener",
+    "Busan Dadaepo",
+    "Cheongsapo 1, Busan, Korea",
+    "Cheongsapo 2, Busan, Korea",
+    "Chiba"
+  ],
+  "resolution": 8.0
+}

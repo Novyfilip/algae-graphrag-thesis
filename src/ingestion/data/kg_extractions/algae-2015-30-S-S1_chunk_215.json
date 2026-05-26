@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Namhae/Gyeongnam coast"}, {"environment_name": "surface water"}, {"environment_name": "Andongho/Gyeongbuk reservoir"}], "markers": [{"marker_name": "18S rRNA"}], "applications": [], "relationships": [{"subject": "18S rRNA", "predicate": "IDENTIFIED_BY", "object": "JQ315516", "confidence": 1.0}]}

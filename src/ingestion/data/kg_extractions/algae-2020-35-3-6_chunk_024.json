@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. palmatum", "taxonomic_rank": "species"}, {"species_name": "Gelidium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "G. palmatum", "predicate": "BELONGS_TO", "object": "Gelidium", "confidence": 1.0}]}

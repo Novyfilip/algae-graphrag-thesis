@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "f/2 culture media"}, {"method_name": "artificially prepared seawater"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "f/2 culture media", "predicate": "STUDIED_WITH", "object": "artificially prepared seawater", "confidence": 1.0}]}

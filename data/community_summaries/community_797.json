@@ -1,0 +1,12 @@
+{
+  "community_id": 797,
+  "summary": "This cluster synthesizes research on the taxonomy and evolutionary biology of cyanobacteria, emphasizing the integration of traditional morphological and ultrastructural analyses with modern molecular data through a polyphasic approach. Key findings highlight the necessity of continuous taxonomic revision to resolve classification challenges, particularly given the limitations of relying solely on culture collections. The studies collectively focus on cyanobacterial diversity, their unique biochemical characteristics, and their evolutionary adaptations, including symbiotic relationships with other organisms. The geographic and ecological scope is broad, addressing fundamental questions about cyanobacterial systematics and their ecological roles across diverse environments.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Heterocytous cyanobacteria",
+    "Nostocineae"
+  ],
+  "resolution": 8.0
+}

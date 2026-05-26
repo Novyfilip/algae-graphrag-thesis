@@ -1,0 +1,13 @@
+{
+  "community_id": 398,
+  "summary": "This cluster investigates the trophic interactions of the voracious heterotrophic nanoflagellate *Katablepharis japonica* with other common heterotrophic protists, specifically dinoflagellates and ciliates, to understand its role in red tide dynamics. Research demonstrated that predators such as *Oxyrrhis marina*, *Gyrodinium dominans*, *Gyrodinium moestrupii*, *Polykrikos kofoidii*, and *Noctiluca scintillans* could feed on heat-killed *K. japonica*, yet the overall impact of such predation on the nanoflagellate’s population growth was found to be minimal. These findings collectively suggest that grazing pressure from these protists is a relatively minor factor in controlling *K. japonica* blooms, highlighting a key pattern of weak top-down control within this microbial food web. The geographic and ecological scope is centered on marine coastal environments prone to red tide events.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Clithon retropictus",
+    "Miamiensis sp. B1",
+    "waters off Bieung Island, western Korea"
+  ],
+  "resolution": 8.0
+}

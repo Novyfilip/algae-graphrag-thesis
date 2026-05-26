@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Martensia australis", "taxonomic_rank": "species"}, {"species_name": "Martensia", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Martensia australis", "predicate": "BELONGS_TO", "object": "Martensia", "confidence": 1.0}]}

@@ -1,0 +1,20 @@
+{
+  "community_id": 107,
+  "summary": "Research within this cluster focused extensively on the biodiversity, taxonomy, and ecology of marine algae in Korean coastal waters, particularly around Jeju Island and the Yellow Sea, with additional studies extending to the North Pacific, Bering Sea, and Northwest Pacific. Key findings included the discovery and molecular characterization of numerous new species and cryptic lineages, such as *Ecklonia cava*, *Sargassum thunbergii*, *Centroceras* spp., *Grateloupia* spp., and *Polysiphonia* spp., often using DNA barcoding (e.g., *rbcL*, COI-5P) to resolve taxonomic ambiguities. The research consistently documented the impacts of environmental stressors—including thermal effluent from power plants, elevated CO2, warming currents, and grazing pressure—on community structure, succession, and biomass, with studies on harmful algal blooms (e.g., *Cochlodinium polykrikoides*, *Chattonella marina*) and macroalgal whitening events highlighting ecological shifts. Geographically, the work was centered on the Korean Peninsula and its adjacent seas, with comparative phylogeographic analyses revealing high genetic diversity and glacial refugia in the region, while also noting connections to the broader Pacific and Arctic floras.",
+  "n_entities": 150,
+  "n_papers": 162,
+  "n_papers_with_summaries": 162,
+  "entity_sample": [
+    "12-15-m-deep sand bottom",
+    "5-8-m-deep subtidal regions",
+    "5.85",
+    "Andaman",
+    "Antimicrobial Activity",
+    "Bijindo",
+    "Biyangdo Islet",
+    "Boogchon",
+    "Capraella",
+    "Capraella australis"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "macroalgal assemblage", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "east coast of South Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "macroalgal assemblage", "predicate": "AFFECTS", "object": "sea urchin density", "confidence": 0.5}]}

@@ -1,0 +1,13 @@
+{
+  "community_id": 543,
+  "summary": "This cluster investigates the role of mycosporine-like amino acids (MAAs) as natural photoprotective compounds in marine macroalgae, particularly in response to increased solar UV-B radiation from stratospheric ozone depletion. Seven specific MAAs—including mycosporine-glycine, shinorine, porphyra-334, palythine, asterina-330, palythene, and usujirene—were identified, with absorption spanning both UV-B and UV-A wavelengths. Research focused on Antarctic rhodophytes demonstrated that species with higher MAA concentrations exhibited greater tolerance to natural and artificial UV radiation, establishing a direct correlation between UV-protective compound levels and UV sensitivity. Experimental evidence further showed that MAA formation is regulated by both UV and photosynthetically active radiation (PAR), indicating a complex physiological role beyond simple UV screening.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Davies Reef, Great Barrier Reef, Australia",
+    "UV-B absorbing compounds",
+    "reef-building corals"
+  ],
+  "resolution": 8.0
+}

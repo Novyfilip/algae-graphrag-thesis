@@ -1,0 +1,12 @@
+{
+  "community_id": 718,
+  "summary": "This cluster focuses on the rapid quantification of neutral lipids in marine dinoflagellates, specifically *Alexandrium minutum*, *Prorocentrum micans*, *P. minimum*, and *Lingulodinium polyedrum*, using the sulpho-phospho-vanillin (SPV) colorimetric method. Key findings established a significant positive correlation between optical density and lipid content, requiring only 1–5 mL of culture, while also revealing a negative correlation between cell size and lipid content. The research was driven by applications in biofuel production and ecological understanding, with the SPV method validated as a high-throughput tool for lipid screening across these species. The geographic scope is not explicitly defined, but the work addresses general marine dinoflagellate physiology relevant to coastal and oceanic ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Bligh & Dyer method",
+    "Gravimetric determination"
+  ],
+  "resolution": 8.0
+}

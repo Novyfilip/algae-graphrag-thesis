@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Dasyasiphonia chejuensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "DAPI-stained nuclear volumes"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Dasyasiphonia chejuensis", "predicate": "STUDIED_WITH", "object": "DAPI-stained nuclear volumes", "confidence": 1.0}]}

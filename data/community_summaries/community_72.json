@@ -1,0 +1,20 @@
+{
+  "community_id": 72,
+  "summary": "This cluster of papers is united by a strong emphasis on taxonomic revision, species discovery, and phylogenetic analysis across diverse algal groups, frequently employing molecular markers such as rbcL, COI-5P, ITS, and coxIII to resolve cryptic species and clarify evolutionary relationships. Key findings include the identification of numerous new species and genera—such as *Capillus* sp. nov., *Erythrolobus coxiae*, *Ansanella granifera*, and *Yihiella yeosuensis*—alongside the reclassification of taxa like *Pterosiphonia arenosa* as a synonym of *P. spinifera* and the transfer of *Calonitophyllum medium* to *Radicilingua*. Geographically, the research spans a wide range of environments, with a strong focus on Korean coastal waters, the Northwest Pacific, and other regions including the Antarctic, Gulf of California, Mediterranean Sea, and tropical western Atlantic, often highlighting the role of cryptic diversity and biogeographic patterns in shaping algal communities.",
+  "n_entities": 182,
+  "n_papers": 154,
+  "n_papers_with_summaries": 154,
+  "entity_sample": [
+    "44-methyl-gambierone isomers",
+    "5.8S",
+    "5.8S phylogenetic analysis",
+    "7 m depth",
+    "Ajim Channel",
+    "Arab Gulf",
+    "Atlantic",
+    "Bahía de La Paz",
+    "Bahía de La Paz, Gulf of California",
+    "Bahía de La Paz, southern Gulf of California"
+  ],
+  "resolution": 8.0
+}

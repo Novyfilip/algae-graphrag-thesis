@@ -1,0 +1,12 @@
+{
+  "community_id": 737,
+  "summary": "This cluster investigates the molecular physiology of dinoflagellates, specifically through the lens of their ion channel and signaling repertoire. Using transcriptomic analysis of 27 samples, researchers reconstructed a consensus \"channelome\" comprising 36 ion channel families, which included homologs of animal and plant proteins as well as unique protist-specific channels. The findings emphasized the organisms' physiological adaptability, driven by extensive G-protein coupled receptor and calcium-dependent signaling pathways. The work is primarily bioinformatic and comparative in scope, focusing on the evolutionary and functional diversity of dinoflagellate signaling without a specific geographic or ecological focus.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "IP3",
+    "inositole-1,4,5-trisphospate"
+  ],
+  "resolution": 8.0
+}

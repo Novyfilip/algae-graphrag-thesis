@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Padina caulescens", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "La Concepci\u00f3n, Chile"}], "markers": [], "applications": [], "relationships": [{"subject": "Padina caulescens", "predicate": "FOUND_IN", "object": "La Concepci\u00f3n, Chile", "confidence": 1.0}]}

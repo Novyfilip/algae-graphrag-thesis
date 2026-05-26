@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "M. pyrifera", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Point Loma kelp forest"}], "markers": [], "applications": [], "relationships": [{"subject": "M. pyrifera", "predicate": "FOUND_IN", "object": "Point Loma kelp forest", "confidence": 1.0}]}

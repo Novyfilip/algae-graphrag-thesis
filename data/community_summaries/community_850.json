@@ -1,0 +1,12 @@
+{
+  "community_id": 850,
+  "summary": "This cluster of research focuses on the taxonomy, distribution, and classification of marine algae along the Korean coastline, with a particular emphasis on the eastern shores of Kangwon Province. The studies are connected by their use of morphological and phylogenetic analyses to identify and group species such as *Cladophora crystallina*, *Sphacelaria apicalis*, *Coccophora langsdorfii*, and *Costaria costata*, among others. Key findings include the documentation of 231 algal taxa in Kangwon Province and the delineation of a two-subzone tidal system with distinct floristic communities in the upper and mid-lower zones. The geographic scope is exclusively South Korean coastal waters, with the research establishing detailed species checklists and vertical distribution patterns for the region.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "A. terminalis",
+    "Rhodochorton terminale"
+  ],
+  "resolution": 8.0
+}

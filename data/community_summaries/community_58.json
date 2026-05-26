@@ -1,0 +1,20 @@
+{
+  "community_id": 58,
+  "summary": "This cluster of research is geographically centered on Korean coastal waters, particularly Jeju Island and the east coast, with a strong emphasis on the bioactivity and biotechnological potential of marine algae. A central theme is the investigation of antioxidant, anti-inflammatory, and antimicrobial properties of specific compounds—such as phlorotannins (e.g., dieckol, phlorofucofuroeckol-A), fucoidans, and fucoxanthin—isolated from brown seaweeds like *Ecklonia cava*, *Undaria pinnatifida*, and *Sargassum* species, as well as red and green algae. Key findings consistently demonstrated that these extracts and purified compounds effectively scavenged reactive oxygen species, inhibited lipid peroxidation, and modulated inflammatory pathways (e.g., NF-κB and MAPK) in both in vitro and in vivo models, including zebrafish and human cell lines. The studies also explored applied uses, such as cosmeceutical development (tyrosinase inhibition), food preservation, pharmaceutical adjuvants for inflammatory bowel disease, and antiviral activity against norovirus and SARS-CoV-2, while additional work addressed ecological dynamics, including species distribution, sedimentation effects on kelp spores, and the impact of warming waters on algal whitening.",
+  "n_entities": 195,
+  "n_papers": 80,
+  "n_papers_with_summaries": 80,
+  "entity_sample": [
+    "3,4-dihydroxyphenylalanine",
+    "50% effective concentration (EC50)",
+    "50% ethanolic extract of MSWE",
+    "7-phloroeckol",
+    "8,8′-bieckol",
+    "96 well plate",
+    "CDOCKER",
+    "CDOCKER function",
+    "CHPE",
+    "CPs"
+  ],
+  "resolution": 8.0
+}

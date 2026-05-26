@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Intertidal"}, {"environment_name": "Cheju Island"}], "markers": [], "applications": [], "relationships": [{"subject": "Intertidal", "predicate": "FOUND_IN", "object": "Cheju Island", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. lachrymosa", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean"}], "markers": [], "applications": [], "relationships": [{"subject": "S. lachrymosa", "predicate": "FOUND_IN", "object": "Korean", "confidence": 0.5}]}

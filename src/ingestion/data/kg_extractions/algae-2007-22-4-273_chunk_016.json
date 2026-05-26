@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pseliodinium vaubanii", "taxonomic_rank": "species"}, {"species_name": "G. falcatum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Pseliodinium vaubanii", "predicate": "BELONGS_TO", "object": "G. falcatum", "confidence": 1.0}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 636,
+  "summary": "This cluster synthesizes taxonomic revisions of freshwater red algae, specifically targeting the *Acrochaetium-Audouinella-Chantransia* complex and the Rhodochortonaceae family across India and Korea. Researchers compiled bibliographic checklists and described morphological characteristics—such as branching patterns, chloroplast distribution, and reproductive strategies—to resolve long-standing nomenclatural ambiguities and identify new species, including *Acrochaetium radiatum* and *Rhodochorton robustum*. The studies collectively emphasize the high endemism of these taxa in India and the extensive distribution of epi- and endobiotic populations on host plants in Korean habitats. Key findings include the proposal of nomenclatural changes for over 70 Indian taxonomic entities and the classification of eight new species within the Rhodochortonaceae, underscoring the need for continued taxonomic refinement in these understudied algal groups.",
+  "n_entities": 2,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Chantransia",
+    "Chantransia codii"
+  ],
+  "resolution": 8.0
+}

@@ -1,0 +1,12 @@
+{
+  "community_id": 1016,
+  "summary": "This cluster investigates the galactolipid composition of plastid-associated membranes, specifically monogalactosyldiacylglycerol (MGDG) and digalactosyldiacylglycerol (DGDG), in eyespot-containing dinoflagellates. The research compared these lipid profiles across algal classes, including Chlorophyceae, Cryptophyceae, and Euglenophyceae, and provided novel data for the species *Margalefidinium polykrikoides* and *Durinskia baltica*. A key finding was the differentiation in galactolipid composition between eyespot-containing and non-eyespot-containing dinoflagellate groups, linking these compounds to plastid development and photoreception. The geographic scope was not explicitly defined, but the work focused on taxonomic and biochemical comparisons rather than a specific ecological region.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "4,4-dimethyloxazoline (DMOX) derivatives",
+    "mass spectra"
+  ],
+  "resolution": 8.0
+}

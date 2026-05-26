@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Laurencia snackeyi", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "5\u03b2-Hydroxypalisadin B"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "5\u03b2-Hydroxypalisadin B", "predicate": "PRODUCES", "object": "Laurencia snackeyi", "confidence": 1.0}]}

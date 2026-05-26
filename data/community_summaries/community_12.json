@@ -1,0 +1,20 @@
+{
+  "community_id": 12,
+  "summary": "This cluster of papers is unified by a focus on the biodiversity, community structure, and biogeography of marine macroalgae, predominantly along the coasts of the Korean Peninsula and adjacent waters in the Northwest Pacific. A core set of brown and red algal species, including *Sargassum thunbergii*, *Hizikia fusiformis*, *Corallina pilulifera*, *Ulva pertusa*, and *Ecklonia cava*, were consistently identified as dominant or keystone taxa across intertidal and subtidal zones in numerous floristic surveys. Key findings documented the vertical zonation of these communities, seasonal shifts in biomass and species composition, and the impact of environmental stressors such as thermal effluents from nuclear power plants and red tide events. The geographic scope was heavily concentrated on Korean coastal waters, including the East, South, and West Seas, with additional studies extending to the Yellow Sea, the Bering Sea, and the Aleutian Islands, often employing molecular phylogenetics (e.g., *rbcL*, *cox1*) to resolve cryptic species and taxonomic relationships within genera like *Grateloupia*, *Polysiphonia*, and *Scytosiphonaceae*.",
+  "n_entities": 322,
+  "n_papers": 208,
+  "n_papers_with_summaries": 207,
+  "entity_sample": [
+    "28S",
+    "4-Methyl-2,4-bis[4′-trimethylsilyloxyphenyl] pentene-1",
+    "Adenocystis utricularis",
+    "Andeok",
+    "Andeok, Jeju, Korea",
+    "Anin, Gangreung, Korea",
+    "Asia-Pacific",
+    "Asperococcus",
+    "Atp6",
+    "Avacha Bay"
+  ],
+  "resolution": 8.0
+}

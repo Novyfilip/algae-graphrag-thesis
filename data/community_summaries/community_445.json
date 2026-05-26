@@ -1,0 +1,13 @@
+{
+  "community_id": 445,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally reshaped over the past half-century by the integration of DNA barcoding and gene-sequencing technologies, which have revealed extensive cryptic diversity and prompted the systematic division of previously recognized genera. These molecular phylogenetic approaches, combined with increased field access via SCUBA, have led to the identification of numerous new algal species and a substantial increase in the total number of recognized taxa across this geographic region. The cluster underscores a pattern of hidden biodiversity in tropical and subtropical Atlantic marine ecosystems, driven by the application of modern genetic tools to resolve long-standing taxonomic ambiguities.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Mesothamnion",
+    "Pleonosporium",
+    "Spongoclonium"
+  ],
+  "resolution": 8.0
+}

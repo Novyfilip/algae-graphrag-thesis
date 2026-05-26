@@ -1,0 +1,12 @@
+{
+  "community_id": 904,
+  "summary": "This cluster examines the generation and characterization of high-cell-density (HCD) mutants in *Chlamydomonas reinhardtii* through continuous subculturing, a method that enriches insertional mutations linked to mitochondrial dysfunction. Key findings demonstrate that these mutants achieve significantly higher biomass production than wild-type strains, with specific isolates showing gain-of-function mutations identified via inverse PCR. The research focuses on laboratory-based experimental evolution rather than a specific geographic or ecological scope, emphasizing the mechanistic link between mitochondrial impairment and enhanced growth phenotypes.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Trizol reagent",
+    "total RNA extraction"
+  ],
+  "resolution": 8.0
+}

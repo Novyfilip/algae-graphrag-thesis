@@ -1,0 +1,12 @@
+{
+  "community_id": 1045,
+  "summary": "This cluster of research focuses on the antioxidant potential and biochemical characterization of diverse marine and freshwater algae, with a strong emphasis on species from Jeju Island and Florida. Key findings consistently demonstrate that solvent and enzymatic extracts from benthic diatoms like *Achnanthes longipes*, brown seaweeds such as *Ecklonia cava*, and green algae like *Pediastrum duplex* exhibit significant radical-scavenging activity and inhibition of lipid peroxidation, often correlated with phenolic content. The studies also explore stress responses and biotechnological applications, including the use of sodium hypochlorite to induce oxidative damage in the harmful dinoflagellate *Cochlodinium polykrikoides* and the isolation of alkaliphilic diatoms like *Fustulifera* sp. from Lake Okeechobee for high-lipid biofuel production. Geographically, the work spans temperate coastal ecosystems (Jeju Island, Korea) and subtropical freshwater systems (Florida, USA), collectively highlighting these algae as sources of natural antioxidants and bioactive compounds for food preservation, pharmaceuticals, and renewable energy.",
+  "n_entities": 2,
+  "n_papers": 7,
+  "n_papers_with_summaries": 7,
+  "entity_sample": [
+    "para-formaldehyde",
+    "phosphate buffer"
+  ],
+  "resolution": 8.0
+}

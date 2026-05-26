@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "G. oligoclora", "taxonomic_rank": "species"}, {"species_name": "G. subpectinata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "G. oligoclora", "predicate": "BELONGS_TO", "object": "G. subpectinata", "confidence": 1.0}]}

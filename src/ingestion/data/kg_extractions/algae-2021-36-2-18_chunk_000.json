@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Kappaphycus", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Philippines"}], "markers": [], "applications": [], "relationships": [{"subject": "Kappaphycus", "predicate": "FOUND_IN", "object": "Philippines", "confidence": 1.0}]}

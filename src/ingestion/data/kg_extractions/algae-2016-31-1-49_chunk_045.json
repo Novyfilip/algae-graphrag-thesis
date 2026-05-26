@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "glucose"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "glucose", "predicate": "PRODUCES", "object": "Carbohydrates storage", "confidence": 0.5}, {"subject": "glucose", "predicate": "AFFECTS", "object": "carbon balance", "confidence": 0.5}]}

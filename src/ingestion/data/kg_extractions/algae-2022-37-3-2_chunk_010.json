@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "S. gracilenta", "taxonomic_rank": null}, {"species_name": "T. amphioxeia", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "S. gracilenta", "predicate": "STUDIED_WITH", "object": "T. amphioxeia", "confidence": 1.0}]}

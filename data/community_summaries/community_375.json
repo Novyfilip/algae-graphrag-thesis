@@ -1,0 +1,13 @@
+{
+  "community_id": 375,
+  "summary": "This cluster focuses on the taxonomic revision and nomenclatural history of the freshwater algal class Conjugatophyceae (formerly Zygnematophyceae), with a particular emphasis on the genera *Mougeotia*, *Mougeotiopsis*, and *Transeauina*. The research synthesizes historical classification changes and the redefinition of the class, drawing on data from AlgaeBase to document the number of currently described species and their distribution. Key findings highlight the significant reorganization of this group’s taxonomy, reflecting an evolution in the understanding of its phylogenetic relationships. The geographic and ecological scope is implicitly global but centered on freshwater habitats, where these filamentous green algae are predominantly found.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Arthrodesmus section Octacanthium Hansgirg",
+    "Octacanthium (Hansgirg) Compère",
+    "Octacanthium octocorne (Ralfs) Compère"
+  ],
+  "resolution": 8.0
+}

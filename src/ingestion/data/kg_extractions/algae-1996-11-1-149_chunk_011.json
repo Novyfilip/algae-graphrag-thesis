@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "chlorophyll a"}], "methods": [], "environments": [{"environment_name": "Sonaktong Reservoir"}], "markers": [], "applications": [], "relationships": [{"subject": "chlorophyll a", "predicate": "FOUND_IN", "object": "Sonaktong Reservoir", "confidence": 1.0}]}

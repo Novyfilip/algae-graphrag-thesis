@@ -1,0 +1,20 @@
+{
+  "community_id": 103,
+  "summary": "This cluster of papers is united by a strong focus on the taxonomic revision, phylogenetic analysis, and discovery of new algal species, primarily from the Korean Peninsula, the Northwest Pacific, and surrounding regions. Researchers frequently employed molecular markers such as rbcL, ITS, and cox1 to resolve cryptic diversity and refine generic and species boundaries, with key findings including the identification of new species like *Haraldiophyllum udoensis*, *Symphyocladia glabra*, and *Pterosiphonia arenosa*, as well as the reclassification of genera such as *Radicilingua* and *Pterocladiella*. The geographic scope is heavily centered on Korean coastal waters, the Sea of Okhotsk, and the Yellow Sea, with additional studies extending to Australia, the Mediterranean, and the Americas, reflecting a broad effort to document and systematize algal biodiversity in response to environmental change and anthropogenic impacts.",
+  "n_entities": 153,
+  "n_papers": 127,
+  "n_papers_with_summaries": 125,
+  "entity_sample": [
+    "5.8S and 18S rDNA genes",
+    "Acinetosporaceae sp.",
+    "Acrochaete sp.",
+    "Acrochaetiales sp.",
+    "Acrochaetium robustum",
+    "Acrochaetium savianum",
+    "Acrochaetium secundatum",
+    "Adriatic Sea",
+    "Al-Zour",
+    "Arabian Gulf"
+  ],
+  "resolution": 8.0
+}

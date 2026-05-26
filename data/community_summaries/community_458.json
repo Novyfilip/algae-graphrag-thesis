@@ -1,0 +1,13 @@
+{
+  "community_id": 458,
+  "summary": "This cluster focuses on the nutrient dynamics of harmful cyanobacterial blooms, specifically examining the uptake of carbon and nitrogen by *Microcystis* assemblages in the hypertrophic zone of the Seonakdong River. Through isotopic analysis, the research identified significant nitrogen limitation during the *Microcystis* bloom period, while phosphorus limitation was prevalent in the river, with the algal uptake atomic C:N ratio approaching the Redfield ratio. A key finding was that nitrogen uptake was significantly higher at the GAR station, highlighting spatial heterogeneity in nutrient assimilation within the river system. The geographic scope is confined to the Seonakdong River, and the studies collectively aim to clarify the role of *Microcystis* in local ecosystem nutrient dynamics under varying limitation regimes.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Perkin Elmer model 2400 CHN analyzer",
+    "carbon (POC)",
+    "particulate organic nitrogen (PON)"
+  ],
+  "resolution": 8.0
+}

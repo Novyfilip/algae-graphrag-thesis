@@ -1,0 +1,12 @@
+{
+  "community_id": 1000,
+  "summary": "This cluster of research focuses on the biodiversity and community structure of benthic marine algae along the mid-east coast of Korea, specifically at Daejin and Jukbyeon. The studies documented a total of 85 species, predominantly red algae (Rhodophyta, 50 species) and brown algae (Phaeophyta, 26 species), with key taxa including *Corallina pilulifera*, *Chondrus ocellatus*, melobesioidean algae, *Sargassum horneri*, and *Sargassum yezoense*. Seasonal and vertical distribution patterns were analyzed, revealing that species such as *Corallina pilulifera*, *Hizikia fusiformis*, and various *Sargassum* spp. dominated specific intertidal zones. The geographic scope was confined to the mid-east coast of Korea, providing a localized assessment of algal community dynamics in this temperate region.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "importance value calculation",
+    "quadrat survey"
+  ],
+  "resolution": 8.0
+}

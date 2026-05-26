@@ -1,0 +1,12 @@
+{
+  "community_id": 699,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally reshaped over the past half-century by the integration of gene sequencing technologies, DNA barcoding, and phylogenetic analysis, which have revealed extensive cryptic diversity and led to the division of previously recognized genera. These molecular methods have driven a significant increase in the number of recognized algal species across this geographic region, facilitated by expanded field collection using SCUBA and greater participation by phycologists. The cluster’s findings collectively demonstrate that traditional morphological taxonomy underestimated species richness in these warm Atlantic waters, with genetic data uncovering distinct lineages within what were once considered single species. This work underscores the western Atlantic’s role as a hotspot for cryptic algal biodiversity and highlights the necessity of molecular approaches for accurate taxonomic and biogeographic assessments.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "G. cervicornis",
+    "Gracilaria ferox"
+  ],
+  "resolution": 8.0
+}

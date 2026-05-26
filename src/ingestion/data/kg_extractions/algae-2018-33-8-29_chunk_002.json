@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Ceramieae", "taxonomic_rank": "tribe"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Morocco"}], "markers": [], "applications": [], "relationships": [{"subject": "Ceramieae", "predicate": "FOUND_IN", "object": "Morocco", "confidence": 1.0}]}

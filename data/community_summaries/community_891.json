@@ -1,0 +1,12 @@
+{
+  "community_id": 891,
+  "summary": "This cluster synthesizes research on the taxonomy, classification, and biogeographic distribution of marine algae along the Korean coastline. Studies employed morphological characterization and phylogenetic analyses to resolve taxonomic relationships and species boundaries within major phyla, including Chlorophyta and Chromophyta. Specific taxa such as *Cladophora crystallina* and *Sphacelaria apicalis* were central to investigations, with findings contributing to updated species checklists and refined grouping methodologies. The geographic scope was exclusively focused on Korean coastal waters, emphasizing the region’s endemic diversity and the utility of integrated taxonomic approaches for cataloging its marine flora.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Dermatolithon tumidulum",
+    "T. tumidulum"
+  ],
+  "resolution": 8.0
+}

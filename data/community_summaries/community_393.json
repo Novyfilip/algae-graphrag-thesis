@@ -1,0 +1,13 @@
+{
+  "community_id": 393,
+  "summary": "This cluster of research investigates the phytoplankton and periphyton communities of the Togyo Reservoir in Chulwon, Korea, with a specific focus on the dominance of diatoms over green algae. The studies identified 150 phytoplankton taxa and documented a significant increase in epipelic algae, particularly pennate diatoms, whose prevalence was linked to their raphe structures. The geographic scope is narrowly confined to this single Korean reservoir ecosystem, where the primary findings center on the structural composition and distribution of periphyton and phytoplankton communities.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Centritractaceae",
+    "Centritractus",
+    "Centritractus belanophorus"
+  ],
+  "resolution": 8.0
+}

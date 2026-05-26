@@ -1,0 +1,20 @@
+{
+  "community_id": 223,
+  "summary": "This cluster of papers is united by a strong focus on Korean and East Asian coastal and freshwater ecosystems, with a particular emphasis on the ecological dynamics, cultivation, and bioactive potential of diverse algal groups. Key species investigated include the red seaweed *Eucheuma serra*, the brown kelps *Saccharina japonica* and *Undaria pinnatifida*, the toxic dinoflagellates *Karenia brevis* and *Alexandrium* spp., and the cyanobacteria *Microcystis flos-aquae* and *Dolichospermum hangangense*. A recurring pattern across the cluster is the investigation of environmental drivers—such as nutrient loading, salinity gradients, temperature thresholds, and heavy metal accumulation—on algal bloom formation, community structure, and growth performance. Methodologically, the studies frequently employed polyphasic taxonomic approaches (including 16S rRNA phylogeny and morphological analysis), optimized cultivation techniques for biomass and compound extraction, and assessed antioxidant, anticoagulant, and ichthyotoxic properties of algal extracts, reflecting a dual interest in fundamental ecology and applied biotechnology.",
+  "n_entities": 74,
+  "n_papers": 49,
+  "n_papers_with_summaries": 48,
+  "entity_sample": [
+    "40 m deep",
+    "6-12 m deep",
+    "ASN_M",
+    "Aulacodiscus kittoni",
+    "Azpeitia neocrenulata",
+    "Chaetoceros pseudocrinitus",
+    "Chaetoceros tortissimus",
+    "Coscinodiscus neocrenulatus",
+    "Coscinodiscus subconcavus",
+    "Daechungho, lake"
+  ],
+  "resolution": 8.0
+}

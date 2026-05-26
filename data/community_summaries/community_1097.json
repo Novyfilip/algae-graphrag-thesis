@@ -1,0 +1,12 @@
+{
+  "community_id": 1097,
+  "summary": "This cluster of research focuses on the industrial cultivation and commercialization of specific microalgae species, primarily *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis*, for their high-value bioproducts. The studies trace the historical progression from fundamental natural science to applied biotechnology, emphasizing the optimization of production methods to enhance yields of nutraceuticals, cosmetics, and biofuel feedstocks. Key findings across the cluster highlight a shared strategy of refining cultivation parameters and downstream processing to unlock the commercial potential of these species as sustainable resources. The geographic and ecological scope is broad, reflecting a global interest in leveraging these microalgae for diverse industrial applications.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "monitoring of phytoplankton community structure",
+    "terminal restriction fragment length polymorphism (T-RELP)"
+  ],
+  "resolution": 8.0
+}

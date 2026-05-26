@@ -1,0 +1,20 @@
+{
+  "community_id": 10,
+  "summary": "This cluster of research is geographically centered on the Korean Peninsula and neighboring regions of India and Bangladesh, with a strong emphasis on freshwater ecosystems such as rivers, reservoirs, marshes, and paddy fields. The studies are connected by a shared focus on phytoplankton community dynamics, particularly the dominance and succession of diatoms (e.g., *Stephanodiscus hantzschii*, *Aulacoseira granulata*, *Asterionella gracillima*) and cyanobacteria (e.g., *Microcystis aeruginosa*, *Anabaena* spp.), often in relation to eutrophication and nutrient loading (nitrate, phosphate, silicate). Key findings across the cluster revealed that seasonal shifts in phytoplankton composition were driven by hydrological factors, temperature, and nutrient availability, with blooms frequently occurring in spring and autumn, and that phosphate was a primary limiting nutrient for diatom growth in rivers like the Nakdong. Additionally, several papers documented taxonomic revisions and new species discoveries, including novel cyanobacteria (*Dolichospermum hangangense*, *Amazonocrinis thailandica*) and freshwater red algae (*Batrachospermum* spp.), while applied studies explored microalgal cultivation for bioremediation, pigment production (β-carotene, fucoxanthin), and bioactive compound screening.",
+  "n_entities": 330,
+  "n_papers": 88,
+  "n_papers_with_summaries": 88,
+  "entity_sample": [
+    "Achnanthes inflata",
+    "Achnanthes obliqua",
+    "Achnanthes subsessilis",
+    "Achnanthes turgens",
+    "Actinastrum aciculare Playfair f. Minimum",
+    "Actinastrum aciculare f. Minimum",
+    "Actinastrum hantzschii",
+    "Acutodesmus obliquus",
+    "Amphora ovum",
+    "Angul"
+  ],
+  "resolution": 8.0
+}

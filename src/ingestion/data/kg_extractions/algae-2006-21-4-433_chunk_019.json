@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "Lake Trophic Status Index (LTSI) analysis"}], "environments": [{"environment_name": "dam reservoir"}], "markers": [], "applications": [], "relationships": [{"subject": "Lake Trophic Status Index (LTSI) analysis", "predicate": "STUDIED_WITH", "object": "dam reservoir", "confidence": 1.0}]}

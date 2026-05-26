@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "dinoflagellate", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "hypoxic conditions"}], "markers": [], "applications": [], "relationships": [{"subject": "dinoflagellate", "predicate": "FOUND_IN", "object": "hypoxic conditions", "confidence": 1.0}]}

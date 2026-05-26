@@ -1,0 +1,12 @@
+{
+  "community_id": 606,
+  "summary": "This cluster investigates the reproductive biology of red algae, specifically the rapid release of spermatia triggered by salinity reduction. Studies focused on species from the genera *Bostrychia* and *Catenella*, including *Bostrychia montagnei*, *B. moritziana*, and *Catenella nipae*, which exhibited immediate and high-volume spermatial discharge in response to lowered salinity, while other taxa like *Antithamnion antillanum* and *Ceramium* sp. showed no response even at high salinity levels (75 ppt). The research employed cultured specimens and manipulated seawater salinity to quantify these reproductive events, with geographic scope extending to collections from the Rocky Mountains. A key pattern across the cluster is that the spermatial release response is species-specific and not universal among red algae, highlighting a specialized adaptation to osmotic stress in certain mangrove-associated or estuarine taxa.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Antithamnion antillanum",
+    "Cooks Bay, Moorea, French Polynesia"
+  ],
+  "resolution": 8.0
+}

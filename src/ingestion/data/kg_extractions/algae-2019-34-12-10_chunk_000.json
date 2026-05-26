@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sargassum horneri", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korea Strait"}], "markers": [], "applications": [], "relationships": [{"subject": "Sargassum horneri", "predicate": "FOUND_IN", "object": "Korea Strait", "confidence": 1.0}]}

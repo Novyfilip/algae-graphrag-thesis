@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "fucoxanthin"}], "methods": [{"method_name": "Molecular docking"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "fucoxanthin", "predicate": "STUDIED_WITH", "object": "Molecular docking", "confidence": 1.0}]}

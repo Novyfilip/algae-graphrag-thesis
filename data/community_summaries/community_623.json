@@ -1,0 +1,12 @@
+{
+  "community_id": 623,
+  "summary": "This cluster investigates the genomic basis of pathogenicity in oomycetes, specifically focusing on *Pythium porphyrae*, the causative agent of red rot disease in red algae. Comparative genomic analysis revealed that *P. porphyrae* possesses a gene repertoire with conserved enzymes for degrading red algal biomass, including crinklers and cellulose-binding elicitor lectin-like proteins, while notably lacking the RxLR effector family typical of many phytopathogenic oomycetes. The findings indicate that this pathogen likely evolved from a plant-pathogenic ancestor, adapting its enzymatic toolkit to target marine red algae. The research, which compared the *P. porphyrae* proteome to eight other *Pythium* species, underscores a significant overlap in predicted enzymatic activity, highlighting a shared evolutionary trajectory and a conserved mechanism for biomass degradation across the genus.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "BlastX",
+    "EST dataset"
+  ],
+  "resolution": 8.0
+}

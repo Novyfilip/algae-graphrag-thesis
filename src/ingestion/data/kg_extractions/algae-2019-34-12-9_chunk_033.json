@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "U. laetevirens", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "bloom sites"}], "markers": [], "applications": [], "relationships": [{"subject": "U. laetevirens", "predicate": "FOUND_IN", "object": "bloom sites", "confidence": 1.0}]}

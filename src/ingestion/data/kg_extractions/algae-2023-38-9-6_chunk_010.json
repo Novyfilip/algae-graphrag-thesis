@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "staining method"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "staining method", "predicate": "STUDIED_WITH", "object": "microtubules", "confidence": 1.0}, {"subject": "staining method", "predicate": "STUDIED_WITH", "object": "nuclear division", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "tide pool"}, {"environment_name": "tide channel"}], "markers": [], "applications": [], "relationships": [{"subject": "tide pool", "predicate": "CONTAINS", "object": "fronds", "confidence": 0.5}, {"subject": "tide channel", "predicate": "CONTAINS", "object": "structure", "confidence": 0.5}]}

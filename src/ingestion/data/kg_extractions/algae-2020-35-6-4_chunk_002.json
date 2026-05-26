@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. porphyrae", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. porphyrae", "predicate": "AFFECTS", "object": "red algal biomass", "confidence": 0.5}, {"subject": "P. porphyrae", "predicate": "AFFECTS", "object": "plant species", "confidence": 1.0}]}

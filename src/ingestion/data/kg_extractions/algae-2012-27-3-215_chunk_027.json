@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Z. marina", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "study sites"}], "markers": [], "applications": [], "relationships": [{"subject": "Z. marina", "predicate": "FOUND_IN", "object": "study sites", "confidence": 1.0}]}

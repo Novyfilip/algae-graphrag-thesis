@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "TEM"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "conchocelis", "predicate": "STUDIED_WITH", "object": "TEM", "confidence": 1.0}]}

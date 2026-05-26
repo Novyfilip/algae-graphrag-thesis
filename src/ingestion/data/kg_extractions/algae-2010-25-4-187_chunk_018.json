@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bostrychia radicans", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Bostrychia radicans", "predicate": "FOUND_IN", "object": "epiphytic", "confidence": 1.0}]}

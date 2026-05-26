@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Microcystis", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "polyphosphate"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Microcystis", "predicate": "PRODUCES", "object": "polyphosphate", "confidence": 0.5}]}

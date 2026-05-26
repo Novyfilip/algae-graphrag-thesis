@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Au. infestans", "taxonomic_rank": "species"}, {"species_name": "Au. endozoica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Au. infestans", "predicate": "BELONGS_TO", "object": "Au. endozoica", "confidence": 0.5}]}

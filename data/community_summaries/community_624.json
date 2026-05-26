@@ -1,0 +1,12 @@
+{
+  "community_id": 624,
+  "summary": "This cluster examines the phylogenetic relationships and genetic similarity between the green macroalgae *Ulva conglobata* and *Ulva pertusa*, specifically within the geographic context of Jeju Island, Korea. By analyzing ITS2 ribosomal DNA sequences, the research demonstrated that these two species form a monophyletic clade with 100% bootstrap support, indicating a high degree of genetic similarity. The findings suggest that *Ulva conglobata* and *Ulva pertusa* may not be distinct species but rather belong to a single, closely related lineage within the genus *Ulva*.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Blidingia grevillei",
+    "Monostromataecae"
+  ],
+  "resolution": 8.0
+}

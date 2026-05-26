@@ -1,0 +1,20 @@
+{
+  "community_id": 175,
+  "summary": "This cluster of papers is centered on the biodiversity, community structure, and ecological dynamics of marine macroalgae along the Korean coastline, with a strong emphasis on the genera *Sargassum*, *Corallina*, *Hizikia fusiformis*, and *Ulva pertusa*. Key findings consistently describe vertical zonation patterns, seasonal biomass fluctuations (peaking in spring and summer), and the dominance of specific species such as *Corallina pilulifera*, *Sargassum thunbergii*, and *Hizikia fusiformis* across intertidal and subtidal zones. The geographic scope is predominantly the temperate waters of South Korea, including the East, West, and South Seas, with additional studies from Jeju Island and the Yellow Sea, often investigating anthropogenic impacts like thermal effluents from nuclear power plants and the effects of warming currents on algal whitening. The research collectively characterizes Korean coastal algal flora as temperate, with a high proportion of Rhodophyta, and documents successional processes, species richness (often exceeding 100 species per site), and the ecological roles of key brown and red algal species in structuring benthic communities.",
+  "n_entities": 103,
+  "n_papers": 153,
+  "n_papers_with_summaries": 153,
+  "entity_sample": [
+    "10-25°C",
+    "2-[1,3-dihydro-3,3-dimethyl-1-phenyl-3,4-benzofuran-1-yl]acetic acid",
+    "34° 18’ 22.5” N, 126° 32’ 16.2” E",
+    "AOAC Method 942.05",
+    "AOAC methods",
+    "Ash",
+    "BSA",
+    "Bradford method",
+    "Busan area",
+    "California coastal waters"
+  ],
+  "resolution": 8.0
+}

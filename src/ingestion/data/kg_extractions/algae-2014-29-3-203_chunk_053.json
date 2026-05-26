@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "M. pyrifera", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "M. pyrifera", "predicate": "AFFECTS", "object": "oxygenase activity", "confidence": 0.5}]}

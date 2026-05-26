@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Undaria pinnatifida", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Gijang on the east coast of Korea"}], "markers": [], "applications": [], "relationships": [{"subject": "Undaria pinnatifida", "predicate": "FOUND_IN", "object": "Gijang on the east coast of Korea", "confidence": 1.0}]}

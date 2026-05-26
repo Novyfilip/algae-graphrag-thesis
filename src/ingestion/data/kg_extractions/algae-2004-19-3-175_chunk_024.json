@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean populations"}, {"environment_name": "Gangnung population"}], "markers": [], "applications": [], "relationships": [{"subject": "Gangnung population", "predicate": "FOUND_IN", "object": "Korean populations", "confidence": 0.5}]}

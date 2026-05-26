@@ -1,0 +1,12 @@
+{
+  "community_id": 1005,
+  "summary": "This cluster examines the recolonization and succession dynamics of intertidal benthic algal communities, specifically on Cheju Island, Korea, over a 24-month period. The research identified 51 algal species (3 green, 15 brown, 33 red) and found that perennial algae, particularly *Hizikia fusiformis*, dominated the lower tidal zone, while succession progressed from pioneer perennials to later species such as *Ulva conglobata* and *Corallina pilulifera*. A key finding was that annual algal species did not significantly influence the successional process in this intertidal environment.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Non-destructive method",
+    "intertidal zone of Shinchang, Cheju Island"
+  ],
+  "resolution": 8.0
+}

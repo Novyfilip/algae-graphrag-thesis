@@ -1,0 +1,14 @@
+{
+  "community_id": 316,
+  "summary": "A cluster of papers centered on the discovery and formal description of *Lympha mucosa*, a new monotypic genus of freshwater red algae from the southeastern United States, shares a focus on expanding the known biodiversity of the Batrachospermales order. These studies collectively emphasize the integration of morphological traits—such as dense, compressed whorls and unique reproductive structures like a single gonimoblast filament type—with molecular datasets to refine the systematics of freshwater red algae. The geographic scope is restricted to North America, specifically the southeastern U.S., highlighting this region as a hotspot for novel algal diversity. Key findings across the cluster underscore the value of combining field collections with phylogenetic analysis to uncover cryptic species and revise taxonomic frameworks within this ecologically specialized group.",
+  "n_entities": 4,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AL site",
+    "Allegheny Plateau",
+    "Cumberland Plateau",
+    "KY site"
+  ],
+  "resolution": 8.0
+}

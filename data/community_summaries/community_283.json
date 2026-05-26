@@ -1,0 +1,16 @@
+{
+  "community_id": 283,
+  "summary": "This cluster investigates benthic diatom community structure in hypersaline environments, specifically within solar salterns in Korea, with a focus on salinity as a primary ecological driver. Sampling along a salinity gradient from 11 sites, researchers identified 169 diatom species and established a critical salinity threshold of approximately 300 psu for live diatoms, beyond which species richness declined sharply. Key findings revealed that salinity, mud content, and total nitrogen were the most influential factors shaping community composition, with certain species demonstrating notable salinity tolerance. The work provides a foundational baseline for biodiversity monitoring of these ecologically important microalgal producers in extreme saline habitats.",
+  "n_entities": 6,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Indicator value (IndVal) analysis",
+    "brackish (<30 psu)",
+    "hypersaline I (40-80 psu)",
+    "hypersaline II (>100 psu)",
+    "indicator diatom species",
+    "saline (30-40 psu)"
+  ],
+  "resolution": 8.0
+}

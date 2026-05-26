@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Spirulina", "taxonomic_rank": "genus"}, {"species_name": "Halospirulina", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Halospirulina", "predicate": "BELONGS_TO", "object": "Spirulina", "confidence": 0.5}]}

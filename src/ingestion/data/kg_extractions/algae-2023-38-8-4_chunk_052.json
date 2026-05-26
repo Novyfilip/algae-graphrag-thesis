@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Plocamium", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "NW Pacific"}], "markers": [], "applications": [{"application_name": "biodiversity conservation"}], "relationships": [{"subject": "Plocamium", "predicate": "FOUND_IN", "object": "NW Pacific", "confidence": 0.5}]}

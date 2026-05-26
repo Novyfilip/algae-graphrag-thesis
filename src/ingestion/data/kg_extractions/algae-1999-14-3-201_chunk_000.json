@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "UV-absorbing pigments"}], "methods": [], "environments": [{"environment_name": "marine"}], "markers": [], "applications": [], "relationships": [{"subject": "UV-absorbing pigments", "predicate": "FOUND_IN", "object": "marine", "confidence": 1.0}]}

@@ -1,0 +1,13 @@
+{
+  "community_id": 403,
+  "summary": "This cluster investigates the control of harmful algal blooms (HABs) through oxidative stress induction, specifically targeting the dinoflagellate *Cochlodinium polykrikoides*. The research demonstrates that the biocide sodium hypochlorite (NaOCl) causes dose-dependent growth inhibition, with an EC50 of 0.584 mg L⁻¹, by damaging photosynthetic machinery and triggering antioxidant enzyme activity as a cellular stress response. The findings highlight a shared focus on the physiological mechanisms of oxidative damage and pigment disruption as a strategy for bloom mitigation. The geographic and ecological scope centers on marine environments impacted by toxic dinoflagellate blooms.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "DPD method",
+    "N,N-di-ethyl-phenylene-diamine",
+    "spectrophotometrically determined"
+  ],
+  "resolution": 8.0
+}

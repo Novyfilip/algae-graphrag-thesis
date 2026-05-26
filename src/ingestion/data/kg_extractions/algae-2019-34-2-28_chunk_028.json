@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Heterocapsa minima", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean strain"}], "markers": [], "applications": [], "relationships": [{"subject": "Heterocapsa minima", "predicate": "FOUND_IN", "object": "Korean strain", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "C. meneghiniana", "taxonomic_rank": "species"}, {"species_name": "Cyclotella", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "C. meneghiniana", "predicate": "BELONGS_TO", "object": "Cyclotella", "confidence": 1.0}]}

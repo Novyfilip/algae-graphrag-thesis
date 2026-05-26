@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "shallow rocky bottom"}, {"environment_name": "marine communities"}], "markers": [], "applications": [], "relationships": [{"subject": "shallow rocky bottom", "predicate": "CONTAINS", "object": "marine communities", "confidence": 0.5}]}

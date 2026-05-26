@@ -1,0 +1,13 @@
+{
+  "community_id": 385,
+  "summary": "This cluster investigates the population dynamics and life history ecology of the red alga *Chondrus crispus* (Gigartinales, Rhodophyta), specifically focusing on the spatial and temporal distribution of its gametophytic and tetrasporophytic life history phases. Research conducted in Nova Scotia over a thirty-year period (1993-2011) analyzed over 2,800 thalli, using the presence of kappa- and lambda-carrageenan to distinguish between the two phases. A consistent pattern of gametophyte dominance (a ratio of 3:1 or greater) was documented, with significant fluctuations at specific sites linked to recovery from disturbance and changes in substrate composition. The findings indicate a stable natural range for gametophyte ratios in the region, where lower ratios signify post-disturbance recovery and highlight the role of carpospores in regeneration.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "C. crispus zone",
+    "lower part of the C. crispus zone",
+    "upper margin of the C. crispus zone"
+  ],
+  "resolution": 8.0
+}

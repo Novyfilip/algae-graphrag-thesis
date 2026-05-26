@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Heterocapsa sp.", "taxonomic_rank": "species"}, {"species_name": "P. lebourae", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. lebourae", "predicate": "AFFECTS", "object": "Heterocapsa sp.", "confidence": 0.5}]}

@@ -1,0 +1,12 @@
+{
+  "community_id": 792,
+  "summary": "This cluster of research focuses on the industrial cultivation and commercialization of specific microalgae species, primarily *Chlorella vulgaris*, *Spirulina platensis*, and *Haematococcus pluvialis*, for their high-value bioproducts. The studies collectively trace the historical progression of microalgae culture from fundamental scientific investigation to applied commercial production, emphasizing the optimization of cultivation methods to enhance yields. Key findings across the cluster highlight the diverse applications of these species in the nutraceutical, cosmetic, and biofuel industries, driven by their valuable compounds such as astaxanthin from *H. pluvialis*. The geographic and ecological scope is broad, reflecting a global interest in developing these algae as sustainable resources for multiple industrial sectors.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Nitzschia inconspicua",
+    "Uljin/Gyeongbuk hatchery"
+  ],
+  "resolution": 8.0
+}

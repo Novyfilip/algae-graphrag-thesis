@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Porphyra yezoensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Takada aquafarm, Ariakekai Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "Porphyra yezoensis", "predicate": "FOUND_IN", "object": "Takada aquafarm, Ariakekai Bay", "confidence": 1.0}]}

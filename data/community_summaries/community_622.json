@@ -1,0 +1,12 @@
+{
+  "community_id": 622,
+  "summary": "Research on benthic marine algae in the tropical and subtropical western Atlantic has been fundamentally reshaped over the past half-century by the integration of gene sequencing, DNA barcoding, and phylogenetic analysis, which have revealed extensive cryptic diversity and led to the division of previously recognized genera into multiple new species. These molecular methods, combined with increased field access via SCUBA, have dramatically expanded the known species richness across this geographic region, highlighting that traditional morphology-based taxonomy had significantly underestimated algal biodiversity. The cluster underscores a pattern of taxonomic revision driven by molecular phylogenetics, with findings concentrated on the western Atlantic’s tropical and subtropical coastal ecosystems.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Bikini Atoll, Northern Marshall Islands",
+    "Rhipilia diaphana"
+  ],
+  "resolution": 8.0
+}

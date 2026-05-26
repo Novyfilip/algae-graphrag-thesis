@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "astaxanthin"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "astaxanthin production"}], "relationships": [{"subject": "astaxanthin", "predicate": "PRODUCES", "object": "astaxanthin production", "confidence": 1.0}]}

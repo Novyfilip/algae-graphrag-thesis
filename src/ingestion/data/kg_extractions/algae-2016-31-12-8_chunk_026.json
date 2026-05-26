@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "pia kurogii", "taxonomic_rank": null}, {"species_name": "Schizymenia apoda", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "pia kurogii", "predicate": "STUDIED_WITH", "object": "Schizymenia apoda", "confidence": 1.0}]}

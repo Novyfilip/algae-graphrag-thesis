@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "hot drying"}, {"method_name": "pH measurement"}], "environments": [{"environment_name": "wet soil"}], "markers": [], "applications": [], "relationships": [{"subject": "wet soil", "predicate": "CONTAINS", "object": "pH of 6.5", "confidence": 1.0}]}

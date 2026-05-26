@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Plocamium luculentum sp. nov.", "taxonomic_rank": "species"}, {"species_name": "Rhodophyta", "taxonomic_rank": "phylum"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Plocamium luculentum sp. nov.", "predicate": "BELONGS_TO", "object": "Rhodophyta", "confidence": 1.0}]}

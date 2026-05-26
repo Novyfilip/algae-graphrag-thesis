@@ -1,0 +1,16 @@
+{
+  "community_id": 282,
+  "summary": "This cluster investigates the generation of high-cell-density (HCD) phenotypes in *Chlamydomonas reinhardtii* through continuous subculture methods, which progressively increase cell-culture density to enrich for insertional mutations. Key findings link two specific HCD mutants to mitochondrial dysfunction, with inverse PCR identifying the insertion loci and suggesting gain-of-function mutations that significantly enhance biomass production compared to wild-type strains. The research is laboratory-based, focusing on the genetic and physiological mechanisms of algal growth optimization rather than a specific geographic or ecological context.",
+  "n_entities": 6,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Cre10.g426350",
+    "Cre10.g426400",
+    "Cre13.g585600",
+    "Cre13.g585651",
+    "Sequence-specific PCR analysis",
+    "TUB2"
+  ],
+  "resolution": 8.0
+}

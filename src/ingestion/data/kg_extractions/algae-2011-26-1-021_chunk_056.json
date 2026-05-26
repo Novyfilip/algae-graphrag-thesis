@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bostrychia", "taxonomic_rank": "genus"}, {"species_name": "red algae", "taxonomic_rank": "group"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Bostrychia", "predicate": "BELONGS_TO", "object": "red algae", "confidence": 1.0}]}

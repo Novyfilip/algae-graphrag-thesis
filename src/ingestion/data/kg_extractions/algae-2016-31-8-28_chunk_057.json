@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "microalgae", "taxonomic_rank": null}], "compounds": [{"compound_name": "hydrocarbon"}], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "hydrocarbon degradation"}], "relationships": [{"subject": "microalgae", "predicate": "AFFECTS", "object": "hydrocarbon", "confidence": 0.5}]}

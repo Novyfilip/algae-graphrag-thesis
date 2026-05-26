@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "mariensis", "taxonomic_rank": null}, {"species_name": "P. brodiaci", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [{"marker_name": "GM"}], "applications": [], "relationships": [{"subject": "P. brodiaci", "predicate": "IDENTIFIED_BY", "object": "GM", "confidence": 1.0}]}

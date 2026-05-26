@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Saccharina japonica", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Saccharina japonica", "predicate": "AFFECTS", "object": "disease", "confidence": 0.5}]}

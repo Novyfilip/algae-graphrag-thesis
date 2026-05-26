@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Polysiphonia morrowii", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Inchon Dock"}], "markers": [], "applications": [], "relationships": [{"subject": "Polysiphonia morrowii", "predicate": "FOUND_IN", "object": "Inchon Dock", "confidence": 0.5}]}

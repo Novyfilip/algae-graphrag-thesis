@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Sargassum", "taxonomic_rank": "genus"}, {"species_name": "Fucaceae", "taxonomic_rank": "family"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Sargassum", "predicate": "BELONGS_TO", "object": "Fucaceae", "confidence": 0.5}]}

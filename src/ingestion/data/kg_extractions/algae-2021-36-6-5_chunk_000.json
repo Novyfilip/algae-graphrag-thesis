@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Stichococcus-like organisms", "taxonomic_rank": null}, {"species_name": "Trebouxiophyta", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Stichococcus-like organisms", "predicate": "BELONGS_TO", "object": "Trebouxiophyta", "confidence": 1.0}]}

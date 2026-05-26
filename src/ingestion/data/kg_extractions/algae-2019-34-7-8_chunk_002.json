@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "economic marine algae", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean peninsula"}, {"environment_name": "Ulleungdo Island"}], "markers": [], "applications": [], "relationships": [{"subject": "economic marine algae", "predicate": "FOUND_IN", "object": "Ulleungdo Island", "confidence": 0.5}]}

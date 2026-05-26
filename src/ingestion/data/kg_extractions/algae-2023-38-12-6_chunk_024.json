@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "18S rRNA gene sequencing"}], "environments": [{"environment_name": "Jinhae Bay"}, {"environment_name": "Masan Bay"}], "markers": [{"marker_name": "18S rRNA"}], "applications": [], "relationships": [{"subject": "18S rRNA gene sequencing", "predicate": "STUDIED_WITH", "object": "18S rRNA", "confidence": 1.0}]}

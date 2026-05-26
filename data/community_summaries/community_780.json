@@ -1,0 +1,12 @@
+{
+  "community_id": 780,
+  "summary": "This cluster focuses on the taxonomic survey and documentation of freshwater cyanophyte diversity in South Korea, specifically within the Chol La Nam Do region. Researchers identified 43 taxa of Cyanophyceae across 193 sampling stations since 1984, including six species and one variety newly reported to the country. The work employed qualitative net sampling methods across diverse habitats such as epiphytic and floating algae, contributing foundational data to the broader understanding of Korean algal flora. The geographic scope is narrowly defined by the coordinates 128° E and 35°30' N, emphasizing a localized, inventory-based approach to freshwater phycology.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Myxosarcina chroococcoides",
+    "hot-springs in Japan"
+  ],
+  "resolution": 8.0
+}

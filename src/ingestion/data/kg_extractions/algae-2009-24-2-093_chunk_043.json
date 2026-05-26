@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "A. nodosum", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Europe"}], "markers": [], "applications": [], "relationships": [{"subject": "A. nodosum", "predicate": "FOUND_IN", "object": "Europe", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "ulleungensis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Ulleung"}], "markers": [], "applications": [], "relationships": [{"subject": "ulleungensis", "predicate": "FOUND_IN", "object": "Ulleung", "confidence": 1.0}]}

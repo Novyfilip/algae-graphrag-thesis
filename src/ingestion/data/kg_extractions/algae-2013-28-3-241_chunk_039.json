@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Bostrychia anomala", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Bostrychia anomala", "predicate": "BELONGS_TO", "object": "different subclade", "confidence": 1.0}]}

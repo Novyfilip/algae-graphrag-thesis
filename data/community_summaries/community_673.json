@@ -1,0 +1,12 @@
+{
+  "community_id": 673,
+  "summary": "This cluster synthesizes the historical documentation and early taxonomic exploration of marine algae in the North Pacific and Bering Sea region, spanning the late 18th to early 20th centuries. The research is unified by a geographic focus on the Kamchatka Peninsula, Alaska, the Aleutian Islands, and the Kuril Islands, where expeditions led by figures such as Steller, Chamisso, and Voznesenskii collected and cataloged diverse algal species. Key findings center on the foundational role of Russian and British voyages in establishing the region’s phycological record, with specific species documented through these early scientific investigations. The cluster reflects a pattern of discovery-driven research that laid the groundwork for understanding the macroalgal biodiversity of this subarctic and boreal marine environment.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Desmarestia aculeata (L.) J.V. Lamour.",
+    "Spinularia intermedia (Postels & Rupr.) Rupr."
+  ],
+  "resolution": 8.0
+}

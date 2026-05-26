@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "H. pluvialis", "taxonomic_rank": null}], "compounds": [{"compound_name": "astaxanthin"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "H. pluvialis", "predicate": "PRODUCES", "object": "astaxanthin", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "GABA"}], "methods": [{"method_name": "Morris water maze test"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "S. japonica", "predicate": "CONTAINS", "object": "GABA", "confidence": 1.0}]}

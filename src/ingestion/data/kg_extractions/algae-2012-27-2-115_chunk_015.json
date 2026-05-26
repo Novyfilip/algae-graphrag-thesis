@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Eualaria", "taxonomic_rank": "genus"}, {"species_name": "Nereocystis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Eualaria", "predicate": "STUDIED_WITH", "object": "Nereocystis", "confidence": 1.0}]}

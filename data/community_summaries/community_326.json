@@ -1,0 +1,14 @@
+{
+  "community_id": 326,
+  "summary": "This cluster investigates the metabolic flexibility and ecological roles of marine algae, specifically focusing on carbon allocation and symbiotic relationships. Research on the diatom *Chaetoceros muellerii* used FTIR spectroscopy to demonstrate that inhibiting amino acid, protein, and RNA synthesis rapidly alters carbon partitioning and organic composition, with implications for the biological carbon pump and nutrient cycling. Concurrently, studies on the unicellular alga *Prochloron* revealed its eubacterial phylogeny and obligate symbiosis with didemnid ascidians in warm tropical seas, including the Caribbean, Israel, and the Great Barrier Reef. Both lines of inquiry underscore how these algae modulate their cellular composition and nutrient exchange in response to environmental or biological perturbations, highlighting their significance in coastal and reef ecosystems.",
+  "n_entities": 4,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "AI",
+    "AII",
+    "RIF",
+    "RNA polymerase"
+  ],
+  "resolution": 8.0
+}

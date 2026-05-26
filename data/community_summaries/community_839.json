@@ -1,0 +1,12 @@
+{
+  "community_id": 839,
+  "summary": "This cluster investigates the seasonal dynamics of phytoplankton communities in the northeastern coastal waters off the Korean Peninsula, an area influenced by the North Korean Cold Current and the complex oceanography of the East Sea. The research identified 153 species, with marine diatoms such as *Thalassionema nitzschioides*, *Licmorphora abbreviata*, *Chaetoceros affinis*, and *Chaetoceros socialis* being the most prevalent. Key findings revealed significant seasonal variation in biomass, with peak concentrations observed in February and August 2003 and May 2002 in the bottom layer, and micro-phytoplankton contributing substantially to overall biomass. The studies collectively characterize the region’s phytoplankton community structure and abundance patterns, which ranged from 15 to 430 cells mL⁻¹ across surface and bottom layers.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Puckchong-Namdaechon river",
+    "fresh water diatom"
+  ],
+  "resolution": 8.0
+}

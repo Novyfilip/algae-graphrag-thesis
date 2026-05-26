@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Eualaria", "taxonomic_rank": "genus"}, {"species_name": "Macrocystis pyrifera", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Eualaria", "predicate": "STUDIED_WITH", "object": "Macrocystis pyrifera", "confidence": 0.5}]}

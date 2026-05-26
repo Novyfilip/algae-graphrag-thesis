@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "eucheumatoids", "taxonomic_rank": null}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "seaweed seedling production"}], "relationships": [{"subject": "eucheumatoids", "predicate": "STUDIED_WITH", "object": "seaweed seedling production", "confidence": 1.0}]}

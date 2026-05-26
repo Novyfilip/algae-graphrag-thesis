@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Chlorophyceae", "taxonomic_rank": "class"}], "compounds": [], "methods": [], "environments": [{"environment_name": "ponds"}], "markers": [], "applications": [], "relationships": [{"subject": "Chlorophyceae", "predicate": "FOUND_IN", "object": "ponds", "confidence": 1.0}]}

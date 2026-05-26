@@ -1,0 +1,12 @@
+{
+  "community_id": 598,
+  "summary": "This cluster focuses on the taxonomic characterization and biogeographic expansion of the epiphytic dinoflagellate *Amphidinium massartii*, specifically through the integration of morphological analysis and multi-gene rDNA sequencing. Researchers isolated and identified a distinct Korean lineage from the temperate waters off Jeju Island, which exhibited unique sequences in the LSU, SSU, and cytochrome b genes, confirming its separation from previously described Australian and American strains. The key finding across the cluster is the discovery of this species in a novel temperate habitat, significantly extending its known geographic range and highlighting cryptic diversity within the genus.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "AY443010",
+    "Amphidinium britannicum"
+  ],
+  "resolution": 8.0
+}

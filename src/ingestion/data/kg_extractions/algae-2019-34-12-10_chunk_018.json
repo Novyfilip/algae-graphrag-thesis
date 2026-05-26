@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Cyclotella sp.", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "marine"}], "markers": [], "applications": [], "relationships": [{"subject": "Cyclotella sp.", "predicate": "FOUND_IN", "object": "marine", "confidence": 0.5}]}

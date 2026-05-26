@@ -1,0 +1,20 @@
+{
+  "community_id": 152,
+  "summary": "This cluster of papers is connected by a strong focus on the biodiversity, taxonomy, and ecological dynamics of algae and phytoplankton across Korean and East Asian aquatic ecosystems, with particular emphasis on diatoms, red algae, and cyanobacteria. Key findings reveal significant shifts in community composition over time, such as the increase in diatoms and blue-green algae in the Han River over 70 years, and the dominance of species like *Asterionella gracillima*, *Aulacoseira granulata*, and *Chaetoceros socialis* in various freshwater and marine environments. The research also highlights the impact of environmental stressors—including nutrient loading, temperature, salinity, and UV radiation—on algal growth, succession, and disease outbreaks, particularly oomycete pathogens like *Pythium porphyrae* affecting *Pyropia* aquaculture. Methodologically, the studies employ molecular phylogenetics (e.g., rbcL, ITS, and 16S rDNA sequencing), polyphasic taxonomy, and advanced techniques like metabarcoding and FTIR spectroscopy to resolve species boundaries and assess community structure. Geographically, the work is concentrated in Korean rivers (e.g., Han, Geum, Naktong, Seomjin), coastal bays (e.g., Masan-Jinhae, Tongyeong, Yongil), and reservoirs (e.g., Togyo, Daecheong), with additional contributions from Antarctic, Indian, and Southeast Asian sites, underscoring a regional yet globally relevant focus on algal ecology and applied phycology.",
+  "n_entities": 117,
+  "n_papers": 99,
+  "n_papers_with_summaries": 99,
+  "entity_sample": [
+    "British coastal waters",
+    "Chalk point",
+    "Chlorophytes",
+    "DAIpo",
+    "Diatoms",
+    "Doi Suthep-Pui National Park",
+    "Dokdo coastal area",
+    "Gyonggiman Islets",
+    "Inchon dock",
+    "Lower Grand Coulee, Washington"
+  ],
+  "resolution": 8.0
+}

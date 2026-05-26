@@ -1,0 +1,20 @@
+{
+  "community_id": 133,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, ecology, and biotechnological applications of algae from Korean waters, with a particular emphasis on species such as *Microcystis aeruginosa*, *Stephanodiscus hantzschii*, *Porphyra yezoensis*, and *Ecklonia cava*. Key findings across the cluster include the characterization of bloom-forming cyanobacteria and diatoms in rivers and reservoirs (e.g., Nakdong River, Han River, Lake Unmun), the isolation and physiological study of novel dinoflagellates (e.g., *Ansanella granifera*, *Coolia santacroce*), and the evaluation of microalgae for lipid, pigment, and antioxidant production. Methodologically, the papers frequently employed cryopreservation, molecular phylogenetics (e.g., rDNA, RuBisCo spacer), and biochemical assays to assess bioactive compounds, with a geographic scope overwhelmingly centered on South Korea, including coastal sites (Jaran Bay, Jeju Island, Gamak Bay) and inland freshwater systems.",
+  "n_entities": 128,
+  "n_papers": 133,
+  "n_papers_with_summaries": 133,
+  "entity_sample": [
+    "14C measurement method",
+    "Actinastrum hantzschii var. f luviatile",
+    "Acutodesmus",
+    "Allo",
+    "Analipus japonicus",
+    "Anseong Stream",
+    "Anseong Stream basin",
+    "BB-car",
+    "C. striolata",
+    "Chodatella"
+  ],
+  "resolution": 8.0
+}

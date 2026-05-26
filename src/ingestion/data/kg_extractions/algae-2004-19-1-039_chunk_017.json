@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Kosung Bay"}, {"environment_name": "Koje Bay"}], "markers": [], "applications": [], "relationships": [{"subject": "Kosung Bay", "predicate": "FOUND_IN", "object": "water column", "confidence": 1.0}, {"subject": "Koje Bay", "predicate": "FOUND_IN", "object": "water column", "confidence": 1.0}]}

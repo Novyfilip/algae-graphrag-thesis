@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Saccharina angustissima", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "low intertidal in Casco Bay, Maine"}], "markers": [], "applications": [], "relationships": [{"subject": "Saccharina angustissima", "predicate": "FOUND_IN", "object": "low intertidal in Casco Bay, Maine", "confidence": 1.0}]}

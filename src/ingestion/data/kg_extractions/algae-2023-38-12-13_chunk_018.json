@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pontisima", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Pontisima", "predicate": "BELONGS_TO", "object": "oomycete", "confidence": 0.5}]}

@@ -1,0 +1,13 @@
+{
+  "community_id": 507,
+  "summary": "This cluster of research examines the ecological dynamics of marine benthic algae, with a particular focus on community structure and biofouling in coastal environments. Studies conducted on the rocky shores of Dongbaekseom, Busan, Korea, identified 82 algal species, with dominant taxa including *Corallina* spp., *Melobesioidean algae*, *Ulva pertusa*, and *Chondria crassicaulis*, while also noting the subdominant presence of *Sargassum thunbergii* and *Chondracanthus intermedia*. A key finding across the cluster is that spatial competition among benthic algae, alongside seasonal variation, significantly shapes community composition, with a decreasing similarity index indicating an ongoing ecological shift. Additionally, research on biofouling highlights the role of green fouling algae such as *Enteromorpha* spp. and *Ulva* spp., whose motile reproductive cells exhibit phototaxis and chemotaxis to colonize submerged surfaces, forming extensive fouling layers on ship hulls and offshore structures.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "coastal environment change caused by coastal urban development in Busan",
+    "coastal environment of Korea",
+    "marine benthic community"
+  ],
+  "resolution": 8.0
+}

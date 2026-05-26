@@ -1,0 +1,20 @@
+{
+  "community_id": 71,
+  "summary": "This cluster of papers is geographically centered on the Korean Peninsula, the northwestern Pacific, and the North Atlantic, with a strong emphasis on the ecology, physiology, and biochemistry of brown algae (Phaeophyceae) such as *Ecklonia cava*, *Sargassum* species, *Hizikia fusiformis*, and *Ascophyllum nodosum*, as well as the red alga *Pyropia yezoensis*. Key findings across the cluster demonstrated that environmental stressors—including wave exposure, temperature, sedimentation, and nutrient loading—significantly influenced morphological plasticity, reproductive success, and community structure, with studies on *Carpophyllum* and *Ecklonia stolonifera* revealing site-specific phenotypic variation and population dynamics. A major thematic pattern was the isolation and characterization of bioactive compounds, particularly phlorotannins (e.g., dieckol, phlorofucofuroeckol-A) and sulfated polysaccharides from brown seaweeds, which exhibited potent antioxidant, anti-inflammatory, and anti-lipid peroxidation activities, often assessed through in vitro and zebrafish models. Additionally, research on symbiotic relationships, such as the *Ascophyllum nodosum–Mycophycias ascophylli–Vertebrata lanosa* complex, highlighted unique mutualistic interactions and morphological adaptations in the North Atlantic, while phylogenetic studies using rDNA ITS and coxIII sequences clarified taxonomic boundaries within *Sargassum* subgenus *Bactrophycus* and the *Staurastrum* complex.",
+  "n_entities": 184,
+  "n_papers": 134,
+  "n_papers_with_summaries": 131,
+  "entity_sample": [
+    "1,3,5 trihydroxybenzene",
+    "1,3,5-trihydroxybenzenoid compound",
+    "ANCOVA",
+    "Acrocarpia",
+    "Bamfield Marine Station",
+    "Barkley Sound",
+    "Bartlett’s test",
+    "Bonferroni-adjusted probability value",
+    "Boughrara lagoon",
+    "Brown algal"
+  ],
+  "resolution": 8.0
+}

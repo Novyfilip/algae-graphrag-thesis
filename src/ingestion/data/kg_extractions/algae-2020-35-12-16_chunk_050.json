@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Fistulifera sp. 154-3", "taxonomic_rank": "species"}], "compounds": [{"compound_name": "lipid"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "Fistulifera sp. 154-3", "predicate": "PRODUCES", "object": "lipid", "confidence": 1.0}]}

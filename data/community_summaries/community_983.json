@@ -1,0 +1,12 @@
+{
+  "community_id": 983,
+  "summary": "This cluster investigates the transport and aggregation dynamics of pelagic *Sargassum* in the East China Sea and Yellow Sea, integrating satellite monitoring with Lagrangian particle tracking simulations to reconstruct the trajectory of drifting macroalgal patches. Researchers employed a 1% leeway factor to correct for atmospheric interference, such as cloud cover and sea fog, and used numerical modeling to predict the movement of lost *Sargassum* patches under the influence of wind patterns and currents. The findings emphasize the East China Sea as a critical zone for *Sargassum* accumulation, demonstrating that combining remote sensing with particle transport models is essential for accurate tracking of these macroalgae in marginal seas.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "backward particle tracking",
+    "forward particle tracking"
+  ],
+  "resolution": 8.0
+}

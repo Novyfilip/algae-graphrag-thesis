@@ -1,0 +1,12 @@
+{
+  "community_id": 1087,
+  "summary": "Research on *Gracilaria vermiculophylla* along the southern coast of China revealed significant genetic divergence and isolation from northern populations, with AFLP scanning identifying a distinct south-to-north genetic barrier. This pattern suggests a history of ancestral diversity and local adaptation that has shaped the species’ evolution within the northwestern Pacific. The findings underscore the importance of regional genetic variation for the conservation of this red seaweed, highlighting how geographic and ecological factors drive population structure across Chinese coastal waters.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Barrier",
+    "spatial analysis of pairwise FST matrix"
+  ],
+  "resolution": 8.0
+}

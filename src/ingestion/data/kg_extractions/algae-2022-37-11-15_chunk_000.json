@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pseudostaurosiropsis", "taxonomic_rank": "genus"}], "compounds": [], "methods": [], "environments": [{"environment_name": "United States of America"}], "markers": [], "applications": [], "relationships": [{"subject": "Pseudostaurosiropsis", "predicate": "FOUND_IN", "object": "United States of America", "confidence": 1.0}]}

@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Seto Inland Sea"}, {"environment_name": "coastal area"}], "markers": [], "applications": [], "relationships": [{"subject": "Seto Inland Sea", "predicate": "AFFECTS", "object": "coastal area", "confidence": 0.5}]}

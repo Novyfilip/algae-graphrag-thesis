@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Pyropia", "taxonomic_rank": "genus"}], "compounds": [{"compound_name": "glycogen"}], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "bacteria", "predicate": "FOUND_IN", "object": "Pyropia", "confidence": 1.0}, {"subject": "bacteria", "predicate": "PRODUCES", "object": "glycogen", "confidence": 1.0}]}

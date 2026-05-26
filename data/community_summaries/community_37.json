@@ -1,0 +1,20 @@
+{
+  "community_id": 37,
+  "summary": "This cluster of papers is unified by a strong geographic focus on Korean coastal and marine ecosystems, with particular emphasis on the impacts of environmental stressors such as temperature shifts, salinity gradients, thermal effluents from nuclear power plants, and nutrient loading on macroalgal and phytoplankton community structure. Key species investigated include *Ulva pertusa*, *Pyropia yezoensis*, *Ecklonia cava*, *Sargassum thunbergii*, *Cochlodinium polykrikoides*, and *Zostera marina*, with studies examining their physiological responses, photosynthetic performance, and ecological succession patterns across intertidal and subtidal zones. Methodologically, the research employed field surveys, laboratory culture experiments, molecular phylogenetic analyses (e.g., rbcL, cox1, ITS sequences), and assessments of biostimulant effects, heavy metal bioaccumulation, and carbon flux dynamics. A recurring pattern was the documentation of community shifts toward warm-tolerant and opportunistic species in response to anthropogenic thermal pollution and eutrophication, alongside efforts to develop seaweed-based bioremediation and aquaculture applications.",
+  "n_entities": 235,
+  "n_papers": 187,
+  "n_papers_with_summaries": 184,
+  "entity_sample": [
+    "2008 Qingdao bloom",
+    "Aichi Prefecture",
+    "Amami Islands",
+    "Amphithoe sp.",
+    "Australia and New Zealand",
+    "Australian ocean waters",
+    "Batillaria cumingii",
+    "Blidingia",
+    "Blidingia groenlandica",
+    "CMMEX herbarium of Facultad de Ciencias Marinas of the Universidad Autónoma de Baja California, Baja California, Mexico"
+  ],
+  "resolution": 8.0
+}

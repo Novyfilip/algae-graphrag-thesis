@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "titration"}, {"method_name": "alkalinity anomaly technique"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "alkalinity anomaly technique", "predicate": "STUDIED_WITH", "object": "titration", "confidence": 0.5}]}

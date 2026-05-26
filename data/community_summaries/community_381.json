@@ -1,0 +1,13 @@
+{
+  "community_id": 381,
+  "summary": "This cluster examines shifts in benthic marine algal communities, primarily driven by environmental change and taxonomic refinement. Studies on Dokdo Island documented a decline in species richness and a whitening of rocky shores, with green algae such as *Enteromorpha linza*, *Cladophora* spp., and *Codium fragile* dominating the 45 identified species. Concurrently, research across the tropical and subtropical western Atlantic revealed a dramatic increase in recognized algal diversity over the past half-century, attributed to DNA barcoding, gene sequencing, and the discovery of cryptic species. Both geographic contexts—the isolated Korean island and the broader Atlantic basin—highlight the role of modern molecular methods in redefining species boundaries and understanding ecological degradation.",
+  "n_entities": 3,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "Balliella",
+    "Balliella crouanioides",
+    "Mage Island, southern Japan"
+  ],
+  "resolution": 8.0
+}

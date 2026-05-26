@@ -1,0 +1,12 @@
+{
+  "community_id": 777,
+  "summary": "This cluster examines the diversity and distribution of sub-aerial micro-algae and cyanobacteria colonizing building facades and monuments, with a specific geographic focus on India. The research documented 57 taxa of cyanobacteria and 15 taxa of chlorophyta, identifying key species such as *Chroococcidiopsis kashayi*, *Scytonema geitleri*, *Trentepholia aurea*, and *Chlorococcum infusionum* across various regions. A central finding was that the warm, humid tropical climate of India supports a distinct assemblage of these organisms, contrasting with temperate regions where genera like *Klebsormidium*, *Stichococcus*, and *Gloeocapsa* dominate. The studies further highlighted the ability of these taxa to withstand extreme temperature and desiccation, particularly during summer months, linking their ecological success to specific environmental stressors on built surfaces.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "Gloeocapsa punctata",
+    "Mukteswar temple, Bhubaneswar, Orissa"
+  ],
+  "resolution": 8.0
+}

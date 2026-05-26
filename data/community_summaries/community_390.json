@@ -1,0 +1,13 @@
+{
+  "community_id": 390,
+  "summary": "This cluster of papers investigates phytoplankton community dynamics in Korean coastal waters and reservoirs, with a focus on how environmental factors such as nutrient levels, rainfall, and industrial infrastructure drive species composition and abundance. Diatoms including *Skeletonema costatum*, *Thalassiosira decipiens*, *Chaetoceros debilis*, and *Pseudo-nitzschia seriata* were consistently identified as dominant or abundant taxa across sites such as Gori, Wolseong, Uljin, Younggwang, and Andong Reservoir, with phosphate and nitrogen compounds correlating with their distribution. In Andong Reservoir, cyanobacteria genera *Anabaena*, *Aphanizomenon*, and *Microcystis* competed during high-temperature periods, while around the Wolseong nuclear plant, cooling water discharge reduced standing crops and chlorophyll *a*, particularly during blooms of *Chaetoceros debilis*. The studies collectively span both coastal and freshwater systems on the Korean Peninsula, emphasizing spatial and temporal shifts in phytoplankton community structure linked to anthropogenic and hydrological influences.",
+  "n_entities": 3,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "CTD meter",
+    "Secchi disc",
+    "van-Don water"
+  ],
+  "resolution": 8.0
+}

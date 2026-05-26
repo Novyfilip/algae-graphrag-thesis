@@ -1,0 +1,20 @@
+{
+  "community_id": 215,
+  "summary": "This cluster of papers is unified by a strong focus on the biodiversity, taxonomy, and ecology of marine algae and seagrasses in Korean coastal waters, with particular emphasis on the southern coast and Jeju Island. The research frequently employs morphological analysis alongside molecular markers such as *rbcL*, *cox1*, and *COI-5P* to resolve species boundaries, describe new taxa (e.g., *Haraldiophyllum udoensis*, *Polysiphonia ulleungensis*, *Symphyocladia glabra*), and reassess cryptic diversity within genera like *Sargassum*, *Grateloupia*, and *Polysiphonia*. Ecologically, many studies investigated community structure, vertical zonation, and seasonal biomass dynamics of macroalgae (e.g., *Ecklonia cava*, *Hizikia fusiformis*, *Corallina pilulifera*) and seagrasses (*Zostera marina*), often in relation to environmental drivers such as temperature, salinity, and nutrient availability. The geographic scope is predominantly the Korean Peninsula, including the East Sea, South Sea, Yellow Sea, and Jeju Island, with some comparative work extending to Japan, China, and the Northwest Pacific.",
+  "n_entities": 76,
+  "n_papers": 186,
+  "n_papers_with_summaries": 184,
+  "entity_sample": [
+    "AB096893",
+    "Alexandrium catanella",
+    "Amphidinium spp.",
+    "Asteromenia",
+    "Baekdo Islands",
+    "CLUSTAL X2",
+    "Chaetoceros didymus var. protuberans",
+    "Champia expansa",
+    "Chordaria flagellifor-",
+    "Cladophoropsis herpestica"
+  ],
+  "resolution": 8.0
+}

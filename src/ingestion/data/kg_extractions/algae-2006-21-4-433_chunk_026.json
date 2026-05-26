@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. bipes var. occultatum", "taxonomic_rank": "species"}, {"species_name": "O. latipes", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. bipes var. occultatum", "predicate": "AFFECTS", "object": "O. latipes", "confidence": 1.0}]}

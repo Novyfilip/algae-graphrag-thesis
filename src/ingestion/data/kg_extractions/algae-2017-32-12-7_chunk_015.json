@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "treatment plots"}, {"environment_name": "control plots"}], "markers": [], "applications": [], "relationships": [{"subject": "treatment plots", "predicate": "AFFECTS", "object": "control plots", "confidence": 0.5}]}

@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Eisenia bicyclis", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [{"application_name": "antiviral agent"}], "relationships": [{"subject": "Eisenia bicyclis", "predicate": "PRODUCES", "object": "antiviral agent", "confidence": 0.5}]}

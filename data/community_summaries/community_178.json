@@ -1,0 +1,20 @@
+{
+  "community_id": 178,
+  "summary": "This cluster of research is predominantly centered on the biodiversity, taxonomy, and ecological dynamics of marine and freshwater algae in Korean waters and the broader North Pacific region, including the Bering Sea and White Sea. Key species such as *Pyropia*, *Ecklonia cava*, *Ulva pertusa*, *Sargassum thunbergii*, and *Corallina pilulifera* were frequently studied, with a strong emphasis on community structure, seasonal succession, and biomass variation across intertidal and sublittoral zones. Taxonomic revisions were a recurring theme, utilizing molecular markers (e.g., rbcL, psbA, 18S rDNA) and chemotaxonomic traits like osmolytes to resolve cryptic species and clarify phylogenetic relationships within groups such as Delesseriaceae, Zygnemataceae, and Rhodochortonaceae. The studies also addressed applied aspects, including seaweed aquaculture challenges (e.g., disease resistance, thermo-tolerance), biofouling by *Enteromorpha* and *Ulva*, and the impacts of environmental stressors like nutrient enrichment, heavy metals, and phosphate limitation on phytoplankton and macroalgal communities.",
+  "n_entities": 100,
+  "n_papers": 53,
+  "n_papers_with_summaries": 52,
+  "entity_sample": [
+    "18S",
+    "5.8S rRNA gene analysis",
+    "Acrosiphonia",
+    "Acrosiphonia coalita",
+    "Actinastrum hanteschii var. fluviatile",
+    "Amaknak Island, Unalaska Island, Alaska (AK)",
+    "Barkley Sound, British Columbia",
+    "BlastN search algorithm",
+    "Boldiaceae",
+    "Capsosiphon"
+  ],
+  "resolution": 8.0
+}

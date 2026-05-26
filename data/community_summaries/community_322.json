@@ -1,0 +1,14 @@
+{
+  "community_id": 322,
+  "summary": "This cluster of research focused on the phylogenetic and biochemical characterization of poly-hydroxybutyrate (PHB) as a cellular inclusion in blue-green algae (cyanobacteria). The studies confirmed the presence of PHB in seven species, including *Chlorogloea fritschii*, *Nostoc commune*, and *Oscillatoria decolarata*, with the first documented instance of this compound in *Chlorogloea fritschii*. Using fluorescent staining with Nile blue, researchers identified PHB as a lipid-based energy and carbon storage material, highlighting its potential role in metabolic adaptation to environmental stressors. The findings also provided insights into the taxonomic classification of blue-green algae through metabolic evolution, though the geographic or ecological scope of the sampled species was not specified.",
+  "n_entities": 4,
+  "n_papers": 2,
+  "n_papers_with_summaries": 2,
+  "entity_sample": [
+    "PHB granules",
+    "blue-green algal cells",
+    "observed with NIKON OPTIPHOT with fluorescence attachments at 460 nm",
+    "stained with Nile-blue A solution"
+  ],
+  "resolution": 8.0
+}

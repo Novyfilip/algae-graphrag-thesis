@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Thalassiosira tenera", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "Yokohama coastal"}], "markers": [], "applications": [], "relationships": [{"subject": "Thalassiosira tenera", "predicate": "FOUND_IN", "object": "Yokohama coastal", "confidence": 1.0}]}

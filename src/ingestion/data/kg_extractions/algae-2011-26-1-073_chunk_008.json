@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [{"method_name": "growth rate calculation"}], "environments": [{"environment_name": "pond"}, {"environment_name": "field conditions"}], "markers": [], "applications": [], "relationships": [{"subject": "growth rate calculation", "predicate": "STUDIED_WITH", "object": "field conditions", "confidence": 0.5}]}

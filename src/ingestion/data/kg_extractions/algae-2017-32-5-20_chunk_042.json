@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "P. micans", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "P. micans", "predicate": "AFFECTS", "object": "light intensity", "confidence": 1.0}]}

@@ -1,0 +1,13 @@
+{
+  "community_id": 506,
+  "summary": "This cluster of research focused on the biological activities and therapeutic potential of sulfated polysaccharides (SPs) extracted from various seaweed species, including both red and brown algae. Key findings consistently demonstrated that these compounds possess significant anticoagulant, anti-inflammatory, antiviral, antioxidant, and immunomodulatory properties, linking their complex structural characteristics to specific health benefits. The studies collectively examined extraction and purification methods while identifying commercial challenges, such as structural variability and scalability, that hinder further development. The geographic and ecological scope was broad, encompassing multiple marine environments and seaweed species, without a specific regional focus.",
+  "n_entities": 3,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "chromatographic techniques",
+    "fucoidanases",
+    "sulfatases"
+  ],
+  "resolution": 8.0
+}

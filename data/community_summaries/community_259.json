@@ -1,0 +1,20 @@
+{
+  "community_id": 259,
+  "summary": "This cluster focuses on the biodiversity, taxonomy, and ecological adaptation of algae across diverse habitats in Asia, particularly India and Korea. Key species include euglenophytes (e.g., *Phacus*, *Trachelomonas*), the parasitic *Cephaleuros* spp., the mangrove-associated *Bostrychia anomala*, and the freshwater red alga *Caloglossa beccarii*, with new host plants and geographic records documented in India. Studies employed GPS-based field surveys, morphological comparisons, and genetic analysis to characterize species, revealing patterns such as unique cell-death mechanisms in *B. anomala* facilitating propagation and correlations between aerial algae (e.g., *Aphanocapsa rivularis*) and environmental factors like water distance on Korean stoneworks. The geographic scope spans stagnant waters, paddy fields, riverine streams, and cultural heritage sites, emphasizing the role of microhabitats and anthropogenic landscapes in shaping algal distribution.",
+  "n_entities": 18,
+  "n_papers": 5,
+  "n_papers_with_summaries": 5,
+  "entity_sample": [
+    "Cephaleuros",
+    "Cephaleuros parasiticus",
+    "Cephaleuros solutus",
+    "Cephaleuros virescens",
+    "Chennai, Tamiladu, India",
+    "Hadar Park, Munnar, Kerala, India",
+    "Kerala, India",
+    "Polyalthia longifolia",
+    "Syzygium aromaticum",
+    "Tamil Nadu, India"
+  ],
+  "resolution": 8.0
+}

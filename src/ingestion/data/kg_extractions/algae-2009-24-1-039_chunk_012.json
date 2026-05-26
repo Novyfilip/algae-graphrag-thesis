@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "Spirogyra varians", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [{"environment_name": "laboratory condition"}], "markers": [], "applications": [], "relationships": [{"subject": "Spirogyra varians", "predicate": "STUDIED_WITH", "object": "laboratory condition", "confidence": 1.0}]}

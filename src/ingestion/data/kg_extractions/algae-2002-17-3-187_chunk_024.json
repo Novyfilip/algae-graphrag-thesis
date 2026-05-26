@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [], "methods": [], "environments": [{"environment_name": "Korean coastal zone"}], "markers": [], "applications": [{"application_name": "sustainable aquaculture"}], "relationships": [{"subject": "sustainable aquaculture", "predicate": "AFFECTS", "object": "Korean coastal zone", "confidence": 0.5}]}

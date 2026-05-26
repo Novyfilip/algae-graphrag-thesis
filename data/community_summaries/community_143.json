@@ -1,0 +1,20 @@
+{
+  "community_id": 143,
+  "summary": "This cluster of papers is unified by a strong focus on the taxonomy, biodiversity, and biogeography of marine macroalgae, particularly red and brown algae, across the Northwest Pacific region, with a heavy emphasis on Korean, Russian (Kamchatka, Kurile Islands, Sea of Okhotsk), and Japanese coastal waters. Key findings include the discovery and molecular characterization of numerous new species and cryptic lineages, such as *Tauya basicrassa*, *Alaria paradisea*, *Pterocladiella capillacea*, and multiple *Polysiphonia*, *Herposiphonia*, and *Hypoglossum* species, often resolved through rbcL, cox3, and COI-5P sequencing. The research also addresses applied aspects of algal biology, including cultivation performance (e.g., *Saccharina japonica* and *Eucheuma serra*), bioactive compound extraction (fucoidans from *Undaria pinnatifida*), and physiological responses to environmental stressors like temperature, salinity, and emersion, as seen in *Gracilaria* and *Fucus* species. Geographically, the studies span from the Arctic-influenced White Sea and Bering Sea to the temperate and subtropical waters of Korea, Japan, and the tropical western Atlantic, with a recurring pattern of high endemism and species richness in island and archipelago ecosystems.",
+  "n_entities": 121,
+  "n_papers": 115,
+  "n_papers_with_summaries": 115,
+  "entity_sample": [
+    "Acinetospora crintia",
+    "Acrochaetium canariense",
+    "Aglaothamnion byssoides",
+    "Antithamnion glanduliferum",
+    "Asamushi near Awomori",
+    "Asterocladon",
+    "Asteronema",
+    "Au. codit",
+    "Au. elegans",
+    "Au. pacifica"
+  ],
+  "resolution": 8.0
+}

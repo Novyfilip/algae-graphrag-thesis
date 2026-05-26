@@ -1,0 +1,20 @@
+{
+  "community_id": 95,
+  "summary": "This cluster of papers is unified by a strong geographic focus on Korean coastal and inland waters, with significant attention to the ecological dynamics, physiological responses, and biotechnological potential of diverse algal groups. Key connecting themes include the impact of environmental stressors such as salinity, temperature, and nutrient availability on growth, reproduction, and biochemical composition, particularly in species like *Pyropia yezoensis*, *Ulva pertusa*, *Haematococcus pluvialis*, and various dinoflagellates and diatoms. Several studies investigated the production of high-value compounds—such as astaxanthin, omega-3 fatty acids, and antioxidants—from microalgae and macroalgae, often with applications in aquaculture, nutraceuticals, and biofuel production. The research also encompassed harmful algal bloom dynamics, including the distribution and ecophysiology of red-tide forming dinoflagellates like *Cochlodinium polykrikoides* and *Alexandrium* species, alongside community-level surveys of phytoplankton and benthic algae across Korean estuaries, dam lakes, and coastal zones.",
+  "n_entities": 160,
+  "n_papers": 139,
+  "n_papers_with_summaries": 136,
+  "entity_sample": [
+    "18S rRNA gene sequence phylogeny",
+    "A. minutum",
+    "ABA",
+    "ABA addition during a single-stage cultivation",
+    "ANOVAs",
+    "AOAC Method 920.39",
+    "BG11 medium",
+    "Bligh and Dyer's method",
+    "CR-MAL07",
+    "CR-MAL08-2"
+  ],
+  "resolution": 8.0
+}

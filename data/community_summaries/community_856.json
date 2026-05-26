@@ -1,0 +1,12 @@
+{
+  "community_id": 856,
+  "summary": "This cluster focuses on the taxonomic revision and biodiversity assessment of red algae, specifically within the genus *Centroceras* (Ceramiaceae, Rhodophyta), using molecular-assisted approaches. The research employed COI-5P and rbcL barcode markers to resolve cryptic species and morphological ambiguities, leading to the identification of two novel species, *C. arcii* and *C. illaqueans*, in the western Atlantic, particularly around Bermuda. Key findings include the discovery that *C. arcii* exhibits cryptic morphology while *C. illaqueans* is distinguished by unique nodal spines, highlighting the limitations of traditional morphology-based taxonomy for this genus. The geographic scope is centered on the western Atlantic and Bermuda, expanding the known distribution of *Centroceras* and underscoring the region’s significance for understanding the evolution and biogeography of the Ceramiaceae family.",
+  "n_entities": 2,
+  "n_papers": 1,
+  "n_papers_with_summaries": 1,
+  "entity_sample": [
+    "RuBisCO operon",
+    "additional sequencing"
+  ],
+  "resolution": 8.0
+}

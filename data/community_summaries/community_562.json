@@ -1,0 +1,12 @@
+{
+  "community_id": 562,
+  "summary": "This cluster is united by the investigation of bioactive compounds from marine macroalgae, with a strong emphasis on antioxidant properties and species discovery. Research on brown seaweeds from Korean waters, specifically *Sargassum ringgoldianum subsp. coreanum* and *Ecklonia cava*, identified and characterized the compounds loliolide and dieckol, respectively, demonstrating their protective effects against oxidative stress in cellular assays. A separate study expanded the taxonomic and geographic scope by describing a novel red algal species, *Erythrolobus australicus sp. nov.*, from Australian mangrove ecosystems, using molecular phylogeny and chemotaxonomy to identify key compounds like floridoside. Collectively, these papers highlight a focus on the chemical characterization and biological activity of algal metabolites, spanning both the Pacific and Australian regions.",
+  "n_entities": 2,
+  "n_papers": 3,
+  "n_papers_with_summaries": 3,
+  "entity_sample": [
+    "2′,7′-dichlorodihydrofluorescein",
+    "fluorescence detection"
+  ],
+  "resolution": 8.0
+}

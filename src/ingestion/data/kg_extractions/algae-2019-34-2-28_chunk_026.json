@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "H. minima", "taxonomic_rank": "species"}], "compounds": [], "methods": [{"method_name": "SEM observation"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "H. minima", "predicate": "STUDIED_WITH", "object": "SEM observation", "confidence": 1.0}]}

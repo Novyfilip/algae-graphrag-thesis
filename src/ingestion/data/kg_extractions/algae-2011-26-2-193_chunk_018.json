@@ -1,0 +1,1 @@
+{"taxa": [{"species_name": "F. spiralis", "taxonomic_rank": "species"}, {"species_name": "P. canaliculata", "taxonomic_rank": "species"}], "compounds": [], "methods": [], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "F. spiralis", "predicate": "AFFECTS", "object": "P. canaliculata", "confidence": 0.5}]}

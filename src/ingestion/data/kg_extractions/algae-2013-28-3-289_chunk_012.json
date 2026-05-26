@@ -1,0 +1,1 @@
+{"taxa": [], "compounds": [{"compound_name": "microcystin"}], "methods": [{"method_name": "glutaraldehyde cross-link method"}, {"method_name": "dialysis"}], "environments": [], "markers": [], "applications": [], "relationships": [{"subject": "glutaraldehyde cross-link method", "predicate": "STUDIED_WITH", "object": "microcystin", "confidence": 1.0}]}
